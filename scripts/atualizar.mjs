@@ -13,8 +13,10 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const RAIZ = resolve(__dirname, "..");
 const CAMINHO_FONTES = resolve(RAIZ, "fontes.json");
 const CAMINHO_DADOS = resolve(RAIZ, "dados", "noticias.json");
+const CAMINHO_DESCARTADOS = resolve(RAIZ, "dados", "descartados.json");
 
 const LIMITE_TOTAL = 800;          // teto de itens guardados (os mais recentes)
+const LIMITE_DESCARTADOS = 3000;   // teto do registro de descartados (so id/titulo/data)
 const RESUMO_MAX = 320;            // corte do resumo em caracteres
 
 // ---------- utilitarios ----------
@@ -175,24 +177,31 @@ export function coletarScrape(html, fonte) {
 // ---------- tagging ----------
 
 const TEMAS_PERMITIDOS = [
-  "M&A", "Fundraising", "IPO/Mercado de Capitais", "Juros/Macro",
-  "Private Equity", "Venture Capital", "Crédito/Dívida", "Governança",
-  "Exit/Desinvestimento", "Regulação", "Agro",
+  "Private Equity", "Venture Capital", "M&A", "Dívida/Debêntures",
+  "Curva de Juros", "Economia Real", "RJ/EJ", "Fundraising",
+  "IPO/Mercado de Capitais", "Regulação",
 ];
 
 const REGRAS_TEMA = {
   "M&A": /\b(aquisi[çc][ãa]o|adquir|fus[ãa]o|incorpora[çc][ãa]o|comprou|compra de|M&A|fus[õo]es e aquisi)/i,
-  "Fundraising": /\b(capta[çc][ãa]o|captou|levantou|aporte|rodada|funding|closing|novo fundo|fundo de R\$)/i,
+  "Private Equity": /\b(private equity|gestora de|fundo de private|buyout|participa[çc][ãa]o)/i,
+  "Venture Capital": /\b(venture capital|\bVC\b|startup|early[- ]stage|s[ée]rie [A-E]\b|rodada)/i,
+  "Dívida/Debêntures": /\b(deb[êe]nture|CRI\b|CRA\b|CDB|emiss[ãa]o de d[íi]vida|emiss[ãa]o de|bond|nota promiss[óo]ria|capta[çc][ãa]o via d[íi]vida)/i,
+  "Curva de Juros": /\b(Selic|Copom|curva de juros|juros futur|taxa b[áa]sica|\bDI\b|Treasury|yield)/i,
+  "Economia Real": /\b(desemprego|emprego|\bPIB\b|infla[çc][ãa]o|IPCA|endividamento|inadimpl[êe]ncia|renda|varejo|atividade econ|produ[çc][ãa]o industrial|Caged)/i,
+  "RJ/EJ": /\b(recupera[çc][ãa]o judicial|recupera[çc][ãa]o extrajudicial|\bRJ\b|fal[êe]ncia|reestrutura[çc][ãa]o de d[íi]vida)/i,
+  "Fundraising": /\b(capta[çc][ãa]o|captou|levantou|aporte|funding|closing|novo fundo|fundo de R\$)/i,
   "IPO/Mercado de Capitais": /\b(IPO|oferta (p[úu]blica|inicial)|follow-?on|abertura de capital|estreia na bolsa|B3\b)/i,
-  "Juros/Macro": /\b(Selic|Copom|juros|IPCA|infla[çc][ãa]o|c[âa]mbio|d[óo]lar|PIB|Banco Central)/i,
-  "Private Equity": /\b(private equity|gestora de|fundo de private|buyout)/i,
-  "Venture Capital": /\b(venture capital|\bVC\b|startup|early[- ]stage|s[ée]rie [A-E]\b)/i,
-  "Crédito/Dívida": /\b(deb[êe]nture|CRI\b|CRA\b|CDB|d[íi]vida|bond|emiss[ãa]o de|recupera[çc][ãa]o judicial)/i,
-  "Governança": /\b(conselho|governan[çc]a|CEO|CFO|acionistas|assembleia)/i,
-  "Exit/Desinvestimento": /\b(desinvest|venda de participa|sa[íi]da do fundo|exit\b|alien[aou])/i,
-  "Regulação": /\b(CVM|CADE|Anbima|regula|BACEN|marco legal)/i,
-  "Agro": /\b(agro|agroneg[óo]cio|safra|fertilizante|commodit|pecu[áa]ria|gr[ãa]os)/i,
+  "Regulação": /\b(CVM|CADE|Anbima|BACEN|Banco Central|regula|marco legal)/i,
 };
+
+export function normalizarTags(obj = {}) {
+  return {
+    tags_tema: (obj.tags_tema || []).filter((t) => TEMAS_PERMITIDOS.includes(t)).slice(0, 4),
+    tags_empresa: (obj.tags_empresa || []).map((s) => String(s).trim()).filter(Boolean).slice(0, 5),
+    relevante: obj.relevante !== false,   // default: relevante, salvo se o modelo disser false
+  };
+}
 
 export function tagsPorPalavraChave(item) {
   const texto = `${item.manchete} ${item.resumo}`;
@@ -200,17 +209,23 @@ export function tagsPorPalavraChave(item) {
   for (const [tema, re] of Object.entries(REGRAS_TEMA)) {
     if (re.test(texto)) temas.push(tema);
   }
-  // company tags por palavra-chave sao pouco confiaveis -> ficam vazias no modo keyword
-  return { tags_tema: temas.slice(0, 4), tags_empresa: [] };
+  // modo palavra-chave nao julga relevancia nem extrai empresas de forma confiavel
+  return { tags_tema: temas.slice(0, 4), tags_empresa: [], relevante: true };
 }
 
-async function tagsPorLLM(item) {
+async function tagsPorLLM(item, exemplos = "") {
   const key = process.env.ANTHROPIC_API_KEY;
   const prompt =
-    `Voce classifica noticias de negocios/PE no Brasil.\n` +
-    `TEMAS permitidos (use apenas estes, 0 a 4): ${TEMAS_PERMITIDOS.join(", ")}.\n` +
-    `EMPRESAS: extraia nomes de empresas/gestoras/fundos citados (0 a 5). Nomes proprios, sem generico.\n` +
-    `Responda SOMENTE JSON valido, sem markdown: {"tags_tema":[],"tags_empresa":[]}\n\n` +
+    `Você classifica notícias para um feed de private equity no Brasil.\n\n` +
+    `RELEVÂNCIA — marque "relevante": true SOMENTE se a notícia tratar de algum destes universos:\n` +
+    `Private Equity; Venture Capital; Fusões e Aquisições (M&A); emissões de dívida e debêntures; ` +
+    `curva/mercado de juros; dados de economia real (desemprego, endividamento, inadimplência, PIB, inflação, atividade); ` +
+    `recuperações judiciais/extrajudiciais e reestruturações; captação de fundos; ofertas e mercado de capitais; regulação do setor financeiro.\n` +
+    `Marque "relevante": false para o que estiver fora desse universo (cultura, esporte, política geral, tragédias, tecnologia de consumo, colunas de opinião sem fato econômico), mesmo sendo notícia real.\n\n` +
+    `TEMAS — use apenas destes, de 0 a 4, e só se relevante: ${TEMAS_PERMITIDOS.join("; ")}.\n` +
+    `EMPRESAS — nomes próprios de empresas/gestoras/fundos citados (0 a 5), sem termos genéricos.\n` +
+    exemplos +
+    `Responda SOMENTE JSON válido, sem markdown: {"relevante":true,"tags_tema":[],"tags_empresa":[]}\n\n` +
     `Manchete: ${item.manchete}\nResumo: ${item.resumo}`;
 
   const resp = await fetch("https://api.anthropic.com/v1/messages", {
@@ -229,18 +244,14 @@ async function tagsPorLLM(item) {
   if (!resp.ok) throw new Error(`API tags HTTP ${resp.status}`);
   const data = await resp.json();
   const txt = (data.content || []).filter((b) => b.type === "text").map((b) => b.text).join("").trim();
-  const limpo = txt.replace(/```json|```/g, "").trim();
-  const obj = JSON.parse(limpo);
-  return {
-    tags_tema: (obj.tags_tema || []).filter((t) => TEMAS_PERMITIDOS.includes(t)).slice(0, 4),
-    tags_empresa: (obj.tags_empresa || []).map((s) => String(s).trim()).filter(Boolean).slice(0, 5),
-  };
+  const obj = JSON.parse(txt.replace(/```json|```/g, "").trim());
+  return normalizarTags(obj);
 }
 
-async function gerarTags(item, usarLLM) {
+async function gerarTags(item, usarLLM, exemplos = "") {
   if (usarLLM) {
     try {
-      return await tagsPorLLM(item);
+      return await tagsPorLLM(item, exemplos);
     } catch (e) {
       console.warn(`  ! tag LLM falhou (${e.message}); usando palavra-chave`);
     }
@@ -263,6 +274,15 @@ async function main() {
   const usarLLM = !!process.env.ANTHROPIC_API_KEY;
   console.log(`Modo de tags: ${usarLLM ? "LLM (Claude)" : "palavra-chave"}`);
 
+  // registro de descartados: so {id, manchete, data} — evita re-julgar a mesma URL
+  let descartados = [];
+  try {
+    descartados = JSON.parse(await readFile(CAMINHO_DESCARTADOS, "utf8"));
+  } catch {
+    descartados = [];
+  }
+  const idsDescartados = new Set(descartados.map((x) => x.id));
+
   const novos = [];
   for (const fonte of fontes) {
     try {
@@ -274,13 +294,19 @@ async function main() {
       for (const it of brutos) {
         if (!urlPermitida(it.url, fonte.excluir_url)) continue;
         const id = idDe(it.url);
-        if (idsExistentes.has(id)) continue;
+        if (idsExistentes.has(id) || idsDescartados.has(id)) continue;   // ja no feed ou ja descartado
         idsExistentes.add(id);
         if (!it.resumo || it.resumo.length < 30) {
           const d = await buscarResumoArtigo(it.url);   // abre a materia e pega a meta-descricao
           if (d) it.resumo = d;
         }
         const tags = await gerarTags(it, usarLLM);
+        if (tags.relevante === false) {
+          // fora de tema: guarda so a impressao digital, nao entra no feed
+          descartados.push({ id, manchete: it.manchete, data: it.data });
+          idsDescartados.add(id);
+          continue;
+        }
         novos.push({ id, ...it, url: it.url, ...tags });
       }
     } catch (e) {
@@ -288,28 +314,60 @@ async function main() {
     }
   }
 
-  console.log(`\n${novos.length} novos itens no total`);
+  console.log(`\n${novos.length} novos itens coletados`);
 
   const antes = existentes.length;
-  const todos = [...novos, ...existentes]
-    .filter((x) => urlPermitida(x.url))   // limpa lixo/seed ja gravado
+  const base = [...novos, ...existentes].filter((x) => urlPermitida(x.url));
+  const purgados = existentes.filter((x) => !urlPermitida(x.url)).length;
+  if (purgados) console.log(`Limpeza: ${purgados} item(ns) antigos removidos (URL/publicidade/seed)`);
+
+  // backfill capado (30/execucao): resumo faltante + (re)avaliacao de relevancia/tags
+  // em itens antigos que ainda nao tem veredito. Assim a taxonomia nova vale para a base velha.
+  let orcamento = 30, resumoAdd = 0, reavaliados = 0;
+  for (const x of base) {
+    if (orcamento <= 0) break;
+    let mexeu = false;
+    if ((!x.resumo || x.resumo.length < 30) && !x.url.includes("exemplo.com.br")) {
+      const d = await buscarResumoArtigo(x.url);
+      if (d) { x.resumo = d; resumoAdd++; mexeu = true; }
+    }
+    if (usarLLM && x.relevante === undefined) {
+      const t = await gerarTags(x, true);
+      x.tags_tema = t.tags_tema; x.tags_empresa = t.tags_empresa; x.relevante = t.relevante;
+      reavaliados++; mexeu = true;
+    }
+    if (mexeu) orcamento--;
+  }
+  if (resumoAdd) console.log(`Resumo preenchido em ${resumoAdd} item(ns) antigos`);
+  if (reavaliados) console.log(`Relevancia/tags reavaliadas em ${reavaliados} item(ns) antigos`);
+
+  // separa: feed = so relevante; irrelevantes viram impressao digital no ledger
+  const relevantes = [];
+  for (const x of base) {
+    if (x.relevante === false) {
+      if (!idsDescartados.has(x.id)) {
+        descartados.push({ id: x.id, manchete: x.manchete, data: x.data });
+        idsDescartados.add(x.id);
+      }
+    } else {
+      relevantes.push(x);
+    }
+  }
+  const movidos = base.length - relevantes.length;
+  if (usarLLM && movidos) console.log(`${movidos} item(ns) fora de tema movidos para o registro de descartados`);
+
+  const todos = relevantes
     .sort((a, b) => new Date(b.data) - new Date(a.data))
     .slice(0, LIMITE_TOTAL);
-  const purgados = [...existentes].filter((x) => !urlPermitida(x.url)).length;
-  console.log(`Limpeza: ${purgados} item(ns) antigos removidos da base (${antes} -> ${antes - purgados})`);
 
-  // backfill: preenche resumo de itens antigos que ficaram sem (ate 25 por execucao)
-  let enriquecidos = 0;
-  for (const x of todos) {
-    if (enriquecidos >= 25) break;
-    if ((x.resumo && x.resumo.length >= 30) || x.url.includes("exemplo.com.br")) continue;
-    const d = await buscarResumoArtigo(x.url);
-    if (d) { x.resumo = d; enriquecidos++; }
-  }
-  if (enriquecidos) console.log(`Resumo preenchido em ${enriquecidos} item(ns) antigos`);
+  // poda o ledger de descartados (mantem os mais recentes)
+  const ledger = descartados
+    .sort((a, b) => new Date(b.data) - new Date(a.data))
+    .slice(0, LIMITE_DESCARTADOS);
 
   await writeFile(CAMINHO_DADOS, JSON.stringify(todos, null, 2) + "\n", "utf8");
-  console.log(`Gravado ${todos.length} itens em dados/noticias.json`);
+  await writeFile(CAMINHO_DESCARTADOS, JSON.stringify(ledger, null, 2) + "\n", "utf8");
+  console.log(`Gravado ${todos.length} itens em noticias.json | ${ledger.length} no registro de descartados`);
 }
 
 const executadoDireto = process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url);
