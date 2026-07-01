@@ -155,8 +155,7 @@
     color: inherit;
     display: flex;
     flex-direction: column;
-    height: 232px;             /* padroniza o tamanho dos quadros */
-    overflow: hidden;
+    min-height: 200px;         /* piso uniforme; cresce se precisar */
     transition: transform 0.14s ease, box-shadow 0.14s ease;
   }
   .card:active { transform: scale(0.992); }
@@ -187,11 +186,7 @@
     line-height: 1.28;
     letter-spacing: -0.01em;
     margin: 0 0 6px;
-    color: var(--ink);
-    display: -webkit-box;
-    -webkit-line-clamp: 2;      /* no maximo 2 linhas */
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    color: var(--ink);          /* manchete completa, sem corte */
   }
   .card__summary {
     font-size: 14px;
@@ -199,26 +194,25 @@
     color: var(--ink-soft);
     margin: 0;
     display: -webkit-box;
-    -webkit-line-clamp: 3;      /* no maximo 3 linhas */
+    -webkit-line-clamp: 4;      /* resumo ainda limitado, para nao dominar */
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
 
-  .card__footer {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-top: auto;           /* fixa o rodape na base do card */
-    padding-top: 11px;
-  }
   .tags {
     display: flex;
+    flex-wrap: wrap;            /* varias linhas se houver muitas tags */
     gap: 7px;
-    overflow: hidden;
-    flex-wrap: nowrap;          /* uma linha so, corta o excesso */
-    flex: 1 1 auto;
-    min-width: 0;
+    margin-top: 12px;          /* sobem, logo abaixo do resumo */
     align-items: center;
+  }
+  .card__actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: auto;          /* botoes ancorados na base */
+    padding-top: 12px;
   }
   .wa-btn {
     flex: 0 0 auto;
@@ -310,16 +304,14 @@
     * { transition: none !important; }
   }
 
-  /* no celular: caixa maior, ~uma por tela, com resumo mais longo para preencher */
+  /* no celular: caixa alta (~uma por tela) que cresce para caber manchete e tags */
   @media (max-width: 600px) {
     .card {
-      height: 68vh;
-      min-height: 360px;
-      max-height: 560px;
+      min-height: 62vh;
       padding: 17px 17px 15px;
     }
-    .card__title { -webkit-line-clamp: 3; font-size: 19px; }
-    .card__summary { -webkit-line-clamp: 7; font-size: 14.5px; }
+    .card__title { font-size: 19.5px; }
+    .card__summary { -webkit-line-clamp: 5; font-size: 14.5px; }
   }
 
   :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
@@ -442,8 +434,8 @@
           </div>
           <h2 class="card__title">${escaparHtml(item.manchete)}</h2>
           ${item.resumo ? `<p class="card__summary">${escaparHtml(item.resumo)}</p>` : ""}
-          <div class="card__footer">
-            <div class="tags">${temas}${empresas}</div>${votos}
+          <div class="tags">${temas}${empresas}</div>
+          <div class="card__actions">${votos}
             <button class="wa-btn" type="button" data-wa="${escaparHtml(waUrl)}" aria-label="Enviar por WhatsApp" title="Enviar por WhatsApp">${WA_ICON}</button>
           </div>
         </a>
