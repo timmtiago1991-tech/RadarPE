@@ -56,6 +56,31 @@ function cortarResumo(t = "") {
   return s.slice(0, RESUMO_MAX).replace(/\s+\S*$/, "") + "…";
 }
 
+// listas de exclusao: publicidade, paginas de autor/tema, navegacao, seed antigo
+const EXCLUIR_URL_GLOBAL = [
+  "/brand-stories/", "/autor/", "/noticias-sobre/", "/tag/", "/categoria/",
+  "apresentado-por", "patrocinado", "publieditorial", "publicidade", "/branded",
+  "exemplo.com.br",
+];
+
+function urlPermitida(url, extras = []) {
+  const u = (url || "").toLowerCase();
+  return ![...EXCLUIR_URL_GLOBAL, ...extras].some((p) => u.includes(p.toLowerCase()));
+}
+
+// heuristica p/ scrape: materia real tem >=2 segmentos e slug longo (>=2 hifens);
+// derruba paginas de nav/autor/tema que escapem da denylist
+function pareceArtigo(url) {
+  try {
+    const segs = new URL(url).pathname.split("/").filter(Boolean);
+    if (segs.length < 2) return false;
+    const slug = segs[segs.length - 1];
+    return (slug.match(/-/g) || []).length >= 2;
+  } catch {
+    return false;
+  }
+}
+
 async function baixar(url) {
   const resp = await fetch(url, {
     headers: {
@@ -107,6 +132,8 @@ export function coletarScrape(html, fonte) {
     let href = $link.attr("href") || $el.attr("href") || "";
     if (!href) return;
     try { href = new URL(href, fonte.url).toString(); } catch { return; }
+    if (!urlPermitida(href, fonte.excluir_url)) return;   // fora: publicidade/autor/tema
+    if (!pareceArtigo(href)) return;                       // fora: nav/paginas curtas
 
     const titulo = limparTexto(
       sel.titulo ? $el.find(sel.titulo).first().text() : ($link.text() || $el.find("h1,h2,h3").first().text())
@@ -222,6 +249,7 @@ async function main() {
       console.log(`  ${brutos.length} itens coletados`);
 
       for (const it of brutos) {
+        if (!urlPermitida(it.url, fonte.excluir_url)) continue;
         const id = idDe(it.url);
         if (idsExistentes.has(id)) continue;
         idsExistentes.add(id);
@@ -235,9 +263,13 @@ async function main() {
 
   console.log(`\n${novos.length} novos itens no total`);
 
+  const antes = existentes.length;
   const todos = [...novos, ...existentes]
+    .filter((x) => urlPermitida(x.url))   // limpa lixo/seed ja gravado
     .sort((a, b) => new Date(b.data) - new Date(a.data))
     .slice(0, LIMITE_TOTAL);
+  const purgados = [...existentes].filter((x) => !urlPermitida(x.url)).length;
+  console.log(`Limpeza: ${purgados} item(ns) antigos removidos da base (${antes} -> ${antes - purgados})`);
 
   await writeFile(CAMINHO_DADOS, JSON.stringify(todos, null, 2) + "\n", "utf8");
   console.log(`Gravado ${todos.length} itens em dados/noticias.json`);
