@@ -23,5 +23,18 @@
       "link": ""
     },
     "obs": "Seletores de scrape SAO PLACEHOLDER — ajustar contra o DOM real do NeoFeed (ver README)."
+  },
+  {
+    "nome": "AgFeed",
+    "url": "https://agfeed.com.br/",
+    "metodo": "scrape",
+    "cor": "#69BE48",
+    "seletores": {
+      "item": "article a[href*='/']",
+      "titulo": "",
+      "resumo": "",
+      "link": ""
+    },
+    "obs": "Mesma plataforma do NeoFeed; filtro de relevancia deve manter deals/agro-capital e descartar noticia operacional de safra."
   }
 ]
