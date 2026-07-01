@@ -14,6 +14,7 @@ const RAIZ = resolve(__dirname, "..");
 const CAMINHO_FONTES = resolve(RAIZ, "fontes.json");
 const CAMINHO_DADOS = resolve(RAIZ, "dados", "noticias.json");
 const CAMINHO_DESCARTADOS = resolve(RAIZ, "dados", "descartados.json");
+const CAMINHO_CONFIG = resolve(RAIZ, "config.json");
 
 const LIMITE_TOTAL = 800;          // teto de itens guardados (os mais recentes)
 const LIMITE_DESCARTADOS = 3000;   // teto do registro de descartados (so id/titulo/data)
@@ -259,6 +260,46 @@ async function gerarTags(item, usarLLM, exemplos = "") {
   return tagsPorPalavraChave(item);
 }
 
+// ---------- feedback dos leitores (votos no Firebase) ----------
+
+async function lerVotos(dbUrl) {
+  try {
+    const resp = await fetch(`${dbUrl}/votos.json`);
+    if (!resp.ok) return {};
+    const data = (await resp.json()) || {};
+    const agg = {};
+    for (const [id, recs] of Object.entries(data)) {
+      let rel = 0, irr = 0;
+      for (const k in recs) {
+        const v = recs[k] && recs[k].v;
+        if (v > 0) rel++; else if (v < 0) irr++;
+      }
+      agg[id] = { rel, irr };
+    }
+    return agg;
+  } catch (e) {
+    console.warn(`  ! leitura de votos falhou: ${e.message}`);
+    return {};
+  }
+}
+
+export function montarExemplos(agg, mapaTitulos, limite = 6) {
+  const rel = [], irr = [];
+  for (const [id, v] of Object.entries(agg)) {
+    const t = mapaTitulos.get(id);
+    if (!t) continue;
+    if (v.rel > v.irr) rel.push({ t, n: v.rel - v.irr });
+    else if (v.irr > v.rel) irr.push({ t, n: v.irr - v.rel });
+  }
+  rel.sort((a, b) => b.n - a.n);
+  irr.sort((a, b) => b.n - a.n);
+  if (!rel.length && !irr.length) return "";
+  let s = `\nEXEMPLOS rotulados pelos leitores (referencia do gosto do grupo):\n`;
+  if (rel.length) s += `Relevantes:\n${rel.slice(0, limite).map((x) => `- ${x.t}`).join("\n")}\n`;
+  if (irr.length) s += `Fora de tema:\n${irr.slice(0, limite).map((x) => `- ${x.t}`).join("\n")}\n`;
+  return s + "\n";
+}
+
 // ---------- principal ----------
 
 async function main() {
@@ -283,6 +324,22 @@ async function main() {
   }
   const idsDescartados = new Set(descartados.map((x) => x.id));
 
+  // feedback: le votos do Firebase (se configurado) e monta exemplos p/ o prompt
+  let exemplos = "";
+  try {
+    const cfg = JSON.parse(await readFile(CAMINHO_CONFIG, "utf8"));
+    const dbUrl = (cfg.firebaseDbUrl || "").replace(/\/+$/, "");
+    if (dbUrl && usarLLM) {
+      const agg = await lerVotos(dbUrl);
+      const mapa = new Map();
+      for (const x of existentes) mapa.set(x.id, x.manchete);
+      for (const x of descartados) mapa.set(x.id, x.manchete);
+      exemplos = montarExemplos(agg, mapa);
+      const n = Object.keys(agg).length;
+      if (n) console.log(`Feedback: ${n} notícia(s) votada(s) aplicadas ao filtro`);
+    }
+  } catch { /* sem config = feedback desligado */ }
+
   const novos = [];
   for (const fonte of fontes) {
     try {
@@ -300,7 +357,7 @@ async function main() {
           const d = await buscarResumoArtigo(it.url);   // abre a materia e pega a meta-descricao
           if (d) it.resumo = d;
         }
-        const tags = await gerarTags(it, usarLLM);
+        const tags = await gerarTags(it, usarLLM, exemplos);
         if (tags.relevante === false) {
           // fora de tema: guarda so a impressao digital, nao entra no feed
           descartados.push({ id, manchete: it.manchete, data: it.data });
@@ -332,7 +389,7 @@ async function main() {
       if (d) { x.resumo = d; resumoAdd++; mexeu = true; }
     }
     if (usarLLM && x.relevante === undefined) {
-      const t = await gerarTags(x, true);
+      const t = await gerarTags(x, true, exemplos);
       x.tags_tema = t.tags_tema; x.tags_empresa = t.tags_empresa; x.relevante = t.relevante;
       reavaliados++; mexeu = true;
     }
