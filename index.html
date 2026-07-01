@@ -155,7 +155,7 @@
     color: inherit;
     display: flex;
     flex-direction: column;
-    height: 212px;              /* padroniza o tamanho dos quadros */
+    height: 232px;             /* padroniza o tamanho dos quadros */
     overflow: hidden;
     transition: transform 0.14s ease, box-shadow 0.14s ease;
   }
@@ -224,19 +224,18 @@
     flex: 0 0 auto;
     width: 34px;
     height: 34px;
-    border-radius: 50%;
-    border: 1px solid var(--line);
-    background: #fff;
+    border: none;
+    background: none;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: #1faf52;             /* verde WhatsApp */
+    color: var(--blue);        /* azul Vinci */
     padding: 0;
-    transition: background 0.12s ease, border-color 0.12s ease;
+    transition: opacity 0.12s ease, transform 0.12s ease;
   }
-  .wa-btn svg { width: 18px; height: 18px; display: block; }
-  .wa-btn:hover { background: #eafff1; border-color: #1faf52; }
+  .wa-btn svg { width: 21px; height: 21px; display: block; }
+  .wa-btn:hover { opacity: 0.65; transform: translateX(1px); }
 
   .vote-btn {
     flex: 0 0 auto;
@@ -310,6 +309,19 @@
   @media (prefers-reduced-motion: reduce) {
     * { transition: none !important; }
   }
+
+  /* no celular: caixa maior, ~uma por tela, com resumo mais longo para preencher */
+  @media (max-width: 600px) {
+    .card {
+      height: 68vh;
+      min-height: 360px;
+      max-height: 560px;
+      padding: 17px 17px 15px;
+    }
+    .card__title { -webkit-line-clamp: 3; font-size: 19px; }
+    .card__summary { -webkit-line-clamp: 7; font-size: 14.5px; }
+  }
+
   :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 </style>
 </head>
@@ -403,7 +415,7 @@
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  const WA_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.15-1.7-.84-1.96-.94-.26-.1-.45-.15-.64.15-.19.29-.74.94-.9 1.13-.17.19-.33.21-.62.07-.29-.15-1.22-.45-2.32-1.43-.86-.77-1.44-1.71-1.6-2-.17-.29-.02-.45.13-.6.13-.13.29-.33.44-.5.15-.17.19-.29.29-.48.1-.19.05-.36-.02-.5-.07-.15-.64-1.55-.88-2.12-.23-.56-.47-.48-.64-.49l-.55-.01c-.19 0-.5.07-.76.36-.26.29-1 .98-1 2.38 0 1.4 1.02 2.76 1.17 2.95.14.19 2.01 3.08 4.88 4.32.68.29 1.21.47 1.63.6.68.22 1.31.19 1.8.11.55-.08 1.7-.69 1.94-1.36.24-.67.24-1.24.17-1.36-.07-.12-.26-.19-.55-.34zM12.05 21.5h-.01a9.4 9.4 0 01-4.8-1.32l-.34-.2-3.57.93.96-3.48-.22-.36a9.42 9.42 0 01-1.44-5.02c0-5.2 4.24-9.44 9.46-9.44 2.53 0 4.9.99 6.69 2.78a9.38 9.38 0 012.77 6.67c0 5.2-4.24 9.44-9.46 9.44zm5.5-14.94A11.36 11.36 0 0012.05 3C6.28 3 1.59 7.68 1.58 13.44c0 1.85.48 3.65 1.4 5.24L1.5 24l5.45-1.43a11.4 11.4 0 005.1 1.3h.01c5.77 0 10.46-4.68 10.46-10.44 0-2.79-1.09-5.41-3.06-7.38z"/></svg>';
+  const WA_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
   const THUMB_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M2 21h3V9H2v12zM23 10c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1z"/></svg>';
 
   function cardHtml(item) {
