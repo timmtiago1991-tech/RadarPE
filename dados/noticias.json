@@ -1,13 +1,436 @@
 [
   {
+    "id": "2b3ea4d801af7e76",
+    "manchete": "\"Houston, we have a problem\": Apollo 13 inspira a leitura da Kinea sobre juros nos EUA e Brasil",
+    "url": "https://neofeed.com.br/economia/houston-we-have-a-problem-apollo-13-inspira-a-leitura-da-kinea-sobre-juros-nos-eua-e-brasil/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [
+      "Juros/Macro"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "541018023010c4a3",
+    "manchete": "Apresentado por Itaú",
+    "url": "https://neofeed.com.br/brand-stories/apresentado-por-itau/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "c7e8af86fdedbea7",
+    "manchete": "Dos negócios regionais ao mercado de capitais: como o Itaú acelera o crescimento das empresas",
+    "url": "https://neofeed.com.br/brand-stories/apresentado-por-itau/dos-negocios-regionais-ao-mercado-de-capitais-como-o-itau-acelera-o-crescimento-das-empresas/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "28f8da11865482c4",
+    "manchete": "Apresentado por Inter",
+    "url": "https://neofeed.com.br/brand-stories/apresentado-por-inter/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "78ac825841d78526",
+    "manchete": "A aposta do Inter para “vestir” os clientes com tecnologia de pagamento",
+    "url": "https://neofeed.com.br/brand-stories/apresentado-por-inter/a-aposta-do-inter-para-vestir-os-clientes-com-tecnologia-de-pagamento/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "440a0f4be80fc83e",
+    "manchete": "Apresentado por Vibra",
+    "url": "https://neofeed.com.br/brand-stories/apresentado-por-vibra/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "edac33ab812e7782",
+    "manchete": "A engenharia oculta do abastecimento: a estratégia bilionária que mantém os negócios do Brasil em movimento",
+    "url": "https://neofeed.com.br/brand-stories/apresentado-por-vibra/a-engenharia-oculta-do-abastecimento-a-estrategia-bilionaria-que-mantem-os-negocios-do-brasil-em-movimento/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "22fe41c0e7afe781",
+    "manchete": "Um conteúdo Vibra",
+    "url": "https://neofeed.com.br/autor/vibra/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.843Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "134bdd156d849419",
+    "manchete": "Flash entra em recrutamento e seleção e busca uma \"vaga\" em um mercado de R$ 2 bilhões",
+    "url": "https://neofeed.com.br/startups/flash-entra-em-recrutamento-e-selecao-e-busca-uma-vaga-em-um-mercado-de-r-2-bilhoes/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "6f77d58279201343",
+    "manchete": "Moacir Drska",
+    "url": "https://neofeed.com.br/autor/moacir-drska/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "e27b926e2fba498c",
+    "manchete": "É o fim do \"mistério\" de Josephina na Oncoclínicas? CVM dá primeira vitória a Goldman Sachs e Centaurus",
+    "url": "https://neofeed.com.br/negocios/e-o-fim-do-misterio-de-josephina-na-oncoclinicas-cvm-da-vitoria-a-goldman-sachs-e-centaurus/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "8749e2d7c356e3d0",
+    "manchete": "Guilherme Guilherme",
+    "url": "https://neofeed.com.br/autor/guilherme-guilherme/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "5ba7bf21782d5adf",
+    "manchete": "A angústia de José Galló: país corroído por bets, fim da escala 6x1 e políticos sem visão de futuro",
+    "url": "https://neofeed.com.br/economia/a-angustia-de-jose-gallo-pais-corroido-por-bets-fim-da-escala-6x1-e-politicos-sem-visao-de-futuro/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "df31fc24b9f06c5c",
+    "manchete": "Queda histórica do iene mergulha Japão em era de incerteza",
+    "url": "https://neofeed.com.br/economia/queda-historica-do-iene-mergulha-japao-em-era-de-incerteza/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "7eabe19bf9729ee6",
+    "manchete": "O IPO das \"relíquias\" da internet: Bending Spoons pode valer até US$ 19 bilhões",
+    "url": "https://neofeed.com.br/negocios/o-ipo-das-reliquias-da-internet-bending-spoons-pode-valer-ate-us-19-bilhoes/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.842Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "dadf9a0bbe78fb1f",
+    "manchete": "Donald Trump, o presidente trader, ganha US$ 1,4 bilhão em criptomoedas. Pode isso, Arnaldo?",
+    "url": "https://neofeed.com.br/negocios/donald-trump-o-presidente-trader-ganha-us-14-bilhao-em-criptomoedas-pode-isso-arnaldo/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "df180e9a0f335cbe",
+    "manchete": "José Eduardo Barella",
+    "url": "https://neofeed.com.br/autor/jose-eduardo-barella/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "a062826188e3f01d",
+    "manchete": "Mark Zuckerberg quer concorrer com Google e Amazon em nuvem de IA. E o mercado curtiu",
+    "url": "https://neofeed.com.br/negocios/mark-zuckerberg-quer-concorrer-do-google-e-amazon-em-nuvem-de-ia-e-o-mercado-curtiu/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "71bfed9e7ced9789",
+    "manchete": "Sérgio Vieira",
+    "url": "https://neofeed.com.br/autor/sergio-vieira/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "8a3ef1776ce1814f",
+    "manchete": "Buy now, pay later: Google é multado em US$ 2 bilhões por práticas anticompetitivas contra a Klarna",
+    "url": "https://neofeed.com.br/negocios/buy-now-pay-later-google-e-multado-em-us-2-bilhoes-por-praticas-anticompetitivas-contra-a-klarna/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "4a93f629e2faea2d",
+    "manchete": "Ivan Ryngelblum",
+    "url": "https://neofeed.com.br/autor/ivan-ryngelblum/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "b5512098513164c2",
+    "manchete": "A nova fronteira do real estate: multifamily ganha escala e atrai fundos bilionários no Brasil",
+    "url": "https://neofeed.com.br/negocios/a-nova-fronteira-do-real-estate-multifamily-ganha-escala-e-atrai-fundos-bilionarios-no-brasil/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.841Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "d25a1086aefcf51e",
+    "manchete": "Vale a pena comprar ações da SpaceX após o IPO?",
+    "url": "https://neofeed.com.br/janela-de-mercado/vale-a-pena-comprar-acoes-da-spacex-apos-o-ipo/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.840Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "efa08c79f0d3dbf4",
+    "manchete": "Letycia Cardoso",
+    "url": "https://neofeed.com.br/autor/letycia-cardoso/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.840Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "85e90de364522395",
+    "manchete": "Estados Unidos",
+    "url": "https://neofeed.com.br/noticias-sobre/estados-unidos/",
+    "resumo": "",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T19:02:20.840Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "e461d608096a9d0a",
+    "manchete": "Número de mortos e feridos na guerra da Ucrânia supera 2 milhões, diz estudo",
+    "url": "https://www.infomoney.com.br/business/global/numero-de-mortos-e-feridos-na-guerra-da-ucrania-supera-2-milhoes-diz-estudo/",
+    "resumo": "A Rússia sofreu as perdas mais pesadas, com 1,4 milhão de militares mortos ou feridos desde a invasão, em fevereiro de 2022 The post Número de mortos e feridos na guerra da Ucrânia supera 2 milhões, diz estudo appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:58:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "470a06abae5eae5b",
+    "manchete": "Técnico da Noruega elogia Ancelotti antes do confronto contra o Brasil na Copa",
+    "url": "https://www.infomoney.com.br/esportes/tecnico-da-noruega-elogia-ancelotti-antes-do-confronto-contra-o-brasil-na-copa/",
+    "resumo": "\"Ele é ⁠talvez o maior técnico da história do futebol europeu, junto com Guardiola, Mourinho e mais um ou dois, de uma perspectiva histórica”, disse Solbakken The post Técnico da Noruega elogia Ancelotti antes do confronto contra o Brasil na Copa appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:57:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "dec0966e796f4f59",
+    "manchete": "Brasil tem fluxo cambial positivo de US$7,168 bi em junho até dia 26, diz BC",
+    "url": "https://www.infomoney.com.br/mercados/brasil-tem-fluxo-cambial-positivo-de-us7168-bi-em-junho-ate-dia-26-diz-bc/",
+    "resumo": "Brasil tem fluxo cambial positivo de US$7,168 bi em junho até dia 26, diz BC The post Brasil tem fluxo cambial positivo de US$7,168 bi em junho até dia 26, diz BC appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:40:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "36663f0c5e8c5afb",
+    "manchete": "Ouro fecha em alta de olho em apostas para juros antes do payroll",
+    "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-de-olho-em-apostas-para-juros-antes-do-payroll/",
+    "resumo": "O metal para agosto subiu 1,10% a US$ 4.082,4 por onça-troy após Kevin Warsh sinalizar recuo nos riscos de inflação, com investidores reagindo também à criação de 98 mil vagas no setor privado americano The post Ouro fecha em alta de olho em apostas para juros antes do payroll appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:39:36.000Z",
+    "tags_tema": [
+      "Juros/Macro"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "89b927b8b9f6895e",
+    "manchete": "ASSISTA AOS GOLS: Inglaterra escapa de vexame, elimina RD Congo e vai às oitavas",
+    "url": "https://www.infomoney.com.br/esportes/jogo-inglaterra-rd-congo-copa-2026/",
+    "resumo": "Em atuação abaixo da crítica, a seleção inglesa foi salva pelo centroavante Harry Kane, que marcou duas vezes e garantiu a vitória por 2 a 1, de virada The post ASSISTA AOS GOLS: Inglaterra escapa de vexame, elimina RD Congo e vai às oitavas appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:37:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "498522fbf4b27bec",
+    "manchete": "\"Vamos passar por cima de desavenças\", diz Flávio Bolsonaro em reunião do PL Mulher",
+    "url": "https://www.infomoney.com.br/politica/vamos-passar-por-cima-de-desavencas-diz-flavio-bolsonaro-em-reuniao-do-pl-mulher/",
+    "resumo": "Senador se reuniu nesta manhã com lideranças femininas do partido em 20 estados para ouvir demandas sobre pautas na campanha à Presidência The post \"Vamos passar por cima de desavenças\", diz Flávio Bolsonaro em reunião do PL Mulher appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:29:55.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "e9f9e642f7983c62",
+    "manchete": "Lula cita Jaques Wagner como companheiro de longa data e diz que todo amigo é irmão",
+    "url": "https://www.infomoney.com.br/politica/lula-cita-jaques-wagner-como-companheiro-de-longa-data-e-diz-que-todo-amigo-e-irmao/",
+    "resumo": "Declaração ocorre uma semana após o senador ter sido alvo da Operação Compliance Zero, que investiga os desdobramentos do caso do Banco Master The post Lula cita Jaques Wagner como companheiro de longa data e diz que todo amigo é irmão appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:25:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "3a2b5c0dfc2829be",
+    "manchete": "Governo Trump diz que PCC usa sistema financeiro americano para lavar dinheiro",
+    "url": "https://www.infomoney.com.br/politica/governo-trump-diz-que-pcc-usa-sistema-financeiro-americano-para-lavar-dinheiro/",
+    "resumo": "Presidente norte-americano apontou dois brasileiros e três empresas sediadas no Brasil como suspeitos de elo com a facção criminosa The post Governo Trump diz que PCC usa sistema financeiro americano para lavar dinheiro appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:14:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "cb48f8be9d52aa62",
+    "manchete": "Ibovespa Hoje Ao Vivo: Bolsa tem leve queda, com PETR4; VALE3 sobe",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01072026/",
+    "resumo": "Bolsas dos EUA operam mistos; Dow Jones renova recorde The post Ibovespa Hoje Ao Vivo: Bolsa tem leve queda, com PETR4; VALE3 sobe appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:07:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "b4af4aa38fabe037",
+    "manchete": "PF abre investigação sobre uso de emendas parlamentares em filme de Bolsonaro",
+    "url": "https://www.infomoney.com.br/politica/pf-abre-investigacao-sobre-uso-de-emendas-parlamentares-em-filme-de-bolsonaro/",
+    "resumo": "Inquérito autorizado por Flávio Dino apura possível uso irregular de recursos públicos na produção de Dark Horse The post PF abre investigação sobre uso de emendas parlamentares em filme de Bolsonaro appeared first on InfoMoney .",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T18:02:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "8d5b2d223d5e681f",
+    "manchete": "A ‘mágica’ da Bending Spoons: fazer negócios icônicos voltar ao modo startup",
+    "url": "https://braziljournal.com/a-magica-da-bending-spoons-fazer-negocios-iconicos-voltar-ao-modo-startup/",
+    "resumo": "A AOL – a outrora gloriosa provedora de internet discada e e-mail – está de volta à Bolsa, juntamente com outras empresas digitais icônicas (e capengas), como a WeTransfer e a Vimeo. As marcas fazem parte do portfólio da Bending Spoons, uma holding italiana especializada em turnarounds de negócios de internet que…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T17:29:16.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "17305cff5244e54f",
+    "manchete": "Alza e Invés se fundem, criando maior escritório ‘fee-based’ da XP",
+    "url": "https://braziljournal.com/alza-e-inves-se-fundem-criando-maior-escritorio-fee-based-da-xp/",
+    "resumo": "Dois escritórios de assessoria de investimentos da XP estão fundindo seus negócios, criando a maior operação vinculada à corretora de Guilherme Benchimol focada no modelo ‘fee-based’. A Invés e a Alza foram fundadas há cerca de três anos. Juntas, têm pouco mais de R$ 4,5 bilhões em ativos sob gestão e planos de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T16:54:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
     "id": "a1b2c3d4e5f60011",
     "manchete": "Gestora capta R$ 1,2 bi para novo fundo de private equity focado em infraestrutura",
     "url": "https://exemplo.com.br/noticia-1",
     "resumo": "O closing do veículo superou a meta inicial e atrai fundos de pensão e family offices. Estratégia mira ativos de energia e saneamento com teses de consolidação setorial ao longo dos próximos anos.",
     "fonte": "Brazil Journal",
     "data": "2026-07-01T11:10:00.000Z",
-    "tags_tema": ["Fundraising", "Private Equity"],
-    "tags_empresa": ["Vinci Partners"]
+    "tags_tema": [
+      "Fundraising",
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Vinci Partners"
+    ]
+  },
+  {
+    "id": "2e1e6917876b0a7b",
+    "manchete": "BTG co-lidera rodada na ADDI, a maior fintech da Colômbia",
+    "url": "https://braziljournal.com/btg-lidera-rodada-na-addi-a-maior-fintech-da-colombia/",
+    "resumo": "O BTG Pactual está co-liderando uma rodada de investimento na ADDI, uma fintech colombiana fundada em 2021 por um ex-JP Morgan e que aposta numa estratégia parecida com a do Mercado Livre: um ecossistema que une marketplace com produtos financeiros.&#160; A rodada, de US$ 85 milhões, foi co-liderada pelo Citius, um…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T10:00:13.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "0450209deaa5dbc6",
+    "manchete": "Chicão Bulhões funda instituto focado em regulação",
+    "url": "https://braziljournal.com/chicao-bulhoes-funda-instituto-focado-em-regulacao/",
+    "resumo": "Chicão Bulhões – que foi o head de relações institucionais da PRIO nos últimos dois anos – está deixando a petroleira para fundar um instituto privado focado em debater e propor soluções para alguns dos principais problemas do Brasil. Batizado de BARLA (Instituto Brasileiro de Ambiente Regulatório e Liberdade), a…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T09:50:57.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "846d07f8354e9a4c",
+    "manchete": "Leilões de ferrovias: o plano do Governo para viabilizar os projetos",
+    "url": "https://braziljournal.com/leiloes-de-ferrovias-o-plano-do-governo-para-viabilizar-os-projetos/",
+    "resumo": "Como atrair investidores para projetos bilionários de ferrovias, que muitas vezes demandam aportes de recursos públicos para fechar as contas, num contexto de eterno aperto no orçamento do Tesouro? O Governo tem um plano. Nos leilões de concessões ferroviárias previstos para ainda este ano, o Ministério dos…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T09:50:53.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": []
   },
   {
     "id": "a1b2c3d4e5f60022",
@@ -16,8 +439,35 @@
     "resumo": "Companhia listada anuncia compra de rival por múltiplo estimado em 9x EV/EBITDA. A transação reforça a tese de automação e Indústria 4.0 que tem atraído o interesse de fundos de PE no país.",
     "fonte": "InfoMoney",
     "data": "2026-07-01T09:40:00.000Z",
-    "tags_tema": ["M&A", "Private Equity"],
-    "tags_empresa": ["Dynamox"]
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Dynamox"
+    ]
+  },
+  {
+    "id": "ed2258f07df8f354",
+    "manchete": "Tarcísio vai manter Linha 17 com o Metrô: “sem dogma”",
+    "url": "https://braziljournal.com/tarcisio-vai-manter-linha-17-com-o-metro-sem-dogma/",
+    "resumo": "O Governador Tarcísio de Freitas disse que deve recuar de planos para conceder a operação de mais linhas do metrô à iniciativa privada, inclusive da Linha 17 &#8211; Ouro, que estava prevista para ser repassada à ViaMobilidade, da Motiva. A declaração chama atenção por ocorrer a poucos meses das eleições, uma época em…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T03:20:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "a52b381525f45b3e",
+    "manchete": "Iene mergulha ao menor nível em 40 anos",
+    "url": "https://braziljournal.com/iene-mergulha-ao-menor-nivel-em-40-anos/",
+    "resumo": "O iene mergulhou ao seu nível mais baixo em 40 anos frente ao dólar – uma maravilha para turistas de todo o mundo, mas uma potencial dor de cabeça para o banco central do país dados os efeitos sobre o custo de vida. Um dólar agora compra 162 ienes, a maior cotação desde dezembro de [&#8230;] The post Iene mergulha ao…",
+    "fonte": "Brazil Journal",
+    "data": "2026-06-30T23:13:36.000Z",
+    "tags_tema": [
+      "Juros/Macro"
+    ],
+    "tags_empresa": []
   },
   {
     "id": "a1b2c3d4e5f60033",
@@ -26,8 +476,33 @@
     "resumo": "A decisão veio em linha com o consenso. Gestores avaliam impacto sobre hurdles indexados ao IPCA e sobre o apetite por estruturas de crédito privado no segundo semestre.",
     "fonte": "NeoFeed",
     "data": "2026-06-30T21:05:00.000Z",
-    "tags_tema": ["Juros/Macro", "Crédito/Dívida"],
-    "tags_empresa": ["Banco Central"]
+    "tags_tema": [
+      "Juros/Macro",
+      "Crédito/Dívida"
+    ],
+    "tags_empresa": [
+      "Banco Central"
+    ]
+  },
+  {
+    "id": "ce87d12523e51cb5",
+    "manchete": "MEMÓRIA. Luís Eulálio, que liderou a Fiesp na transição democrática",
+    "url": "https://braziljournal.com/memoria-luis-eulalio-que-liderou-a-fiesp-na-transicao-democratica/",
+    "resumo": "Luís Eulálio de Bueno Vidigal Filho, o histórico ex-presidente da Fiesp que liderou a renovação geracional da entidade empresarial durante a redemocratização brasileira, morreu ontem em São Paulo. Ele tinha 87 anos. Herdeiro da Companhia Brasileira de Material Ferroviário (Cobrasma), que se destacou no fornecimento de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-06-30T17:46:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
+  },
+  {
+    "id": "c381e34412fb71f1",
+    "manchete": "França age contra as ‘blusinhas’. Mas o caminho foi tortuoso",
+    "url": "https://braziljournal.com/franca-age-contra-as-blusinhas-mas-o-caminho-foi-tortuoso/",
+    "resumo": "O Parlamento francês aprovou uma lei para multar as varejistas de ultrafast fashion, como a Shein, e marketplaces como a Temu. Discutida desde 2024, a legislação visa controlar o impacto ambiental das “roupas descartáveis” vendidas por estas empresas e proteger a indústria local. No entanto, justamente pela…",
+    "fonte": "Brazil Journal",
+    "data": "2026-06-30T15:04:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": []
   },
   {
     "id": "a1b2c3d4e5f60044",
@@ -36,7 +511,23 @@
     "resumo": "Rodada de captação reúne investidores institucionais interessados em produtividade e crédito rural. A tese aposta em digitalização da cadeia e conexão com o mercado de capitais.",
     "fonte": "NeoFeed",
     "data": "2026-06-30T13:20:00.000Z",
-    "tags_tema": ["Agro", "Fundraising", "Venture Capital"],
+    "tags_tema": [
+      "Agro",
+      "Fundraising",
+      "Venture Capital"
+    ],
+    "tags_empresa": []
+  },
+  {
+    "id": "df45b24e9481e1d6",
+    "manchete": "OPINIÃO. As bets, como estão, são o gol contra da Copa",
+    "url": "https://braziljournal.com/opiniao-as-bets-como-estao-sao-o-gol-contra-da-copa/",
+    "resumo": "A Copa do Mundo movimenta somas astronômicas em marketing e impacta diferentes setores da economia. Entretanto, nos últimos anos uma nova camada passou a se sobrepor ao ecossistema econômico do futebol: a indústria das apostas esportivas. E, com ela, uma série de consequências muitas vezes perigosas. Regulamentadas…",
+    "fonte": "Brazil Journal",
+    "data": "2026-06-30T09:50:22.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
     "tags_empresa": []
   }
 ]
