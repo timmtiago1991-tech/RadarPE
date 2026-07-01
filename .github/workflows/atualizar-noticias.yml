@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "radar-pe-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add dados/noticias.json
+          git add dados/
           if git diff --staged --quiet; then
             echo "Sem novidades — nada para commitar."
           else
