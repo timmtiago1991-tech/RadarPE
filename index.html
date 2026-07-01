@@ -356,7 +356,8 @@
   let todos = [];
   let filtroAtivo = null; // string da tag
   let dbUrl = "";          // URL do Realtime Database (vem de config.json)
-  const votados = {};      // id -> 1 (relevante) | -1 (fora de tema), na sessao
+  const votados = {};      // id -> 1 (relevante) | -1 (fora de tema)
+  const VOTOS_KEY = "radarpe_votos_v1";
 
   function tempoRelativo(iso) {
     const d = new Date(iso);
@@ -499,7 +500,9 @@
     feedEl.querySelectorAll(`.vote-btn[data-id="${id}"]`).forEach((b) => {
       b.classList.toggle("is-on", votados[id] === Number(b.dataset.vote));
     });
-    if (!votados[id]) return;                    // desmarcou: nao registra
+    if (!votados[id]) delete votados[id];
+    salvarVotosLocais();
+    if (votados[id] === undefined) return;       // desmarcou: nao registra novo voto
     try {
       await fetch(`${dbUrl}/votos/${id}.json`, {
         method: "POST",
@@ -509,6 +512,16 @@
     } catch (e) {
       console.error("voto não registrado:", e);
     }
+  }
+
+  function salvarVotosLocais() {
+    try { localStorage.setItem(VOTOS_KEY, JSON.stringify(votados)); } catch { /* modo privado */ }
+  }
+  function carregarVotosLocais() {
+    try {
+      const guardado = JSON.parse(localStorage.getItem(VOTOS_KEY) || "{}");
+      Object.assign(votados, guardado);
+    } catch { /* ignora */ }
   }
 
   function mostrarErro() {
@@ -549,6 +562,7 @@
   }
 
   clearBtnEl.addEventListener("click", () => aplicarFiltro(null));
+  carregarVotosLocais();
   carregarConfig().finally(carregar);
 })();
 </script>
