@@ -237,6 +237,27 @@
   }
   .wa-btn svg { width: 18px; height: 18px; display: block; }
   .wa-btn:hover { background: #eafff1; border-color: #1faf52; }
+
+  .vote-btn {
+    flex: 0 0 auto;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid var(--line);
+    background: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--ink-faint);
+    padding: 0;
+    transition: background 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+  }
+  .vote-btn svg { width: 16px; height: 16px; display: block; }
+  .vote-btn.down svg { transform: rotate(180deg); }
+  .vote-btn:hover { border-color: var(--ink-soft); color: var(--ink-soft); }
+  .vote-btn.is-on.up { background: #eafff1; border-color: #1faf52; color: #1faf52; }
+  .vote-btn.is-on.down { background: #fdecec; border-color: #d14343; color: #d14343; }
   .tag {
     flex: 0 0 auto;
     font-family: inherit;
@@ -330,6 +351,8 @@
 
   let todos = [];
   let filtroAtivo = null; // string da tag
+  let dbUrl = "";          // URL do Realtime Database (vem de config.json)
+  const votados = {};      // id -> 1 (relevante) | -1 (fora de tema), na sessao
 
   function tempoRelativo(iso) {
     const d = new Date(iso);
@@ -381,6 +404,7 @@
   }
 
   const WA_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.15-1.7-.84-1.96-.94-.26-.1-.45-.15-.64.15-.19.29-.74.94-.9 1.13-.17.19-.33.21-.62.07-.29-.15-1.22-.45-2.32-1.43-.86-.77-1.44-1.71-1.6-2-.17-.29-.02-.45.13-.6.13-.13.29-.33.44-.5.15-.17.19-.29.29-.48.1-.19.05-.36-.02-.5-.07-.15-.64-1.55-.88-2.12-.23-.56-.47-.48-.64-.49l-.55-.01c-.19 0-.5.07-.76.36-.26.29-1 .98-1 2.38 0 1.4 1.02 2.76 1.17 2.95.14.19 2.01 3.08 4.88 4.32.68.29 1.21.47 1.63.6.68.22 1.31.19 1.8.11.55-.08 1.7-.69 1.94-1.36.24-.67.24-1.24.17-1.36-.07-.12-.26-.19-.55-.34zM12.05 21.5h-.01a9.4 9.4 0 01-4.8-1.32l-.34-.2-3.57.93.96-3.48-.22-.36a9.42 9.42 0 01-1.44-5.02c0-5.2 4.24-9.44 9.46-9.44 2.53 0 4.9.99 6.69 2.78a9.38 9.38 0 012.77 6.67c0 5.2-4.24 9.44-9.46 9.44zm5.5-14.94A11.36 11.36 0 0012.05 3C6.28 3 1.59 7.68 1.58 13.44c0 1.85.48 3.65 1.4 5.24L1.5 24l5.45-1.43a11.4 11.4 0 005.1 1.3h.01c5.77 0 10.46-4.68 10.46-10.44 0-2.79-1.09-5.41-3.06-7.38z"/></svg>';
+  const THUMB_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M2 21h3V9H2v12zM23 10c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1z"/></svg>';
 
   function cardHtml(item) {
     const cor = FONTE_COR[item.fonte] || "var(--ink-faint)";
@@ -392,6 +416,10 @@
     ).join("");
     const waTexto = encodeURIComponent(`${item.manchete}\n${item.url}`);
     const waUrl = `https://wa.me/?text=${waTexto}`;
+    const v = votados[item.id];
+    const votos = dbUrl ? `
+            <button class="vote-btn up ${v === 1 ? "is-on" : ""}" type="button" data-vote="1" data-id="${escaparHtml(item.id)}" aria-label="Marcar como relevante" title="Relevante">${THUMB_ICON}</button>
+            <button class="vote-btn down ${v === -1 ? "is-on" : ""}" type="button" data-vote="-1" data-id="${escaparHtml(item.id)}" aria-label="Marcar como fora de tema" title="Fora de tema">${THUMB_ICON}</button>` : "";
     return `
       <article>
         <a class="card" href="${escaparHtml(item.url)}" target="_blank" rel="noopener noreferrer">
@@ -403,7 +431,7 @@
           <h2 class="card__title">${escaparHtml(item.manchete)}</h2>
           ${item.resumo ? `<p class="card__summary">${escaparHtml(item.resumo)}</p>` : ""}
           <div class="card__footer">
-            <div class="tags">${temas}${empresas}</div>
+            <div class="tags">${temas}${empresas}</div>${votos}
             <button class="wa-btn" type="button" data-wa="${escaparHtml(waUrl)}" aria-label="Enviar por WhatsApp" title="Enviar por WhatsApp">${WA_ICON}</button>
           </div>
         </a>
@@ -450,6 +478,33 @@
         window.open(el.dataset.wa, "_blank", "noopener");
       });
     });
+
+    // votos de relevancia (treino do filtro)
+    feedEl.querySelectorAll(".vote-btn").forEach((el) => {
+      el.addEventListener("click", (ev) => {
+        ev.preventDefault();
+        ev.stopPropagation();
+        votar(el.dataset.id, Number(el.dataset.vote));
+      });
+    });
+  }
+
+  async function votar(id, v) {
+    if (!dbUrl) return;
+    votados[id] = votados[id] === v ? 0 : v;   // tocar de novo desmarca
+    feedEl.querySelectorAll(`.vote-btn[data-id="${id}"]`).forEach((b) => {
+      b.classList.toggle("is-on", votados[id] === Number(b.dataset.vote));
+    });
+    if (!votados[id]) return;                    // desmarcou: nao registra
+    try {
+      await fetch(`${dbUrl}/votos/${id}.json`, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ v, t: Date.now() }),
+      });
+    } catch (e) {
+      console.error("voto não registrado:", e);
+    }
   }
 
   function mostrarErro() {
@@ -479,8 +534,18 @@
     }
   }
 
+  async function carregarConfig() {
+    try {
+      const r = await fetch("./config.json", { cache: "no-store" });
+      if (r.ok) {
+        const c = await r.json();
+        dbUrl = (c.firebaseDbUrl || "").replace(/\/+$/, "");
+      }
+    } catch { /* sem config = feedback desligado */ }
+  }
+
   clearBtnEl.addEventListener("click", () => aplicarFiltro(null));
-  carregar();
+  carregarConfig().finally(carregar);
 })();
 </script>
 </body>
