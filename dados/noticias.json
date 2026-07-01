@@ -1,5 +1,368 @@
 [
   {
+    "id": "6b19255cde3ee5ea",
+    "manchete": "Na doce rotina da Copersucar, mais uma safra com receitas e lucros em alta",
+    "url": "https://agfeed.com.br/negocios/na-doce-rotina-da-copersucar-mais-uma-safra-com-receitas-e-lucros-em-alta",
+    "resumo": "Copersucar cresce pelo 17º ano seguido, lucra R$ 631 mi e amplia apostas em biometano, etanol e energia renovável",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.269Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Copersucar"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "48116f900a659bc5",
+    "manchete": "SLC Agrícola mantém em aberto decisão sobre preferência de compra de terras da Radar",
+    "url": "https://agfeed.com.br/negocios/slc-agricola-mantem-em-aberto-decisao-sobre-preferencia-de-compra-de-terras-da-radar",
+    "resumo": "SLC reitera que exercerá – ou não – o direito de preferência sobre os imóveis apenas ao fim do prazo de 30 dias",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.269Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "SLC Agrícola",
+      "Radar"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "afb91da01b3ff685",
+    "manchete": "Novo maquinista: em meio a mudanças na Cosan, Rumo troca de CEO e Daniel Rockenbach assume o posto",
+    "url": "https://agfeed.com.br/negocios/novo-maquinista-em-meio-a-mudancas-na-cosan-rumo-troca-de-ceo-e-daniel-rockenbach-assume-o-posto",
+    "resumo": "Executivo assume interinamente o lugar de Pedro Palma em momento de especulações sobre eventual venda da participação da Cosan na companhia",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.269Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "Rumo"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "306636f47581418e",
+    "manchete": "Com fundo holandês, Fisher tem plano para quintuplicar produção de tilápias",
+    "url": "https://agfeed.com.br/negocios/com-fundo-holandes-fisher-tem-plano-para-quintuplicar-producao-de-tilapias",
+    "resumo": "Empresa com sede em Riolândia (SP) vem investindo na piscicultura em larga escala e já mapeou oportunidades de expansão em GO, RO e BA",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.267Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Fisher"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "3d0755bb1d54134d",
+    "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
+    "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
+    "resumo": "Fictor propõe fundo de credores e aposta em proteína animal para viabilizar recuperação judicial de R$ 4,3 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.266Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Fictor"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "b07d568099ace525",
+    "manchete": "Agroconsult confirma \"safrinha de contrastes\" e Brasil produz 10 milhões de toneladas a menos de milho",
+    "url": "https://agfeed.com.br/economia/agroconsult-confirma-safrinha-de-contrastes-e-brasil-produz-10-milhoes-de-tenoeladas-a-menos-de-milho",
+    "resumo": "Dados do Rally da Safra mostram impactos do atraso no plantio e clima irregular, que ampliaram diferenças regionais e pressionaram margens",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.266Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Agroconsult"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "022fc1b1684ed657",
+    "manchete": "Será o fim da “RJ infinita”? Justiça do MT determina falência do grupo do ex-rei do algodão José Pupin",
+    "url": "https://agfeed.com.br/negocios/sera-o-fim-da-rj-infinita-justica-do-mt-determina-falencia-do-grupo-do-ex-rei-do-algodao-jose-pupin",
+    "resumo": "Justiça decreta falência do Grupo Pupin após descumprimento da recuperação judicial e dívida superior a R$ 3,5 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.265Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Grupo Pupin"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "c461dbd4aff43d83",
+    "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
+    "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
+    "resumo": "Bom Futuro e SLC disputam compra de terras da Radar no MT após exercerem direito de preferência em negócio de R$ 1,85 bilhão",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.265Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Bom Futuro",
+      "SLC",
+      "Radar"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "07de9c1068b9d4e3",
+    "manchete": "SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão",
+    "url": "https://agfeed.com.br/negocios/slc-agricola-exerce-direito-de-preferencia-e-compra-terras-da-radar-em-mt-por-r-185-bilhao",
+    "resumo": "Companhia adquiriu conjunto de propriedades que somam 41,3 mil hectares e estavam sendo negociados pela empresa da Cosan com o Grupo Bom Futuro",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.265Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "SLC Agrícola",
+      "Radar",
+      "Cosan",
+      "Grupo Bom Futuro"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "342fc65701c3266e",
+    "manchete": "O feliz aniversário da 3tentos na B3",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-feliz-aniversario-da-3tentos-na-b3",
+    "resumo": "Companhia gaúcha completa 5 anos de IPO como a única de sua \"safra\" na bolsa com ações valorizadas",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.264Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "3tentos",
+      "B3"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "092e73d98ce693e1",
+    "manchete": "A safra de prejuízos da Raízen",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-safra-de-prejuizos-da-raizen",
+    "resumo": "Companhia sucroenergética divulga primeiro balanço após recuperação extrajudicial com perdas bilionárias",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.264Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Raízen"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "888c5a68e180e94f",
+    "manchete": "A falência do \"Rei do Algodão\"",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-falencia-do-rei-do-algodao-2",
+    "resumo": "Decisão da justiça do MT marca o epílogo da emblemática RJ do grupo de José Pupin depois de quase uma década de crise financeira",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.264Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Grupo José Pupin"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "c9e3fc7881c66c4f",
+    "manchete": "Estratégia \"verde\" da Cofco recebe novos cheques e soma US$ 1,2 bi em créditos para descarbonização",
+    "url": "https://agfeed.com.br/esg/estrategia-verde-da-cofco-recebe-novos-cheques-e-soma-us-12-bi-em-creditos-para-descarbonizacao",
+    "resumo": "Empréstimos exigem comprovação de corte de carbono na cadeia, com juros menores se metas de redução de CO2 forem atingidas",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.264Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Cofco"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "0cb00e5570230f30",
+    "manchete": "Plano Safra cresce menos que a inflação e agricultura empresarial terá menos recursos para o custeio",
+    "url": "https://agfeed.com.br/economia/plano-safra-cresce-menos-que-a-inflacao-e-agricultura-empresarial-tera-menos-recursos-para-o-custeio",
+    "resumo": "Plano Safra 2026/2027 cresce abaixo da inflação, reduz crédito para custeio e amplia recursos para investimentos no agronegócio",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.263Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "21d39f5f49f53533",
+    "manchete": "Docket e B3 se unem para acelerar registro de CPR (e monitorar inadimplência)",
+    "url": "https://agfeed.com.br/financas/docket-e-b3-se-unem-para-acelerar-registro-de-cpr-e-monitorar-inadimplencia",
+    "resumo": "Com grandes tradings e bancos como clientes, empresa de automação de processos Docket fechou parceria com a Trillia, da B3",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.263Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Docket",
+      "B3",
+      "Trillia"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "c1a5a64a69854d5a",
+    "manchete": "Com operacional fraco, Raízen também sente ajustes contábeis e amplia prejuízo na safra 2025/2026",
+    "url": "https://agfeed.com.br/negocios/com-operacional-fraco-raizen-tambem-sente-ajustes-contabeis-e-amplia-prejuizo-na-safra-2025-2026",
+    "resumo": "No primeiro balanço divulgado após aprovar a RE com os credores, Raízen reportou perdas de R$ 27,1 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.263Z",
+    "tags_tema": [
+      "Economia Real",
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Raízen"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "c02ee4b1db463b3f",
+    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
+    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
+    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.263Z",
+    "tags_tema": [
+      "M&A",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Costelata"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "5e04f3ffcba34c54",
+    "manchete": "Cosan confirma que avalia \"alternativas\" para Rumo - com assessoria do BTG Pactual",
+    "url": "https://agfeed.com.br/negocios/cosan-confirma-que-avalia-alternativas-para-rumo-com-assessoria-do-btg-pactual",
+    "resumo": "Endividada e sob pressão para reduzir sua alavancagem, Cosan estuda possibilidades envolvendo participação na companhia de logística",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.263Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "Rumo",
+      "BTG Pactual"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "ac6f9a24055302ca",
+    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
+    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.263Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Caramuru"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "cef578a3e5cdbeda",
+    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas” FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
+    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
+    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.262Z",
+    "tags_tema": [
+      "Private Equity",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "FMC"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "a9304becfb5667ec",
+    "manchete": "\"Como o produtor endividado vai acessar o Plano Safra?\" Lupion questiona anúncio sem solução para dívidas",
+    "url": "https://agfeed.com.br/economia/como-o-produtor-endividado-vai-acessar-o-plano-safra-lupion-questiona-anuncio-sem-solucao-para-dividas",
+    "resumo": "Presidente da bancada ruralista critica falta de equalização e diz que produtores endividados terão dificuldade para acessar recursos",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.262Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "9b2078fecb08da7b",
+    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
+    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
+    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
+    "fonte": "AgFeed",
+    "data": "2026-07-01T22:01:45.262Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "3tentos",
+      "B3"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "b4b9ff66994c574f",
+    "manchete": "Warren é vendida para plataforma de investimentos argentina Cocos Capital",
+    "url": "https://neofeed.com.br/wealth-management/warren-e-vendida-para-plataforma-de-investimentos-argentina-cocos-capital/",
+    "resumo": "A argentina Cocos Capital acertou a compra da plataforma, marcando sua entrada no mercado brasileiro",
+    "fonte": "NeoFeed",
+    "data": "2026-07-01T22:01:41.940Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Warren",
+      "Cocos Capital"
+    ],
+    "relevante": true
+  },
+  {
     "id": "5bfe9039df212fd3",
     "manchete": "Taxas dos DIs sobem com avanço firme dos rendimentos dos Treasuries",
     "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-avanco-firme-dos-rendimentos-dos-treasuries/",
@@ -84,26 +447,6 @@
     "relevante": true
   },
   {
-    "id": "cb48f8be9d52aa62",
-    "manchete": "Ibovespa Hoje Ao Vivo: Bolsa tem leve queda, com PETR4; VALE3 sobe",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01072026/",
-    "resumo": "Bolsas dos EUA operam mistos; Dow Jones renova recorde The post Ibovespa Hoje Ao Vivo: Bolsa tem leve queda, com PETR4; VALE3 sobe appeared first on InfoMoney .",
-    "fonte": "InfoMoney",
-    "data": "2026-07-01T18:07:59.000Z",
-    "tags_tema": [],
-    "tags_empresa": []
-  },
-  {
-    "id": "b4af4aa38fabe037",
-    "manchete": "PF abre investigação sobre uso de emendas parlamentares em filme de Bolsonaro",
-    "url": "https://www.infomoney.com.br/politica/pf-abre-investigacao-sobre-uso-de-emendas-parlamentares-em-filme-de-bolsonaro/",
-    "resumo": "Inquérito autorizado por Flávio Dino apura possível uso irregular de recursos públicos na produção de Dark Horse The post PF abre investigação sobre uso de emendas parlamentares em filme de Bolsonaro appeared first on InfoMoney .",
-    "fonte": "InfoMoney",
-    "data": "2026-07-01T18:02:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": []
-  },
-  {
     "id": "8d5b2d223d5e681f",
     "manchete": "A ‘mágica’ da Bending Spoons: fazer negócios icônicos voltar ao modo startup",
     "url": "https://braziljournal.com/a-magica-da-bending-spoons-fazer-negocios-iconicos-voltar-ao-modo-startup/",
@@ -111,9 +454,17 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-01T17:29:16.000Z",
     "tags_tema": [
-      "Venture Capital"
+      "Private Equity",
+      "M&A",
+      "IPO/Mercado de Capitais"
     ],
-    "tags_empresa": []
+    "tags_empresa": [
+      "Bending Spoons",
+      "AOL",
+      "WeTransfer",
+      "Vimeo"
+    ],
+    "relevante": true
   },
   {
     "id": "17305cff5244e54f",
@@ -122,8 +473,15 @@
     "resumo": "Dois escritórios de assessoria de investimentos da XP estão fundindo seus negócios, criando a maior operação vinculada à corretora de Guilherme Benchimol focada no modelo ‘fee-based’. A Invés e a Alza foram fundadas há cerca de três anos. Juntas, têm pouco mais de R$ 4,5 bilhões em ativos sob gestão e planos de…",
     "fonte": "Brazil Journal",
     "data": "2026-07-01T16:54:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": []
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Alza",
+      "Invés",
+      "XP"
+    ],
+    "relevante": true
   },
   {
     "id": "2e1e6917876b0a7b",
@@ -133,21 +491,15 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-01T10:00:13.000Z",
     "tags_tema": [
-      "Fundraising"
+      "Venture Capital",
+      "M&A"
     ],
-    "tags_empresa": []
-  },
-  {
-    "id": "0450209deaa5dbc6",
-    "manchete": "Chicão Bulhões funda instituto focado em regulação",
-    "url": "https://braziljournal.com/chicao-bulhoes-funda-instituto-focado-em-regulacao/",
-    "resumo": "Chicão Bulhões – que foi o head de relações institucionais da PRIO nos últimos dois anos – está deixando a petroleira para fundar um instituto privado focado em debater e propor soluções para alguns dos principais problemas do Brasil. Batizado de BARLA (Instituto Brasileiro de Ambiente Regulatório e Liberdade), a…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-01T09:50:57.000Z",
-    "tags_tema": [
-      "Regulação"
+    "tags_empresa": [
+      "BTG Pactual",
+      "ADDI",
+      "Citius"
     ],
-    "tags_empresa": []
+    "relevante": true
   },
   {
     "id": "846d07f8354e9a4c",
@@ -157,62 +509,9 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-01T09:50:53.000Z",
     "tags_tema": [
-      "Fundraising"
+      "M&A"
     ],
-    "tags_empresa": []
-  },
-  {
-    "id": "ed2258f07df8f354",
-    "manchete": "Tarcísio vai manter Linha 17 com o Metrô: “sem dogma”",
-    "url": "https://braziljournal.com/tarcisio-vai-manter-linha-17-com-o-metro-sem-dogma/",
-    "resumo": "O Governador Tarcísio de Freitas disse que deve recuar de planos para conceder a operação de mais linhas do metrô à iniciativa privada, inclusive da Linha 17 &#8211; Ouro, que estava prevista para ser repassada à ViaMobilidade, da Motiva. A declaração chama atenção por ocorrer a poucos meses das eleições, uma época em…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-01T03:20:35.000Z",
-    "tags_tema": [],
-    "tags_empresa": []
-  },
-  {
-    "id": "a52b381525f45b3e",
-    "manchete": "Iene mergulha ao menor nível em 40 anos",
-    "url": "https://braziljournal.com/iene-mergulha-ao-menor-nivel-em-40-anos/",
-    "resumo": "O iene mergulhou ao seu nível mais baixo em 40 anos frente ao dólar – uma maravilha para turistas de todo o mundo, mas uma potencial dor de cabeça para o banco central do país dados os efeitos sobre o custo de vida. Um dólar agora compra 162 ienes, a maior cotação desde dezembro de [&#8230;] The post Iene mergulha ao…",
-    "fonte": "Brazil Journal",
-    "data": "2026-06-30T23:13:36.000Z",
-    "tags_tema": [
-      "Juros/Macro"
-    ],
-    "tags_empresa": []
-  },
-  {
-    "id": "ce87d12523e51cb5",
-    "manchete": "MEMÓRIA. Luís Eulálio, que liderou a Fiesp na transição democrática",
-    "url": "https://braziljournal.com/memoria-luis-eulalio-que-liderou-a-fiesp-na-transicao-democratica/",
-    "resumo": "Luís Eulálio de Bueno Vidigal Filho, o histórico ex-presidente da Fiesp que liderou a renovação geracional da entidade empresarial durante a redemocratização brasileira, morreu ontem em São Paulo. Ele tinha 87 anos. Herdeiro da Companhia Brasileira de Material Ferroviário (Cobrasma), que se destacou no fornecimento de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-06-30T17:46:58.000Z",
-    "tags_tema": [],
-    "tags_empresa": []
-  },
-  {
-    "id": "c381e34412fb71f1",
-    "manchete": "França age contra as ‘blusinhas’. Mas o caminho foi tortuoso",
-    "url": "https://braziljournal.com/franca-age-contra-as-blusinhas-mas-o-caminho-foi-tortuoso/",
-    "resumo": "O Parlamento francês aprovou uma lei para multar as varejistas de ultrafast fashion, como a Shein, e marketplaces como a Temu. Discutida desde 2024, a legislação visa controlar o impacto ambiental das “roupas descartáveis” vendidas por estas empresas e proteger a indústria local. No entanto, justamente pela…",
-    "fonte": "Brazil Journal",
-    "data": "2026-06-30T15:04:43.000Z",
-    "tags_tema": [],
-    "tags_empresa": []
-  },
-  {
-    "id": "df45b24e9481e1d6",
-    "manchete": "OPINIÃO. As bets, como estão, são o gol contra da Copa",
-    "url": "https://braziljournal.com/opiniao-as-bets-como-estao-sao-o-gol-contra-da-copa/",
-    "resumo": "A Copa do Mundo movimenta somas astronômicas em marketing e impacta diferentes setores da economia. Entretanto, nos últimos anos uma nova camada passou a se sobrepor ao ecossistema econômico do futebol: a indústria das apostas esportivas. E, com ela, uma série de consequências muitas vezes perigosas. Regulamentadas…",
-    "fonte": "Brazil Journal",
-    "data": "2026-06-30T09:50:22.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": []
+    "tags_empresa": [],
+    "relevante": true
   }
 ]
