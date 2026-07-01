@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1b2c3d4e5f60011",
+    "manchete": "Gestora capta R$ 1,2 bi para novo fundo de private equity focado em infraestrutura",
+    "url": "https://exemplo.com.br/noticia-1",
+    "resumo": "O closing do veículo superou a meta inicial e atrai fundos de pensão e family offices. Estratégia mira ativos de energia e saneamento com teses de consolidação setorial ao longo dos próximos anos.",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-01T11:10:00.000Z",
+    "tags_tema": ["Fundraising", "Private Equity"],
+    "tags_empresa": ["Vinci Partners"]
+  },
+  {
+    "id": "a1b2c3d4e5f60022",
+    "manchete": "Aquisição movimenta setor de tecnologia industrial e sinaliza consolidação",
+    "url": "https://exemplo.com.br/noticia-2",
+    "resumo": "Companhia listada anuncia compra de rival por múltiplo estimado em 9x EV/EBITDA. A transação reforça a tese de automação e Indústria 4.0 que tem atraído o interesse de fundos de PE no país.",
+    "fonte": "InfoMoney",
+    "data": "2026-07-01T09:40:00.000Z",
+    "tags_tema": ["M&A", "Private Equity"],
+    "tags_empresa": ["Dynamox"]
+  },
+  {
+    "id": "a1b2c3d4e5f60033",
+    "manchete": "Copom mantém Selic e sinaliza cautela; efeito sobre custo de capital de fundos",
+    "url": "https://exemplo.com.br/noticia-3",
+    "resumo": "A decisão veio em linha com o consenso. Gestores avaliam impacto sobre hurdles indexados ao IPCA e sobre o apetite por estruturas de crédito privado no segundo semestre.",
+    "fonte": "NeoFeed",
+    "data": "2026-06-30T21:05:00.000Z",
+    "tags_tema": ["Juros/Macro", "Crédito/Dívida"],
+    "tags_empresa": ["Banco Central"]
+  },
+  {
+    "id": "a1b2c3d4e5f60044",
+    "manchete": "Agro atrai novo veículo de investimento com foco em consolidação de AgTechs",
+    "url": "https://exemplo.com.br/noticia-4",
+    "resumo": "Rodada de captação reúne investidores institucionais interessados em produtividade e crédito rural. A tese aposta em digitalização da cadeia e conexão com o mercado de capitais.",
+    "fonte": "NeoFeed",
+    "data": "2026-06-30T13:20:00.000Z",
+    "tags_tema": ["Agro", "Fundraising", "Venture Capital"],
+    "tags_empresa": []
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "pe-feed-ingest",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Ingestao de noticias (RSS + scrape) para o feed de PE",
+  "scripts": {
+    "start": "node atualizar.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.5.0"
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Brazil Journal",
+    "url": "https://braziljournal.com/rss",
+    "metodo": "rss",
+    "cor": "#002EA7"
+  },
+  {
+    "nome": "InfoMoney",
+    "url": "https://www.infomoney.com.br/feed/",
+    "metodo": "rss",
+    "cor": "#0D60E6"
+  },
+  {
+    "nome": "NeoFeed",
+    "url": "https://neofeed.com.br/",
+    "metodo": "scrape",
+    "cor": "#8A3B67",
+    "seletores": {
+      "item": "article a[href*='/']",
+      "titulo": "",
+      "resumo": "",
+      "link": ""
+    },
+    "obs": "Seletores de scrape SAO PLACEHOLDER — ajustar contra o DOM real do NeoFeed (ver README)."
+  }
+]
