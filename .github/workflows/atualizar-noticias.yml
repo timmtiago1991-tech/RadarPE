@@ -1,0 +1,50 @@
+name: Atualizar feed
+
+on:
+  schedule:
+    # GitHub Actions usa UTC. Brasil (BRT) = UTC-3.
+    - cron: '0 11 * * *'   # 08:00 BRT
+    - cron: '0 21 * * *'   # 18:00 BRT
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+
+# necessario para o job conseguir dar commit de volta no repositorio
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-feed
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        working-directory: scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Coletar noticias
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node atualizar.mjs
+
+      - name: Commit das mudancas
+        run: |
+          git config user.name "radar-pe-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dados/noticias.json
+          if git diff --staged --quiet; then
+            echo "Sem novidades — nada para commitar."
+          else
+            git commit -m "feed: atualizacao $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi
