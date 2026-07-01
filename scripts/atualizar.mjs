@@ -51,7 +51,11 @@ function limparTexto(html = "") {
 }
 
 function cortarResumo(t = "") {
-  const s = limparTexto(t);
+  let s = limparTexto(t)
+    .replace(/\bThe post\b.*?\bappeared first on\b.*$/i, "")
+    .replace(/\bO post\b.*?\bapareceu primeiro\b.*$/i, "")
+    .replace(/\s*(\[\u2026\]|\[\.\.\.\]|Leia mais|Continue lendo|Read more|Continue reading|Saiba mais)\s*\.?\s*$/i, "")
+    .trim();
   if (s.length <= RESUMO_MAX) return s;
   return s.slice(0, RESUMO_MAX).replace(/\s+\S*$/, "") + "…";
 }
@@ -92,6 +96,25 @@ async function baixar(url) {
   });
   if (!resp.ok) throw new Error(`HTTP ${resp.status} em ${url}`);
   return await resp.text();
+}
+
+// le a meta-descricao da pagina do artigo (og:description / description)
+export function extrairDescricao(html) {
+  const $ = cheerio.load(html);
+  const desc =
+    $('meta[property="og:description"]').attr("content") ||
+    $('meta[name="description"]').attr("content") ||
+    $('meta[name="twitter:description"]').attr("content") ||
+    "";
+  return cortarResumo(desc);
+}
+
+async function buscarResumoArtigo(url) {
+  try {
+    return extrairDescricao(await baixar(url));
+  } catch {
+    return "";
+  }
 }
 
 // ---------- coletores ----------
@@ -253,6 +276,10 @@ async function main() {
         const id = idDe(it.url);
         if (idsExistentes.has(id)) continue;
         idsExistentes.add(id);
+        if (!it.resumo || it.resumo.length < 30) {
+          const d = await buscarResumoArtigo(it.url);   // abre a materia e pega a meta-descricao
+          if (d) it.resumo = d;
+        }
         const tags = await gerarTags(it, usarLLM);
         novos.push({ id, ...it, url: it.url, ...tags });
       }
@@ -270,6 +297,16 @@ async function main() {
     .slice(0, LIMITE_TOTAL);
   const purgados = [...existentes].filter((x) => !urlPermitida(x.url)).length;
   console.log(`Limpeza: ${purgados} item(ns) antigos removidos da base (${antes} -> ${antes - purgados})`);
+
+  // backfill: preenche resumo de itens antigos que ficaram sem (ate 25 por execucao)
+  let enriquecidos = 0;
+  for (const x of todos) {
+    if (enriquecidos >= 25) break;
+    if ((x.resumo && x.resumo.length >= 30) || x.url.includes("exemplo.com.br")) continue;
+    const d = await buscarResumoArtigo(x.url);
+    if (d) { x.resumo = d; enriquecidos++; }
+  }
+  if (enriquecidos) console.log(`Resumo preenchido em ${enriquecidos} item(ns) antigos`);
 
   await writeFile(CAMINHO_DADOS, JSON.stringify(todos, null, 2) + "\n", "utf8");
   console.log(`Gravado ${todos.length} itens em dados/noticias.json`);
