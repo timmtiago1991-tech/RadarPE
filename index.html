@@ -404,9 +404,9 @@
       const resp = await fetch("./dados/noticias.json", { cache: "no-store" });
       if (!resp.ok) throw new Error("HTTP " + resp.status);
       const dados = await resp.json();
-      todos = (Array.isArray(dados) ? dados : []).sort(
-        (a, b) => new Date(b.data) - new Date(a.data)
-      );
+      todos = (Array.isArray(dados) ? dados : [])
+        .filter((x) => x.relevante !== false)   // esconde itens marcados fora de tema
+        .sort((a, b) => new Date(b.data) - new Date(a.data));
       montarRail();
       render();
     } catch (e) {
