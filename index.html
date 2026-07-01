@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Radar PE · notícias de private equity no Brasil</title>
+<meta name="theme-color" content="#002EA7" />
+<style>
+  :root {
+    --ink: #101828;
+    --ink-soft: #4a5568;
+    --ink-faint: #8891a3;
+    --paper: #f3f6fb;
+    --card: #ffffff;
+    --line: #dce3ee;
+    /* paleta Vinci Compass */
+    --navy: #002ea7;
+    --blue: #0d60e6;
+    --cyan: #00adee;
+    --teal: #38a887;
+    --green: #69be48;
+    --wine: #8a3b67;
+    --accent: #002ea7;
+    --accent-tint: #e6ecfb;
+    --chip-bg: #eef2f8;
+    --radius: 14px;
+    --max: 620px;
+    --font: "Trebuchet MS", "Segoe UI", Tahoma, Verdana, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ---------- top bar ---------- */
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: rgba(236, 238, 241, 0.86);
+    backdrop-filter: saturate(1.4) blur(10px);
+    border-bottom: 1px solid var(--line);
+  }
+  .topbar__inner {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 14px 16px 10px;
+  }
+  .brand {
+    display: flex;
+    align-items: baseline;
+    gap: 9px;
+  }
+  .brand__mark {
+    font-family: var(--font);
+    font-weight: 700;
+    font-size: 21px;
+    letter-spacing: -0.01em;
+    color: var(--navy);
+  }
+  .brand__mark b { color: var(--cyan); font-weight: 700; }
+  .brand__sub {
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    font-weight: 600;
+  }
+
+  /* tag rail */
+  .rail {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 12px 16px 4px;
+    max-width: var(--max);
+    margin: 0 auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .rail::-webkit-scrollbar { display: none; }
+  .rail__chip {
+    flex: 0 0 auto;
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink-soft);
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 7px 13px;
+    border-radius: 999px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: transform 0.12s ease, background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
+  }
+  .rail__chip .count { color: var(--ink-faint); font-weight: 600; margin-left: 5px; font-size: 12px; }
+  .rail__chip[aria-pressed="true"] {
+    background: var(--navy);
+    color: #fff;
+    border-color: var(--navy);
+  }
+  .rail__chip[aria-pressed="true"] .count { color: rgba(255,255,255,0.65); }
+
+  /* active filter banner */
+  .filterbar {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 6px 16px 12px;
+    display: none;
+    align-items: center;
+    gap: 10px;
+  }
+  .filterbar.is-on { display: flex; }
+  .filterbar__label { font-size: 13px; color: var(--ink-soft); }
+  .filterbar__label strong { color: var(--ink); }
+  .filterbar__clear {
+    margin-left: auto;
+    border: none;
+    background: var(--accent-tint);
+    color: var(--accent);
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+
+  /* ---------- feed ---------- */
+  .feed {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 8px 16px 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 16px 16px 14px;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: transform 0.14s ease, box-shadow 0.14s ease;
+  }
+  .card:active { transform: scale(0.992); }
+  @media (hover: hover) {
+    .card:hover { box-shadow: 0 6px 22px rgba(22, 25, 31, 0.08); }
+  }
+
+  .card__meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 9px;
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex: 0 0 auto; background: var(--ink-faint); }
+  .card__source {
+    font-size: 11.5px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .card__time { font-size: 12px; color: var(--ink-faint); margin-left: auto; }
+
+  .card__title {
+    font-family: var(--font);
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    margin: 0 0 7px;
+    color: var(--ink);
+  }
+  .card__summary {
+    font-size: 14.5px;
+    color: var(--ink-soft);
+    margin: 0 0 13px;
+  }
+
+  .tags { display: flex; flex-wrap: wrap; gap: 7px; }
+  .tag {
+    font-family: inherit;
+    font-size: 12.5px;
+    font-weight: 500;
+    padding: 4px 10px;
+    border-radius: 999px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: background 0.12s ease, border-color 0.12s ease;
+  }
+  /* tema: contorno */
+  .tag--tema {
+    background: transparent;
+    border-color: var(--line);
+    color: var(--ink-soft);
+  }
+  .tag--tema:hover { border-color: var(--ink-soft); color: var(--ink); }
+  /* empresa: preenchido com tinta do accent */
+  .tag--empresa {
+    background: var(--accent-tint);
+    color: var(--accent);
+  }
+  .tag--empresa::before { content: "●"; font-size: 8px; vertical-align: 2px; margin-right: 4px; }
+  .tag--empresa:hover { background: #d8e2f8; }
+
+  /* ---------- estados ---------- */
+  .state {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 64px 24px;
+    text-align: center;
+    color: var(--ink-soft);
+  }
+  .state__title { font-family: var(--font); font-weight: 700; font-size: 21px; color: var(--ink); margin: 0 0 6px; }
+  .state__hint { font-size: 14px; margin: 0; }
+  .state__btn {
+    margin-top: 16px;
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink);
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 9px 16px;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+</style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <div class="brand">
+        <span class="brand__mark">Radar<b>PE</b></span>
+        <span class="brand__sub">Private Equity · Brasil</span>
+      </div>
+    </div>
+    <nav class="rail" id="rail" aria-label="Filtrar por tag"></nav>
+    <div class="filterbar" id="filterbar">
+      <span class="filterbar__label" id="filterLabel"></span>
+      <button class="filterbar__clear" id="clearBtn" type="button">Limpar filtro</button>
+    </div>
+  </header>
+
+  <main class="feed" id="feed" aria-live="polite"></main>
+
+<script>
+(() => {
+  "use strict";
+
+  const FONTE_COR = {
+    "Brazil Journal": "#002EA7",
+    "InfoMoney": "#0D60E6",
+    "NeoFeed": "#8A3B67",
+    "AgFeed": "#69BE48",
+    "Money Times": "#38A887",
+    "Folha": "#00ADEE",
+  };
+
+  const feedEl = document.getElementById("feed");
+  const railEl = document.getElementById("rail");
+  const filterbarEl = document.getElementById("filterbar");
+  const filterLabelEl = document.getElementById("filterLabel");
+  const clearBtnEl = document.getElementById("clearBtn");
+
+  let todos = [];
+  let filtroAtivo = null; // string da tag
+
+  function tempoRelativo(iso) {
+    const d = new Date(iso);
+    if (isNaN(d)) return "";
+    const seg = Math.floor((Date.now() - d.getTime()) / 1000);
+    if (seg < 60) return "agora";
+    const min = Math.floor(seg / 60);
+    if (min < 60) return `há ${min} min`;
+    const h = Math.floor(min / 60);
+    if (h < 24) return `há ${h} h`;
+    const dias = Math.floor(h / 24);
+    if (dias < 7) return `há ${dias} d`;
+    return d.toLocaleDateString("pt-BR", { day: "2-digit", month: "short" });
+  }
+
+  function tagsDe(item) {
+    return [...(item.tags_tema || []), ...(item.tags_empresa || [])];
+  }
+
+  function escaparHtml(s = "") {
+    return s.replace(/[&<>"']/g, (c) => (
+      { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
+    ));
+  }
+
+  function montarRail() {
+    const contagem = new Map();
+    for (const it of todos) {
+      for (const t of tagsDe(it)) contagem.set(t, (contagem.get(t) || 0) + 1);
+    }
+    const ordenadas = [...contagem.entries()].sort((a, b) => b[1] - a[1]).slice(0, 14);
+    railEl.innerHTML = "";
+    for (const [tag, n] of ordenadas) {
+      const btn = document.createElement("button");
+      btn.className = "rail__chip";
+      btn.type = "button";
+      btn.setAttribute("aria-pressed", String(filtroAtivo === tag));
+      btn.innerHTML = `${escaparHtml(tag)}<span class="count">${n}</span>`;
+      btn.addEventListener("click", () => aplicarFiltro(filtroAtivo === tag ? null : tag));
+      railEl.appendChild(btn);
+    }
+  }
+
+  function aplicarFiltro(tag) {
+    filtroAtivo = tag;
+    montarRail();
+    render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function cardHtml(item) {
+    const cor = FONTE_COR[item.fonte] || "var(--ink-faint)";
+    const temas = (item.tags_tema || []).map(
+      (t) => `<button class="tag tag--tema" data-tag="${escaparHtml(t)}">${escaparHtml(t)}</button>`
+    ).join("");
+    const empresas = (item.tags_empresa || []).map(
+      (t) => `<button class="tag tag--empresa" data-tag="${escaparHtml(t)}">${escaparHtml(t)}</button>`
+    ).join("");
+    return `
+      <article>
+        <a class="card" href="${escaparHtml(item.url)}" target="_blank" rel="noopener noreferrer">
+          <div class="card__meta">
+            <span class="dot" style="background:${cor}"></span>
+            <span class="card__source">${escaparHtml(item.fonte || "")}</span>
+            <span class="card__time">${tempoRelativo(item.data)}</span>
+          </div>
+          <h2 class="card__title">${escaparHtml(item.manchete)}</h2>
+          ${item.resumo ? `<p class="card__summary">${escaparHtml(item.resumo)}</p>` : ""}
+          <div class="tags">${temas}${empresas}</div>
+        </a>
+      </article>`;
+  }
+
+  function render() {
+    const lista = filtroAtivo
+      ? todos.filter((it) => tagsDe(it).includes(filtroAtivo))
+      : todos;
+
+    if (filtroAtivo) {
+      filterbarEl.classList.add("is-on");
+      filterLabelEl.innerHTML = `<strong>${lista.length}</strong> ${lista.length === 1 ? "notícia" : "notícias"} · <strong>${escaparHtml(filtroAtivo)}</strong>`;
+    } else {
+      filterbarEl.classList.remove("is-on");
+    }
+
+    if (!lista.length) {
+      feedEl.innerHTML = `
+        <div class="state">
+          <p class="state__title">Nada por aqui ainda</p>
+          <p class="state__hint">Nenhuma notícia com essa tag. Ajuste o filtro para ver mais.</p>
+        </div>`;
+      return;
+    }
+
+    feedEl.innerHTML = lista.map(cardHtml).join("");
+
+    // clique nas tags dentro dos cards (sem abrir o link)
+    feedEl.querySelectorAll(".tag").forEach((el) => {
+      el.addEventListener("click", (ev) => {
+        ev.preventDefault();
+        ev.stopPropagation();
+        aplicarFiltro(el.dataset.tag);
+      });
+    });
+  }
+
+  function mostrarErro() {
+    feedEl.innerHTML = `
+      <div class="state">
+        <p class="state__title">Não foi possível carregar o feed</p>
+        <p class="state__hint">O arquivo de notícias não respondeu. Tente novamente em instantes.</p>
+        <button class="state__btn" type="button" id="retry">Tentar de novo</button>
+      </div>`;
+    document.getElementById("retry")?.addEventListener("click", carregar);
+  }
+
+  async function carregar() {
+    feedEl.innerHTML = `<div class="state"><p class="state__hint">Carregando notícias…</p></div>`;
+    try {
+      const resp = await fetch("./dados/noticias.json", { cache: "no-store" });
+      if (!resp.ok) throw new Error("HTTP " + resp.status);
+      const dados = await resp.json();
+      todos = (Array.isArray(dados) ? dados : []).sort(
+        (a, b) => new Date(b.data) - new Date(a.data)
+      );
+      montarRail();
+      render();
+    } catch (e) {
+      console.error(e);
+      mostrarErro();
+    }
+  }
+
+  clearBtnEl.addEventListener("click", () => aplicarFiltro(null));
+  carregar();
+})();
+</script>
+</body>
+</html>
