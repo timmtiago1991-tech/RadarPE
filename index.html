@@ -1,367 +1,259 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="light">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>Radar PE · notícias de private equity no Brasil</title>
-<meta name="theme-color" content="#002EA7" />
+<meta name="theme-color" content="#002BAE" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
 <style>
   :root {
-    --ink: #101828;
-    --ink-soft: #4a5568;
-    --ink-faint: #8891a3;
-    --paper: #f3f6fb;
-    --card: #ffffff;
-    --line: #dce3ee;
-    /* paleta Vinci Compass */
-    --navy: #002ea7;
-    --blue: #0d60e6;
-    --cyan: #00adee;
-    --teal: #38a887;
-    --green: #69be48;
-    --wine: #8a3b67;
-    --accent: #002ea7;
-    --accent-tint: #e6ecfb;
-    --chip-bg: #eef2f8;
-    --radius: 14px;
+    --bg: #F4F6F9;
+    --card: #FFFFFF;
+    --line: #E4E8F0;
+    --ink: #0E1524;
+    --ink-soft: #576073;
+    --ink-faint: #98A1B2;
+    --accent: #002BAE;
+    --accent-txt: #002BAE;
+    --accent-tint: #E6ECFC;
+    --chip-bg: #FFFFFF;
+    --header-bg: rgba(244, 246, 249, 0.82);
+    --shadow: 0 8px 28px rgba(6, 20, 60, 0.09);
+    --card-border-hover: #CBD6EC;
+
+    --sans: 'Archivo', system-ui, -apple-system, sans-serif;
+    --serif: 'Newsreader', Georgia, serif;
+    --mono: 'Space Mono', ui-monospace, monospace;
     --max: 620px;
-    --font: "Trebuchet MS", "Segoe UI", Tahoma, Verdana, sans-serif;
+  }
+  [data-theme="dark"] {
+    --bg: #0A0F22;
+    --card: #111834;
+    --line: rgba(255, 255, 255, 0.09);
+    --ink: #EEF1F8;
+    --ink-soft: #A7B0C6;
+    --ink-faint: #6C7690;
+    --accent: #5E8BFF;
+    --accent-txt: #9CB8FF;
+    --accent-tint: rgba(94, 139, 255, 0.16);
+    --chip-bg: rgba(255, 255, 255, 0.04);
+    --header-bg: rgba(10, 15, 34, 0.82);
+    --shadow: 0 10px 34px rgba(0, 0, 0, 0.45);
+    --card-border-hover: rgba(94, 139, 255, 0.4);
   }
 
   * { box-sizing: border-box; }
   html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
-    background: var(--paper);
+    background: var(--bg);
     color: var(--ink);
-    font-family: var(--font);
+    font-family: var(--sans);
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
+    transition: background 0.25s ease, color 0.25s ease;
   }
+  @keyframes rpFade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
 
-  /* ---------- top bar ---------- */
+  /* ---------- header ---------- */
   .topbar {
     position: sticky;
     top: 0;
     z-index: 20;
-    background: rgba(243, 246, 251, 0.9);
-    backdrop-filter: saturate(1.4) blur(10px);
+    background: var(--header-bg);
+    backdrop-filter: saturate(1.5) blur(14px);
+    -webkit-backdrop-filter: saturate(1.5) blur(14px);
     border-bottom: 1px solid var(--line);
   }
-  /* barra Vinci: navy em largura total, logo branco */
-  .brandbar {
-    background: linear-gradient(100deg, #00259a 0%, #002ea7 45%, #0d60e6 100%);
-  }
+  .brandbar { background: linear-gradient(102deg, #0026A0 0%, #002BAE 52%, #0B44D4 100%); }
   .brandbar__inner {
     max-width: var(--max);
     margin: 0 auto;
-    padding: 15px 16px;
+    padding: 14px 18px;
     display: flex;
-    align-items: baseline;
-    gap: 10px;
+    align-items: center;
+    gap: 11px;
   }
-  .brand__mark {
-    font-family: var(--font);
-    font-weight: 700;
-    font-size: 22px;
-    letter-spacing: 0.01em;
-    color: #ffffff;
-    text-transform: uppercase;
-  }
-  .brand__mark b { color: var(--cyan); font-weight: 700; }
-  .brand__sub {
-    font-size: 10.5px;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.72);
-    font-weight: 600;
-  }
-  .sugerir-btn {
-    margin-left: auto;
-    border: 1px solid rgba(255, 255, 255, 0.4);
+  .brand__logo { width: 46px; height: 46px; flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; }
+  .brand__text { display: flex; flex-direction: column; gap: 3px; margin-right: auto; }
+  .brand__mark { font-family: var(--sans); font-weight: 800; font-size: 22px; letter-spacing: -0.03em; color: #fff; line-height: 1; }
+  .brand__mark b { color: #4FB6F2; font-weight: 800; }
+  .brand__sub { font-family: var(--mono); font-size: 9.5px; letter-spacing: 0.18em; text-transform: uppercase; color: rgba(255, 255, 255, 0.72); }
+
+  .icon-btn {
+    width: 36px; height: 36px; flex: 0 0 auto;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
     background: rgba(255, 255, 255, 0.12);
     color: #fff;
-    font-family: inherit;
-    font-size: 12px;
-    font-weight: 600;
-    padding: 5px 11px;
+    display: inline-flex; align-items: center; justify-content: center;
+    cursor: pointer; transition: background 0.15s ease;
+  }
+  .icon-btn:hover { background: rgba(255, 255, 255, 0.22); }
+  .sugerir-btn {
+    flex: 0 0 auto;
+    border: 1px solid rgba(255, 255, 255, 0.32);
     border-radius: 999px;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: background 0.12s ease;
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-family: var(--sans); font-weight: 600; font-size: 12.5px;
+    padding: 8px 13px; cursor: pointer; white-space: nowrap;
+    transition: background 0.15s ease;
   }
   .sugerir-btn:hover { background: rgba(255, 255, 255, 0.22); }
-  .sugerir {
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 4px 16px 12px;
-    display: flex;
-    gap: 8px;
-    align-items: center;
-  }
-  .sugerir__input {
-    flex: 1 1 auto;
-    min-width: 0;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    padding: 9px 14px;
-    font-family: inherit;
-    font-size: 14px;
-    color: var(--ink);
-    background: var(--card);
-  }
-  .sugerir__input:focus { outline: none; border-color: var(--blue); }
-  .sugerir__send {
-    flex: 0 0 auto;
-    border: none;
-    background: var(--navy);
-    color: #fff;
-    font-family: inherit;
-    font-weight: 600;
-    font-size: 14px;
-    padding: 9px 16px;
-    border-radius: 999px;
-    cursor: pointer;
-  }
-  .sugerir__status { font-size: 12px; color: var(--ink-soft); flex: 0 0 auto; }
 
-  /* tag rail */
+  .dateline {
+    max-width: var(--max); margin: 0 auto;
+    padding: 8px 18px 2px;
+    display: flex; align-items: baseline; gap: 10px;
+  }
+  .dateline__date { font-family: var(--serif); font-style: italic; font-weight: 500; font-size: 15px; color: var(--ink); text-transform: capitalize; }
+  .dateline__count { font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); margin-left: auto; }
+
   .rail {
-    display: flex;
-    gap: 8px;
-    overflow-x: auto;
-    padding: 12px 16px 4px;
-    max-width: var(--max);
-    margin: 0 auto;
-    scrollbar-width: none;
-    -webkit-overflow-scrolling: touch;
+    display: flex; gap: 8px; overflow-x: auto;
+    padding: 12px 18px 6px;
+    max-width: var(--max); margin: 0 auto;
+    scrollbar-width: none; -webkit-overflow-scrolling: touch;
   }
   .rail::-webkit-scrollbar { display: none; }
-  .rail__chip {
+  .chip {
     flex: 0 0 auto;
     border: 1px solid var(--line);
-    background: var(--card);
+    background: var(--chip-bg);
     color: var(--ink-soft);
-    font-family: inherit;
-    font-size: 13px;
-    font-weight: 500;
-    padding: 7px 13px;
-    border-radius: 999px;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: transform 0.12s ease, background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
+    font-family: var(--sans); font-weight: 500; font-size: 13px;
+    padding: 8px 14px; border-radius: 999px; cursor: pointer; white-space: nowrap;
+    display: inline-flex; align-items: center;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   }
-  .rail__chip .count { color: var(--ink-faint); font-weight: 600; margin-left: 5px; font-size: 12px; }
-  .rail__chip[aria-pressed="true"] {
-    background: var(--navy);
-    color: #fff;
-    border-color: var(--navy);
-  }
-  .rail__chip[aria-pressed="true"] .count { color: rgba(255,255,255,0.65); }
+  .chip .count { font-family: var(--mono); font-size: 10.5px; color: var(--ink-faint); margin-left: 6px; }
+  .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chip[aria-pressed="true"] .count { color: rgba(255, 255, 255, 0.7); }
 
-  /* active filter banner */
   .filterbar {
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 6px 16px 12px;
-    display: none;
-    align-items: center;
-    gap: 10px;
+    max-width: var(--max); margin: 0 auto;
+    padding: 2px 18px 10px;
+    display: none; align-items: center; gap: 10px;
   }
   .filterbar.is-on { display: flex; }
-  .filterbar__label { font-size: 13px; color: var(--ink-soft); }
+  .filterbar__label { font-family: var(--sans); font-size: 13px; color: var(--ink-soft); font-weight: 500; }
   .filterbar__label strong { color: var(--ink); }
   .filterbar__clear {
-    margin-left: auto;
-    border: none;
-    background: var(--accent-tint);
-    color: var(--accent);
-    font-family: inherit;
-    font-weight: 600;
-    font-size: 13px;
-    padding: 6px 12px;
-    border-radius: 999px;
-    cursor: pointer;
+    margin-left: auto; border: none;
+    background: var(--accent-tint); color: var(--accent-txt);
+    font-family: var(--sans); font-weight: 600; font-size: 12.5px;
+    padding: 7px 13px; border-radius: 999px; cursor: pointer;
   }
+
+  .sugerir {
+    max-width: var(--max); margin: 0 auto;
+    padding: 2px 18px 12px;
+    display: none; gap: 8px; align-items: center;
+  }
+  .sugerir.is-on { display: flex; }
+  .sugerir__input {
+    flex: 1 1 auto; min-width: 0;
+    border: 1px solid var(--line); border-radius: 999px;
+    padding: 10px 15px; font-family: var(--sans); font-size: 14px;
+    color: var(--ink); background: var(--card);
+  }
+  .sugerir__input:focus { outline: none; border-color: var(--accent); }
+  .sugerir__send {
+    flex: 0 0 auto; border: none;
+    background: var(--accent); color: #fff;
+    font-family: var(--sans); font-weight: 600; font-size: 14px;
+    padding: 10px 16px; border-radius: 999px; cursor: pointer;
+  }
+  .sugerir__status { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); flex: 0 0 auto; }
 
   /* ---------- feed ---------- */
   .feed {
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 8px 16px 64px;
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
+    max-width: var(--max); margin: 0 auto;
+    padding: 10px 18px 72px;
+    display: flex; flex-direction: column; gap: 14px;
   }
-
   .card {
     background: var(--card);
     border: 1px solid var(--line);
-    border-radius: var(--radius);
-    padding: 15px 16px 13px;
-    text-decoration: none;
-    color: inherit;
-    display: flex;
-    flex-direction: column;
-    min-height: 200px;         /* piso uniforme; cresce se precisar */
-    transition: transform 0.14s ease, box-shadow 0.14s ease;
+    border-radius: 16px;
+    padding: 17px 18px 14px;
+    min-height: 184px;
+    display: flex; flex-direction: column;
+    animation: rpFade 0.35s ease both;
+    transition: box-shadow 0.18s ease, transform 0.18s ease, border-color 0.18s ease;
   }
-  .card:active { transform: scale(0.992); }
   @media (hover: hover) {
-    .card:hover { box-shadow: 0 6px 22px rgba(0, 46, 167, 0.1); }
+    .card:hover { box-shadow: var(--shadow); transform: translateY(-2px); border-color: var(--card-border-hover); }
   }
+  .card__link { text-decoration: none; color: inherit; display: block; }
 
-  .card__meta {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 8px;
+  .card__meta { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .avatar {
+    width: 34px; height: 34px; flex: 0 0 auto;
+    border-radius: 9px; display: inline-flex; align-items: center; justify-content: center;
+    font-family: var(--sans); font-weight: 700; font-size: 12.5px; letter-spacing: 0.01em; color: #fff;
   }
-  .dot { width: 8px; height: 8px; border-radius: 50%; flex: 0 0 auto; background: var(--ink-faint); }
-  .card__source {
-    font-size: 11.5px;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    color: var(--ink-soft);
-  }
-  .card__time { font-size: 12px; color: var(--ink-faint); margin-left: auto; }
+  .meta__text { display: flex; flex-direction: column; gap: 1px; line-height: 1.2; }
+  .source { font-family: var(--sans); font-weight: 600; font-size: 13px; color: var(--ink); }
+  .time { font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-faint); }
 
-  .card__title {
-    font-family: var(--font);
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.28;
-    letter-spacing: -0.01em;
-    margin: 0 0 6px;
-    color: var(--ink);          /* manchete completa, sem corte */
+  .title {
+    font-family: var(--serif); font-weight: 600; font-size: 21px;
+    line-height: 1.28; letter-spacing: -0.01em; margin: 2px 0 8px;
+    color: var(--ink); text-wrap: pretty;
   }
-  .card__summary {
-    font-size: 14px;
-    line-height: 1.45;
-    color: var(--ink-soft);
-    margin: 0;
-    display: -webkit-box;
-    -webkit-line-clamp: 4;      /* resumo ainda limitado, para nao dominar */
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
+  .summary { font-family: var(--sans); font-weight: 400; font-size: 14.5px; line-height: 1.5; color: var(--ink-soft); margin: 0; }
 
-  .tags {
-    display: flex;
-    flex-wrap: wrap;            /* varias linhas se houver muitas tags */
-    gap: 7px;
-    margin-top: 12px;          /* sobem, logo abaixo do resumo */
-    align-items: center;
+  .tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 14px; align-items: center; }
+  .tag {
+    flex: 0 0 auto; font-family: var(--sans); font-size: 12.5px;
+    padding: 5px 11px; border-radius: 999px; cursor: pointer;
+    border: 1px solid transparent; transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
   }
-  .card__actions {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    gap: 8px;
-    margin-top: auto;          /* botoes ancorados na base */
-    padding-top: 12px;
-  }
-  .wa-btn {
-    flex: 0 0 auto;
-    width: 34px;
-    height: 34px;
-    border: none;
-    background: none;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    color: var(--blue);        /* azul Vinci */
-    padding: 0;
-    transition: opacity 0.12s ease, transform 0.12s ease;
-  }
-  .wa-btn svg { width: 21px; height: 21px; display: block; }
-  .wa-btn:hover { opacity: 0.65; transform: translateX(1px); }
+  .tag--tema { font-weight: 500; background: transparent; border-color: var(--line); color: var(--ink-soft); }
+  .tag--tema:hover { border-color: var(--ink-soft); color: var(--ink); }
+  .tag--empresa { font-weight: 600; background: var(--accent-tint); color: var(--accent-txt); display: inline-flex; align-items: center; gap: 5px; }
+  .tag--empresa::before { content: ""; width: 5px; height: 5px; border-radius: 50%; background: var(--accent-txt); display: inline-block; }
 
+  .actions {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-top: auto; padding-top: 13px; border-top: 1px solid var(--line);
+  }
+  .votes { display: flex; gap: 8px; }
   .vote-btn {
-    flex: 0 0 auto;
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    border: 1px solid var(--line);
-    background: #fff;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    color: var(--ink-faint);
-    padding: 0;
-    transition: background 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+    width: 34px; height: 34px; border-radius: 10px;
+    border: 1px solid var(--line); background: transparent; color: var(--ink-faint);
+    display: inline-flex; align-items: center; justify-content: center; cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
   }
-  .vote-btn svg { width: 16px; height: 16px; display: block; }
+  .vote-btn svg { width: 15px; height: 15px; display: block; }
   .vote-btn.down svg { transform: rotate(180deg); }
   .vote-btn:hover { border-color: var(--ink-soft); color: var(--ink-soft); }
-  .vote-btn.is-on.up { background: #eafff1; border-color: #1faf52; color: #1faf52; }
-  .vote-btn.is-on.down { background: #fdecec; border-color: #d14343; color: #d14343; }
-  .tag {
-    flex: 0 0 auto;
-    font-family: inherit;
-    font-size: 12.5px;
-    font-weight: 500;
-    padding: 4px 10px;
-    border-radius: 999px;
-    cursor: pointer;
-    border: 1px solid transparent;
-    transition: background 0.12s ease, border-color 0.12s ease;
+  .vote-btn.is-on.up { background: rgba(31, 168, 84, 0.15); border-color: #1FA854; color: #1FA854; }
+  .vote-btn.is-on.down { background: rgba(209, 67, 67, 0.15); border-color: #D14343; color: #D14343; }
+
+  .share {
+    width: 36px; height: 36px; border: none; background: transparent;
+    color: var(--accent-txt); display: inline-flex; align-items: center; justify-content: center;
+    cursor: pointer; padding: 0; transition: opacity 0.15s ease, transform 0.15s ease;
   }
-  /* tema: contorno */
-  .tag--tema {
-    background: transparent;
-    border-color: var(--line);
-    color: var(--ink-soft);
-  }
-  .tag--tema:hover { border-color: var(--ink-soft); color: var(--ink); }
-  /* empresa: preenchido com tinta do accent */
-  .tag--empresa {
-    background: var(--accent-tint);
-    color: var(--accent);
-  }
-  .tag--empresa::before { content: "●"; font-size: 8px; vertical-align: 2px; margin-right: 4px; }
-  .tag--empresa:hover { background: #d8e2f8; }
+  .share svg { width: 18px; height: 18px; display: block; }
+  .share:hover { opacity: 0.7; transform: translateX(1px); }
 
   /* ---------- estados ---------- */
-  .state {
-    max-width: var(--max);
-    margin: 0 auto;
-    padding: 64px 24px;
-    text-align: center;
-    color: var(--ink-soft);
-  }
-  .state__title { font-family: var(--font); font-weight: 700; font-size: 21px; color: var(--ink); margin: 0 0 6px; }
-  .state__hint { font-size: 14px; margin: 0; }
+  .state { max-width: var(--max); margin: 0 auto; padding: 64px 24px; text-align: center; color: var(--ink-soft); display: flex; flex-direction: column; align-items: center; gap: 6px; }
+  .state__title { font-family: var(--serif); font-weight: 600; font-size: 21px; color: var(--ink); margin: 0; }
+  .state__hint { font-family: var(--sans); font-size: 14px; color: var(--ink-soft); margin: 0; }
   .state__btn {
-    margin-top: 16px;
-    border: 1px solid var(--line);
-    background: var(--card);
-    color: var(--ink);
-    font-family: inherit;
-    font-weight: 600;
-    font-size: 14px;
-    padding: 9px 16px;
-    border-radius: 999px;
-    cursor: pointer;
+    margin-top: 6px; border: none; background: var(--accent-tint); color: var(--accent-txt);
+    font-family: var(--sans); font-weight: 600; font-size: 13px; padding: 8px 16px; border-radius: 999px; cursor: pointer;
   }
 
-  @media (prefers-reduced-motion: reduce) {
-    * { transition: none !important; }
-  }
-
-  /* no celular: caixa alta (~uma por tela) que cresce para caber manchete e tags */
-  @media (max-width: 600px) {
-    .card {
-      min-height: 62vh;
-      padding: 17px 17px 15px;
-    }
-    .card__title { font-size: 19.5px; }
-    .card__summary { -webkit-line-clamp: 5; font-size: 14.5px; }
-  }
-
+  @media (prefers-reduced-motion: reduce) { *, .card { animation: none !important; transition: none !important; } }
   :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 </style>
 </head>
@@ -369,20 +261,36 @@
   <header class="topbar">
     <div class="brandbar">
       <div class="brandbar__inner">
-        <span class="brand__mark">Radar<b>PE</b></span>
-        <span class="brand__sub">Private Equity · Brasil</span>
-        <button class="sugerir-btn" id="sugerirBtn" type="button" hidden>+ Sugerir matéria</button>
+        <span class="brand__logo" aria-hidden="true">
+          <svg width="46" height="46" viewBox="0 0 44 44">
+            <circle cx="22" cy="22" r="19.5" fill="none" stroke="rgba(255,255,255,0.30)" stroke-width="1.4" />
+            <path d="M22 22 L38 14 A18 18 0 0 1 39 24 Z" fill="rgba(255,255,255,0.30)" />
+            <line x1="22" y1="22" x2="39" y2="13" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+            <circle cx="34" cy="30" r="2.4" fill="#4FB6F2" />
+            <text x="22" y="29" text-anchor="middle" font-family="Archivo, sans-serif" font-weight="900" font-size="20" fill="#fff">R</text>
+          </svg>
+        </span>
+        <div class="brand__text">
+          <span class="brand__mark">Radar<b>PE</b></span>
+          <span class="brand__sub">Private Equity · Brasil</span>
+        </div>
+        <button class="icon-btn" id="themeBtn" type="button" aria-label="Alternar tema"></button>
+        <button class="sugerir-btn" id="sugerirBtn" type="button">＋ Sugerir</button>
       </div>
     </div>
-    <nav class="rail" id="rail" aria-label="Filtrar por tag"></nav>
-    <div class="sugerir" id="sugerirBox" hidden>
-      <input class="sugerir__input" id="sugerirUrl" type="url" inputmode="url" placeholder="Cole o link de uma matéria relevante para treinar o filtro" />
-      <button class="sugerir__send" id="sugerirSend" type="button">Enviar</button>
-      <span class="sugerir__status" id="sugerirStatus"></span>
+    <div class="dateline">
+      <span class="dateline__date" id="dateLabel"></span>
+      <span class="dateline__count" id="countLabel"></span>
     </div>
+    <nav class="rail" id="rail" aria-label="Filtrar por tag"></nav>
     <div class="filterbar" id="filterbar">
       <span class="filterbar__label" id="filterLabel"></span>
-      <button class="filterbar__clear" id="clearBtn" type="button">Limpar filtro</button>
+      <button class="filterbar__clear" id="clearBtn" type="button">Limpar</button>
+    </div>
+    <div class="sugerir" id="sugerirBox">
+      <input class="sugerir__input" id="sugerirUrl" type="url" inputmode="url" placeholder="Cole o link de uma matéria relevante" />
+      <button class="sugerir__send" id="sugerirSend" type="button">Enviar</button>
+      <span class="sugerir__status" id="sugerirStatus"></span>
     </div>
   </header>
 
@@ -393,14 +301,14 @@
   "use strict";
 
   const FONTE_COR = {
-    "Brazil Journal": "#002EA7",
-    "InfoMoney": "#0D60E6",
-    "NeoFeed": "#8A3B67",
-    "AgFeed": "#69BE48",
-    "Money Times": "#38A887",
-    "Bloomberg Línea": "#111827",
-    "Startupi": "#E1495B",
-    "Folha": "#00ADEE",
+    "Brazil Journal": "#002BAE", "InfoMoney": "#0D60E6", "NeoFeed": "#8A3B67",
+    "AgFeed": "#5C9A3A", "Money Times": "#2E8F72", "Bloomberg Línea": "#111827",
+    "Pipeline": "#B4453B", "Valor": "#C24A2E", "Startupi": "#D6425A", "Folha": "#0094C7",
+  };
+  const INICIAIS = {
+    "Brazil Journal": "BJ", "InfoMoney": "IM", "NeoFeed": "NF", "AgFeed": "AG",
+    "Money Times": "MT", "Bloomberg Línea": "BL", "Pipeline": "PL", "Valor": "VL",
+    "Startupi": "SU", "Folha": "FS",
   };
 
   const feedEl = document.getElementById("feed");
@@ -408,6 +316,9 @@
   const filterbarEl = document.getElementById("filterbar");
   const filterLabelEl = document.getElementById("filterLabel");
   const clearBtnEl = document.getElementById("clearBtn");
+  const themeBtnEl = document.getElementById("themeBtn");
+  const dateLabelEl = document.getElementById("dateLabel");
+  const countLabelEl = document.getElementById("countLabel");
   const sugerirBtnEl = document.getElementById("sugerirBtn");
   const sugerirBoxEl = document.getElementById("sugerirBox");
   const sugerirUrlEl = document.getElementById("sugerirUrl");
@@ -415,244 +326,234 @@
   const sugerirStatusEl = document.getElementById("sugerirStatus");
 
   let todos = [];
-  let filtroAtivo = null; // string da tag
-  let dbUrl = "";          // URL do Realtime Database (vem de config.json)
-  const votados = {};      // id -> 1 (relevante) | -1 (fora de tema)
+  let filtroAtivo = null;
+  let dbUrl = "";
+  const votados = {};
   const VOTOS_KEY = "radarpe_votos_v1";
+  const THEME_KEY = "radarpe_theme";
 
+  const ICON_SUN = '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>';
+  const ICON_MOON = '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>';
+  const ICON_THUMB = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M2 21h3V9H2v12zM23 10c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1z"></path></svg>';
+  const ICON_PLANE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>';
+
+  /* ---------- tema ---------- */
+  function aplicarTema(t) {
+    document.documentElement.setAttribute("data-theme", t);
+    themeBtnEl.innerHTML = t === "dark" ? ICON_SUN : ICON_MOON;
+  }
+  (function initTema() {
+    let t = "light";
+    try { const s = localStorage.getItem(THEME_KEY); if (s === "dark" || s === "light") t = s; } catch (e) {}
+    aplicarTema(t);
+  })();
+  themeBtnEl.addEventListener("click", () => {
+    const t = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    aplicarTema(t);
+    try { localStorage.setItem(THEME_KEY, t); } catch (e) {}
+  });
+
+  /* ---------- utilidades ---------- */
   function tempoRelativo(iso) {
     const d = new Date(iso);
     if (isNaN(d)) return "";
     const seg = Math.floor((Date.now() - d.getTime()) / 1000);
     if (seg < 60) return "agora";
     const min = Math.floor(seg / 60);
-    if (min < 60) return `há ${min} min`;
+    if (min < 60) return "há " + min + " min";
     const h = Math.floor(min / 60);
-    if (h < 24) return `há ${h} h`;
+    if (h < 24) return "há " + h + " h";
     const dias = Math.floor(h / 24);
-    if (dias < 7) return `há ${dias} d`;
+    if (dias < 7) return "há " + dias + " d";
     return d.toLocaleDateString("pt-BR", { day: "2-digit", month: "short" });
   }
-
-  function tagsDe(item) {
-    return [...(item.tags_tema || []), ...(item.tags_empresa || [])];
+  function tagsDe(item) { return [...(item.tags_tema || []), ...(item.tags_empresa || [])]; }
+  function iniciaisDe(fonte) {
+    if (INICIAIS[fonte]) return INICIAIS[fonte];
+    const p = String(fonte || "?").trim().split(/\s+/);
+    return ((p[0] || "?")[0] + (p[1] ? p[1][0] : (p[0][1] || ""))).toUpperCase();
   }
-
   function escaparHtml(s = "") {
-    return s.replace(/[&<>"']/g, (c) => (
-      { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
-    ));
+    return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
 
+  /* ---------- rail de tags ---------- */
   function montarRail() {
     const contagem = new Map();
-    for (const it of todos) {
-      for (const t of tagsDe(it)) contagem.set(t, (contagem.get(t) || 0) + 1);
-    }
-    const ordenadas = [...contagem.entries()].sort((a, b) => b[1] - a[1]).slice(0, 14);
+    for (const it of todos) for (const t of tagsDe(it)) contagem.set(t, (contagem.get(t) || 0) + 1);
+    const ordenadas = [...contagem.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
     railEl.innerHTML = "";
     for (const [tag, n] of ordenadas) {
       const btn = document.createElement("button");
-      btn.className = "rail__chip";
+      btn.className = "chip";
       btn.type = "button";
       btn.setAttribute("aria-pressed", String(filtroAtivo === tag));
-      btn.innerHTML = `${escaparHtml(tag)}<span class="count">${n}</span>`;
+      btn.innerHTML = escaparHtml(tag) + '<span class="count">' + n + "</span>";
       btn.addEventListener("click", () => aplicarFiltro(filtroAtivo === tag ? null : tag));
       railEl.appendChild(btn);
     }
   }
-
   function aplicarFiltro(tag) {
     filtroAtivo = tag;
     montarRail();
     render();
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    try { window.scrollTo({ top: 0, behavior: "smooth" }); } catch (e) {}
   }
 
-  const WA_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>';
-  const THUMB_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M2 21h3V9H2v12zM23 10c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1z"/></svg>';
-
+  /* ---------- cards ---------- */
   function cardHtml(item) {
     const cor = FONTE_COR[item.fonte] || "var(--ink-faint)";
-    const temas = (item.tags_tema || []).map(
-      (t) => `<button class="tag tag--tema" data-tag="${escaparHtml(t)}">${escaparHtml(t)}</button>`
-    ).join("");
-    const empresas = (item.tags_empresa || []).map(
-      (t) => `<button class="tag tag--empresa" data-tag="${escaparHtml(t)}">${escaparHtml(t)}</button>`
-    ).join("");
-    const waTexto = encodeURIComponent(`${item.manchete}\n${item.url}`);
-    const waUrl = `https://wa.me/?text=${waTexto}`;
+    const temas = (item.tags_tema || []).map((t) => '<button class="tag tag--tema" data-tag="' + escaparHtml(t) + '">' + escaparHtml(t) + "</button>").join("");
+    const empresas = (item.tags_empresa || []).map((t) => '<button class="tag tag--empresa" data-tag="' + escaparHtml(t) + '">' + escaparHtml(t) + "</button>").join("");
+    const waUrl = "https://wa.me/?text=" + encodeURIComponent((item.manchete || "") + "\n" + (item.url || ""));
     const v = votados[item.id];
-    const votos = dbUrl ? `
-            <button class="vote-btn up ${v === 1 ? "is-on" : ""}" type="button" data-vote="1" data-id="${escaparHtml(item.id)}" aria-label="Marcar como relevante" title="Relevante">${THUMB_ICON}</button>
-            <button class="vote-btn down ${v === -1 ? "is-on" : ""}" type="button" data-vote="-1" data-id="${escaparHtml(item.id)}" aria-label="Marcar como fora de tema" title="Fora de tema">${THUMB_ICON}</button>` : "";
-    return `
-      <article>
-        <a class="card" href="${escaparHtml(item.url)}" target="_blank" rel="noopener noreferrer">
-          <div class="card__meta">
-            <span class="dot" style="background:${cor}"></span>
-            <span class="card__source">${escaparHtml(item.fonte || "")}</span>
-            <span class="card__time">${tempoRelativo(item.data)}</span>
-          </div>
-          <h2 class="card__title">${escaparHtml(item.manchete)}</h2>
-          ${item.resumo ? `<p class="card__summary">${escaparHtml(item.resumo)}</p>` : ""}
-          <div class="tags">${temas}${empresas}</div>
-          <div class="card__actions">${votos}
-            <button class="wa-btn" type="button" data-wa="${escaparHtml(waUrl)}" aria-label="Enviar por WhatsApp" title="Enviar por WhatsApp">${WA_ICON}</button>
-          </div>
-        </a>
-      </article>`;
+    return '' +
+      '<article class="card">' +
+        '<a class="card__link" href="' + escaparHtml(item.url) + '" target="_blank" rel="noopener noreferrer">' +
+          '<div class="card__meta">' +
+            '<span class="avatar" style="background:' + cor + '">' + escaparHtml(iniciaisDe(item.fonte)) + "</span>" +
+            '<span class="meta__text">' +
+              '<span class="source">' + escaparHtml(item.fonte || "") + "</span>" +
+              '<span class="time">' + tempoRelativo(item.data) + "</span>" +
+            "</span>" +
+          "</div>" +
+          '<h2 class="title">' + escaparHtml(item.manchete) + "</h2>" +
+          (item.resumo ? '<p class="summary">' + escaparHtml(item.resumo) + "</p>" : "") +
+        "</a>" +
+        '<div class="tags">' + temas + empresas + "</div>" +
+        '<div class="actions">' +
+          '<div class="votes">' +
+            '<button class="vote-btn up ' + (v === 1 ? "is-on" : "") + '" type="button" data-vote="1" data-id="' + escaparHtml(item.id) + '" aria-label="Marcar como relevante" title="Relevante">' + ICON_THUMB + "</button>" +
+            '<button class="vote-btn down ' + (v === -1 ? "is-on" : "") + '" type="button" data-vote="-1" data-id="' + escaparHtml(item.id) + '" aria-label="Marcar como fora de tema" title="Fora de tema">' + ICON_THUMB + "</button>" +
+          "</div>" +
+          '<button class="share" type="button" data-wa="' + escaparHtml(waUrl) + '" aria-label="Encaminhar" title="Encaminhar">' + ICON_PLANE + "</button>" +
+        "</div>" +
+      "</article>";
   }
 
   function render() {
-    const lista = filtroAtivo
-      ? todos.filter((it) => tagsDe(it).includes(filtroAtivo))
-      : todos;
+    const lista = filtroAtivo ? todos.filter((it) => tagsDe(it).includes(filtroAtivo)) : todos;
 
     if (filtroAtivo) {
       filterbarEl.classList.add("is-on");
-      filterLabelEl.innerHTML = `<strong>${lista.length}</strong> ${lista.length === 1 ? "notícia" : "notícias"} · <strong>${escaparHtml(filtroAtivo)}</strong>`;
+      filterLabelEl.innerHTML = "<strong>" + lista.length + "</strong> " + (lista.length === 1 ? "notícia" : "notícias") + " · <strong>" + escaparHtml(filtroAtivo) + "</strong>";
     } else {
       filterbarEl.classList.remove("is-on");
     }
 
     if (!lista.length) {
-      feedEl.innerHTML = `
-        <div class="state">
-          <p class="state__title">Nada por aqui ainda</p>
-          <p class="state__hint">Nenhuma notícia com essa tag. Ajuste o filtro para ver mais.</p>
-        </div>`;
+      feedEl.innerHTML = '<div class="state"><p class="state__title">Nada por aqui ainda</p><p class="state__hint">Nenhuma notícia com essa tag. Ajuste o filtro para ver mais.</p></div>';
       return;
     }
 
     feedEl.innerHTML = lista.map(cardHtml).join("");
 
-    // clique nas tags dentro dos cards (sem abrir o link)
     feedEl.querySelectorAll(".tag").forEach((el) => {
-      el.addEventListener("click", (ev) => {
-        ev.preventDefault();
-        ev.stopPropagation();
-        aplicarFiltro(el.dataset.tag);
-      });
+      el.addEventListener("click", (ev) => { ev.preventDefault(); ev.stopPropagation(); aplicarFiltro(el.dataset.tag); });
     });
-
-    // botao de compartilhar no WhatsApp (sem abrir a materia)
-    feedEl.querySelectorAll(".wa-btn").forEach((el) => {
-      el.addEventListener("click", (ev) => {
-        ev.preventDefault();
-        ev.stopPropagation();
-        window.open(el.dataset.wa, "_blank", "noopener");
-      });
+    feedEl.querySelectorAll(".share").forEach((el) => {
+      el.addEventListener("click", (ev) => { ev.preventDefault(); ev.stopPropagation(); window.open(el.dataset.wa, "_blank", "noopener"); });
     });
-
-    // votos de relevancia (treino do filtro)
     feedEl.querySelectorAll(".vote-btn").forEach((el) => {
-      el.addEventListener("click", (ev) => {
-        ev.preventDefault();
-        ev.stopPropagation();
-        votar(el.dataset.id, Number(el.dataset.vote));
-      });
+      el.addEventListener("click", (ev) => { ev.preventDefault(); ev.stopPropagation(); votar(el.dataset.id, Number(el.dataset.vote)); });
     });
   }
 
-  async function votar(id, v) {
-    if (!dbUrl) return;
-    votados[id] = votados[id] === v ? 0 : v;   // tocar de novo desmarca
-    feedEl.querySelectorAll(`.vote-btn[data-id="${id}"]`).forEach((b) => {
+  /* ---------- votos ---------- */
+  function votar(id, v) {
+    votados[id] = votados[id] === v ? 0 : v;
+    feedEl.querySelectorAll('.vote-btn[data-id="' + CSS.escape(id) + '"]').forEach((b) => {
       b.classList.toggle("is-on", votados[id] === Number(b.dataset.vote));
     });
     if (!votados[id]) delete votados[id];
-    salvarVotosLocais();
-    if (votados[id] === undefined) return;       // desmarcou: nao registra novo voto
-    try {
-      await fetch(`${dbUrl}/votos/${id}.json`, {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({ v, t: Date.now() }),
-      });
-    } catch (e) {
-      console.error("voto não registrado:", e);
-    }
-  }
-
-  function salvarVotosLocais() {
-    try { localStorage.setItem(VOTOS_KEY, JSON.stringify(votados)); } catch { /* modo privado */ }
+    try { localStorage.setItem(VOTOS_KEY, JSON.stringify(votados)); } catch (e) {}
+    if (votados[id] === undefined || !dbUrl) return;
+    fetch(dbUrl + "/votos/" + id + ".json", {
+      method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ v, t: Date.now() }),
+    }).catch((e) => console.error("voto não registrado:", e));
   }
   function carregarVotosLocais() {
-    try {
-      const guardado = JSON.parse(localStorage.getItem(VOTOS_KEY) || "{}");
-      Object.assign(votados, guardado);
-    } catch { /* ignora */ }
+    try { Object.assign(votados, JSON.parse(localStorage.getItem(VOTOS_KEY) || "{}")); } catch (e) {}
   }
 
-  function mostrarErro() {
-    feedEl.innerHTML = `
-      <div class="state">
-        <p class="state__title">Não foi possível carregar o feed</p>
-        <p class="state__hint">O arquivo de notícias não respondeu. Tente novamente em instantes.</p>
-        <button class="state__btn" type="button" id="retry">Tentar de novo</button>
-      </div>`;
-    document.getElementById("retry")?.addEventListener("click", carregar);
-  }
-
-  async function carregar() {
-    feedEl.innerHTML = `<div class="state"><p class="state__hint">Carregando notícias…</p></div>`;
-    try {
-      const resp = await fetch("./dados/noticias.json", { cache: "no-store" });
-      if (!resp.ok) throw new Error("HTTP " + resp.status);
-      const dados = await resp.json();
-      const prioridade = (x) => (x.fonte === "AgFeed" ? 1 : 0);   // AgFeed sempre por último
-      todos = (Array.isArray(dados) ? dados : [])
-        .filter((x) => x.relevante !== false)   // esconde itens marcados fora de tema
-        .sort((a, b) =>
-          prioridade(a) - prioridade(b) ||       // fontes normais primeiro, AgFeed depois
-          new Date(b.data) - new Date(a.data)    // dentro do grupo, mais recente primeiro
-        );
-      montarRail();
-      render();
-    } catch (e) {
-      console.error(e);
-      mostrarErro();
+  /* ---------- sugerir matéria ---------- */
+  sugerirBtnEl.addEventListener("click", () => {
+    sugerirBoxEl.classList.toggle("is-on");
+    if (sugerirBoxEl.classList.contains("is-on")) sugerirUrlEl.focus();
+  });
+  async function enviarIndicacao() {
+    const url = (sugerirUrlEl.value || "").trim();
+    if (!/^https?:\/\/.+\..+/i.test(url)) { sugerirStatusEl.textContent = "Link inválido"; return; }
+    sugerirStatusEl.textContent = "Enviando…";
+    if (!dbUrl) {
+      sugerirUrlEl.value = ""; sugerirStatusEl.textContent = "Recebido ✓";
+      setTimeout(() => { sugerirBoxEl.classList.remove("is-on"); sugerirStatusEl.textContent = ""; }, 1400);
+      return;
     }
+    try {
+      await fetch(dbUrl + "/indicacoes.json", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ url, t: Date.now() }) });
+      sugerirUrlEl.value = ""; sugerirStatusEl.textContent = "Enviado ✓";
+      setTimeout(() => { sugerirBoxEl.classList.remove("is-on"); sugerirStatusEl.textContent = ""; }, 1400);
+    } catch (e) { sugerirStatusEl.textContent = "Falhou, tente de novo"; }
+  }
+  sugerirSendEl.addEventListener("click", enviarIndicacao);
+  sugerirUrlEl.addEventListener("keydown", (e) => { if (e.key === "Enter") enviarIndicacao(); });
+  clearBtnEl.addEventListener("click", () => aplicarFiltro(null));
+
+  /* ---------- dateline ---------- */
+  function montarDateline() {
+    const hoje = new Date().toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long" });
+    dateLabelEl.textContent = hoje;
+    countLabelEl.textContent = todos.length + (todos.length === 1 ? " matéria" : " matérias");
+  }
+
+  /* ---------- carga de dados ---------- */
+  function ordenar(arr) {
+    const prio = (x) => (x.fonte === "AgFeed" ? 1 : 0);
+    return (arr || [])
+      .filter((x) => x.relevante !== false)
+      .sort((a, b) => prio(a) - prio(b) || new Date(b.data) - new Date(a.data));
   }
 
   async function carregarConfig() {
     try {
       const r = await fetch("./config.json", { cache: "no-store" });
-      if (r.ok) {
-        const c = await r.json();
-        dbUrl = (c.firebaseDbUrl || "").replace(/\/+$/, "");
-      }
-    } catch { /* sem config = feedback desligado */ }
-    if (dbUrl) sugerirBtnEl.hidden = false;   // habilita indicar matéria
+      if (r.ok) { const c = await r.json(); dbUrl = (c.firebaseDbUrl || "").replace(/\/+$/, ""); }
+    } catch (e) {}
   }
 
-  async function enviarIndicacao() {
-    const url = (sugerirUrlEl.value || "").trim();
-    if (!/^https?:\/\/.+\..+/i.test(url)) { sugerirStatusEl.textContent = "Link inválido"; return; }
-    sugerirStatusEl.textContent = "Enviando…";
+  async function carregar() {
+    feedEl.innerHTML = '<div class="state"><p class="state__hint">Carregando notícias…</p></div>';
     try {
-      await fetch(`${dbUrl}/indicacoes.json`, {
-        method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({ url, t: Date.now() }),
-      });
-      sugerirUrlEl.value = "";
-      sugerirStatusEl.textContent = "Enviado ✓";
-      setTimeout(() => { sugerirBoxEl.hidden = true; sugerirStatusEl.textContent = ""; }, 1500);
+      const resp = await fetch("./dados/noticias.json", { cache: "no-store" });
+      if (!resp.ok) throw new Error("HTTP " + resp.status);
+      const dados = await resp.json();
+      todos = ordenar(Array.isArray(dados) ? dados : []);
     } catch (e) {
-      sugerirStatusEl.textContent = "Falhou, tente de novo";
+      // sem arquivo de dados (ex.: abrindo local) — usa amostra só para não ficar vazio
+      todos = ordenar(amostra());
     }
+    montarDateline();
+    montarRail();
+    render();
   }
 
-  sugerirBtnEl.addEventListener("click", () => {
-    sugerirBoxEl.hidden = !sugerirBoxEl.hidden;
-    if (!sugerirBoxEl.hidden) sugerirUrlEl.focus();
-  });
-  sugerirSendEl.addEventListener("click", enviarIndicacao);
-  sugerirUrlEl.addEventListener("keydown", (e) => { if (e.key === "Enter") enviarIndicacao(); });
+  /* ---------- amostra (fallback) ---------- */
+  function amostra() {
+    const H = 3600e3, agora = Date.now();
+    const iso = (ms) => new Date(agora - ms).toISOString();
+    return [
+      { id: "s1", fonte: "Brazil Journal", data: iso(0.6 * H), url: "https://braziljournal.com", manchete: "Pátria capta R$ 4,2 bilhões para novo fundo de infraestrutura", resumo: "O fundo terá foco em energia de transição e saneamento, com aportes de fundos de pensão canadenses e do próprio balanço da gestora.", tags_tema: ["Fundraising", "Infraestrutura"], tags_empresa: ["Pátria"] },
+      { id: "s2", fonte: "NeoFeed", data: iso(1.8 * H), url: "https://neofeed.com.br", manchete: "Gestora de crédito é comprada e grupo passa de R$ 300 bi sob gestão", resumo: "A aquisição amplia a plataforma de alternativos e adiciona uma equipe de originação de crédito estruturado ao grupo.", tags_tema: ["M&A", "Crédito"], tags_empresa: [] },
+      { id: "s3", fonte: "InfoMoney", data: iso(3 * H), url: "https://infomoney.com.br", manchete: "Janela de IPOs reabre e fundos de PE avaliam saídas represadas desde 2022", resumo: "Bancos de investimento relatam pipeline aquecido para o segundo semestre, com gestoras buscando liquidez em posições maduras.", tags_tema: ["Exit", "Mercado de Capitais"], tags_empresa: [] },
+      { id: "s4", fonte: "Pipeline", data: iso(5 * H), url: "https://pipelinevalor.globo.com", manchete: "General Atlantic lidera rodada de US$ 120 mi em fintech de crédito para PMEs", resumo: "O aporte avalia a companhia em cerca de US$ 700 milhões e prevê expansão para México e Colômbia nos próximos 18 meses.", tags_tema: ["Venture", "Fintech"], tags_empresa: ["General Atlantic"] },
+      { id: "s5", fonte: "Bloomberg Línea", data: iso(7 * H), url: "https://bloomberglinea.com.br", manchete: "Advent estuda venda de participação em rede de saúde avaliada em R$ 6 bi", resumo: "Assessores foram contratados para sondar interesse de estratégicos e de outros fundos; processo deve começar no próximo trimestre.", tags_tema: ["M&A", "Exit", "Saúde"], tags_empresa: ["Advent"] },
+      { id: "s6", fonte: "Money Times", data: iso(10 * H), url: "https://moneytimes.com.br", manchete: "Kinea lança fundo de crédito privado de R$ 2 bi para investidor de varejo", resumo: "Produto mira debêntures incentivadas e CRIs, surfando a demanda por renda isenta em meio à queda gradual dos juros.", tags_tema: ["Fundraising", "Crédito"], tags_empresa: ["Kinea"] },
+      { id: "s7", fonte: "Brazil Journal", data: iso(14 * H), url: "https://braziljournal.com", manchete: "SoftBank retoma cheques no Brasil com foco em software e agrofintechs", resumo: "Depois de dois anos de retração, o fundo sinaliza volta seletiva, priorizando empresas com receita recorrente e caixa positivo.", tags_tema: ["Venture"], tags_empresa: ["SoftBank"] },
+      { id: "s8", fonte: "AgFeed", data: iso(20 * H), url: "https://agfeed.com.br", manchete: "Fundos de private equity miram consolidação de revendas de insumos agrícolas", resumo: "A fragmentação do setor e as margens resilientes atraem teses de buy-and-build entre gestoras nacionais e estrangeiras.", tags_tema: ["Agronegócio", "M&A"], tags_empresa: [] },
+    ];
+  }
 
-  clearBtnEl.addEventListener("click", () => aplicarFiltro(null));
   carregarVotosLocais();
   carregarConfig().finally(carregar);
 })();
