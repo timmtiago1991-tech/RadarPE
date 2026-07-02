@@ -2,9 +2,9 @@ name: Atualizar feed
 
 on:
   schedule:
-    # GitHub Actions usa UTC. Brasil (BRT) = UTC-3.
-    - cron: '0 11 * * *'   # 08:00 BRT
-    - cron: '0 21 * * *'   # 18:00 BRT
+    # GitHub Actions usa UTC. Brasil (BRT) = UTC-3. Minuto fora do :00 p/ evitar drop.
+    - cron: '15 10 * * *'   # 07:15 BRT
+    - cron: '15 21 * * *'   # 18:15 BRT
   workflow_dispatch:        # permite rodar manualmente pela aba Actions
 
 # necessario para o job conseguir dar commit de volta no repositorio
@@ -34,6 +34,8 @@ jobs:
       - name: Coletar noticias
         working-directory: scripts
         env:
+          # Opcional: se este secret existir, as tags saem via Claude (tema + empresas).
+          # Sem ele, o script usa tags por palavra-chave automaticamente.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node atualizar.mjs
 
@@ -44,7 +46,17 @@ jobs:
           git add dados/
           if git diff --staged --quiet; then
             echo "Sem novidades — nada para commitar."
-          else
-            git commit -m "feed: atualizacao $(date -u +'%Y-%m-%dT%H:%MZ')"
-            git push
+            exit 0
           fi
+          git commit -m "feed: atualizacao $(date -u +'%Y-%m-%dT%H:%MZ')"
+          # tenta empurrar; se o main remoto avancou nesse meio-tempo, rebaseia e tenta de novo
+          for i in 1 2 3; do
+            if git push; then
+              echo "push ok"
+              exit 0
+            fi
+            echo "push rejeitado (tentativa $i); rebaseando sobre o remoto..."
+            git pull --rebase origin main
+          done
+          echo "falha ao empurrar apos 3 tentativas" >&2
+          exit 1
