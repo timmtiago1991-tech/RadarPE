@@ -601,9 +601,13 @@
       const resp = await fetch("./dados/noticias.json", { cache: "no-store" });
       if (!resp.ok) throw new Error("HTTP " + resp.status);
       const dados = await resp.json();
+      const prioridade = (x) => (x.fonte === "AgFeed" ? 1 : 0);   // AgFeed sempre por último
       todos = (Array.isArray(dados) ? dados : [])
         .filter((x) => x.relevante !== false)   // esconde itens marcados fora de tema
-        .sort((a, b) => new Date(b.data) - new Date(a.data));
+        .sort((a, b) =>
+          prioridade(a) - prioridade(b) ||       // fontes normais primeiro, AgFeed depois
+          new Date(b.data) - new Date(a.data)    // dentro do grupo, mais recente primeiro
+        );
       montarRail();
       render();
     } catch (e) {
