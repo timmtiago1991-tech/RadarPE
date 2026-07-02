@@ -1,5 +1,70 @@
 [
   {
+    "id": "328c179339091fcc",
+    "manchete": "\"ChatGPTrump\": OpenAI negocia vender fatia de 5% ao governo dos EUA",
+    "url": "https://neofeed.com.br/negocios/chatgptrump-openai-negocia-vender-fatia-de-5-ao-governo-dos-eua/",
+    "resumo": "Iniciativa indica intenção do CEO Sam Altman de atrair governo dos EUA como investidor para fortalecer IPO e pressionar rivais da IA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-02T22:02:40.755Z",
+    "tags_tema": [
+      "Fundraising",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "OpenAI"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "4e4be359a11582cc",
+    "manchete": "Advent avança na Natura e se aproxima de 8% do capital",
+    "url": "https://neofeed.com.br/negocios/advent-avanca-na-natura-e-se-aproxima-de-8-do-capital/",
+    "resumo": "Como parte do compromisso firmado entre as duas partes, a gestora americana alcançou uma participação de 6,6% na operação",
+    "fonte": "NeoFeed",
+    "data": "2026-07-02T22:02:40.754Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Advent",
+      "Natura"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "c8617403359d35f2",
+    "manchete": "Cloud9 Capital levanta R$ 600 milhões e dobra tamanho de seu segundo fundo",
+    "url": "https://neofeed.com.br/startups/cloud9-capital-levanta-r-600-milhoes-e-dobra-tamanho-de-seu-segundo-fundo/",
+    "resumo": "Gestora mantém a tese de early growth, amplia tamanho dos cheques e vai apostar em até dez empresas de tecnologia neste novo veículo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-02T22:02:40.753Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "Cloud9 Capital"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "2b31ea18b66b1b50",
+    "manchete": "BTG (BPAC11) compra fatia da Leste no WTC São Paulo e mira controle do complexo",
+    "url": "https://www.moneytimes.com.br/btg-bpac11-compra-fatia-da-leste-no-wtc-sao-paulo-e-mira-controle-do-complexo-vtra/",
+    "resumo": "O BTG Pactual (BPAC11) comprou uma participação no complexo World Trade Center São Paulo e deve assumir o controle do ativo. Segundo o Valor, a transação avaliou o empreendimento em R$ 1,4 bilhão. Documentos publicados no Diário Oficial da União desta quinta-feira (2) mostram que o Cade recebeu dois atos de…",
+    "fonte": "Money Times",
+    "data": "2026-07-02T21:52:28.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "BTG Pactual",
+      "World Trade Center São Paulo"
+    ],
+    "relevante": true
+  },
+  {
     "id": "64e44e7bdbdfbd09",
     "manchete": "Natura (NATU3) diz que Advent passou a deter ações equivalentes a 6,6% do capital social, além de exposição via derivativos",
     "url": "https://www.moneytimes.com.br/natura-natu3-diz-que-advent-passou-a-deter-acoes-equivalentes-a-66-do-capital-social-alem-de-exposicao-via-derivativos-lmrs/",
