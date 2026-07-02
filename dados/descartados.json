@@ -1,5 +1,70 @@
 [
   {
+    "id": "6dbc6787d74308c2",
+    "manchete": "Chanel compra Charvet, a mais antiga camisaria do mundo",
+    "data": "2026-07-02T13:45:13.303Z"
+  },
+  {
+    "id": "dbf6cdb78f40c978",
+    "manchete": "Wall Street sobe com payroll abaixo do esperado; Dow Jones mira novo recorde",
+    "data": "2026-07-02T13:44:12.000Z"
+  },
+  {
+    "id": "7d5a17ec2db6ed9d",
+    "manchete": "Renan Santos anuncia tenente-coronel Aroldo Medina como pré-candidato a vice-presidente",
+    "data": "2026-07-02T13:42:44.000Z"
+  },
+  {
+    "id": "f1c64af4586d60c2",
+    "manchete": "Torcedores processam site de revenda por ingressos cancelados da Copa do Mundo",
+    "data": "2026-07-02T13:37:05.000Z"
+  },
+  {
+    "id": "283e360b44c6c483",
+    "manchete": "Após forte ataque a Kiev, Rússia diz que continuará aumentando pressão sobre Ucrânia",
+    "data": "2026-07-02T13:34:39.000Z"
+  },
+  {
+    "id": "4192301424a3aa83",
+    "manchete": "Meta (M1TA34) pode ir de consumidora a fornecedora de infraestrutura de IA",
+    "data": "2026-07-02T13:23:47.000Z"
+  },
+  {
+    "id": "4d4aa889e7705cdd",
+    "manchete": "Mini índice pode buscar os 178 mil pontos se romper os 176 mil; mini dólar mantém viés positivo",
+    "data": "2026-07-02T13:21:02.000Z"
+  },
+  {
+    "id": "fe86002143899c0e",
+    "manchete": "Montadoras chinesas sobem vendas de veículos elétricos com demanda externa",
+    "data": "2026-07-02T13:20:44.000Z"
+  },
+  {
+    "id": "9a11d4a56af74fdd",
+    "manchete": "Kassab defende política de reestruturação e corte de R$ 1 bilhão para investimentos em setores vitais",
+    "data": "2026-07-02T13:19:52.000Z"
+  },
+  {
+    "id": "39cff1a3afdceb58",
+    "manchete": "Brasil divulga plano de mineração para 2050; meta é elevar participação na produção global de minerais críticos para 12,2%",
+    "data": "2026-07-02T13:15:21.000Z"
+  },
+  {
+    "id": "40cb7170f0450648",
+    "manchete": "PIS/Pasep em julho 2026: veja quando o abono cai na conta e quem pode receber",
+    "data": "2026-07-02T13:03:31.000Z"
+  },
+  {
+    "id": "78d569b1f6f805c1",
+    "manchete": "Japão deve mudar estratégia de intervenções para combater posições vendidas no iene",
+    "data": "2026-07-02T13:03:28.000Z"
+  },
+  {
+    "id": "778bea650b560173",
+    "manchete": "Oito monges morrem na Tailândia em acidente causado por uma criança no volante",
+    "data": "2026-07-02T13:02:46.000Z"
+  },
+  {
     "id": "40adb816bff5f244",
     "manchete": "SP: Rota mata suspeito de atentado a tenente; polícia investiga conexão",
     "data": "2026-07-02T12:45:05.000Z"
@@ -420,6 +485,16 @@
     "data": "2026-07-01T09:50:57.000Z"
   },
   {
+    "id": "5b6a688c723a0fec",
+    "manchete": "Europa supera 40°C e começa a derreter próximo trimestre fiscal",
+    "data": "2026-07-01T08:00:00.000Z"
+  },
+  {
+    "id": "e1faee12d2086a12",
+    "manchete": "Crachá de silício",
+    "data": "2026-07-01T08:00:00.000Z"
+  },
+  {
     "id": "ed2258f07df8f354",
     "manchete": "Tarcísio vai manter Linha 17 com o Metrô: “sem dogma”",
     "data": "2026-07-01T03:20:35.000Z"
@@ -440,8 +515,33 @@
     "data": "2026-06-30T15:04:43.000Z"
   },
   {
+    "id": "65e76a0fb0c82a0b",
+    "manchete": "Instituições deixam de ganhar quando tratam o cadastro apenas como obrigação regulatória",
+    "data": "2026-06-30T13:34:02.000Z"
+  },
+  {
     "id": "df45b24e9481e1d6",
     "manchete": "OPINIÃO. As bets, como estão, são o gol contra da Copa",
     "data": "2026-06-30T09:50:22.000Z"
+  },
+  {
+    "id": "3feff5d2604eb804",
+    "manchete": "O gargalo oculto da IA: o Brasil terá estrutura física para sustentar a próxima corrida tecnológica?",
+    "data": "2026-06-30T08:00:00.000Z"
+  },
+  {
+    "id": "b9f38f04eb774a79",
+    "manchete": "Por que PMEs brasileiras estão contratando talentos globais antes das grandes corporações",
+    "data": "2026-06-29T14:57:44.000Z"
+  },
+  {
+    "id": "2fa85473d8324173",
+    "manchete": "Bets e um cartão vermelho tardio",
+    "data": "2026-06-29T08:00:00.000Z"
+  },
+  {
+    "id": "9388c1800b406fc1",
+    "manchete": "Álbum da Copa vai de passatempo à “bolsa de valores” de papel",
+    "data": "2026-06-29T08:00:00.000Z"
   }
 ]

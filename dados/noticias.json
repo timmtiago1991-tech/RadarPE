@@ -1,5 +1,141 @@
 [
   {
+    "id": "64e44e7bdbdfbd09",
+    "manchete": "Natura (NATU3) diz que Advent passou a deter ações equivalentes a 6,6% do capital social, além de exposição via derivativos",
+    "url": "https://www.moneytimes.com.br/natura-natu3-diz-que-advent-passou-a-deter-acoes-equivalentes-a-66-do-capital-social-alem-de-exposicao-via-derivativos-lmrs/",
+    "resumo": "A Natura (NATU3) comunicou nesta quinta-feira (2) que o fundo de investimentos em participação multiestratégia Lotus informou que passou a ser titular de 90.676.500 de ações da fabricante de cosméticos, que representam 6,6% do capital social da companhia. O fundo é detido por veículos geridos pela Advent International…",
+    "fonte": "Money Times",
+    "data": "2026-07-02T13:36:33.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Natura",
+      "Advent International",
+      "Lotus"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "22ce428219b5ba07",
+    "manchete": "Natura diz que Advent passou a deter ações equivalentes a 6,6% do capital social",
+    "url": "https://www.infomoney.com.br/mercados/natura-diz-que-advent-passou-a-deter-acoes-equivalentes-a-66-do-capital-social/",
+    "resumo": "Natura também ​disse que a Advent mantém, por meio ​de operações de derivativos, exposição equivalente a 19.288.800 ⁠ações da companhia",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T13:34:16.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Natura",
+      "Advent"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "f979f8628438df20",
+    "manchete": "Ibovespa sobe, dólar e juros caem: por que payroll nos EUA anima ativos domésticos?",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-sobe-dolar-e-juros-caem-por-que-payroll-nos-eua-anima-ativos-mas-cautela-no-radar/",
+    "resumo": "O relatório de emprego do Departamento do Trabalho informou que a economia dos EUA gerou 57 mil postos de trabalho em junho, abaixo dos 110 mil projetados",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T13:27:48.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "86a7e750fad32c82",
+    "manchete": "Stenon capta R$ 106 milhões em Série B para escalar manejo de nitrogênio em tempo real",
+    "url": "https://startupi.com.br/stenon-capta-r-106-milhoes-em-serie-b/",
+    "resumo": "Startupi Stenon capta R$ 106 milhões em Série B para escalar manejo de nitrogênio em tempo real A Stenon, AgTech alemã que permite o manejo eficiente e sustentável de nutrientes por meio de análise de solo em tempo real, anunciou nesta quarta-feira (1) uma captação de €18 milhões em Série B, equivalente a…",
+    "fonte": "Startupi",
+    "data": "2026-07-02T13:23:21.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Stenon"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "20fd5a9d61c5306d",
+    "manchete": "Procuradorias pedem falência do Grupo Dolly por dívidas de R$ 15,7 bilhões",
+    "url": "https://www.moneytimes.com.br/procuradorias-pedem-falencia-do-grupo-dolly-por-dividas-de-r-157-bilhoes-igdl/",
+    "resumo": "A Procuradoria-Geral da Fazenda Nacional (PGFN) e a Procuradoria-Geral do Estado de São Paulo (PGE/SP) protocolaram, em ação conjunta, um pedido de falência das companhias que compõem o Grupo Dolly, responsável pela famosa marca brasileira de refrigerantes. Segundo os órgãos, o total da dívida ativa da empresa, que…",
+    "fonte": "Money Times",
+    "data": "2026-07-02T13:21:18.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Grupo Dolly"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "4be7af3b65e0dbc7",
+    "manchete": "Startups nativas de IA alcançam valuation de bilhões de dólares na metade do tempo, diz pesquisa",
+    "url": "https://startupi.com.br/startups-nativas-de-ia-alcancam-valuation-de-bilhoes/",
+    "resumo": "Startupi Startups nativas de IA alcançam valuation de bilhões de dólares na metade do tempo, diz pesquisa A AWS Startups acaba de divulgar o estudo global \"Engines of Growth\" (Motores de Crescimento) revelando como as startups nativas de IA estão reescrevendo as regras de criação de empresas. O relatório revela que as…",
+    "fonte": "Startupi",
+    "data": "2026-07-02T13:17:25.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "AWS"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "b349905218cc34c0",
+    "manchete": "IPC-S desacelera em seis das sete capitais pesquisadas pela FGV no fim de junho",
+    "url": "https://www.infomoney.com.br/economia/ipc-s-desacelera-em-seis-das-sete-capitais-pesquisadas-pela-fgv-no-fim-de-junho/",
+    "resumo": "O índice geral caiu para 0,36% puxado pelo recuo das taxas na maior parte das regiões avaliadas pela FGV",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T13:13:40.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "FGV"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "291c26b3f2ad61df",
+    "manchete": "Ibovespa avança com payroll mais fraco nos EUA; 5 coisas para saber antes de investir hoje (2)",
+    "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-2-7-26-apsa/",
+    "resumo": "O Ibovespa (IBOV) avança em linha com o otimismo no exterior após os dados do mercado de trabalho mais fracos nos Estados Unidos. Por volta de 10h11 (horário de Brasília), o principal índice da bolsa brasileira operava em alta de 0,81%, aos 173.075,06 pontos. O dólar à vista opera em baixa ante o real, seguindo…",
+    "fonte": "Money Times",
+    "data": "2026-07-02T13:12:37.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "9a5e23e6586e8b21",
+    "manchete": "Operadores reduzem apostas em alta de juros pelo Fed após dados de emprego",
+    "url": "https://www.infomoney.com.br/mercados/operadores-reduzem-apostas-em-alta-de-juros-pelo-fed-apos-dados-de-emprego/",
+    "resumo": "Os operadores estimam menos de 20% de probabilidade de um aumento dos juros em julho",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T13:08:08.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
     "id": "94972658103ff0c4",
     "manchete": "Virada de chave na FMC",
     "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
@@ -682,6 +818,24 @@
       "M&A"
     ],
     "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "995937b25902af0d",
+    "manchete": "Jota levanta R$150 milhões para construir o agente financeiro do empreendedor, baseado em IA",
+    "url": "https://startupi.com.br/jota-levanta-r150-milhoes/",
+    "resumo": "Startupi Jota levanta R$150 milhões para construir o agente financeiro do empreendedor, baseado em IA O Jota, assistente financeiro e pessoal que funciona dentro do WhatsApp e em aplicativo próprio, captou R$ 150 milhões (US$ 30 milhões) em uma rodada Série A liderada pela Haun Ventures. A operação reúne ainda a HOF…",
+    "fonte": "Startupi",
+    "data": "2026-06-29T14:53:46.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "Jota",
+      "Haun Ventures",
+      "HOF"
+    ],
     "relevante": true
   }
 ]
