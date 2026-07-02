@@ -36,5 +36,17 @@
       "link": ""
     },
     "obs": "Mesma plataforma do NeoFeed; filtro de relevancia deve manter deals/agro-capital e descartar noticia operacional de safra."
+  },
+  {
+    "nome": "Money Times",
+    "url": "https://www.moneytimes.com.br/feed/",
+    "metodo": "rss",
+    "cor": "#38A887"
+  },
+  {
+    "nome": "Startupi",
+    "url": "https://startupi.com.br/feed/",
+    "metodo": "rss",
+    "cor": "#E1495B"
   }
 ]
