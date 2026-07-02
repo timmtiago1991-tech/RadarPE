@@ -1,5 +1,143 @@
 [
   {
+    "id": "94972658103ff0c4",
+    "manchete": "Virada de chave na FMC",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
+    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
+    "fonte": "AgFeed",
+    "data": "2026-07-02T12:49:54.795Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "FMC",
+      "Tessenderlo"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "f3c6908f6ab22864",
+    "manchete": "Bayer segrega glifosato em nova empresa e realimenta especulações sobre cisão da divisão agrícola",
+    "url": "https://agfeed.com.br/negocios/bayer-segrega-glifosato-em-nova-empresa-e-realimenta-especulacoes-sobre-cisao-da-divisao-agricola",
+    "resumo": "Bayer cria a Ruveon, empresa para gerir operações com glifosato nos EUA, e reacende especulações sobre cisão da divisão agrícola",
+    "fonte": "AgFeed",
+    "data": "2026-07-02T12:49:54.793Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Bayer",
+      "Ruveon"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "8c7e8b5e6446dfcf",
+    "manchete": "\"Multiagfintech\", MerX multiplica negócios e prepara fundos para chegar em R$ 1 bi em crédito ao agro \"Multiagfintech\", MerX multiplica negócios e prepara fundos para chegar em R$ 1 bi em crédito ao agro",
+    "url": "https://agfeed.com.br/financas/multiagfintech-merx-multiplica-negocios-e-prepara-fundos-para-chegar-em-r-1-bi-em-credito-ao-agro",
+    "resumo": "Empresa fundada por ex-executivos do BTG Pactual, MerX combina tecnologia, plataforma, trading e soluções para rastreabilidade",
+    "fonte": "AgFeed",
+    "data": "2026-07-02T12:49:54.793Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "MerX",
+      "BTG Pactual"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "8a2a55132b99546a",
+    "manchete": "O ajuste de rota dos fundos de private equity do Patria na América Latina",
+    "url": "https://neofeed.com.br/negocios/o-ajuste-de-rota-dos-fundos-de-private-equity-do-patria-na-america-latina/",
+    "resumo": "Gestora faz remarcações dos valores das cotas em dois de seus veículos. Um dos fundos será liquidado e as empresas vendidas",
+    "fonte": "NeoFeed",
+    "data": "2026-07-02T12:49:50.971Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Patria"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "a4dff2b5a2b2fb11",
+    "manchete": "Ibovespa futuro vira para alta após payroll abaixo do esperado",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-atencao-voltada-para-relatorio-de-emprego-dos-eua/",
+    "resumo": "A economia dos EUA abriu 57 mil postos fora do setor agrícola no mês passado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T12:39:08.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "d40e5bf833d9686e",
+    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02072026/",
+    "resumo": "Índices futuros dos EUA avançam após novos dados de emprego",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T12:35:12.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "8ac39ae353efa3ef",
+    "manchete": "Payroll: EUA criam 57 mil vagas de trabalho em junho, bem abaixo do esperado",
+    "url": "https://www.infomoney.com.br/economia/payroll-eua-emprego-junho-2026/",
+    "resumo": "Pesquisa da Reuters apontava expectativa de que a economia norte-americana tivesse aberto 110 mil vagas de emprego fora do setor agrícola no mês passado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T12:32:41.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true
+  },
+  {
+    "id": "fb866329f10092e3",
+    "manchete": "Cade aprova compra de 50% da Mitsubishi Fuso pela Foxconn e defende revisão de regra",
+    "url": "https://www.infomoney.com.br/business/cade-aprova-compra-de-50-da-mitsubishi-fuso-pela-foxconn-e-defende-revisao-de-regra/",
+    "resumo": "O principal debate do julgamento concentrou-se na obrigatoriedade de notificação da operação ao Cade",
+    "fonte": "InfoMoney",
+    "data": "2026-07-02T12:31:47.000Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Foxconn",
+      "Mitsubishi Fuso",
+      "Cade"
+    ],
+    "relevante": true
+  },
+  {
+    "id": "e0df4ebaeafe14e8",
+    "manchete": "Com o balanço por um fio, Lime vale US$ 1,6 bilhão em IPO do patinete",
+    "url": "https://braziljournal.com/com-o-balanco-por-um-fio-lime-vale-us-16-bilhao-em-ipo-do-patinete/",
+    "resumo": "A Lime – a startup americana de aluguel de patinetes e bicicletas elétricas que tem o Uber como principal investidor – abriu seu capital na Nasdaq. O IPO dá algum fôlego à empresa, que disse no prospecto ter “dúvidas substanciais” se conseguiria continuar operando se não encontrasse novas fontes de financiamento. A…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-02T12:06:56.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Lime",
+      "Uber"
+    ],
+    "relevante": true
+  },
+  {
     "id": "8a0c39a2a55a9407",
     "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
     "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
