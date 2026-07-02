@@ -15,6 +15,7 @@ const CAMINHO_FONTES = resolve(RAIZ, "fontes.json");
 const CAMINHO_DADOS = resolve(RAIZ, "dados", "noticias.json");
 const CAMINHO_DESCARTADOS = resolve(RAIZ, "dados", "descartados.json");
 const CAMINHO_CONFIG = resolve(RAIZ, "config.json");
+const CAMINHO_INDICACOES = resolve(RAIZ, "dados", "indicacoes.json");
 
 const LIMITE_TOTAL = 800;          // teto de itens guardados (os mais recentes)
 const LIMITE_DESCARTADOS = 3000;   // teto do registro de descartados (so id/titulo/data)
@@ -118,6 +119,31 @@ async function buscarResumoArtigo(url) {
   } catch {
     return "";
   }
+}
+
+// para indicacoes: titulo da materia (og:title / <title>) ou, se bloqueada, palavras da URL
+export function extrairTitulo(html) {
+  const $ = cheerio.load(html);
+  return limparTexto($('meta[property="og:title"]').attr("content") || $("title").first().text() || "");
+}
+
+export function deSlug(url) {
+  try {
+    const u = new URL(url);
+    const segs = u.pathname.split("/").filter(Boolean);
+    const base = segs[segs.length - 1] || u.hostname;
+    return base.replace(/\.\w+$/, "").replace(/[-_]+/g, " ").trim();
+  } catch {
+    return url;
+  }
+}
+
+async function resolverTitulo(url) {
+  try {
+    const t = extrairTitulo(await baixar(url));
+    if (t && t.length > 6) return t.slice(0, 160);
+  } catch { /* pagina inacessivel */ }
+  return deSlug(url);
 }
 
 // ---------- coletores ----------
@@ -283,7 +309,19 @@ async function lerVotos(dbUrl) {
   }
 }
 
-export function montarExemplos(agg, mapaTitulos, limite = 6) {
+async function lerIndicacoes(dbUrl) {
+  try {
+    const resp = await fetch(`${dbUrl}/indicacoes.json`);
+    if (!resp.ok) return [];
+    const data = (await resp.json()) || {};
+    return Object.values(data).map((x) => x && x.url).filter(Boolean);
+  } catch (e) {
+    console.warn(`  ! leitura de indicacoes falhou: ${e.message}`);
+    return [];
+  }
+}
+
+export function montarExemplos(agg, mapaTitulos, extrasRelevantes = [], limite = 6) {
   const rel = [], irr = [];
   for (const [id, v] of Object.entries(agg)) {
     const t = mapaTitulos.get(id);
@@ -291,6 +329,7 @@ export function montarExemplos(agg, mapaTitulos, limite = 6) {
     if (v.rel > v.irr) rel.push({ t, n: v.rel - v.irr });
     else if (v.irr > v.rel) irr.push({ t, n: v.irr - v.rel });
   }
+  for (const t of extrasRelevantes) if (t) rel.push({ t, n: 999 }); // indicacao = sinal forte
   rel.sort((a, b) => b.n - a.n);
   irr.sort((a, b) => b.n - a.n);
   if (!rel.length && !irr.length) return "";
@@ -334,9 +373,30 @@ async function main() {
       const mapa = new Map();
       for (const x of existentes) mapa.set(x.id, x.manchete);
       for (const x of descartados) mapa.set(x.id, x.manchete);
-      exemplos = montarExemplos(agg, mapa);
+
+      // indicacoes de materia (treino apenas): resolve titulo e guarda no ledger local
+      let extras = [];
+      const urls = await lerIndicacoes(dbUrl);
+      if (urls.length) {
+        let ledger = [];
+        try { ledger = JSON.parse(await readFile(CAMINHO_INDICACOES, "utf8")); } catch { ledger = []; }
+        const conhecidas = new Set(ledger.map((x) => x.url));
+        let add = 0;
+        for (const u of urls) {
+          if (conhecidas.has(u)) continue;
+          conhecidas.add(u);
+          ledger.push({ url: u, titulo: await resolverTitulo(u), t: Date.now() });
+          add++;
+        }
+        ledger = ledger.slice(-200);
+        await writeFile(CAMINHO_INDICACOES, JSON.stringify(ledger, null, 2) + "\n", "utf8");
+        if (add) console.log(`Indicações: ${add} nova(s) processada(s) para treino`);
+        extras = ledger.slice(-12).map((x) => x.titulo);
+      }
+
+      exemplos = montarExemplos(agg, mapa, extras);
       const n = Object.keys(agg).length;
-      if (n) console.log(`Feedback: ${n} notícia(s) votada(s) aplicadas ao filtro`);
+      if (n || extras.length) console.log(`Feedback: ${n} votada(s) + ${extras.length} indicada(s) aplicadas ao filtro`);
     }
   } catch { /* sem config = feedback desligado */ }
 
