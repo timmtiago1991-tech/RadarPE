@@ -76,6 +76,54 @@
     color: rgba(255, 255, 255, 0.72);
     font-weight: 600;
   }
+  .sugerir-btn {
+    margin-left: auto;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 5px 11px;
+    border-radius: 999px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.12s ease;
+  }
+  .sugerir-btn:hover { background: rgba(255, 255, 255, 0.22); }
+  .sugerir {
+    max-width: var(--max);
+    margin: 0 auto;
+    padding: 4px 16px 12px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .sugerir__input {
+    flex: 1 1 auto;
+    min-width: 0;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 9px 14px;
+    font-family: inherit;
+    font-size: 14px;
+    color: var(--ink);
+    background: var(--card);
+  }
+  .sugerir__input:focus { outline: none; border-color: var(--blue); }
+  .sugerir__send {
+    flex: 0 0 auto;
+    border: none;
+    background: var(--navy);
+    color: #fff;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 9px 16px;
+    border-radius: 999px;
+    cursor: pointer;
+  }
+  .sugerir__status { font-size: 12px; color: var(--ink-soft); flex: 0 0 auto; }
 
   /* tag rail */
   .rail {
@@ -323,9 +371,15 @@
       <div class="brandbar__inner">
         <span class="brand__mark">Radar<b>PE</b></span>
         <span class="brand__sub">Private Equity · Brasil</span>
+        <button class="sugerir-btn" id="sugerirBtn" type="button" hidden>+ Sugerir matéria</button>
       </div>
     </div>
     <nav class="rail" id="rail" aria-label="Filtrar por tag"></nav>
+    <div class="sugerir" id="sugerirBox" hidden>
+      <input class="sugerir__input" id="sugerirUrl" type="url" inputmode="url" placeholder="Cole o link de uma matéria relevante para treinar o filtro" />
+      <button class="sugerir__send" id="sugerirSend" type="button">Enviar</button>
+      <span class="sugerir__status" id="sugerirStatus"></span>
+    </div>
     <div class="filterbar" id="filterbar">
       <span class="filterbar__label" id="filterLabel"></span>
       <button class="filterbar__clear" id="clearBtn" type="button">Limpar filtro</button>
@@ -344,6 +398,8 @@
     "NeoFeed": "#8A3B67",
     "AgFeed": "#69BE48",
     "Money Times": "#38A887",
+    "Bloomberg Línea": "#111827",
+    "Startupi": "#E1495B",
     "Folha": "#00ADEE",
   };
 
@@ -352,6 +408,11 @@
   const filterbarEl = document.getElementById("filterbar");
   const filterLabelEl = document.getElementById("filterLabel");
   const clearBtnEl = document.getElementById("clearBtn");
+  const sugerirBtnEl = document.getElementById("sugerirBtn");
+  const sugerirBoxEl = document.getElementById("sugerirBox");
+  const sugerirUrlEl = document.getElementById("sugerirUrl");
+  const sugerirSendEl = document.getElementById("sugerirSend");
+  const sugerirStatusEl = document.getElementById("sugerirStatus");
 
   let todos = [];
   let filtroAtivo = null; // string da tag
@@ -559,7 +620,33 @@
         dbUrl = (c.firebaseDbUrl || "").replace(/\/+$/, "");
       }
     } catch { /* sem config = feedback desligado */ }
+    if (dbUrl) sugerirBtnEl.hidden = false;   // habilita indicar matéria
   }
+
+  async function enviarIndicacao() {
+    const url = (sugerirUrlEl.value || "").trim();
+    if (!/^https?:\/\/.+\..+/i.test(url)) { sugerirStatusEl.textContent = "Link inválido"; return; }
+    sugerirStatusEl.textContent = "Enviando…";
+    try {
+      await fetch(`${dbUrl}/indicacoes.json`, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ url, t: Date.now() }),
+      });
+      sugerirUrlEl.value = "";
+      sugerirStatusEl.textContent = "Enviado ✓";
+      setTimeout(() => { sugerirBoxEl.hidden = true; sugerirStatusEl.textContent = ""; }, 1500);
+    } catch (e) {
+      sugerirStatusEl.textContent = "Falhou, tente de novo";
+    }
+  }
+
+  sugerirBtnEl.addEventListener("click", () => {
+    sugerirBoxEl.hidden = !sugerirBoxEl.hidden;
+    if (!sugerirBoxEl.hidden) sugerirUrlEl.focus();
+  });
+  sugerirSendEl.addEventListener("click", enviarIndicacao);
+  sugerirUrlEl.addEventListener("keydown", (e) => { if (e.key === "Enter") enviarIndicacao(); });
 
   clearBtnEl.addEventListener("click", () => aplicarFiltro(null));
   carregarVotosLocais();
