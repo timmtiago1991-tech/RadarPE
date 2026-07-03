@@ -223,10 +223,13 @@ const REGRAS_TEMA = {
 };
 
 export function normalizarTags(obj = {}) {
+  let imp = Number.isFinite(obj.importancia) ? Math.round(obj.importancia) : 3;
+  imp = Math.max(0, Math.min(5, imp));
   return {
     tags_tema: (obj.tags_tema || []).filter((t) => TEMAS_PERMITIDOS.includes(t)).slice(0, 4),
     tags_empresa: (obj.tags_empresa || []).map((s) => String(s).trim()).filter(Boolean).slice(0, 5),
     relevante: obj.relevante !== false,   // default: relevante, salvo se o modelo disser false
+    importancia: imp,                     // 0-5, default 3
   };
 }
 
@@ -237,7 +240,7 @@ export function tagsPorPalavraChave(item) {
     if (re.test(texto)) temas.push(tema);
   }
   // modo palavra-chave nao julga relevancia nem extrai empresas de forma confiavel
-  return { tags_tema: temas.slice(0, 4), tags_empresa: [], relevante: true };
+  return { tags_tema: temas.slice(0, 4), tags_empresa: [], relevante: true, importancia: 3 };
 }
 
 async function tagsPorLLM(item, exemplos = "") {
@@ -248,8 +251,9 @@ async function tagsPorLLM(item, exemplos = "") {
     `Marque "relevante": false APENAS quando a notícia claramente não tiver ângulo econômico/empresarial — como cultura, esporte, entretenimento, celebridades, clima/tragédias sem impacto econômico direto, tecnologia de consumo ou crime comum. Na dúvida, MANTENHA (true).\n\n` +
     `TEMAS — use apenas destes, de 0 a 4, só quando encaixarem bem (pode ficar vazio e ainda assim ser relevante): ${TEMAS_PERMITIDOS.join("; ")}.\n` +
     `EMPRESAS — nomes próprios de empresas/gestoras/fundos citados (0 a 5), sem termos genéricos.\n` +
+    `IMPORTÂNCIA — inteiro de 0 a 5: quão central a notícia é para um investidor de private equity (5 = deal/PE/M&A/captação direto; 3 = mercado/economia relevante; 0 = tangencial).\n` +
     (exemplos ? exemplos + `Os exemplos acima são referência do gosto do grupo, não regra absoluta; na dúvida, prefira manter.\n` : "") +
-    `Responda SOMENTE JSON válido, sem markdown: {"relevante":true,"tags_tema":[],"tags_empresa":[]}\n\n` +
+    `Responda SOMENTE JSON válido, sem markdown: {"relevante":true,"importancia":3,"tags_tema":[],"tags_empresa":[]}\n\n` +
     `Manchete: ${item.manchete}\nResumo: ${item.resumo}`;
 
   const resp = await fetch("https://api.anthropic.com/v1/messages", {
@@ -445,9 +449,9 @@ async function main() {
       const d = await buscarResumoArtigo(x.url);
       if (d) { x.resumo = d; resumoAdd++; mexeu = true; }
     }
-    if (usarLLM && x.relevante === undefined) {
+    if (usarLLM && (x.relevante === undefined || x.importancia === undefined)) {
       const t = await gerarTags(x, true, exemplos);
-      x.tags_tema = t.tags_tema; x.tags_empresa = t.tags_empresa; x.relevante = t.relevante;
+      x.tags_tema = t.tags_tema; x.tags_empresa = t.tags_empresa; x.relevante = t.relevante; x.importancia = t.importancia;
       reavaliados++; mexeu = true;
     }
     if (mexeu) orcamento--;
@@ -470,7 +474,20 @@ async function main() {
   const movidos = base.length - relevantes.length;
   if (usarLLM && movidos) console.log(`${movidos} item(ns) fora de tema movidos para o registro de descartados`);
 
-  const todos = relevantes
+  const ordenados = relevantes.sort((a, b) => new Date(b.data) - new Date(a.data));
+
+  // teto do AgFeed: no maximo ~10% do total do feed, mantendo os mais importantes
+  const ag = ordenados.filter((x) => x.fonte === "AgFeed");
+  const resto = ordenados.filter((x) => x.fonte !== "AgFeed");
+  const agMax = Math.max(1, Math.round(resto.length / 9));   // ag = 10% de (resto+ag)
+  const agMantido = [...ag]
+    .sort((a, b) => (b.importancia ?? 3) - (a.importancia ?? 3) || new Date(b.data) - new Date(a.data))
+    .slice(0, agMax);
+  if (ag.length > agMantido.length) {
+    console.log(`Teto AgFeed: ${ag.length} -> ${agMantido.length} (max 10% do feed, por importancia)`);
+  }
+
+  const todos = [...resto, ...agMantido]
     .sort((a, b) => new Date(b.data) - new Date(a.data))
     .slice(0, LIMITE_TOTAL);
 
