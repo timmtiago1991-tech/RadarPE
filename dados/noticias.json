@@ -1,56 +1,212 @@
 [
   {
-    "id": "5336000c022cbb20",
-    "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
-    "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
-    "resumo": "Suprema Corte decide em favor da Bayer em caso que relaciona uso do glifosato a casos de câncer, fortalecendo defesa em litígios bilionários",
+    "id": "3d0755bb1d54134d",
+    "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
+    "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
+    "resumo": "Fictor propõe fundo de credores e aposta em proteína animal para viabilizar recuperação judicial de R$ 4,3 bilhões",
     "fonte": "AgFeed",
-    "data": "2026-07-03T12:53:49.580Z",
+    "data": "2026-07-03T22:15:39.526Z",
     "tags_tema": [
-      "Regulação"
+      "RJ/EJ",
+      "Economia Real"
     ],
     "tags_empresa": [
-      "Bayer"
+      "Fictor"
     ],
     "relevante": true,
     "importancia": 4
   },
   {
-    "id": "74d8bbe5196c9a1b",
-    "manchete": "Pyka amplia planos no Brasil, leva aviões autônomos aos “gigantes do agro” e sobrevoa novas culturas",
-    "url": "https://agfeed.com.br/agtech/pyka-amplia-planos-no-brasil-leva-avioes-autonomos-aos-gigantes-do-agro-e-sobrevoa-novas-culturas",
-    "resumo": "Em menos de três anos no País, Pyka multiplica sua frota e chega à grandes empresas do agro como SLC Agrícola, Amaggi, Nater e ACP Bioenergia",
+    "id": "c461dbd4aff43d83",
+    "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
+    "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
+    "resumo": "Bom Futuro e SLC disputam compra de terras da Radar no MT após exercerem direito de preferência em negócio de R$ 1,85 bilhão",
     "fonte": "AgFeed",
-    "data": "2026-07-03T12:53:49.580Z",
+    "data": "2026-07-03T22:15:39.525Z",
     "tags_tema": [
+      "M&A",
       "Economia Real"
     ],
     "tags_empresa": [
-      "Pyka",
+      "Bom Futuro",
+      "SLC",
+      "Radar"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "07de9c1068b9d4e3",
+    "manchete": "SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão",
+    "url": "https://agfeed.com.br/negocios/slc-agricola-exerce-direito-de-preferencia-e-compra-terras-da-radar-em-mt-por-r-185-bilhao",
+    "resumo": "Companhia adquiriu conjunto de propriedades que somam 41,3 mil hectares e estavam sendo negociados pela empresa da Cosan com o Grupo Bom Futuro",
+    "fonte": "AgFeed",
+    "data": "2026-07-03T22:15:39.525Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
       "SLC Agrícola",
-      "Amaggi",
-      "Nater",
-      "ACP Bioenergia"
+      "Radar",
+      "Cosan",
+      "Grupo Bom Futuro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "5e04f3ffcba34c54",
+    "manchete": "Cosan confirma que avalia \"alternativas\" para Rumo - com assessoria do BTG Pactual",
+    "url": "https://agfeed.com.br/negocios/cosan-confirma-que-avalia-alternativas-para-rumo-com-assessoria-do-btg-pactual",
+    "resumo": "Endividada e sob pressão para reduzir sua alavancagem, Cosan estuda possibilidades envolvendo participação na companhia de logística",
+    "fonte": "AgFeed",
+    "data": "2026-07-03T22:15:39.523Z",
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "Rumo",
+      "BTG Pactual"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "cef578a3e5cdbeda",
+    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
+    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
+    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
+    "fonte": "AgFeed",
+    "data": "2026-07-03T22:15:39.521Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "FMC"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "31d2d6c80298809d",
+    "manchete": "Guerra das canetas emagrecedoras faz Itaú BBA \"emagrecer\" projeções da RD Saúde",
+    "url": "https://neofeed.com.br/negocios/guerra-das-canetas-emagrecedoras-faz-itau-bba-emagrecer-projecoes-da-rd-saude/",
+    "resumo": "Redução das margens das canetas mais baratas e o aumento do mercado informal fez com que Itaú BBA reduzisse preço-alvo de R$ 27 para 20",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T22:15:24.806Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Itaú BBA",
+      "RD Saúde"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "887c2b6454ba5e0c",
-    "manchete": "Soluções financeiras \"feitas em casa\" aumentam e já financiam um terço das vendas da Syngenta",
-    "url": "https://agfeed.com.br/negocios/solucoes-financeiras-feitas-em-casa-aumentam-e-ja-financiam-um-terco-das-vendas-da-syngenta",
-    "resumo": "Fintech Syde e operações de barter ganham escala e respondem por parcela relevante dos negócios da Syngenta no País",
-    "fonte": "AgFeed",
-    "data": "2026-07-03T12:53:49.580Z",
+    "id": "1520de1e86040cdf",
+    "manchete": "Por que o avanço de gigantes como OpenAI e Anthropic é uma notícia positiva para a Positivo",
+    "url": "https://neofeed.com.br/negocios/por-que-o-avanco-de-gigantes-como-openai-e-anthropic-e-uma-noticia-positiva-para-a-positivo/",
+    "resumo": "Ao NeoFeed, o CEO Hélio Rotenberg explica que, quanto mais crescer a capacidade computacional para IA, mais vão surgir as oportunidades de processamento local. Custo e segurança de dados são as principais razões",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T22:15:24.805Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "Syngenta",
-      "Syde"
+      "Positivo",
+      "OpenAI",
+      "Anthropic"
     ],
     "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "4968e7b64f3400af",
+    "manchete": "HBR faz oferta por 100% da Helbor, buscando destravar valor",
+    "url": "https://braziljournal.com/hbr-faz-oferta-por-100-da-helbor-buscando-destravar-valor/",
+    "resumo": "A HBR Realty acaba de lançar uma oferta para comprar 100% da Helbor – numa operação que vai unir duas empresas do mesmo controlador com o objetivo de extrair sinergias e destravar o valor das ações, que estão paradas há anos na Bolsa. A transação é uma troca de ações, com os acionistas da Helbor [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-03T21:41:05.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "HBR Realty",
+      "Helbor"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "d94d44f5c3d57d2d",
+    "manchete": "Governo anuncia Desenrola MEI para renegociar R$ 12,4 bi em dívidas",
+    "url": "https://www.moneytimes.com.br/governo-anuncia-desenrola-mei-para-renegociar-r-124-bi-em-dividas/",
+    "resumo": "O governo formalizou nesta sexta-feira, 3, o lançamento do Desenrola MEI, um programa de renegociação de dívidas de microempreendedores individuais. Segundo dados apresentados em coletiva de imprensa realizada nesta sexta, o programa tem o potencial de beneficiar 3,5 milhões de MEIs com débitos inscritos na dívida…",
+    "fonte": "Money Times",
+    "data": "2026-07-03T21:05:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
     "importancia": 3
+  },
+  {
+    "id": "6dc2b224ab90821d",
+    "manchete": "São Martinho (SMTO3) aprova pagamento de dividendos; veja quem tem direito",
+    "url": "https://www.moneytimes.com.br/sao-martinho-smto3-aprova-pagamento-de-dividendos-veja-quem-tem-direito-pads/",
+    "resumo": "A São Martinho (SMTO3) aprovou o pagamento de R$ 69,91 milhões em dividendos aos acionistas, o equivalente a R$ 0,216 por ação. A distribuição foi aprovada na Assembleia Geral Ordinária e Extraordinária realizada nesta sexta-feira (3). Terão direito aos dividendos os investidores com posição acionária na companhia em…",
+    "fonte": "Money Times",
+    "data": "2026-07-03T20:36:39.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "São Martinho"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "4a02c9360166ff1c",
+    "manchete": "Por que as ações da Engie Brasil despencaram com a aquisição de Jirau?",
+    "url": "https://www.infomoney.com.br/mercados/por-que-as-acoes-da-engie-brasil-despencaram-com-a-aquisicao-de-jirau/",
+    "resumo": "Momento delicado no setor de energia gera mais pressão sobre papéis",
+    "fonte": "InfoMoney",
+    "data": "2026-07-03T20:27:18.000Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Engie Brasil",
+      "Jirau"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "110c2ed8ce89914c",
+    "manchete": "Fertilizantes: Yara compra fábrica de amônia no Texas por US$ 1,3 bilhão",
+    "url": "https://www.moneytimes.com.br/fertilizantes-yara-compra-fabrica-de-amonia-no-texas-por-us-13-bilhao-pads/",
+    "resumo": "A Yara anunciou a aquisição de uma fábrica de produção de amônia em Texas City, no Estado do Texas, nos Estados Unidos, por US$ 1,3 bilhão, em um movimento para ampliar sua base industrial e fortalecer a flexibilidade de abastecimento. A unidade está sendo adquirida da Gulf Coast Ammonia, empresa controlada pela Lotus…",
+    "fonte": "Money Times",
+    "data": "2026-07-03T19:24:07.000Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Yara",
+      "Gulf Coast Ammonia",
+      "Lotus"
+    ],
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "6dbc6787d74308c2",
@@ -453,39 +609,6 @@
     "importancia": 3
   },
   {
-    "id": "94972658103ff0c4",
-    "manchete": "Virada de chave na FMC",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
-    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
-    "fonte": "AgFeed",
-    "data": "2026-07-02T12:49:54.795Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC",
-      "Tessenderlo"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "f3c6908f6ab22864",
-    "manchete": "Bayer segrega glifosato em nova empresa e realimenta especulações sobre cisão da divisão agrícola",
-    "url": "https://agfeed.com.br/negocios/bayer-segrega-glifosato-em-nova-empresa-e-realimenta-especulacoes-sobre-cisao-da-divisao-agricola",
-    "resumo": "Bayer cria a Ruveon, empresa para gerir operações com glifosato nos EUA, e reacende especulações sobre cisão da divisão agrícola",
-    "fonte": "AgFeed",
-    "data": "2026-07-02T12:49:54.793Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Bayer"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
     "id": "8a2a55132b99546a",
     "manchete": "O ajuste de rota dos fundos de private equity do Patria na América Latina",
     "url": "https://neofeed.com.br/negocios/o-ajuste-de-rota-dos-fundos-de-private-equity-do-patria-na-america-latina/",
@@ -616,42 +739,15 @@
     "fonte": "NeoFeed",
     "data": "2026-07-01T22:01:41.940Z",
     "tags_tema": [
-      "M&A"
+      "M&A",
+      "Venture Capital"
     ],
     "tags_empresa": [
-      "Warren",
-      "Cocos Capital"
+      "Cocos Capital",
+      "Warren"
     ],
-    "relevante": true
-  },
-  {
-    "id": "5bfe9039df212fd3",
-    "manchete": "Taxas dos DIs sobem com avanço firme dos rendimentos dos Treasuries",
-    "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-com-avanco-firme-dos-rendimentos-dos-treasuries/",
-    "resumo": "As taxas dos DIs subiram após sete sessões de queda, acompanhando o rendimento dos títulos dos EUA em meio à expectativa de aperto monetário pelo Fed e a ruídos políticos locais envolvendo a corrida eleitoral de 2026",
-    "fonte": "InfoMoney",
-    "data": "2026-07-01T20:38:19.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true
-  },
-  {
-    "id": "2b3ea4d801af7e76",
-    "manchete": "\"Houston, we have a problem\": Apollo 13 inspira a leitura da Kinea sobre juros nos EUA e Brasil",
-    "url": "https://neofeed.com.br/economia/houston-we-have-a-problem-apollo-13-inspira-a-leitura-da-kinea-sobre-juros-nos-eua-e-brasil/",
-    "resumo": "Gestora usa a missão espacial para explicar por que os EUA devem mudar rota de sua política monetária e a razão de os juros permanecerem altos no Brasil",
-    "fonte": "NeoFeed",
-    "data": "2026-07-01T19:02:20.843Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Kinea"
-    ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "e27b926e2fba498c",
@@ -661,7 +757,7 @@
     "fonte": "NeoFeed",
     "data": "2026-07-01T19:02:20.842Z",
     "tags_tema": [
-      "IPO/Mercado de Capitais",
+      "M&A",
       "Regulação"
     ],
     "tags_empresa": [
@@ -670,7 +766,8 @@
       "Oncoclínicas",
       "CVM"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "7eabe19bf9729ee6",
@@ -680,8 +777,7 @@
     "fonte": "NeoFeed",
     "data": "2026-07-01T19:02:20.842Z",
     "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "M&A"
+      "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
       "Bending Spoons",
@@ -690,7 +786,8 @@
       "Evernote",
       "WeTransfer"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "b5512098513164c2",
@@ -701,12 +798,13 @@
     "data": "2026-07-01T19:02:20.841Z",
     "tags_tema": [
       "Private Equity",
-      "M&A"
+      "Economia Real"
     ],
     "tags_empresa": [
       "CBRE Brasil"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "8d5b2d223d5e681f",
@@ -717,8 +815,7 @@
     "data": "2026-07-01T17:29:16.000Z",
     "tags_tema": [
       "Private Equity",
-      "M&A",
-      "IPO/Mercado de Capitais"
+      "M&A"
     ],
     "tags_empresa": [
       "Bending Spoons",
@@ -726,7 +823,8 @@
       "WeTransfer",
       "Vimeo"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "17305cff5244e54f",
@@ -739,11 +837,12 @@
       "M&A"
     ],
     "tags_empresa": [
+      "XP",
       "Alza",
-      "Invés",
-      "XP"
+      "Invés"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "2e1e6917876b0a7b",
@@ -753,15 +852,15 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-01T10:00:13.000Z",
     "tags_tema": [
-      "Venture Capital",
-      "M&A"
+      "Venture Capital"
     ],
     "tags_empresa": [
       "BTG Pactual",
       "ADDI",
       "Citius"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "846d07f8354e9a4c",
@@ -771,10 +870,12 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-01T09:50:53.000Z",
     "tags_tema": [
-      "M&A"
+      "Regulação",
+      "Economia Real"
     ],
     "tags_empresa": [],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "e1faee12d2086a12",
@@ -805,9 +906,9 @@
     ],
     "tags_empresa": [
       "Jota",
-      "Haun Ventures",
-      "HOF"
+      "Haun Ventures"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   }
 ]
