@@ -1,5 +1,191 @@
 [
   {
+    "id": "5336000c022cbb20",
+    "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
+    "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
+    "resumo": "Suprema Corte decide em favor da Bayer em caso que relaciona uso do glifosato a casos de câncer, fortalecendo defesa em litígios bilionários",
+    "fonte": "AgFeed",
+    "data": "2026-07-03T12:53:49.580Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Bayer"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "74d8bbe5196c9a1b",
+    "manchete": "Pyka amplia planos no Brasil, leva aviões autônomos aos “gigantes do agro” e sobrevoa novas culturas",
+    "url": "https://agfeed.com.br/agtech/pyka-amplia-planos-no-brasil-leva-avioes-autonomos-aos-gigantes-do-agro-e-sobrevoa-novas-culturas",
+    "resumo": "Em menos de três anos no País, Pyka multiplica sua frota e chega à grandes empresas do agro como SLC Agrícola, Amaggi, Nater e ACP Bioenergia",
+    "fonte": "AgFeed",
+    "data": "2026-07-03T12:53:49.580Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Pyka",
+      "SLC Agrícola",
+      "Amaggi",
+      "Nater",
+      "ACP Bioenergia"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "887c2b6454ba5e0c",
+    "manchete": "Soluções financeiras \"feitas em casa\" aumentam e já financiam um terço das vendas da Syngenta",
+    "url": "https://agfeed.com.br/negocios/solucoes-financeiras-feitas-em-casa-aumentam-e-ja-financiam-um-terco-das-vendas-da-syngenta",
+    "resumo": "Fintech Syde e operações de barter ganham escala e respondem por parcela relevante dos negócios da Syngenta no País",
+    "fonte": "AgFeed",
+    "data": "2026-07-03T12:53:49.580Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Syngenta",
+      "Syde"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6dbc6787d74308c2",
+    "manchete": "Chanel compra Charvet, a mais antiga camisaria do mundo",
+    "url": "https://neofeed.com.br/negocios/chanel-compra-charvet-a-mais-antiga-camisaria-do-mundo/",
+    "resumo": "Chanel reforça sua aposta na moda masculina ao adquirir a tradicional Charvet, ícone parisiense de alfaiataria artesanal",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T12:53:32.907Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Chanel",
+      "Charvet"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "67d0863b2d13ff80",
+    "manchete": "Inter Asset quer unir quatro FIIs em movimento de consolidação do setor",
+    "url": "https://neofeed.com.br/negocios/inter-asset-quer-unir-quatro-fiis-em-movimento-de-consolidacao-do-setor/",
+    "resumo": "A Inter Asset apresentou uma proposta de reorganização e consolidação de quatro fundos de investimento imobiliário (FIIs) em um único veículo, movimento que vem ganhando força no mercado, diante dos juros elevados, que dificultam a captação de recursos. O braço de investimentos do Inter, que conta com cerca de R$ 24…",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T12:53:32.906Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Inter Asset"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d72ad7c28a0e93ca",
+    "manchete": "Blackrock encontra \"molho secreto\" no Brasil e América Latina",
+    "url": "https://neofeed.com.br/wealth-management/blackrock-encontra-molho-secreto-no-brasil-e-america-latina/",
+    "resumo": "Apesar de o fluxo do capital estrangeiro ter se invertido, Blackrock acredita que a região pode ser uma opção para ter exposição à tese da IA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T12:53:32.906Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "BlackRock"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "4625b1985986d5e2",
+    "manchete": "Na Syn, a expansão não pode sair do \"campo de visão\" de Elie Horn",
+    "url": "https://neofeed.com.br/negocios/na-syn-a-expansao-nao-pode-sair-do-campo-de-visao-de-elie-horn/",
+    "resumo": "Criada como um spin-off da Cyrela, a Syn, que atua na gestão de shoppings, galpões e edifícios, aposta na filosofia de seu controlador",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T12:53:32.904Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Syn",
+      "Cyrela"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d03552ef0197272",
+    "manchete": "ISA Energia busca \"reforço de carga\" e avalia follow on de R$ 650 milhões",
+    "url": "https://neofeed.com.br/negocios/isa-energia-busca-reforco-de-carga-e-avalia-follow-on-de-r-650-milhoes/",
+    "resumo": "A companhia de transmissão de energia contratou o BTG Pactual como assessor financeiro para a potencial oferta, que, caso seja concretizada, será o quinto follow na bolsa de valores brasileira em 2026",
+    "fonte": "NeoFeed",
+    "data": "2026-07-03T12:53:32.904Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "ISA Energia",
+      "BTG Pactual"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "3c087148779e0cb1",
+    "manchete": "ISA Energia avalia potencial oferta de ações de R$650 mi",
+    "url": "https://www.infomoney.com.br/mercados/isa-energia-avalia-potencial-oferta-de-acoes-de-r650-mi/",
+    "resumo": "A ‌ISA Energia ​afirmou ainda que, caso a oferta seja realizada, ⁠será ​outorgado ​direito de prioridade aos acionistas ⁠para ​subscrição das ações",
+    "fonte": "InfoMoney",
+    "data": "2026-07-03T12:29:06.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "ISA Energia"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "bc818f0f64f15aaa",
+    "manchete": "Prio (PRIO3), Brava Energia (BRAV3), Embraer (EMBJ3), Natura (NATU3) e outros destaques desta sexta (3)",
+    "url": "https://www.moneytimes.com.br/prio-prio3-brava-energia-brav3-embraer-embj3-natura-natu3-e-outros-destaques-desta-sexta-3-ceci/",
+    "resumo": "O crescimento de produção da Prio (PRIO3) e da Brava Energia (BRAV3), as aeronaves entregues pela Embraer (EMBJ3) e o novo programa de recompra de ações da Natura (NATU3) são alguns dos destaques corporativos desta sexta-feira (3). Confira o Radar do Mercado Produção da Prio (PRIO3) bate recorde no ano A Prio (PRIO3)…",
+    "fonte": "Money Times",
+    "data": "2026-07-03T12:23:55.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Prio",
+      "Brava Energia",
+      "Embraer",
+      "Natura"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "59f123a9078e1f33",
+    "manchete": "EUA marcam fala de Flávio Bolsonaro em audiência que discutirá tarifa contra o Brasil",
+    "url": "https://www.infomoney.com.br/politica/eua-marcam-fala-de-flavio-bolsonaro-em-audiencia-que-discutira-tarifa-contra-o-brasil/",
+    "resumo": "Senador participará no segundo dia da consulta pública do USTR, etapa que antecede decisão do governo americano sobre novas tarifas às exportações brasileiras",
+    "fonte": "InfoMoney",
+    "data": "2026-07-03T12:21:46.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "1497b9246dd01441",
     "manchete": "Indústria no Brasil cai 0,2% em maio, interrompe 4 meses de alta e frustra projeções",
     "url": "https://www.infomoney.com.br/economia/industria-no-brasil-cai-02-em-maio-interrompe-4-meses-de-alta-e-frustra-projecoes/",
@@ -10,7 +196,8 @@
       "Economia Real"
     ],
     "tags_empresa": [],
-    "relevante": true
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "6435c6980f7270ec",
@@ -25,7 +212,24 @@
     "tags_empresa": [
       "ISA Energia"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "5ac4baa3d88382ba",
+    "manchete": "Fundo imobiliário reavalia imóveis e registra valorização de R$ 23,8 milhões no portfólio",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-reavalia-imoveis-e-registra-valorizacao-de-r-238-milhoes-no-portfolio-igdl/",
+    "resumo": "O fundo imobiliário BB Premium Malls (BBIG11) anunciou, por meio de fato relevante, que os imóveis que compõem o seu portfólio foram reavaliados a mercado com data-base de 30 de junho de 2026. Segundo o comunicado, a remarcação resultou em um impacto positivo de R$ 23,8 milhões nos valores dos empreendimentos, o…",
+    "fonte": "Money Times",
+    "data": "2026-07-03T12:14:57.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "BB Premium Malls"
+    ],
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "376daad3ba21e66f",
@@ -40,7 +244,41 @@
     "tags_empresa": [
       "Natura"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "0c0598a0dc17d35d",
+    "manchete": "Uma startup brasileira quer liderar a AI contra o câncer de pele. A Nvidia aposta nisso",
+    "url": "https://braziljournal.com/uma-startup-brasileira-quer-liderar-a-ai-contra-o-cancer-de-pele-a-nvidia-aposta-nisso/",
+    "resumo": "Quando Willian Boelcke perdeu o pai para um câncer de pele diagnosticado tardiamente, decidiu mudar de carreira. Abandonou a ideia de cursar Economia, formou-se em Odontologia na Unicamp, mergulhou na pesquisa em oncologia e, anos depois, fundou a AI Pathology, uma healthtech que usa inteligência artificial para…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-03T09:50:43.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "AI Pathology",
+      "Nvidia"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0b0d327c3e5b4a46",
+    "manchete": "“Higher for longer.” Quanto vale a Vale se o minério ficar onde está?",
+    "url": "https://braziljournal.com/higher-for-longer-quanto-vale-a-vale-se-o-minerio-ficar-onde-esta/",
+    "resumo": "O minério de ferro está morto. Vida longa ao minério de ferro. Nos últimos anos, houve praticamente um consenso no mercado: os preços do minério de ferro iriam desabar em algum momento próximo. Mas essa hora nunca chegou. A segunda commodity mais negociada do mundo e matéria-prima na produção do aço, o ferro resistiu…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-03T09:50:23.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "2564fa140e92ab84",
@@ -55,7 +293,8 @@
     "tags_empresa": [
       "CVM"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "328c179339091fcc",
@@ -65,13 +304,13 @@
     "fonte": "NeoFeed",
     "data": "2026-07-02T22:02:40.755Z",
     "tags_tema": [
-      "Fundraising",
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
       "OpenAI"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "4e4be359a11582cc",
@@ -88,7 +327,8 @@
       "Advent",
       "Natura"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "c8617403359d35f2",
@@ -104,7 +344,8 @@
     "tags_empresa": [
       "Cloud9 Capital"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "2b31ea18b66b1b50",
@@ -114,13 +355,16 @@
     "fonte": "Money Times",
     "data": "2026-07-02T21:52:28.000Z",
     "tags_tema": [
-      "M&A"
+      "M&A",
+      "Private Equity"
     ],
     "tags_empresa": [
       "BTG Pactual",
-      "World Trade Center São Paulo"
+      "Leste",
+      "WTC São Paulo"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "64e44e7bdbdfbd09",
@@ -138,7 +382,8 @@
       "Advent International",
       "Lotus"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "22ce428219b5ba07",
@@ -148,27 +393,15 @@
     "fonte": "InfoMoney",
     "data": "2026-07-02T13:34:16.000Z",
     "tags_tema": [
+      "Private Equity",
       "M&A"
     ],
     "tags_empresa": [
       "Natura",
       "Advent"
     ],
-    "relevante": true
-  },
-  {
-    "id": "f979f8628438df20",
-    "manchete": "Ibovespa sobe, dólar e juros caem: por que payroll nos EUA anima ativos domésticos?",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-sobe-dolar-e-juros-caem-por-que-payroll-nos-eua-anima-ativos-mas-cautela-no-radar/",
-    "resumo": "O relatório de emprego do Departamento do Trabalho informou que a economia dos EUA gerou 57 mil postos de trabalho em junho, abaixo dos 110 mil projetados",
-    "fonte": "InfoMoney",
-    "data": "2026-07-02T13:27:48.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "86a7e750fad32c82",
@@ -183,7 +416,8 @@
     "tags_empresa": [
       "Stenon"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "20fd5a9d61c5306d",
@@ -193,12 +427,14 @@
     "fonte": "Money Times",
     "data": "2026-07-02T13:21:18.000Z",
     "tags_tema": [
-      "RJ/EJ"
+      "M&A",
+      "Regulação"
     ],
     "tags_empresa": [
       "Grupo Dolly"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "4be7af3b65e0dbc7",
@@ -213,50 +449,8 @@
     "tags_empresa": [
       "AWS"
     ],
-    "relevante": true
-  },
-  {
-    "id": "b349905218cc34c0",
-    "manchete": "IPC-S desacelera em seis das sete capitais pesquisadas pela FGV no fim de junho",
-    "url": "https://www.infomoney.com.br/economia/ipc-s-desacelera-em-seis-das-sete-capitais-pesquisadas-pela-fgv-no-fim-de-junho/",
-    "resumo": "O índice geral caiu para 0,36% puxado pelo recuo das taxas na maior parte das regiões avaliadas pela FGV",
-    "fonte": "InfoMoney",
-    "data": "2026-07-02T13:13:40.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "FGV"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "291c26b3f2ad61df",
-    "manchete": "Ibovespa avança com payroll mais fraco nos EUA; 5 coisas para saber antes de investir hoje (2)",
-    "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-2-7-26-apsa/",
-    "resumo": "O Ibovespa (IBOV) avança em linha com o otimismo no exterior após os dados do mercado de trabalho mais fracos nos Estados Unidos. Por volta de 10h11 (horário de Brasília), o principal índice da bolsa brasileira operava em alta de 0,81%, aos 173.075,06 pontos. O dólar à vista opera em baixa ante o real, seguindo…",
-    "fonte": "Money Times",
-    "data": "2026-07-02T13:12:37.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
-  },
-  {
-    "id": "9a5e23e6586e8b21",
-    "manchete": "Operadores reduzem apostas em alta de juros pelo Fed após dados de emprego",
-    "url": "https://www.infomoney.com.br/mercados/operadores-reduzem-apostas-em-alta-de-juros-pelo-fed-apos-dados-de-emprego/",
-    "resumo": "Os operadores estimam menos de 20% de probabilidade de um aumento dos juros em julho",
-    "fonte": "InfoMoney",
-    "data": "2026-07-02T13:08:08.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "94972658103ff0c4",
@@ -272,7 +466,8 @@
       "FMC",
       "Tessenderlo"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "f3c6908f6ab22864",
@@ -285,27 +480,10 @@
       "M&A"
     ],
     "tags_empresa": [
-      "Bayer",
-      "Ruveon"
+      "Bayer"
     ],
-    "relevante": true
-  },
-  {
-    "id": "8c7e8b5e6446dfcf",
-    "manchete": "\"Multiagfintech\", MerX multiplica negócios e prepara fundos para chegar em R$ 1 bi em crédito ao agro \"Multiagfintech\", MerX multiplica negócios e prepara fundos para chegar em R$ 1 bi em crédito ao agro",
-    "url": "https://agfeed.com.br/financas/multiagfintech-merx-multiplica-negocios-e-prepara-fundos-para-chegar-em-r-1-bi-em-credito-ao-agro",
-    "resumo": "Empresa fundada por ex-executivos do BTG Pactual, MerX combina tecnologia, plataforma, trading e soluções para rastreabilidade",
-    "fonte": "AgFeed",
-    "data": "2026-07-02T12:49:54.793Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [
-      "MerX",
-      "BTG Pactual"
-    ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "8a2a55132b99546a",
@@ -320,47 +498,8 @@
     "tags_empresa": [
       "Patria"
     ],
-    "relevante": true
-  },
-  {
-    "id": "a4dff2b5a2b2fb11",
-    "manchete": "Ibovespa futuro vira para alta após payroll abaixo do esperado",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-atencao-voltada-para-relatorio-de-emprego-dos-eua/",
-    "resumo": "A economia dos EUA abriu 57 mil postos fora do setor agrícola no mês passado",
-    "fonte": "InfoMoney",
-    "data": "2026-07-02T12:39:08.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
-  },
-  {
-    "id": "d40e5bf833d9686e",
-    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02072026/",
-    "resumo": "Índices futuros dos EUA avançam após novos dados de emprego",
-    "fonte": "InfoMoney",
-    "data": "2026-07-02T12:35:12.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true
-  },
-  {
-    "id": "8ac39ae353efa3ef",
-    "manchete": "Payroll: EUA criam 57 mil vagas de trabalho em junho, bem abaixo do esperado",
-    "url": "https://www.infomoney.com.br/economia/payroll-eua-emprego-junho-2026/",
-    "resumo": "Pesquisa da Reuters apontava expectativa de que a economia norte-americana tivesse aberto 110 mil vagas de emprego fora do setor agrícola no mês passado",
-    "fonte": "InfoMoney",
-    "data": "2026-07-02T12:32:41.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "fb866329f10092e3",
@@ -375,10 +514,10 @@
     ],
     "tags_empresa": [
       "Foxconn",
-      "Mitsubishi Fuso",
-      "Cade"
+      "Mitsubishi Fuso"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "e0df4ebaeafe14e8",
@@ -388,28 +527,67 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-02T12:06:56.000Z",
     "tags_tema": [
-      "IPO/Mercado de Capitais"
+      "IPO/Mercado de Capitais",
+      "Venture Capital"
     ],
     "tags_empresa": [
       "Lime",
-      "Uber"
+      "Uber",
+      "Nasdaq"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 3
   },
   {
-    "id": "8a0c39a2a55a9407",
-    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
-    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
-    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:19:27.646Z",
+    "id": "449fdd798d03c068",
+    "manchete": "Preço de energia com hora e CEP: quem ganha com as mudanças no mercado",
+    "url": "https://braziljournal.com/preco-de-energia-com-hora-e-cep-quem-ganha-com-as-mudancas-no-mercado/",
+    "resumo": "Para empresas do setor elétrico, não basta mais só produzir e vender o máximo possível de energia. Com mudanças regulatórias e na matriz elétrica do País, é cada vez mais importante quando, onde e como cada megawatt foi gerado. A distribuição da eletricidade ao longo das horas do dia, conhecida como modulação, tem se…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-02T04:15:46.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a461268da593b1e9",
+    "manchete": "O “back to basics” e o “iceberg da transformação” da Pernambucanas",
+    "url": "https://braziljournal.com/o-back-to-basics-e-o-iceberg-da-transformacao-da-pernambucanas/",
+    "resumo": "Depois de resolver uma briga societária de décadas, a Pernambucanas está tentando convencer o mercado de que ainda tem um futuro tão glorioso quanto seu passado. A urgência ficou explícita depois que, em março, a PwC incluiu em seu relatório de auditoria de 2025 um parágrafo citando “incerteza relevante relacionada…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-02T04:14:10.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Pernambucanas",
+      "PwC"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9b3b9b1a8bdfa88b",
+    "manchete": "Estes dois ex-analistas estão ajudando indústrias a vender no Mercado Livre",
+    "url": "https://braziljournal.com/estes-dois-ex-analistas-estao-ajudando-industrias-a-vender-no-mercado-livre/",
+    "resumo": "Fred Mendes e Ruben Couto – dois ex-analistas do sellside de grandes bancos – deixaram de lado os modelos de research para ajudar grandes indústrias a vender nos marketplaces como o Mercado Livre, a Amazon e a Shoppe. Os dois se tornaram os principais acionistas da Strategy 2B, uma startup fundada há cinco anos e…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-02T04:13:17.000Z",
     "tags_tema": [
       "Venture Capital"
     ],
     "tags_empresa": [
-      "Stenon"
+      "Strategy 2B",
+      "Mercado Livre",
+      "Amazon",
+      "Shopee"
     ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "2433d22660b8853a",
@@ -419,361 +597,16 @@
     "fonte": "Brazil Journal",
     "data": "2026-07-01T22:02:05.000Z",
     "tags_tema": [
-      "M&A"
+      "M&A",
+      "Venture Capital"
     ],
     "tags_empresa": [
-      "Cocos Capital",
       "Warren",
+      "Cocos Capital",
       "XP"
     ],
-    "relevante": true
-  },
-  {
-    "id": "6b19255cde3ee5ea",
-    "manchete": "Na doce rotina da Copersucar, mais uma safra com receitas e lucros em alta",
-    "url": "https://agfeed.com.br/negocios/na-doce-rotina-da-copersucar-mais-uma-safra-com-receitas-e-lucros-em-alta",
-    "resumo": "Copersucar cresce pelo 17º ano seguido, lucra R$ 631 mi e amplia apostas em biometano, etanol e energia renovável",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.269Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Copersucar"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "48116f900a659bc5",
-    "manchete": "SLC Agrícola mantém em aberto decisão sobre preferência de compra de terras da Radar",
-    "url": "https://agfeed.com.br/negocios/slc-agricola-mantem-em-aberto-decisao-sobre-preferencia-de-compra-de-terras-da-radar",
-    "resumo": "SLC reitera que exercerá – ou não – o direito de preferência sobre os imóveis apenas ao fim do prazo de 30 dias",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.269Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "SLC Agrícola",
-      "Radar"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "afb91da01b3ff685",
-    "manchete": "Novo maquinista: em meio a mudanças na Cosan, Rumo troca de CEO e Daniel Rockenbach assume o posto",
-    "url": "https://agfeed.com.br/negocios/novo-maquinista-em-meio-a-mudancas-na-cosan-rumo-troca-de-ceo-e-daniel-rockenbach-assume-o-posto",
-    "resumo": "Executivo assume interinamente o lugar de Pedro Palma em momento de especulações sobre eventual venda da participação da Cosan na companhia",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.269Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Cosan",
-      "Rumo"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "306636f47581418e",
-    "manchete": "Com fundo holandês, Fisher tem plano para quintuplicar produção de tilápias",
-    "url": "https://agfeed.com.br/negocios/com-fundo-holandes-fisher-tem-plano-para-quintuplicar-producao-de-tilapias",
-    "resumo": "Empresa com sede em Riolândia (SP) vem investindo na piscicultura em larga escala e já mapeou oportunidades de expansão em GO, RO e BA",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.267Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "Fisher"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "3d0755bb1d54134d",
-    "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
-    "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
-    "resumo": "Fictor propõe fundo de credores e aposta em proteína animal para viabilizar recuperação judicial de R$ 4,3 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.266Z",
-    "tags_tema": [
-      "RJ/EJ",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Fictor"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "b07d568099ace525",
-    "manchete": "Agroconsult confirma \"safrinha de contrastes\" e Brasil produz 10 milhões de toneladas a menos de milho",
-    "url": "https://agfeed.com.br/economia/agroconsult-confirma-safrinha-de-contrastes-e-brasil-produz-10-milhoes-de-tenoeladas-a-menos-de-milho",
-    "resumo": "Dados do Rally da Safra mostram impactos do atraso no plantio e clima irregular, que ampliaram diferenças regionais e pressionaram margens",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.266Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Agroconsult"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "022fc1b1684ed657",
-    "manchete": "Será o fim da “RJ infinita”? Justiça do MT determina falência do grupo do ex-rei do algodão José Pupin",
-    "url": "https://agfeed.com.br/negocios/sera-o-fim-da-rj-infinita-justica-do-mt-determina-falencia-do-grupo-do-ex-rei-do-algodao-jose-pupin",
-    "resumo": "Justiça decreta falência do Grupo Pupin após descumprimento da recuperação judicial e dívida superior a R$ 3,5 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.265Z",
-    "tags_tema": [
-      "RJ/EJ",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Grupo Pupin"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "c461dbd4aff43d83",
-    "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
-    "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
-    "resumo": "Bom Futuro e SLC disputam compra de terras da Radar no MT após exercerem direito de preferência em negócio de R$ 1,85 bilhão",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.265Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Bom Futuro",
-      "SLC",
-      "Radar"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "07de9c1068b9d4e3",
-    "manchete": "SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão",
-    "url": "https://agfeed.com.br/negocios/slc-agricola-exerce-direito-de-preferencia-e-compra-terras-da-radar-em-mt-por-r-185-bilhao",
-    "resumo": "Companhia adquiriu conjunto de propriedades que somam 41,3 mil hectares e estavam sendo negociados pela empresa da Cosan com o Grupo Bom Futuro",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.265Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "SLC Agrícola",
-      "Radar",
-      "Cosan",
-      "Grupo Bom Futuro"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "342fc65701c3266e",
-    "manchete": "O feliz aniversário da 3tentos na B3",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-feliz-aniversario-da-3tentos-na-b3",
-    "resumo": "Companhia gaúcha completa 5 anos de IPO como a única de sua \"safra\" na bolsa com ações valorizadas",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.264Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "3tentos",
-      "B3"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "092e73d98ce693e1",
-    "manchete": "A safra de prejuízos da Raízen",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-safra-de-prejuizos-da-raizen",
-    "resumo": "Companhia sucroenergética divulga primeiro balanço após recuperação extrajudicial com perdas bilionárias",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.264Z",
-    "tags_tema": [
-      "RJ/EJ",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Raízen"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "888c5a68e180e94f",
-    "manchete": "A falência do \"Rei do Algodão\"",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-falencia-do-rei-do-algodao-2",
-    "resumo": "Decisão da justiça do MT marca o epílogo da emblemática RJ do grupo de José Pupin depois de quase uma década de crise financeira",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.264Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [
-      "Grupo José Pupin"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "c9e3fc7881c66c4f",
-    "manchete": "Estratégia \"verde\" da Cofco recebe novos cheques e soma US$ 1,2 bi em créditos para descarbonização",
-    "url": "https://agfeed.com.br/esg/estrategia-verde-da-cofco-recebe-novos-cheques-e-soma-us-12-bi-em-creditos-para-descarbonizacao",
-    "resumo": "Empréstimos exigem comprovação de corte de carbono na cadeia, com juros menores se metas de redução de CO2 forem atingidas",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.264Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Cofco"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "0cb00e5570230f30",
-    "manchete": "Plano Safra cresce menos que a inflação e agricultura empresarial terá menos recursos para o custeio",
-    "url": "https://agfeed.com.br/economia/plano-safra-cresce-menos-que-a-inflacao-e-agricultura-empresarial-tera-menos-recursos-para-o-custeio",
-    "resumo": "Plano Safra 2026/2027 cresce abaixo da inflação, reduz crédito para custeio e amplia recursos para investimentos no agronegócio",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.263Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
-  },
-  {
-    "id": "21d39f5f49f53533",
-    "manchete": "Docket e B3 se unem para acelerar registro de CPR (e monitorar inadimplência)",
-    "url": "https://agfeed.com.br/financas/docket-e-b3-se-unem-para-acelerar-registro-de-cpr-e-monitorar-inadimplencia",
-    "resumo": "Com grandes tradings e bancos como clientes, empresa de automação de processos Docket fechou parceria com a Trillia, da B3",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.263Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Docket",
-      "B3",
-      "Trillia"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "c1a5a64a69854d5a",
-    "manchete": "Com operacional fraco, Raízen também sente ajustes contábeis e amplia prejuízo na safra 2025/2026",
-    "url": "https://agfeed.com.br/negocios/com-operacional-fraco-raizen-tambem-sente-ajustes-contabeis-e-amplia-prejuizo-na-safra-2025-2026",
-    "resumo": "No primeiro balanço divulgado após aprovar a RE com os credores, Raízen reportou perdas de R$ 27,1 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.263Z",
-    "tags_tema": [
-      "Economia Real",
-      "RJ/EJ"
-    ],
-    "tags_empresa": [
-      "Raízen"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "c02ee4b1db463b3f",
-    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
-    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
-    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.263Z",
-    "tags_tema": [
-      "M&A",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Costelata"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "5e04f3ffcba34c54",
-    "manchete": "Cosan confirma que avalia \"alternativas\" para Rumo - com assessoria do BTG Pactual",
-    "url": "https://agfeed.com.br/negocios/cosan-confirma-que-avalia-alternativas-para-rumo-com-assessoria-do-btg-pactual",
-    "resumo": "Endividada e sob pressão para reduzir sua alavancagem, Cosan estuda possibilidades envolvendo participação na companhia de logística",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.263Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Cosan",
-      "Rumo",
-      "BTG Pactual"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "ac6f9a24055302ca",
-    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
-    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
-    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.263Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Caramuru"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "cef578a3e5cdbeda",
-    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas” FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
-    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
-    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.262Z",
-    "tags_tema": [
-      "Private Equity",
-      "Fundraising"
-    ],
-    "tags_empresa": [
-      "FMC"
-    ],
-    "relevante": true
-  },
-  {
-    "id": "a9304becfb5667ec",
-    "manchete": "\"Como o produtor endividado vai acessar o Plano Safra?\" Lupion questiona anúncio sem solução para dívidas",
-    "url": "https://agfeed.com.br/economia/como-o-produtor-endividado-vai-acessar-o-plano-safra-lupion-questiona-anuncio-sem-solucao-para-dividas",
-    "resumo": "Presidente da bancada ruralista critica falta de equalização e diz que produtores endividados terão dificuldade para acessar recursos",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.262Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true
-  },
-  {
-    "id": "9b2078fecb08da7b",
-    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
-    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
-    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
-    "fonte": "AgFeed",
-    "data": "2026-07-01T22:01:45.262Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "3tentos",
-      "B3"
-    ],
-    "relevante": true
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "b4b9ff66994c574f",
@@ -942,6 +775,22 @@
     ],
     "tags_empresa": [],
     "relevante": true
+  },
+  {
+    "id": "e1faee12d2086a12",
+    "manchete": "Crachá de silício",
+    "url": "https://startupi.com.br/cracha-de-silicio/",
+    "resumo": "Startupi Crachá de silício FCamara escala trabalhadores sintéticos e avança na redefinição da governança corporativa O post Crachá de silício aparece primeiro em Startupi e foi escrito por Startupi",
+    "fonte": "Startupi",
+    "data": "2026-07-01T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "FCamara"
+    ],
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "995937b25902af0d",
