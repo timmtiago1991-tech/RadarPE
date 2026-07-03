@@ -244,14 +244,11 @@ async function tagsPorLLM(item, exemplos = "") {
   const key = process.env.ANTHROPIC_API_KEY;
   const prompt =
     `Você classifica notícias para um feed de private equity no Brasil.\n\n` +
-    `RELEVÂNCIA — marque "relevante": true SOMENTE se a notícia tratar de algum destes universos:\n` +
-    `Private Equity; Venture Capital; Fusões e Aquisições (M&A); emissões de dívida e debêntures; ` +
-    `curva/mercado de juros; dados de economia real (desemprego, endividamento, inadimplência, PIB, inflação, atividade); ` +
-    `recuperações judiciais/extrajudiciais e reestruturações; captação de fundos; ofertas e mercado de capitais; regulação do setor financeiro.\n` +
-    `Marque "relevante": false para o que estiver fora desse universo (cultura, esporte, política geral, tragédias, tecnologia de consumo, colunas de opinião sem fato econômico), mesmo sendo notícia real.\n\n` +
-    `TEMAS — use apenas destes, de 0 a 4, e só se relevante: ${TEMAS_PERMITIDOS.join("; ")}.\n` +
+    `RELEVÂNCIA — o padrão é MANTER. Marque "relevante": true sempre que a notícia tiver qualquer ligação com negócios, finanças, economia, mercado de capitais ou empresas, mesmo que indireta. Inclui, além de deals: movimentos de bolsa/Ibovespa, câmbio, juros, dados macro e de economia real, agro econômico e do agronegócio, regulação, planos de investimento/expansão de empresas, resultados e reestruturações.\n` +
+    `Marque "relevante": false APENAS quando a notícia claramente não tiver ângulo econômico/empresarial — como cultura, esporte, entretenimento, celebridades, clima/tragédias sem impacto econômico direto, tecnologia de consumo ou crime comum. Na dúvida, MANTENHA (true).\n\n` +
+    `TEMAS — use apenas destes, de 0 a 4, só quando encaixarem bem (pode ficar vazio e ainda assim ser relevante): ${TEMAS_PERMITIDOS.join("; ")}.\n` +
     `EMPRESAS — nomes próprios de empresas/gestoras/fundos citados (0 a 5), sem termos genéricos.\n` +
-    exemplos +
+    (exemplos ? exemplos + `Os exemplos acima são referência do gosto do grupo, não regra absoluta; na dúvida, prefira manter.\n` : "") +
     `Responda SOMENTE JSON válido, sem markdown: {"relevante":true,"tags_tema":[],"tags_empresa":[]}\n\n` +
     `Manchete: ${item.manchete}\nResumo: ${item.resumo}`;
 
