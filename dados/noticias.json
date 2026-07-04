@@ -1,5 +1,169 @@
 [
   {
+    "id": "3d0755bb1d54134d",
+    "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
+    "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
+    "resumo": "Fictor propõe fundo de credores e aposta em proteína animal para viabilizar recuperação judicial de R$ 4,3 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-04T22:09:41.395Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Fictor"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "07de9c1068b9d4e3",
+    "manchete": "SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão",
+    "url": "https://agfeed.com.br/negocios/slc-agricola-exerce-direito-de-preferencia-e-compra-terras-da-radar-em-mt-por-r-185-bilhao",
+    "resumo": "Companhia adquiriu conjunto de propriedades que somam 41,3 mil hectares e estavam sendo negociados pela empresa da Cosan com o Grupo Bom Futuro",
+    "fonte": "AgFeed",
+    "data": "2026-07-04T22:09:41.394Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "SLC Agrícola",
+      "Radar",
+      "Cosan",
+      "Grupo Bom Futuro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "cef578a3e5cdbeda",
+    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
+    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
+    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
+    "fonte": "AgFeed",
+    "data": "2026-07-04T22:09:41.390Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "FMC"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "f3c6908f6ab22864",
+    "manchete": "Bayer segrega glifosato em nova empresa e realimenta especulações sobre cisão da divisão agrícola",
+    "url": "https://agfeed.com.br/negocios/bayer-segrega-glifosato-em-nova-empresa-e-realimenta-especulacoes-sobre-cisao-da-divisao-agricola",
+    "resumo": "Bayer cria a Ruveon, empresa para gerir operações com glifosato nos EUA, e reacende especulações sobre cisão da divisão agrícola",
+    "fonte": "AgFeed",
+    "data": "2026-07-04T22:09:41.389Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Bayer",
+      "Ruveon"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "ab7c4b97c83772f1",
+    "manchete": "ARTIGO: A fragmentação da autoridade e o novo desafio reputacional no topo das corporações",
+    "url": "https://neofeed.com.br/insiders/artigo-a-fragmentacao-da-autoridade-e-o-novo-desafio-reputacional-no-topo-das-corporacoes/",
+    "resumo": "Com a influência distribuída entre mídia tradicional e ecossistemas digitais especializados, empresas precisam rever como constroem credibilidade junto aos tomadores de decisão",
+    "fonte": "NeoFeed",
+    "data": "2026-07-04T22:09:33.354Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "203d0c2041737e0c",
+    "manchete": "A conta fechou: como servir comida de graça fez um restaurante crescer e lucrar",
+    "url": "https://neofeed.com.br/finde/a-conta-fechou-como-servir-comida-de-graca-fez-um-restaurante-crescer-e-lucrar/",
+    "resumo": "Dylan Alverson conta como um ato de resistência ao governo americano transformou o Post Modern Times no negócio mais bem-sucedido de sua carreira",
+    "fonte": "NeoFeed",
+    "data": "2026-07-04T22:09:33.353Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Post Modern Times"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "a629786823737655",
+    "manchete": "Do alfajor ao Mounjaro: Havanna adapta cardápio à era das canetas emagrecedoras",
+    "url": "https://neofeed.com.br/finde/do-alfajor-ao-mounjaro-havanna-adapta-cardapio-a-era-das-canetas-emagrecedoras/",
+    "resumo": "Havanna quer atrair público que hoje usa Ozempic e Mounjaro. Companhia aposta em sorvete com proteína e creatina para crescer 20%",
+    "fonte": "NeoFeed",
+    "data": "2026-07-04T22:09:33.352Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Havanna"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "7a9be9e2e2345448",
+    "manchete": "A nova aposta da Microsoft: ser o “canivete suíço” da IA corporativa",
+    "url": "https://www.infomoney.com.br/business/global/a-nova-aposta-da-microsoft-ser-o-canivete-suico-da-ia-corporativa/",
+    "resumo": "Investimento de US$ 2,5 bilhões mira adoção do Copilot e soluções sob medida",
+    "fonte": "InfoMoney",
+    "data": "2026-07-04T18:55:42.000Z",
+    "tags_tema": [],
+    "tags_empresa": [
+      "Microsoft"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1f54c435e392b4a0",
+    "manchete": "VILG11 e MCCI11 entram na carteira de FIIs que já rendeu 500% do Ifix em 2026; confira o portfólio",
+    "url": "https://www.moneytimes.com.br/vilg11-e-mcci11-entram-na-carteira-de-fiis-que-ja-rendeu-500-do-ifix-em-2026-confira-o-portfolio-lbrdgm074/",
+    "resumo": "A carteira mensal TOP FIIs da Empiricus já está disponível e conta com 7 ativos promissores para julho;",
+    "fonte": "Money Times",
+    "data": "2026-07-04T13:00:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Empiricus"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "cc27c7c456845756",
+    "manchete": "Dividendos de julho, Fred Trajano sereno e FIIs: o que bombou no Money Times nesta semana",
+    "url": "https://www.moneytimes.com.br/dividendos-de-julho-fred-trajano-sereno-e-fiis-o-que-bombou-no-money-times-nesta-semana/",
+    "resumo": "Na semana que marcou o fim de junho e do primeiro semestre e o início de julho e da segunda metade do ano, o calendário de dividendos foi a matéria que mais atraiu a atenção dos leitores do Money Times. Em seguida, aparece uma reportagem exclusiva com Fred Trajano, do Magazine Luiza (MGLU3), falando sobre [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-04T12:36:24.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Magazine Luiza"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "5336000c022cbb20",
     "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
     "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
@@ -11,77 +175,6 @@
     ],
     "tags_empresa": [
       "Bayer"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "c1a5a64a69854d5a",
-    "manchete": "Com operacional fraco, Raízen também sente ajustes contábeis e amplia prejuízo na safra 2025/2026",
-    "url": "https://agfeed.com.br/negocios/com-operacional-fraco-raizen-tambem-sente-ajustes-contabeis-e-amplia-prejuizo-na-safra-2025-2026",
-    "resumo": "No primeiro balanço divulgado após aprovar a RE com os credores, Raízen reportou perdas de R$ 27,1 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T11:47:45.663Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Raízen"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "94972658103ff0c4",
-    "manchete": "Virada de chave na FMC",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
-    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T11:47:45.661Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC",
-      "Tessenderlo"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ac6f9a24055302ca",
-    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
-    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
-    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T11:47:45.660Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Caramuru"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "de92cdf6bc55558f",
-    "manchete": "Com \"grande fundo brasileiro\", argentina DeepAgro levanta R$ 15,5 milhões para expansão no Brasil",
-    "url": "https://agfeed.com.br/agtech/com-grande-fundo-brasileiro-argentina-deepagro-levanta-r-155-milhoes-para-expansao-no-brasil",
-    "resumo": "Depois de validar tecnologia de pulveriação seletiva em lavouras de Amaggi e Adecoabro, DeepAgro faz captação para escalar operação no País",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T11:47:45.657Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "DeepAgro",
-      "Amaggi",
-      "Adecoabro"
     ],
     "relevante": true,
     "importancia": 4
