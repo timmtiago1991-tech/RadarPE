@@ -1,59 +1,119 @@
 [
   {
-    "id": "3d0755bb1d54134d",
-    "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
-    "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
-    "resumo": "Fictor propõe fundo de credores e aposta em proteína animal para viabilizar recuperação judicial de R$ 4,3 bilhões",
+    "id": "5336000c022cbb20",
+    "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
+    "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
+    "resumo": "Suprema Corte decide em favor da Bayer em caso que relaciona uso do glifosato a casos de câncer, fortalecendo defesa em litígios bilionários",
     "fonte": "AgFeed",
-    "data": "2026-07-03T22:15:39.526Z",
+    "data": "2026-07-04T11:47:45.672Z",
     "tags_tema": [
-      "RJ/EJ",
-      "Economia Real"
+      "Regulação"
     ],
     "tags_empresa": [
-      "Fictor"
+      "Bayer"
     ],
     "relevante": true,
     "importancia": 4
   },
   {
-    "id": "c461dbd4aff43d83",
-    "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
-    "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
-    "resumo": "Bom Futuro e SLC disputam compra de terras da Radar no MT após exercerem direito de preferência em negócio de R$ 1,85 bilhão",
+    "id": "c1a5a64a69854d5a",
+    "manchete": "Com operacional fraco, Raízen também sente ajustes contábeis e amplia prejuízo na safra 2025/2026",
+    "url": "https://agfeed.com.br/negocios/com-operacional-fraco-raizen-tambem-sente-ajustes-contabeis-e-amplia-prejuizo-na-safra-2025-2026",
+    "resumo": "No primeiro balanço divulgado após aprovar a RE com os credores, Raízen reportou perdas de R$ 27,1 bilhões",
     "fonte": "AgFeed",
-    "data": "2026-07-03T22:15:39.525Z",
+    "data": "2026-07-04T11:47:45.663Z",
     "tags_tema": [
-      "M&A",
-      "Economia Real"
+      "Economia Real",
+      "Regulação"
     ],
     "tags_empresa": [
-      "Bom Futuro",
-      "SLC",
-      "Radar"
+      "Raízen"
     ],
     "relevante": true,
     "importancia": 4
   },
   {
-    "id": "07de9c1068b9d4e3",
-    "manchete": "SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão",
-    "url": "https://agfeed.com.br/negocios/slc-agricola-exerce-direito-de-preferencia-e-compra-terras-da-radar-em-mt-por-r-185-bilhao",
-    "resumo": "Companhia adquiriu conjunto de propriedades que somam 41,3 mil hectares e estavam sendo negociados pela empresa da Cosan com o Grupo Bom Futuro",
+    "id": "94972658103ff0c4",
+    "manchete": "Virada de chave na FMC",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
+    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
     "fonte": "AgFeed",
-    "data": "2026-07-03T22:15:39.525Z",
+    "data": "2026-07-04T11:47:45.661Z",
     "tags_tema": [
-      "M&A",
-      "Economia Real"
+      "M&A"
     ],
     "tags_empresa": [
-      "SLC Agrícola",
-      "Radar",
-      "Cosan",
-      "Grupo Bom Futuro"
+      "FMC",
+      "Tessenderlo"
     ],
     "relevante": true,
     "importancia": 4
+  },
+  {
+    "id": "ac6f9a24055302ca",
+    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
+    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-04T11:47:45.660Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Caramuru"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "de92cdf6bc55558f",
+    "manchete": "Com \"grande fundo brasileiro\", argentina DeepAgro levanta R$ 15,5 milhões para expansão no Brasil",
+    "url": "https://agfeed.com.br/agtech/com-grande-fundo-brasileiro-argentina-deepagro-levanta-r-155-milhoes-para-expansao-no-brasil",
+    "resumo": "Depois de validar tecnologia de pulveriação seletiva em lavouras de Amaggi e Adecoabro, DeepAgro faz captação para escalar operação no País",
+    "fonte": "AgFeed",
+    "data": "2026-07-04T11:47:45.657Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "DeepAgro",
+      "Amaggi",
+      "Adecoabro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "02f1dcdd30367678",
+    "manchete": "Junho marca 2º mês de saída de estrangeiro da Bolsa, mas saldo segue acima de 2025",
+    "url": "https://www.infomoney.com.br/mercados/junho-marca-2o-mes-de-saida-de-estrangeiro-da-bolsa-mas-saldo-segue-acima-de-2025/",
+    "resumo": "O movimento se deve tanto a fatores externos quanto internos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-04T11:30:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "4dbb63fe14648478",
+    "manchete": "Simples Nacional congelado há 8 anos ameaça pequenas empresas com tributação indireta",
+    "url": "https://www.infomoney.com.br/minhas-financas/simples-nacional-congelado-ha-8-anos-ameaca-pequenas-empresas-com-tributacao-indireta/",
+    "resumo": "Contadores e empresários alegam que a falta de atualização dos limites desde 2018 criou uma defasagem que pesa hoje no bolso das pequenas empresas",
+    "fonte": "InfoMoney",
+    "data": "2026-07-04T11:00:00.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "5e04f3ffcba34c54",
@@ -73,23 +133,6 @@
     ],
     "relevante": true,
     "importancia": 5
-  },
-  {
-    "id": "cef578a3e5cdbeda",
-    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
-    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
-    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
-    "fonte": "AgFeed",
-    "data": "2026-07-03T22:15:39.521Z",
-    "tags_tema": [
-      "Private Equity",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC"
-    ],
-    "relevante": true,
-    "importancia": 4
   },
   {
     "id": "31d2d6c80298809d",
