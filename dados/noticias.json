@@ -1,5 +1,105 @@
 [
   {
+    "id": "c461dbd4aff43d83",
+    "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
+    "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
+    "resumo": "Bom Futuro e SLC disputam compra de terras da Radar no MT após exercerem direito de preferência em negócio de R$ 1,85 bilhão",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T11:49:06.405Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Bom Futuro",
+      "SLC",
+      "Radar"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "ac6f9a24055302ca",
+    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
+    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T11:49:06.399Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Caramuru"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "94972658103ff0c4",
+    "manchete": "Virada de chave na FMC",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
+    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T11:49:06.399Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "FMC",
+      "Tessenderlo"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "f94066999a8d3b2d",
+    "manchete": "As empresas aprenderam a contratar; o desafio agora é fazer os talentos ficarem",
+    "url": "https://www.infomoney.com.br/carreira/as-empresas-aprenderam-a-contratar-o-desafio-agora-e-fazer-as-pessoas-ficarem/",
+    "resumo": "Mobilidade profissional cresce, permanência diminui e empresas descobrem que um bom processo seletivo já não basta para reter talentos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-05T11:06:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "856a32504e334ba4",
+    "manchete": "Setor imobiliário vê 2026 forte, mas já trata 2027 com mais cautela",
+    "url": "https://www.infomoney.com.br/business/setor-imobiliario-ve-2026-forte-mas-ja-trata-2027-com-mais-cautela/",
+    "resumo": "Em painel no Construsummit, representantes da Caixa, CBIC, ABECIP e ABRAMAT projetam novo ciclo de crescimento, mas alertam para riscos ligados à Selic, ao funding, à mão de obra e à tributação",
+    "fonte": "InfoMoney",
+    "data": "2026-07-05T08:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Caixa",
+      "CBIC",
+      "ABECIP",
+      "ABRAMAT"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "2d8c12cbd3901026",
+    "manchete": "Influenciadores viram sócios de empresas em novo modelo de negócios",
+    "url": "https://www.infomoney.com.br/minhas-financas/influenciadores-viram-socios-de-empresas-em-novo-modelo-de-negocios/",
+    "resumo": "Estratégia de media for equity substitui parte dos cachês por participação acionária e avança com a creator economy no Brasil",
+    "fonte": "InfoMoney",
+    "data": "2026-07-05T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "3d0755bb1d54134d",
     "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
     "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
@@ -49,24 +149,6 @@
     ],
     "tags_empresa": [
       "FMC"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "f3c6908f6ab22864",
-    "manchete": "Bayer segrega glifosato em nova empresa e realimenta especulações sobre cisão da divisão agrícola",
-    "url": "https://agfeed.com.br/negocios/bayer-segrega-glifosato-em-nova-empresa-e-realimenta-especulacoes-sobre-cisao-da-divisao-agricola",
-    "resumo": "Bayer cria a Ruveon, empresa para gerir operações com glifosato nos EUA, e reacende especulações sobre cisão da divisão agrícola",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T22:09:41.389Z",
-    "tags_tema": [
-      "M&A",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Bayer",
-      "Ruveon"
     ],
     "relevante": true,
     "importancia": 4
@@ -162,22 +244,6 @@
     ],
     "relevante": true,
     "importancia": 2
-  },
-  {
-    "id": "5336000c022cbb20",
-    "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
-    "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
-    "resumo": "Suprema Corte decide em favor da Bayer em caso que relaciona uso do glifosato a casos de câncer, fortalecendo defesa em litígios bilionários",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T11:47:45.672Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Bayer"
-    ],
-    "relevante": true,
-    "importancia": 4
   },
   {
     "id": "02f1dcdd30367678",
