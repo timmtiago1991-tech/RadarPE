@@ -1,5 +1,102 @@
 [
   {
+    "id": "5336000c022cbb20",
+    "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
+    "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
+    "resumo": "Suprema Corte decide em favor da Bayer em caso que relaciona uso do glifosato a casos de câncer, fortalecendo defesa em litígios bilionários",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T22:12:06.116Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Bayer"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "022fc1b1684ed657",
+    "manchete": "Será o fim da “RJ infinita”? Justiça do MT determina falência do grupo do ex-rei do algodão José Pupin Será o fim da “RJ infinita”? Justiça do MT determina falência do grupo do ex-rei do algodão José Pupin",
+    "url": "https://agfeed.com.br/negocios/sera-o-fim-da-rj-infinita-justica-do-mt-determina-falencia-do-grupo-do-ex-rei-do-algodao-jose-pupin",
+    "resumo": "Justiça decreta falência do Grupo Pupin após descumprimento da recuperação judicial e dívida superior a R$ 3,5 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T22:12:06.115Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Grupo Pupin"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "c1a5a64a69854d5a",
+    "manchete": "Com operacional fraco, Raízen também sente ajustes contábeis e amplia prejuízo na safra 2025/2026",
+    "url": "https://agfeed.com.br/negocios/com-operacional-fraco-raizen-tambem-sente-ajustes-contabeis-e-amplia-prejuizo-na-safra-2025-2026",
+    "resumo": "No primeiro balanço divulgado após aprovar a RE com os credores, Raízen reportou perdas de R$ 27,1 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T22:12:06.113Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Raízen"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "f3c6908f6ab22864",
+    "manchete": "Bayer segrega glifosato em nova empresa e realimenta especulações sobre cisão da divisão agrícola",
+    "url": "https://agfeed.com.br/negocios/bayer-segrega-glifosato-em-nova-empresa-e-realimenta-especulacoes-sobre-cisao-da-divisao-agricola",
+    "resumo": "Bayer cria a Ruveon, empresa para gerir operações com glifosato nos EUA, e reacende especulações sobre cisão da divisão agrícola",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T22:12:06.111Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Bayer"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "8c7e8b5e6446dfcf",
+    "manchete": "\"Multiagfintech\", MerX multiplica negócios e prepara fundos para chegar em R$ 1 bi em crédito ao agro",
+    "url": "https://agfeed.com.br/financas/multiagfintech-merx-multiplica-negocios-e-prepara-fundos-para-chegar-em-r-1-bi-em-credito-ao-agro",
+    "resumo": "Empresa fundada por ex-executivos do BTG Pactual, MerX combina tecnologia, plataforma, trading e soluções para rastreabilidade",
+    "fonte": "AgFeed",
+    "data": "2026-07-05T22:12:06.111Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "MerX",
+      "BTG Pactual"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "e0885e7ce372dd0f",
+    "manchete": "Como o Brasil quer conquistar o bilionário mercado espacial com lançamentos em Alcântara",
+    "url": "https://www.moneytimes.com.br/como-o-brasil-quer-conquistar-o-bilionario-mercado-espacial-com-lancamentos-em-alcantara/",
+    "resumo": "O Brasil está tentando abocanhar uma fatia do mercado espacial, que movimenta bilhões ao redor do mundo e tende a crescer mais nos próximos anos, puxado por SpaceX, Blue Origins e dezenas de outras empresas menores, mas relevantes. Neste momento, há cerca de 20 contratos em negociação entre o governo federal e…",
+    "fonte": "Money Times",
+    "data": "2026-07-05T12:19:05.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "c461dbd4aff43d83",
     "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
     "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
@@ -14,40 +111,6 @@
       "Bom Futuro",
       "SLC",
       "Radar"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ac6f9a24055302ca",
-    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
-    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
-    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-05T11:49:06.399Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Caramuru"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "94972658103ff0c4",
-    "manchete": "Virada de chave na FMC",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
-    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
-    "fonte": "AgFeed",
-    "data": "2026-07-05T11:49:06.399Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC",
-      "Tessenderlo"
     ],
     "relevante": true,
     "importancia": 4
@@ -98,60 +161,6 @@
     "tags_empresa": [],
     "relevante": true,
     "importancia": 2
-  },
-  {
-    "id": "3d0755bb1d54134d",
-    "manchete": "Engenharia financeira do plano de RJ da Fictor prevê fundo de credores e aposta na proteína animal",
-    "url": "https://agfeed.com.br/negocios/engenharia-financeira-do-plano-de-rj-da-fictor-preve-fundo-de-credores-e-aposta-na-proteina-animal",
-    "resumo": "Fictor propõe fundo de credores e aposta em proteína animal para viabilizar recuperação judicial de R$ 4,3 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T22:09:41.395Z",
-    "tags_tema": [
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Fictor"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "07de9c1068b9d4e3",
-    "manchete": "SLC Agrícola exerce direito de preferência e compra terras da Radar em MT por R$ 1,85 bilhão",
-    "url": "https://agfeed.com.br/negocios/slc-agricola-exerce-direito-de-preferencia-e-compra-terras-da-radar-em-mt-por-r-185-bilhao",
-    "resumo": "Companhia adquiriu conjunto de propriedades que somam 41,3 mil hectares e estavam sendo negociados pela empresa da Cosan com o Grupo Bom Futuro",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T22:09:41.394Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "SLC Agrícola",
-      "Radar",
-      "Cosan",
-      "Grupo Bom Futuro"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "cef578a3e5cdbeda",
-    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
-    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
-    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
-    "fonte": "AgFeed",
-    "data": "2026-07-04T22:09:41.390Z",
-    "tags_tema": [
-      "Private Equity",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC"
-    ],
-    "relevante": true,
-    "importancia": 4
   },
   {
     "id": "ab7c4b97c83772f1",
