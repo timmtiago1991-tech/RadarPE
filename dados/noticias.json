@@ -1,5 +1,143 @@
 [
   {
+    "id": "5336000c022cbb20",
+    "manchete": "Bayer comemora \"7 a 2\" alemão nos EUA, com decisão histórica da justiça em processo do Roundup",
+    "url": "https://agfeed.com.br/negocios/bayer-comemora-7-a-2-alemao-nos-eua-com-decisao-historica-da-justica-em-processo-do-roundup",
+    "resumo": "Suprema Corte decide em favor da Bayer em caso que relaciona uso do glifosato a casos de câncer, fortalecendo defesa em litígios bilionários",
+    "fonte": "AgFeed",
+    "data": "2026-07-06T22:35:40.500Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Bayer"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "de92cdf6bc55558f",
+    "manchete": "Com \"grande fundo brasileiro\", argentina DeepAgro levanta R$ 15,5 milhões para expansão no Brasil Com \"grande fundo brasileiro\", argentina DeepAgro levanta R$ 15,5 milhões para expansão no Brasil",
+    "url": "https://agfeed.com.br/agtech/com-grande-fundo-brasileiro-argentina-deepagro-levanta-r-155-milhoes-para-expansao-no-brasil",
+    "resumo": "Depois de validar tecnologia de pulveriação seletiva em lavouras de Amaggi e Adecoabro, DeepAgro faz captação para escalar operação no País",
+    "fonte": "AgFeed",
+    "data": "2026-07-06T22:35:40.495Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "DeepAgro",
+      "Amaggi",
+      "Adecoabro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "2733790705c7af4b",
+    "manchete": "Engie Brasil pode buscar até R$ 10,5 bilhões em follow on",
+    "url": "https://neofeed.com.br/negocios/engie-brasil-pode-buscar-ate-r-105-bilhoes-em-follow-on/",
+    "resumo": "Juntamente com a oferta subsequente de ações, a companhia anunciou uma oferta pública de distribuição de debêntures simples no valor total de R$ 700 milhões",
+    "fonte": "NeoFeed",
+    "data": "2026-07-06T22:35:29.871Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [
+      "Engie Brasil"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "71796c6cefe3c942",
+    "manchete": "HMC Capital traz Neuberger para o Brasil e mira fundos de pensão com crédito global",
+    "url": "https://neofeed.com.br/negocios/hmc-capital-traz-neuberger-para-o-brasil-e-mira-fundos-de-pensao-com-credito-global/",
+    "resumo": "Com US$ 567 bilhões sob gestão e presença em 26 países, a gestora americana fecha acordo com a companhia brasileira para distribuir sua prateleira completa de fundos no mercado local",
+    "fonte": "NeoFeed",
+    "data": "2026-07-06T22:35:29.871Z",
+    "tags_tema": [
+      "Private Equity",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "HMC Capital",
+      "Neuberger Berman"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "938e544584fe181f",
+    "manchete": "A “tempestade perfeita” que ronda o agronegócio",
+    "url": "https://neofeed.com.br/economia/a-tempestade-perfeita-que-ronda-o-agronegocio/",
+    "resumo": "Relatório do Banco Inter adverte para custo dos fertilizantes, o El Niño, supersafra de vários países e dívidas das empresas",
+    "fonte": "NeoFeed",
+    "data": "2026-07-06T22:35:29.870Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Banco Inter"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a60b501bbe9c5007",
+    "manchete": "Vale (VALE3) confirma renúncia de Daniel Stieler da presidência do Conselho",
+    "url": "https://www.moneytimes.com.br/vale-vale3-confirma-renuncia-de-daniel-stieler-da-presidencia-do-conselho/",
+    "resumo": "A Vale (VALE3) informou nesta segunda-feira (6) que recebeu a renúncia de Daniel André Stieler aos cargos de membro e presidente do Conselho de Administração da companhia, com efeitos imediatos. A Previ, fundo de pensão dos funcionários do Banco do Brasil e um dos principais acionistas da Vale, havia solicitado a…",
+    "fonte": "Money Times",
+    "data": "2026-07-06T22:19:18.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Vale",
+      "Previ"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "5210c0a30bb79ddd",
+    "manchete": "Ambipar (AMBP3), BRB (BSLI3), Oi (OIBR3): CVM divulga lista de empresas em dívida com a instituição",
+    "url": "https://www.moneytimes.com.br/ambipar-ambp3-brb-bsli3-oi-oibr3-cvm-divulga-lista-de-empresas-em-divida-com-a-instituicao/",
+    "resumo": "A Comissão de Valores Mobiliários (CVM) divulgou uma lista de companhias abertas consideradas inadimplentes por atraso no envio de informações obrigatórias ao mercado. Ao todo, 11 empresas deixaram de entregar, há pelo menos três meses, um ou mais documentos periódicos exigidos pela autarquia. Segundo a…",
+    "fonte": "Money Times",
+    "data": "2026-07-06T21:27:05.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Ambipar",
+      "BRB",
+      "Oi"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "5d36804d81e8b84f",
+    "manchete": "Latam incorpora 13 aeronaves no semestre e prevê atingir frota de 410 aviões até o fim do ano",
+    "url": "https://www.moneytimes.com.br/latam-incorpora-13-aeronaves-no-semestre-e-preve-atingir-frota-de-410-avioes-ate-o-fim-do-ano/",
+    "resumo": "O Grupo Latam incorporou 13 aeronaves no primeiro semestre e prevê receber outras 28 até o fim do ano. Com isso, a companhia estima encerrar 2026 com mais de 40 novos aviões incorporados, totalizando uma frota de 410 aeronaves. Dos 13 aviões recebidos entre janeiro e junho, nove foram destinados à operação brasileira:…",
+    "fonte": "Money Times",
+    "data": "2026-07-06T21:11:28.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Latam"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "c461dbd4aff43d83",
     "manchete": "Bom Futuro diz que tem direito a preferência para compra de terras da Radar e gera impasse com SLC",
     "url": "https://agfeed.com.br/negocios/bom-futuro-diz-que-tem-direito-a-preferencia-para-compra-de-terras-da-radar-e-gera-impasse-com-slc",
@@ -220,40 +358,6 @@
     ],
     "tags_empresa": [
       "FMC"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ac6f9a24055302ca",
-    "manchete": "AgLíderes: Com \"chuteira no pé\", CEO da Caramuru joga no ataque à espera de chance para o gol do IPO",
-    "url": "https://agfeed.com.br/videos/aglideres/aglideres-com-chuteira-no-pe-ceo-da-caramuru-joga-no-ataque-a-espera-de-chance-para-o-gol-do-ipo",
-    "resumo": "Marcus Thieme, CEO da Caramuru, sinaliza o caminho para aumentar o esmagamento de soja e prevê alta na receita, em pelo menos R$ 8,5 bilhões",
-    "fonte": "AgFeed",
-    "data": "2026-07-06T12:47:43.424Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Caramuru"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "94972658103ff0c4",
-    "manchete": "Virada de chave na FMC",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/virada-de-chave-na-fmc",
-    "resumo": "Multinacional americana encerra processo de reorganização com venda de 20% de suas ações para o grupo belga Tessenderlo",
-    "fonte": "AgFeed",
-    "data": "2026-07-06T12:47:43.424Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC",
-      "Tessenderlo"
     ],
     "relevante": true,
     "importancia": 4
