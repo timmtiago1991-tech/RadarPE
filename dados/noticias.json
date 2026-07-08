@@ -1,18 +1,242 @@
 [
   {
-    "id": "c02ee4b1db463b3f",
-    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
-    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
-    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
+    "id": "9b2078fecb08da7b",
+    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil 3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
+    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
+    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
     "fonte": "AgFeed",
-    "data": "2026-07-07T22:22:05.125Z",
+    "data": "2026-07-08T11:58:42.690Z",
     "tags_tema": [
-      "Economia Real",
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "Costelata"
+      "3tentos"
     ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8a0c39a2a55a9407",
+    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
+    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
+    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
+    "fonte": "AgFeed",
+    "data": "2026-07-08T11:58:42.688Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Stenon"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d5635bf1e93b9a4",
+    "manchete": "Com mais de R$ 2 bi em caixa, Fleury faz “análise clínica” para novos M&As. Mas há desafios",
+    "url": "https://neofeed.com.br/negocios/com-mais-de-r-2-bi-em-caixa-fleury-faz-analise-clinica-para-novos-mas-mas-ha-desafios/",
+    "resumo": "Ao NeoFeed, a CEO Jeane Tsutsui explica o plano de comprar empresas menores no cenário de juros altos, mas que carrega o desafio de não afetar a margem. Ela também conta por que a aquisição da Oncoclínicas não deu certo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-08T11:58:37.861Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Fleury",
+      "Oncoclínicas"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "624d30c3a308bb0f",
+    "manchete": "Natura (NATU3) prevê queda de até 10% na receita do 2º tri, pressionada por Brasil",
+    "url": "https://www.infomoney.com.br/mercados/natura-natu3-preve-queda-de-ate-10-na-receita-do-2o-tri-pressionada-por-brasil/",
+    "resumo": "Companhia estima receita líquida consolidada entre R$ 5,1 bilhões e R$ 5,2 bilhões no período; consumo mais fraco e ajustes operacionais pesaram sobre operação brasileira",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T11:50:05.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Natura"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "43015beda1f7b0c1",
+    "manchete": "Brava Energia (BRAV3): Recurso da Ecopetrol sobre OPA vai ao colegiado da CVM",
+    "url": "https://www.moneytimes.com.br/brava-energia-brav3-recurso-da-ecopetrol-sobre-opa-vai-ao-colegiado-da-cvm-veja-lmrs/",
+    "resumo": "A Brava Energia (BRAV3) comunicou ao mercado que o recurso apresentado pela Ecopetrol no âmbito da oferta pública de aquisição (OPA) de controle da companhia foi encaminhado para análise do colegiado da Comissão de Valores Mobiliários (CVM). De acordo com fato relevante divulgado na noite de terça-feira (7), a…",
+    "fonte": "Money Times",
+    "data": "2026-07-08T11:32:18.000Z",
+    "tags_tema": [
+      "M&A",
+      "IPO/Mercado de Capitais",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Brava Energia",
+      "Ecopetrol",
+      "CVM"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "0c641206d96dd676",
+    "manchete": "Trump diz que acordo com Irã “acabou” e eleva temor de nova escalada da guerra",
+    "url": "https://www.infomoney.com.br/mercados/trump-diz-que-acordo-com-ira-acabou-e-eleva-temor-de-nova-escalada-da-guerra/",
+    "resumo": "Após nova troca de ataques no Golfo, presidente dos EUA afirma que cessar-fogo com Teerã perdeu validade; tensão reacende risco no Estreito de Ormuz e pressiona petróleo",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T11:27:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "92bfaa7f2373c9db",
+    "manchete": "Cury tem queda de 9,5% nas vendas líquidas do 2º tri",
+    "url": "https://www.infomoney.com.br/mercados/cury-tem-queda-de-95-nas-vendas-liquidas-do-2o-tri/",
+    "resumo": "Os lançamentos atingiram R$ 2,26 bilhões no período, alta de 1,4% na comparação anual",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T11:20:07.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Cury"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fe6725b07d9a873c",
+    "manchete": "Petrobras, Motiva, Tenda, Assaí, Klabin e mais ações para acompanhar hoje",
+    "url": "https://www.infomoney.com.br/mercados/petrobras-motiva-tenda-assai-klabin-e-mais-acoes-para-acompanhar-hoje/",
+    "resumo": "Confira os principais destaques do noticiário corporativo desta quarta-feira (8)",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T11:13:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Petrobras",
+      "Motiva",
+      "Tenda",
+      "Assaí",
+      "Klabin"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1f385e3b7c7f8712",
+    "manchete": "Small cap da bolsa aprova nova distribuição de dividendos; veja datas e valores por ação",
+    "url": "https://www.moneytimes.com.br/small-cap-da-bolsa-aprova-nova-distribuicao-de-dividendos-veja-datas-e-valores-por-acao-igdl/",
+    "resumo": "Uma das small caps negociadas na bolsa de valores, a Mitre Realty (MTRE3) aprovou a distribuição de R$ 9 milhões em dividendos intermediários, mostra aviso divulgado ao mercado nessa terça-feira (7). Segundo o documento, o pagamento será realizado em três parcelas iguais de R$ 3 milhões cada, sem incidência de…",
+    "fonte": "Money Times",
+    "data": "2026-07-08T11:10:12.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Mitre Realty"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f0ee2e0471685f2d",
+    "manchete": "Fundo imobiliário rescinde venda de terreno em São Paulo; IFIX amplia perdas",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-rescinde-venda-de-terreno-em-sao-paulo-ifix-amplia-perdas-igdl/",
+    "resumo": "O fundo imobiliário Pátria Escritório (HGRE11) anunciou, por meio de fato relevante, que rescindiu, em comum acordo com a contraparte, o compromisso de venda de um terreno localizado nas ruas da Alegria e Visconde de Parnaíba, no centro de São Paulo (SP). Segundo o comunicado, o distrato foi firmado porque…",
+    "fonte": "Money Times",
+    "data": "2026-07-08T11:03:11.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Pátria Escritório"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "738e3bd7375ef9a6",
+    "manchete": "Mudança em imposto de heranças leva famílias a rever estratégias financeiras",
+    "url": "https://www.infomoney.com.br/minhas-financas/mudanca-em-imposto-de-herancas-leva-familias-a-rever-estrategias-financeiras/",
+    "resumo": "Foram feitas 185.861 escrituras de doação de imóveis em 2025, 59% a mais do que o registrado em 2020, de acordo com levantamento do Colégio Notarial do Brasil",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T11:00:00.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0e13673d08989396",
+    "manchete": "Tenda (TEND3) registra recordes de lançamentos e vendas no 2º trimestre",
+    "url": "https://www.infomoney.com.br/mercados/tenda-tend3-registra-recordes-de-lancamentos-e-vendas-no-2o-trimestre/",
+    "resumo": "Construtora lançou 14 empreendimentos, com Valor Geral de Vendas (VGV) de R$ 1,68 bilhão, alta de 54,4% na comparação anual",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T10:51:42.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Tenda"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6d2c3b26a375803f",
+    "manchete": "Entrevista: O 'lado invisível' da Eucatex (EUCA4) que o mercado não acompanha, segundo o VP",
+    "url": "https://www.moneytimes.com.br/entrevista-o-lado-invisivel-da-eucatex-euca4-que-o-mercado-nao-acompanha-segundo-o-vp-igdl/",
+    "resumo": "Engana-se quem pensa que uma das principais fabricantes de painéis, portas e tintas do Brasil, a Eucatex (EUCA4), foca apenas nas vendas de seus produtos. Na verdade, é justamente longe da comercialização que está o mecanismo que ajuda a explicar os números apresentados pela small cap nos últimos trimestres. Trata-se…",
+    "fonte": "Money Times",
+    "data": "2026-07-08T10:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Eucatex"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "79cb5af284546def",
+    "manchete": "QI Tech compra a Autobanking e estreia no crédito automotivo",
+    "url": "https://braziljournal.com/qi-tech-compra-a-autobanking-e-estreia-no-credito-automotivo/",
+    "resumo": "A QI Tech acaba de comprar a Autobanking, uma plataforma de financiamento de veículos, marcando a entrada da fintech em um dos maiores mercados de crédito do País. O valor do negócio – que envolveu cash e troca de ações – não foi divulgado. A empresa está adquirindo 100% da operação, e os fundadores Fredy [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-08T09:50:23.000Z",
+    "tags_tema": [
+      "M&A",
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "QI Tech",
+      "Autobanking"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "28a940b73541ace9",
+    "manchete": "Trump diz que acordo provisório com o Irã para encerrar a guerra \"acabou\"; petróleo reage e dispara mais de 6%",
+    "url": "https://www.moneytimes.com.br/trump-diz-que-acordo-provisorio-com-o-ira-para-encerrar-a-guerra-acabou-petroleo-reage-e-dispara-mais-de-6-fets/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (8) que o memorando de entendimento assinado com o Irã para encerrar o conflito \"acabou\", acrescentando que não deseja manter negociações com Teerã. O acordo provisório de cessar-fogo firmado entre Washington e Teerã, com mediação do Paquistão,…",
+    "fonte": "Money Times",
+    "data": "2026-07-08T09:29:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
     "relevante": true,
     "importancia": 3
   },
