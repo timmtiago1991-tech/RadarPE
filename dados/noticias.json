@@ -1,33 +1,223 @@
 [
   {
-    "id": "9b2078fecb08da7b",
-    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil 3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
-    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
-    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
+    "id": "c02ee4b1db463b3f",
+    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
+    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
+    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
     "fonte": "AgFeed",
-    "data": "2026-07-08T11:58:42.690Z",
+    "data": "2026-07-08T22:16:18.998Z",
     "tags_tema": [
+      "Economia Real",
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "3tentos"
+      "Costelata"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "8a0c39a2a55a9407",
-    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
-    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
-    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
+    "id": "2d7ea2df7fdfb012",
+    "manchete": "Syngenta troca comando global e nomeia Hengde Qin como novo CEO Syngenta troca comando global e nomeia Hengde Qin como novo CEO",
+    "url": "https://agfeed.com.br/negocios/syngenta-troca-comando-global-e-nomeia-hengde-qin-como-novo-ceo",
+    "resumo": "Atual diretor de operações e chefe da divisão de sementes, o executivo assume cargo em agosto, sucedendo Jeff Rowe, que estava no posto desde 2024",
     "fonte": "AgFeed",
-    "data": "2026-07-08T11:58:42.688Z",
+    "data": "2026-07-08T22:16:18.997Z",
+    "tags_tema": [],
+    "tags_empresa": [
+      "Syngenta"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "26d9fb937ac4348a",
+    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
+    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
+    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
+    "fonte": "AgFeed",
+    "data": "2026-07-08T22:16:18.995Z",
     "tags_tema": [
-      "Venture Capital"
+      "Economia Real"
     ],
     "tags_empresa": [
-      "Stenon"
+      "BNDES",
+      "bp bioenergy"
     ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "87f80b669391488a",
+    "manchete": "Trump ‘desiste’ de cessar-fogo com Irã e mercados voltam a tremer",
+    "url": "https://neofeed.com.br/economia/trump-desiste-de-cessar-fogo-com-ira-e-mercados-voltam-a-tremer/",
+    "resumo": "Preços do petróleo sobem e ações caem após ataques entre EUA e Irã, expondo gargalo ainda não resolvido: a navegabilidade no Estreito de Ormuz",
+    "fonte": "NeoFeed",
+    "data": "2026-07-08T22:16:06.361Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "16f133fc2cb68d20",
+    "manchete": "Os dois lados da moeda nos resultados preliminares da Natura",
+    "url": "https://neofeed.com.br/negocios/os-dois-lados-da-moeda-nos-resultados-preliminares-da-natura/",
+    "resumo": "Na contramão de uma queda prevista de até 10% da sua receita no segundo trimestre, as ações do grupo sobem enquanto o mercado parece enxergar além dos impactos de curto prazo da operação",
+    "fonte": "NeoFeed",
+    "data": "2026-07-08T22:16:06.361Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Natura"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b6d2d083210a3248",
+    "manchete": "Do IPO da SpaceX a M&As \"modestos\": J.P. Morgan cria setor para empresas que valem até US$ 500 milhões",
+    "url": "https://neofeed.com.br/negocios/do-ipo-da-spacex-a-mas-modestos-j-p-morgan-cria-setor-para-empresas-que-valem-ate-us-500-milhoes/",
+    "resumo": "Banco americano expande atuação para assessorar empresas que tenham valor de mercado entre US$ 100 milhões e US$ 500 milhões. Parte deste movimento está em empreendedores da geração baby boomer",
+    "fonte": "NeoFeed",
+    "data": "2026-07-08T22:16:06.361Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "J.P. Morgan"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c418db49b888a498",
+    "manchete": "Para Bradesco BBI, follow ons apenas \"oportunísticos\", IPOs em 2027 e infraestrutura puxa M&As",
+    "url": "https://neofeed.com.br/negocios/para-bradesco-bbi-follow-ons-apenas-oportunisticos-ipos-em-2027-e-infraestrutura-puxa-mas/",
+    "resumo": "Executivos do banco de investimentos avaliam que retomada depende do fiscal e que \"velhos conhecidos\" estão de olho no mercado",
+    "fonte": "NeoFeed",
+    "data": "2026-07-08T22:16:06.360Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Bradesco BBI"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "522b09005ba01455",
+    "manchete": "EXCLUSIVO: Procuradoria da CVM vê irregularidades na Atom em processo contra irmãos Paiffer",
+    "url": "https://neofeed.com.br/negocios/exclusivo-procuradoria-da-cvm-ve-irregularidades-na-atom-em-processo-contra-irmaos-paiffer/",
+    "resumo": "Autarquia acusa Carol e José Paiffer por supostas irregularidades em transação que levou à listagem da Atom na B3",
+    "fonte": "NeoFeed",
+    "data": "2026-07-08T22:16:06.360Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Atom",
+      "CVM"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "fc014ea8478c704b",
+    "manchete": "Senado aprova MP que destina R$ 15 bi a empresas afetadas por tarifas e geopolítica",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-mp-que-destina-r-15-bi-a-empresas-afetadas-por-tarifas-e-geopolitica/",
+    "resumo": "O texto amplia instrumentos de financiamento e aprimora regras do Seguro de Crédito à Exportação (SCE) e do Fundo de Garantia à Exportação (FGE)",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T21:32:35.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "4d054c97389d0f80",
+    "manchete": "Cacau atinge máxima de 7 meses em Londres; açúcar bruto alcança máxima de quase 2 meses",
+    "url": "https://www.moneytimes.com.br/cacau-atinge-maxima-de-7-meses-em-londres-acucar-bruto-alcanca-maxima-de-quase-2-meses-pads/",
+    "resumo": "Os futuros de cacau de Londres na ICE atingiram máximas de sete meses nesta quarta-feira, com o mercado ainda preocupado com um fenômeno climático El Niño forte ou potencialmente muito forte, enquanto o açúcar bruto subiu para níveis próximos às máximas de dois meses, acompanhando a trajetória do petróleo. Os futuros…",
+    "fonte": "Money Times",
+    "data": "2026-07-08T21:14:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "52f867b887b508b6",
+    "manchete": "Vale (VALE3) fecha com queda de 4,5% após corte de recomendação por Morgan Stanley",
+    "url": "https://www.infomoney.com.br/mercados/vale-vale3-cai-mais-de-4-apos-corte-de-recomendacao-por-morgan-stanley/",
+    "resumo": "O minério passou a ser considerado a commodity menos preferida do time de análise do banco entre as cobertas pelo relatório, o que impactou recomendação da mineradora",
+    "fonte": "InfoMoney",
+    "data": "2026-07-08T21:05:10.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Vale",
+      "Morgan Stanley"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e90bf76bef6c7dcf",
+    "manchete": "A SLC está valendo metade do que valem suas terras. Para o mercado, ainda é muito",
+    "url": "https://braziljournal.com/a-slc-esta-valendo-metade-do-que-valem-suas-terras-para-o-mercado-ainda-e-muito/",
+    "resumo": "A SLC Agrícola está negociando com um desconto de quase 50% em relação ao valor de suas terras – com o papel caindo ainda mais nas últimas semanas depois que a companhia dos Logemann anunciou que compraria fazendas da Radar por R$ 1,85 bilhão. E apesar deste gap brutal, o mercado continua cético. Na transação [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-08T20:13:49.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "SLC Agrícola",
+      "Radar"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ac6f2b287b6d4242",
+    "manchete": "A headline na Natura era feia. Mas o dia foi lindo",
+    "url": "https://braziljournal.com/a-headline-na-natura-era-feia-mas-o-dia-foi-lindo/",
+    "resumo": "Num movimento incomum, a Natura decidiu antecipar a divulgação de parte de seus resultados do segundo tri, reportando vendas abaixo do consenso dos analistas. A fabricante de cosméticos reportou um número 6% abaixo do consenso, que previa uma receita de R$ 5,5 bilhões no tri.&#160; Os resultados completos e auditados…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-08T20:03:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Natura"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f5043755c2a9fe02",
+    "manchete": "Fundos de aceleração de startups ganham espaço como alternativa estratégica para investidores",
+    "url": "https://startupi.com.br/fundos-de-aceleracao-de-startups-ganham-espaco/",
+    "resumo": "Startupi Fundos de aceleração de startups ganham espaço como alternativa estratégica para investidores A oferta de recursos para startups em estágio inicial no Brasil tem contado principalmente com fundos privados de aceleração. Em outros países, como Inglaterra, Canadá, Estados Unidos, Israel e Índia, bancos públicos…",
+    "fonte": "Startupi",
+    "data": "2026-07-08T13:24:22.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
     "relevante": true,
     "importancia": 3
   },
