@@ -1,51 +1,340 @@
 [
   {
-    "id": "c02ee4b1db463b3f",
-    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
-    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
-    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
+    "id": "9b2078fecb08da7b",
+    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
+    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
+    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
     "fonte": "AgFeed",
-    "data": "2026-07-08T22:16:18.998Z",
+    "data": "2026-07-09T22:42:36.452Z",
     "tags_tema": [
-      "Economia Real",
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "Costelata"
+      "3tentos"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "2d7ea2df7fdfb012",
-    "manchete": "Syngenta troca comando global e nomeia Hengde Qin como novo CEO Syngenta troca comando global e nomeia Hengde Qin como novo CEO",
-    "url": "https://agfeed.com.br/negocios/syngenta-troca-comando-global-e-nomeia-hengde-qin-como-novo-ceo",
-    "resumo": "Atual diretor de operações e chefe da divisão de sementes, o executivo assume cargo em agosto, sucedendo Jeff Rowe, que estava no posto desde 2024",
+    "id": "9a8509a7c0205fc3",
+    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
+    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
+    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
     "fonte": "AgFeed",
-    "data": "2026-07-08T22:16:18.997Z",
-    "tags_tema": [],
+    "data": "2026-07-09T22:42:36.451Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
     "tags_empresa": [
-      "Syngenta"
+      "ETG",
+      "VLI"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "26d9fb937ac4348a",
-    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
-    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
-    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
+    "id": "8a0c39a2a55a9407",
+    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
+    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
+    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
     "fonte": "AgFeed",
-    "data": "2026-07-08T22:16:18.995Z",
+    "data": "2026-07-09T22:42:36.451Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Stenon"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "17ef3d4de01ec1b0",
+    "manchete": "M&A do software agro: paranense Limber compra catarinense Infogen para crescer receita no setor M&A do software agro: paranense Limber compra catarinense Infogen para crescer receita no setor",
+    "url": "https://agfeed.com.br/negocios/ma-do-software-agro-paranense-limber-compra-catarinense-infogen-para-crescer-receita-no-setor",
+    "resumo": "Aquisição da Infogen eleva participação do agro para um terço da receita do grupo Limber e reforça foco em cooperativas e agroindústrias",
+    "fonte": "AgFeed",
+    "data": "2026-07-09T22:42:36.445Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Limber",
+      "Infogen"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "fcb7905a11ed4d21",
+    "manchete": "Cosan \"divide\" terras da Radar entre SLC e Bom Futuro e conclui negócio de R$ 1,8 bilhão Cosan \"divide\" terras da Radar entre SLC e Bom Futuro e conclui negócio de R$ 1,8 bilhão",
+    "url": "https://agfeed.com.br/negocios/cosan-divide-terras-da-radar-entre-slc-e-bom-futuro-e-conclui-negocio-de-r-18-bilhao",
+    "resumo": "Operação encerra corrida entre grandes companhias do setor pela aquisição de mais de 41 mil hectares de terras agrícolas em Mato Grosso",
+    "fonte": "AgFeed",
+    "data": "2026-07-09T22:42:36.445Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "Radar",
+      "SLC",
+      "Bom Futuro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "692426a903f25980",
+    "manchete": "Com a Bolsa novamente em modo de espera, Seneca Evercore mira recorde de M&As em 2026",
+    "url": "https://neofeed.com.br/negocios/com-a-bolsa-novamente-em-modo-de-espera-seneca-evercore-mira-recorde-de-mas-em-2026/",
+    "resumo": "Após movimentar cerca de R$ 5 bilhões no primeiro semestre em M&As, a butique de Daniel Wainstein tem mais de 30 mandatos em seu balcão e vê tração para superar sua melhor marca, de R$ 15,5 bilhões, registrada em 2023",
+    "fonte": "NeoFeed",
+    "data": "2026-07-09T22:42:22.440Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Seneca Evercore"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "e5aaf3e68d61655e",
+    "manchete": "M&A dos gigantes logísticos: a cartada da Prologis para levar a Segro",
+    "url": "https://neofeed.com.br/negocios/ma-dos-gigantes-logisticos-a-cartada-da-prologis-para-levar-a-segro/",
+    "resumo": "Maior proprietária de imóveis industriais do mundo, a Prologis divulga carta pedindo apoio de investidores para emplacar oferta de US$ 16,6 bilhões pela concorrente britânica",
+    "fonte": "NeoFeed",
+    "data": "2026-07-09T22:42:22.439Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Prologis",
+      "Segro"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "262c309cf6d855e8",
+    "manchete": "Espaçolaser vê nas canetas emagrecedoras um novo motor de crescimento",
+    "url": "https://neofeed.com.br/videos/call-de-negocios/espacolaser-ve-nas-canetas-emagrecedoras-um-novo-motor-de-crescimento/",
+    "resumo": "A CEO da Espaço Laser, Magali Leite, diz que as canetas emagrecedoras podem atrair novos clientes para a empresa. Em entrevista ao NeoFeed, ela detalha a estratégia de crescimento, fala sobre expansão, novos serviços e os desafios de liderar uma companhia de capital aberto.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-09T22:42:22.438Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "BNDES",
-      "bp bioenergy"
+      "Espaço Laser"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "68d0b4775effe4ba",
+    "manchete": "A aposta de US$ 2,8 bilhões de Eduardo Saverin no mercado financeiro",
+    "url": "https://neofeed.com.br/negocios/a-aposta-de-us-28-bilhoes-de-eduardo-saverin-usar-ia-para-transformar-a-gestao-de-investimentos/",
+    "resumo": "Gestora do cofundador do Facebook e brasileiro mais rico do mundo, lidera consórcio que comprou a gestora Russell Investments para, segundo ele, reinventar a gestão de recursos com IA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-09T22:42:22.437Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Russell Investments",
+      "Eduardo Saverin"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "40b7e8cd06b5c5cf",
+    "manchete": "MRV&#038;Co tem alta de 3,5% nas vendas de incorporação no 2º tri",
+    "url": "https://www.infomoney.com.br/mercados/mrvco-tem-alta-de-35-nas-vendas-de-incorporacao-no-2o-tri/",
+    "resumo": "Apesar das expectativas positivas, o companhia vê com alguma cautela as mudanças no programa de renegociação de dívidas do governo, o Desenrola, pelo uso de FGTS",
+    "fonte": "InfoMoney",
+    "data": "2026-07-09T22:16:43.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "MRV&Co"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "213c7bfff87a1e33",
+    "manchete": "Petrobras (PETR4) conclui aquisição de bloco exploratório em São Tomé e Príncipe",
+    "url": "https://www.moneytimes.com.br/petrobras-petr4-conclui-aquisicao-de-bloco-exploratorio-em-sao-tome-e-principe/",
+    "resumo": "A Petrobras (PETR4) concluiu a aquisição da participação e assumiu a operação do bloco exploratório 3, localizado em águas offshore de São Tomé e Príncipe, na África, informou a companhia nesta quinta-feira (9). A conclusão da operação dá sequência ao comunicado divulgado pela estatal em 17 de abril de 2026. Com a…",
+    "fonte": "Money Times",
+    "data": "2026-07-09T21:56:29.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Petrobras"
     ],
     "relevante": true,
     "importancia": 3
+  },
+  {
+    "id": "27ce4d6db8c24f09",
+    "manchete": "Multiplan (MULT3) vende terrenos ao lado de shoppings para projetos multiuso no RJ e RS",
+    "url": "https://www.moneytimes.com.br/multiplan-mult3-vende-terrenos-ao-lado-de-shoppings-para-projetos-multiuso-no-rj-e-rs-pads/",
+    "resumo": "A Multiplan (MULT3) anunciou nesta quinta-feira (9) a venda de três terrenos localizados ao lado dos shoppings ParkJacarepaguá, ParkShopping CampoGrande, ambos no Rio de Janeiro, e ParkShopping Canoas, no Rio Grande do Sul. Os espaços serão destinados ao desenvolvimento de empreendimentos multiuso por incorporadores…",
+    "fonte": "Money Times",
+    "data": "2026-07-09T21:26:34.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Multiplan"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "35c21412a5c72a8f",
+    "manchete": "Natura (NATU3): Itaú BBA corta ação para 'market perform' com perspectiva de recuperação mais lenta da receita",
+    "url": "https://www.moneytimes.com.br/natura-natu3-itau-bba-corta-acao-para-market-perform-com-perspectiva-de-recuperacao-mais-lenta-da-receita/",
+    "resumo": "Analistas do Itaú BBA cortaram a recomendação das ações da Natura (NATU3) de \"outperform\" para \"market perform\", destacando que a recuperação da receita pode levar mais tempo do que previam anteriormente. O movimento ocorre após a indicação pela fabricante de cosméticos na véspera de um desempenho muito mais fraco da…",
+    "fonte": "Money Times",
+    "data": "2026-07-09T21:05:36.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Natura",
+      "Itaú BBA"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "84989d42870aa962",
+    "manchete": "Decisão sobre tarifas contra Brasil deve ser divulgada até 15 de julho, diz representante comercial dos EUA",
+    "url": "https://www.moneytimes.com.br/decisao-sobre-tarifas-contra-brasil-deve-ser-divulgada-ate-15-de-julho-diz-representante-comercial-dos-eua/",
+    "resumo": "O representante comercial dos Estados Unidos (USTR, na sigla em inglês), Jamieson Greer, afirmou nesta quarta-feira que a decisão sobre uma eventual imposição de tarifas contra o Brasil será anunciada \"muito em breve\", acrescentando que os resultados da investigação comercial conduzida contra o País devem ser…",
+    "fonte": "Money Times",
+    "data": "2026-07-09T20:34:47.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "2976eef644106851",
+    "manchete": "SLC reduz escopo da transação com a Radar; ação respira",
+    "url": "https://braziljournal.com/slc-reduz-escopo-da-transacao-com-a-radar-acao-respira/",
+    "resumo": "A ação da SLC Agrícola sobe cerca de 3,3% hoje depois que a companhia anunciou novos termos para sua transação de compra de terras da Radar, implicando em um desembolso significativamente menor do que o inicialmente previsto. Em vez de desembolsar R$ 1,85 bilhão para ficar com 28,8 mil hectares de terras agricultáveis…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-09T17:12:54.000Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "SLC Agrícola",
+      "Radar"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "69f9d0af86c7e178",
+    "manchete": "Governo renova imposto de exportação de petróleo; empresas irão à Justiça",
+    "url": "https://braziljournal.com/governo-renova-imposto-de-exportacao-de-petroleo-empresas-irao-a-justica/",
+    "resumo": "O Governo decidiu renovar a taxação de 12% sobre exportações de petróleo instituída em março – e as empresas do setor já preparam seus advogados para mais uma vez questionar a medida nos tribunais. Quando o imposto foi criado pela primeira vez, em 2023, a promessa de Brasília era que seria algo temporário e…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-09T17:12:35.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d453f52c8a9f1396",
+    "manchete": "A base está firme",
+    "url": "https://startupi.com.br/a-base-esta-firme/",
+    "resumo": "Startupi A base está firme Aporte da Tether no Mercado Bitcoin mostra que a infraestrutura blockchain amadureceu, mas a verdadeira virada depende do Estado O post A base está firme aparece primeiro em Startupi e foi escrito por Ricardo Azevedo",
+    "fonte": "Startupi",
+    "data": "2026-07-09T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Tether",
+      "Mercado Bitcoin"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "749c1e28f2ea6176",
+    "manchete": "Foguete dá ré: como o choque de valuation da SpaceX pode trazer a racionalidade de volta à IA e chips",
+    "url": "https://startupi.com.br/foguete-da-re-como-o-choque-de-valuation-da-spacex-pode-trazer-a-racionalidade-de-volta-a-ia-e-chips/",
+    "resumo": "Startupi Foguete dá ré: como o choque de valuation da SpaceX pode trazer a racionalidade de volta à IA e chips A correção de preço da gigante de Elon Musk disparou um efeito dominó que expõe a maturidade dos investidores diante da necessidade de geração real de caixa no setor de tecnologia profunda. O post Foguete dá…",
+    "fonte": "Startupi",
+    "data": "2026-07-09T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "SpaceX"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "163e047060f76cfd",
+    "manchete": "Conta Cheia capta R$ 50 milhões e acelera expansão do crédito consignado privado no Brasil",
+    "url": "https://startupi.com.br/conta-cheia-capta-r-50-milhoes/",
+    "resumo": "Startupi Conta Cheia capta R$ 50 milhões e acelera expansão do crédito consignado privado no Brasil Em meio ao crescimento do endividamento das famílias brasileiras e à busca por alternativas mais acessíveis de crédito, a fintech Conta Cheia acaba de captar R$ 50 milhões de um fundo de investimentos, para acelerar sua…",
+    "fonte": "Startupi",
+    "data": "2026-07-09T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "Conta Cheia"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7497e45ed760a2e2",
+    "manchete": "Porto Sudeste atrai estrangeiros, Vale e Gerdau em M&#038;A de US$ 5 bi",
+    "url": "https://braziljournal.com/porto-sudeste-atrai-estrangeiros-vale-e-gerdau-em-ma-de-us-5-bi/",
+    "resumo": "O Mubadala e a Trafigura estão avançando em um processo para a venda do Porto Sudeste, em Itaguaí – um projeto idealizado pelo empresário Eike Batista que saiu do papel pela mão das duas empresas e agora está atraindo interesse de grandes investidores institucionais estrangeiros, além da Vale e da Gerdau. O terminal,…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-08T23:02:26.000Z",
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Mubadala",
+      "Trafigura",
+      "Vale",
+      "Gerdau",
+      "Porto Sudeste"
+    ],
+    "relevante": true,
+    "importancia": 5
   },
   {
     "id": "87f80b669391488a",
