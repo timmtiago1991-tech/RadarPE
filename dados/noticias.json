@@ -1,50 +1,260 @@
 [
   {
-    "id": "c02ee4b1db463b3f",
-    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
-    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
-    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
+    "id": "9b2078fecb08da7b",
+    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
+    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
+    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
     "fonte": "AgFeed",
-    "data": "2026-07-10T12:38:24.178Z",
+    "data": "2026-07-10T22:14:44.093Z",
     "tags_tema": [
-      "Economia Real",
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "Costelata"
+      "3tentos"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "fb1ee4ed5573d2ab",
-    "manchete": "Usinas \"familiares\" plantam segunda fase da indústria de etanol de milho",
-    "url": "https://agfeed.com.br/negocios/usinas-familiares-plantam-segunda-fase-da-industria-de-etanol-de-milho",
-    "resumo": "Etanol de milho entra em nova fase com usinas familiares, verticalização no agro e expansão de projetos regionais no Brasil",
+    "id": "d3ffedc2232bbfe4",
+    "manchete": "Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032 Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032",
+    "url": "https://agfeed.com.br/negocios/grupo-potencial-revisa-projecoes-e-plano-de-r-6-bi-pode-ser-concluido-so-em-2032",
+    "resumo": "VP da Potencial, Carlos Eduardo Hammerschmidt, explica que atrasos no cumprimento da de mistura de biodiesel prejudicam investimentos",
     "fonte": "AgFeed",
-    "data": "2026-07-10T12:38:24.177Z",
+    "data": "2026-07-10T22:14:44.092Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Grupo Potencial"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9a8509a7c0205fc3",
+    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
+    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
+    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
+    "fonte": "AgFeed",
+    "data": "2026-07-10T22:14:44.092Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "ETG",
+      "VLI"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4043f7e88f9f1cf9",
+    "manchete": "Perto da carteira rural de R$ 100 bi, Sicoob projeta safra 2026/2027 com 17% a mais em desembolsos Perto da carteira rural de R$ 100 bi, Sicoob projeta safra 2026/2027 com 17% a mais em desembolsos",
+    "url": "https://agfeed.com.br/financas/perto-da-carteira-rural-de-r-100-bi-sicoob-projeta-safra-2026-2027-com-17-a-mais-em-desembolsos",
+    "resumo": "Sicoob aposta na expansão do crédito para pequenos e médios produtores e mantém foco em custeio e investimentos",
+    "fonte": "AgFeed",
+    "data": "2026-07-10T22:14:44.090Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Sicoob"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ae545781886ef8dc",
+    "manchete": "Mudança de rota: EasyJet recua de proposta da Castlelake e aceita oferta de US$ 7,6 bi da Apollo",
+    "url": "https://neofeed.com.br/negocios/mudanca-de-rota-easyjet-recua-de-proposta-da-castlelake-e-aceita-oferta-de-us-76-bi-da-apollo/",
+    "resumo": "Companhia de aviação de baixo custo chega a acordo com a Apollo, cuja proposta foi superior à da Castlelake, feita há quatro dias. Mercado reage com otimismo e ações da empresa sobem quase 15% na Bolsa de Londres",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T22:14:26.968Z",
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "EasyJet",
+      "Apollo",
+      "Castlelake"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "ffbcbf88e0cd2e07",
+    "manchete": "Nubank recebe autorização para operar como banco no México e prevê investimentos de US$ 4,2 bilhões",
+    "url": "https://neofeed.com.br/negocios/nubank-recebe-autorizacao-para-operar-como-banco-no-mexico-e-preve-investimentos-de-us-42-bilhoes/",
+    "resumo": "A consolidação de operação mexicana, que atingiu o breakeven no primeiro trimestre, representa a etapa mais recente de internacionalização do Nubank, que tem os Estados Unidos como principal alvo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T22:14:26.967Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Nubank"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8e89124d5801b24a",
+    "manchete": "Indústria vê Petrobras adotar “tática Estreito de Ormuz” em disputa por gás natural",
+    "url": "https://neofeed.com.br/economia/industria-ve-petrobras-usando-tatica-estreito-de-ormuz-em-disputa-por-gas-natural/",
+    "resumo": "ANP decide abrir consulta pública sobre acesso ao escoamento e processamento de gás natural, cuja infraestrutura é controlada pela estatal",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T22:14:26.966Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Petrobras",
+      "ANP"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2dcc56e060eaa073",
+    "manchete": "Excluídos da mesa, credores minoritários da Braskem querem entrar na conversa e avaliam ir à CVM",
+    "url": "https://neofeed.com.br/negocios/excluidos-da-mesa-credores-minoritarios-da-braskem-querem-entrar-na-conversa-e-avaliam-ir-a-cvm/",
+    "resumo": "Escritório de advocacia prepara pedido de ingresso na Câmara Wind e questiona OPA com pagamento em debêntures de empresa da Novonor em RJ",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T22:14:26.965Z",
+    "tags_tema": [
+      "M&A",
+      "Dívida/Debêntures",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Braskem",
+      "Novonor",
+      "CVM"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "febf08d9f31f0a9b",
+    "manchete": "Setor de biodiesel vai pressionar Lula por aumento de mistura do diesel (e vem aí o B25!)",
+    "url": "https://neofeed.com.br/poder/setor-de-biodiesel-vai-pressionar-lula-por-aumento-de-mistura-do-diesel-e-vem-ai-o-b25/",
+    "resumo": "Setor de biocombustíveis pressiona governo para acelerar testes de biodiesel B-20 e B-25, visando aumentar mistura no diesel",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T22:14:26.965Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1d393369f1dbdb38",
+    "manchete": "Santander (SANB11) aprova R$ 2 bilhões em JCP; veja quem tem direito",
+    "url": "https://www.moneytimes.com.br/santander-sanb11-aprova-r-2-bilhoes-em-jcp-veja-quem-tem-direito-pads/",
+    "resumo": "O conselho de administração do Santander (SANB11) aprovou nesta sexta-feira (10) a distribuição de R$ 2 bilhões em juros sobre o capital próprio (JCP), conforme fato relevante divulgado na CVM. O montante bruto corresponde a R$ 0,25461 por ação ordinária, R$ 0,28007 por ação preferencial e R$ 0,53469 por unit. Após a…",
+    "fonte": "Money Times",
+    "data": "2026-07-10T21:57:47.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Santander"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "9b0e6bd25e4291a6",
+    "manchete": "Mitre (MTRE3) vende R$ 198 milhões no 2º tri, queda de 31,9% no ano",
+    "url": "https://www.moneytimes.com.br/mitre-mtre3-vende-r-198-milhoes-no-2o-tri-queda-de-319-no-ano-vtra/",
+    "resumo": "A Mitre Realty (MTRE3) registrou vendas líquidas de R$ 198,3 milhões no segundo trimestre de 2026, queda de 31,9% em relação ao mesmo período do ano passado. No acumulado do primeiro semestre, as vendas líquidas somaram R$ 527 milhões, recuo de 14,4% na comparação anual. Os dados fazem parte da prévia operacional…",
+    "fonte": "Money Times",
+    "data": "2026-07-10T21:29:54.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Mitre Realty"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "9bcae328e5daee8d",
+    "manchete": "Tráfego diminui no Estreito de Ormuz à medida que tensões com Irã se intensificam",
+    "url": "https://www.infomoney.com.br/mundo/trafego-diminui-no-estreito-de-ormuz-a-medida-que-tensoes-com-ira-se-intensificam/",
+    "resumo": "Empresas de navegação e governos estão monitorando o Estreito de Ormuz após os ataques iranianos desta semana a navios comerciais e os ataques retaliatórios dos EUA contra o Irã",
+    "fonte": "InfoMoney",
+    "data": "2026-07-10T20:59:02.000Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [],
     "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "bc183053aa7c722a",
+    "manchete": "A segunda encarnação da Nokia",
+    "url": "https://braziljournal.com/a-segunda-encarnacao-da-nokia/",
+    "resumo": "O tempo em que a Nokia era sinônimo de aparelhos celulares passou, mas a empresa encontrou uma nova vocação como fornecedora de soluções para data centers de AI – e sua ação explodiu. A Nokia produz parte do hardware e do software utilizados nestes data centers, ajudando a entregar os dados presentes nos servidores…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-10T19:13:19.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
     "importancia": 3
   },
   {
-    "id": "306636f47581418e",
-    "manchete": "Com fundo holandês, Fisher tem plano para quintuplicar produção de tilápias",
-    "url": "https://agfeed.com.br/negocios/com-fundo-holandes-fisher-tem-plano-para-quintuplicar-producao-de-tilapias",
-    "resumo": "Empresa com sede em Riolândia (SP) vem investindo na piscicultura em larga escala e já mapeou oportunidades de expansão em GO, RO e BA",
-    "fonte": "AgFeed",
-    "data": "2026-07-10T12:38:24.176Z",
+    "id": "b6212253007670ca",
+    "manchete": "Acabou o diesel russo (e seus descontos); Brasil agora importa mais dos EUA",
+    "url": "https://braziljournal.com/acabou-o-diesel-russo-e-seus-descontos-brasil-agora-importa-mais-dos-eua/",
+    "resumo": "A Rússia suspendeu temporariamente suas exportações de diesel, após ataques da Ucrânia a refinarias e à infraestrutura energética do país que causaram escassez do produto no mercado interno. A medida do Governo Vladimir Putin, a princípio válida até 31 de julho, deve ter alguma repercussão no Brasil, que desde 2023 se…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-10T17:35:24.000Z",
     "tags_tema": [
       "Economia Real"
     ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "282ddad54d09df94",
+    "manchete": "Nova NR-1 exige controle de riscos psicossociais, mas 82% dos RHs não estão preparados",
+    "url": "https://startupi.com.br/nova-nr-1-exige-controle-de-riscos-psicossociais-mas-82-dos-rhs-nao-estao-preparados/",
+    "resumo": "Startupi Nova NR-1 exige controle de riscos psicossociais, mas 82% dos RHs não estão preparados A entrada em vigor das novas exigências da Norma Regulamentadora nº 1 (NR-1), que passou a incluir os riscos psicossociais no Gerenciamento de Riscos Ocupacionais (GRO), colocou um desafio urgente na agenda das empresas…",
+    "fonte": "Startupi",
+    "data": "2026-07-10T14:37:26.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0e99dc959d472399",
+    "manchete": "Núclea anuncia acordo para aquisição da Data Rudder",
+    "url": "https://startupi.com.br/nuclea-anuncia-acordo-para-aquisicao-da-data-rudder/",
+    "resumo": "Startupi Núclea anuncia acordo para aquisição da Data Rudder Núclea anunciou um acordo para adquirir 100% da Data Rudder, empresa especializada em soluções para prevenção a crimes financeiros. A conclusão da operação ainda depende da aprovação do Banco Central. Segundo a empresa, a aquisição faz parte da estratégia de…",
+    "fonte": "Startupi",
+    "data": "2026-07-10T14:33:50.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
     "tags_empresa": [
-      "Fisher"
+      "Núclea",
+      "Data Rudder"
     ],
     "relevante": true,
-    "importancia": 3
+    "importancia": 4
   },
   {
     "id": "588f0eb812907e30",
