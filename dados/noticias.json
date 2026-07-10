@@ -1,50 +1,166 @@
 [
   {
-    "id": "9b2078fecb08da7b",
-    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
-    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
-    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
+    "id": "c02ee4b1db463b3f",
+    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
+    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
+    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
     "fonte": "AgFeed",
-    "data": "2026-07-09T22:42:36.452Z",
+    "data": "2026-07-10T12:38:24.178Z",
+    "tags_tema": [
+      "Economia Real",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Costelata"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fb1ee4ed5573d2ab",
+    "manchete": "Usinas \"familiares\" plantam segunda fase da indústria de etanol de milho",
+    "url": "https://agfeed.com.br/negocios/usinas-familiares-plantam-segunda-fase-da-industria-de-etanol-de-milho",
+    "resumo": "Etanol de milho entra em nova fase com usinas familiares, verticalização no agro e expansão de projetos regionais no Brasil",
+    "fonte": "AgFeed",
+    "data": "2026-07-10T12:38:24.177Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "306636f47581418e",
+    "manchete": "Com fundo holandês, Fisher tem plano para quintuplicar produção de tilápias",
+    "url": "https://agfeed.com.br/negocios/com-fundo-holandes-fisher-tem-plano-para-quintuplicar-producao-de-tilapias",
+    "resumo": "Empresa com sede em Riolândia (SP) vem investindo na piscicultura em larga escala e já mapeou oportunidades de expansão em GO, RO e BA",
+    "fonte": "AgFeed",
+    "data": "2026-07-10T12:38:24.176Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Fisher"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "588f0eb812907e30",
+    "manchete": "Uma nova Basf dentro da Basf: empresa formaliza \"separação\" de divisão agro no Brasil",
+    "url": "https://agfeed.com.br/negocios/uma-nova-basf-dentro-da-basf-empresa-formaliza-separacao-de-divisao-agro-no-brasil",
+    "resumo": "Basf separa oficialmente divisão agrícola no Brasil e avança na estratégia para IPO da Basf Agricultural Solutions em 2027",
+    "fonte": "AgFeed",
+    "data": "2026-07-10T12:38:24.171Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Basf",
+      "Basf Agricultural Solutions"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "b44262bccfe48b1c",
+    "manchete": "Depois de pescar R$ 2,5 bi \"dentro de casa\", Porto Serviço sai em busca de mais R$ 4,5 bi",
+    "url": "https://neofeed.com.br/negocios/depois-de-pescar-r-25-bi-dentro-de-casa-porto-servico-sai-em-busca-de-mais-r-45-bi/",
+    "resumo": "A empresa está investindo em parcerias com condomínios e shoppings para reduzir o custo de aquisição de clientes e ganhar escala fora do ecossistema da Porto",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T12:38:17.410Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Porto Serviço"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "e15aa2690fdd9836",
+    "manchete": "Lojas Renner põe a Re, sua agente de IA, para dar dicas de estilo e vender mais",
+    "url": "https://neofeed.com.br/videos/revolucao-ia/lojas-renner-poe-a-re-sua-agente-de-ia-para-dar-dicas-de-estilo-e-vender-mais/",
+    "resumo": "Em entrevista ao Revolução IA, o CDO da Renner revela como a nova agente de inteligência artificial faz parte da estratégia para competir com Shein e Shopee. A varejista afirma que a receita gerada por recomendações de IA dobrou em um ano e que o provador virtual tem conversão duas vezes maior.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T12:38:17.410Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Lojas Renner"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "da6bb83be5554bc3",
+    "manchete": "Petroleiras em pé de guerra com governo (a culpa é do imposto de exportação)",
+    "url": "https://neofeed.com.br/economia/petroleiras-em-pe-de-guerra-com-governo-a-culpa-e-do-imposto-de-importacao/",
+    "resumo": "Governo prorroga imposto de 12% sobre exportações de petróleo, gerando atrito com petroleiras que prometem mais briga na Justiça.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-10T12:38:17.410Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "e8a1d05170cfc8fc",
+    "manchete": "Azul (AZUL3) mira valor de mercado 150% maior e menor alavancagem até 2029; como pretende chegar lá?",
+    "url": "https://www.moneytimes.com.br/ate-2029-azul-azul3-quer-valor-de-mercado-150-superior-e-alavancagem-reduzida-como-a-aerea-pretende-concretizar-meta-lmrs/",
+    "resumo": "Até 2029, a Azul (AZUL3) estabeleceu desalavancagem e criação de valor como principais metas para o negócio. De acordo com a companhia, os dois aspectos reforçam o compromisso com a disciplina financeira e a geração de valor para os acionistas. No que diz respeito à desalavancagem, a Azul reiterou a meta de atingir…",
+    "fonte": "Money Times",
+    "data": "2026-07-10T12:11:28.000Z",
     "tags_tema": [
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "3tentos"
+      "Azul"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "9a8509a7c0205fc3",
-    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
-    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
-    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
-    "fonte": "AgFeed",
-    "data": "2026-07-09T22:42:36.451Z",
+    "id": "96a5ab6109fe0bc8",
+    "manchete": "Cade aprova venda de ativos da Raízen Energia na Argentina para Mercuria Energy Group",
+    "url": "https://www.infomoney.com.br/mercados/cade-aprova-venda-de-ativos-da-raizen-energia-na-argentina-para-mercuria-energy-group/",
+    "resumo": "O negócio é avaliado em US$ 1,420 bilhão",
+    "fonte": "InfoMoney",
+    "data": "2026-07-10T11:54:57.000Z",
     "tags_tema": [
       "M&A",
-      "Economia Real"
+      "Regulação"
     ],
     "tags_empresa": [
-      "ETG",
-      "VLI"
+      "Raízen Energia",
+      "Mercuria Energy Group",
+      "Cade"
     ],
     "relevante": true,
-    "importancia": 3
+    "importancia": 4
   },
   {
-    "id": "8a0c39a2a55a9407",
-    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
-    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
-    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
-    "fonte": "AgFeed",
-    "data": "2026-07-09T22:42:36.451Z",
+    "id": "1f25f51dac078f17",
+    "manchete": "Cade aprova venda de ativos da Raízen Energia na Argentina para Mercuria Energy Group",
+    "url": "https://www.moneytimes.com.br/cade-aprova-venda-de-ativos-da-raizen-energia-na-argentina-para-mercuria-energy-group/",
+    "resumo": "A Superintendência-Geral do Conselho Administrativo de Defesa Econômica (Cade) aprovou, sem restrições, a aquisição pela Latam Downstream Holdings e a Silver Projects &#8211; da Mercuria Energy Group &#8211; dos ativos de downstream da Raízen Energia na Argentina. O despacho foi publicado no Diário Oficial da União…",
+    "fonte": "Money Times",
+    "data": "2026-07-10T11:42:49.000Z",
     "tags_tema": [
-      "Venture Capital"
+      "M&A",
+      "Regulação"
     ],
     "tags_empresa": [
-      "Stenon"
+      "Raízen Energia",
+      "Mercuria Energy Group",
+      "Cade"
     ],
     "relevante": true,
     "importancia": 3
