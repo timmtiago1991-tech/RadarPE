@@ -1,70 +1,137 @@
 [
   {
-    "id": "c02ee4b1db463b3f",
-    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
-    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
-    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
+    "id": "9b2078fecb08da7b",
+    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
+    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
+    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
     "fonte": "AgFeed",
-    "data": "2026-07-12T11:33:34.377Z",
+    "data": "2026-07-12T22:06:01.065Z",
     "tags_tema": [
-      "Economia Real",
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "Costelata"
+      "3tentos"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "8a0c39a2a55a9407",
-    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
-    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
-    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
+    "id": "9a8509a7c0205fc3",
+    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
+    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
+    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
     "fonte": "AgFeed",
-    "data": "2026-07-12T11:33:34.371Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [
-      "Stenon"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "26d9fb937ac4348a",
-    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
-    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
-    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
-    "fonte": "AgFeed",
-    "data": "2026-07-12T11:33:34.369Z",
+    "data": "2026-07-12T22:06:01.063Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "BNDES",
-      "bp bioenergy"
+      "ETG",
+      "VLI"
     ],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "97a0ed3c187f55b6",
-    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
-    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
-    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
+    "id": "4043f7e88f9f1cf9",
+    "manchete": "Perto da carteira rural de R$ 100 bi, Sicoob projeta safra 2026/2027 com 17% a mais em desembolsos Perto da carteira rural de R$ 100 bi, Sicoob projeta safra 2026/2027 com 17% a mais em desembolsos",
+    "url": "https://agfeed.com.br/financas/perto-da-carteira-rural-de-r-100-bi-sicoob-projeta-safra-2026-2027-com-17-a-mais-em-desembolsos",
+    "resumo": "Sicoob aposta na expansão do crédito para pequenos e médios produtores e mantém foco em custeio e investimentos",
     "fonte": "AgFeed",
-    "data": "2026-07-12T11:33:34.367Z",
+    "data": "2026-07-12T22:06:01.061Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "JBS",
-      "Santander"
+      "Sicoob"
     ],
     "relevante": true,
     "importancia": 3
+  },
+  {
+    "id": "8e89bed7b4f5acd7",
+    "manchete": "Os três novos donos das terras da Cosan",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/os-tres-novos-donos-das-terras-da-cosan",
+    "resumo": "SLC Agrícola, Bom Futuro e outro produtor rural vão dividir as áreas que foram comercializadas por R$ 1,8 bi pela companhia de Rubens Ometto",
+    "fonte": "AgFeed",
+    "data": "2026-07-12T22:06:01.060Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "SLC Agrícola",
+      "Bom Futuro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4ac9060efd18ff92",
+    "manchete": "Os personagens por trás dos grandes escândalos financeiros que abalaram mercados",
+    "url": "https://neofeed.com.br/finde/os-homens-por-tras-dos-grandes-escandalos-financeiros-que-abalaram-mercados/",
+    "resumo": "Inovar, enriquecer ou conquistar prestígio — todos tinham a ambição de ir além, sempre mais longe. Do pioneirismo do Barão de Mauá ao golpe bilionário de Daniel Vorcaro, passando por Naji Nahas, Bernie Madoff, Eike Batista, Elizabeth Holmes e Sam Bankman-Fried: suas trajetórias revelam como a ousadia e o excesso de…",
+    "fonte": "NeoFeed",
+    "data": "2026-07-12T22:05:45.589Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Barão de Mauá",
+      "Naji Nahas",
+      "Bernie Madoff",
+      "Eike Batista",
+      "Elizabeth Holmes"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "c159ee8acecd41b9",
+    "manchete": "Duplicata escritural, que pode \"destravar\" R$ 11 tri, ainda engatinha entre empresas",
+    "url": "https://www.infomoney.com.br/economia/duplicata-escritural-que-pode-destravar-r-11-tri-ainda-engatinha-entre-empresas/",
+    "resumo": "Tema tem disputado a atenção com pautas consideradas mais imediatas, sobretudo a transição da reforma tributária",
+    "fonte": "InfoMoney",
+    "data": "2026-07-12T20:27:47.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "b38558012a130cf0",
+    "manchete": "Economist vê riscos à supremacia financeira dos EUA e destaca papel do Pix no debate",
+    "url": "https://www.infomoney.com.br/economia/economist-ve-riscos-a-supremacia-financeira-dos-eua-e-destaca-papel-do-pix-no-debate/",
+    "resumo": "Revista britânica afirma que pressão dos EUA sobre sistema brasileiro reflete fragmentação da infraestrutura global de pagamentos e avanço de alternativas nacionais ao domínio de Visa, Mastercard e do dólar",
+    "fonte": "InfoMoney",
+    "data": "2026-07-12T19:47:44.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Visa",
+      "Mastercard"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "630309fcec1aa8d4",
+    "manchete": "Projeto de deputado após fracasso do Brasil na Copa, desempenho do bitcoin, Wall Street e mais: o que bombou na semana",
+    "url": "https://www.moneytimes.com.br/projeto-de-deputado-apos-fracasso-do-brasil-na-copa-desempenho-do-bitcoin-wall-street-e-mais-o-que-bombou-na-semana-lmrs/",
+    "resumo": "O projeto de lei do deputado Luiz Carlos Hauly (Podemos-PR), após o fracasso da Seleção Brasileira na Copa do Mundo, e o avanço do bitcoin em 11 de junho estão entre os assuntos que ganharam destaque entre os leitores. Entre os temas mais lidos aqui no Money Times, estão também o desempenho de Wall Street [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-12T12:02:15.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
   },
   {
     "id": "7a964b519999f111",
