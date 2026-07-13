@@ -1,71 +1,226 @@
 [
   {
-    "id": "9b2078fecb08da7b",
-    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
-    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
-    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
+    "id": "c02ee4b1db463b3f",
+    "manchete": "Como a Costelata transformou uma costela na lata em um negócio de crescimento acelerado",
+    "url": "https://agfeed.com.br/negocios/como-a-costelata-transformou-uma-costela-na-lata-em-um-negocio-de-crescimento-acelerado",
+    "resumo": "Empresa que nasceu apostando em proteína enlatada mudou a estratégia após descobrir o food service e já discute abrir capital",
     "fonte": "AgFeed",
-    "data": "2026-07-12T22:06:01.065Z",
+    "data": "2026-07-13T12:42:51.672Z",
+    "tags_tema": [
+      "Economia Real",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Costelata"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8a0c39a2a55a9407",
+    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
+    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
+    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
+    "fonte": "AgFeed",
+    "data": "2026-07-13T12:42:51.671Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Stenon"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "26d9fb937ac4348a",
+    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
+    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
+    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
+    "fonte": "AgFeed",
+    "data": "2026-07-13T12:42:51.668Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "BNDES",
+      "bp bioenergy"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "97a0ed3c187f55b6",
+    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
+    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
+    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
+    "fonte": "AgFeed",
+    "data": "2026-07-13T12:42:51.666Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JBS",
+      "Santander"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aaa0945be52882d8",
+    "manchete": "A estratégia de sobrevivência da Lavoro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-de-sobrevivencia-da-lavoro",
+    "resumo": "Documento apresentado à justiça do PR indica que companhia deve encolher ainda mais e trocar RE por RJ",
+    "fonte": "AgFeed",
+    "data": "2026-07-13T12:42:51.666Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Lavoro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "27c03338b858a117",
+    "manchete": "Na energia solar, pararam de investir no Brasil. E o governo não pode reclamar",
+    "url": "https://neofeed.com.br/economia/na-energia-solar-pararam-de-investir-no-brasil-e-o-governo-nao-pode-reclamar/",
+    "resumo": "Cortes de geração por sobreoferta de energia inviabilizam investimentos; lei que reduziria gargalos espera regulamentação há oito meses",
+    "fonte": "NeoFeed",
+    "data": "2026-07-13T12:42:45.945Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e0d59f7f51310fc4",
+    "manchete": "Como o Inter quer transformar 9% do Pix do Brasil em crédito, lucro e um ROE de 30%",
+    "url": "https://neofeed.com.br/videos/numeros-falam/como-o-inter-quer-transformar-9-do-pix-do-brasil-em-credito-lucro-e-um-roe-de-30/",
+    "resumo": "Durante os últimos anos, a principal pergunta feita ao Inter era quantos clientes o banco conseguiria conquistar. Com 44 milhões de clientes, sendo 25,8 milhões deles ativos, o banco da família Menin superou a fase de provar sua capacidade de aquisição. Agora, o desafio é transformar escala em rentabilidade. No…",
+    "fonte": "NeoFeed",
+    "data": "2026-07-13T12:42:45.945Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Inter"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e030d45c0dfb41f2",
+    "manchete": "JHSF (JHSF3) conclui compra do Enjoy Punta del Este; complexo terá hotel Fasano, shopping e residenciais",
+    "url": "https://www.moneytimes.com.br/jhsf-jhsf3-conclui-compra-do-enjoy-punta-del-este-complexo-tera-hotel-fasano-shopping-e-residenciais-igdl/",
+    "resumo": "A JHSF Península, companhia que faz parte do grupo que controla a JHSF Participações (JHSF3), concluiu a aquisição da totalidade do capital social da Baluma S.A, empresa uruguaia proprietária do complexo Enjoy Punta del Este, localizado em frente à Playa Mansa, uma das regiões mais valorizadas da cidade. Com o…",
+    "fonte": "Money Times",
+    "data": "2026-07-13T12:23:26.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "JHSF Participações",
+      "JHSF Península",
+      "Baluma S.A",
+      "Enjoy Punta del Este",
+      "Fasano"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "b1992bdff271896f",
+    "manchete": "Temporada do 2T pode reforçar aposta em Bolsa brasileira barata, aponta Bradesco BBI",
+    "url": "https://www.infomoney.com.br/mercados/temporada-resultados-2t26-pode-reforcar-aposta-em-bolsa-brasileira-barata-aponta-bradesco-bbi/",
+    "resumo": "Banco mantém Brasil como principal escolha na América Latina e vê combinação de lucros em alta, valuations descontados e expectativa de cortes de juros como suporte para as ações no segundo semestre",
+    "fonte": "InfoMoney",
+    "data": "2026-07-13T11:56:11.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Bradesco"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "47e4b0f21d8a8396",
+    "manchete": "Fundo imobiliário que suspendeu dividendos anuncia renúncia de administradora; IFIX sobe em julho",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-que-suspendeu-dividendos-anuncia-renuncia-de-administradora-ifix-sobe-em-julho-igdl/",
+    "resumo": "O fundo imobiliário Cartesia Recebíveis (CACR11) anunciou, por meio de fato relevante, que a BRL Trust Distribuidora de Títulos e Valores Mobiliários renunciou ao cargo de sua administradora. Segundo o comunicado divulgado ao mercado, a Cartesia Investimentos, gestora do veículo, foi notificada sobre a decisão no…",
+    "fonte": "Money Times",
+    "data": "2026-07-13T11:02:54.000Z",
     "tags_tema": [
       "IPO/Mercado de Capitais"
     ],
     "tags_empresa": [
-      "3tentos"
+      "Cartesia Recebíveis",
+      "BRL Trust",
+      "Cartesia Investimentos"
     ],
     "relevante": true,
-    "importancia": 3
+    "importancia": 2
   },
   {
-    "id": "9a8509a7c0205fc3",
-    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
-    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
-    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
-    "fonte": "AgFeed",
-    "data": "2026-07-12T22:06:01.063Z",
+    "id": "89c98362a7887caf",
+    "manchete": "Com Brasil na dianteira, Citi dobra aposta na América Latina e renova visão sobre risco na região",
+    "url": "https://startupi.com.br/com-brasil-na-dianteira-citi-dobra-aposta-na-america-latina-e-renova-visao-sobre-risco-na-regiao/",
+    "resumo": "Startupi Com Brasil na dianteira, Citi dobra aposta na América Latina e renova visão sobre risco na região Após saída do varejo, Citigroup direcionou desinvestimentos para a operação institucional, consolidando o Brasil como o epicentro de uma aposta bilionária focada em commodities, crédito estruturado e na esperada…",
+    "fonte": "Startupi",
+    "data": "2026-07-13T08:00:00.000Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "ETG",
-      "VLI"
+      "Citigroup"
     ],
     "relevante": true,
-    "importancia": 3
+    "importancia": 2
   },
   {
-    "id": "4043f7e88f9f1cf9",
-    "manchete": "Perto da carteira rural de R$ 100 bi, Sicoob projeta safra 2026/2027 com 17% a mais em desembolsos Perto da carteira rural de R$ 100 bi, Sicoob projeta safra 2026/2027 com 17% a mais em desembolsos",
-    "url": "https://agfeed.com.br/financas/perto-da-carteira-rural-de-r-100-bi-sicoob-projeta-safra-2026-2027-com-17-a-mais-em-desembolsos",
-    "resumo": "Sicoob aposta na expansão do crédito para pequenos e médios produtores e mantém foco em custeio e investimentos",
-    "fonte": "AgFeed",
-    "data": "2026-07-12T22:06:01.061Z",
+    "id": "b8f14094ef50af60",
+    "manchete": "Dinheiro na mesa, mas cadê o equity? A armadilha oculta nos US$ 3 bilhões das startups latino-americanas",
+    "url": "https://startupi.com.br/dinheiro-na-mesa-mas-cade-o-equity-a-armadilha-oculta-nos-us-3-bilhoes-das-startups-latino-americanas/",
+    "resumo": "Startupi Dinheiro na mesa, mas cadê o equity? A armadilha oculta nos US$ 3 bilhões das startups latino-americanas Volume de investimentos cresceu, impulsionado por captações via dívida e fundos de crédito, enquanto o investidor tradicional parece seduzido pelo avanço vertiginoso da inteligência artificial O post…",
+    "fonte": "Startupi",
+    "data": "2026-07-13T08:00:00.000Z",
     "tags_tema": [
-      "Economia Real"
+      "Venture Capital",
+      "Fundraising"
     ],
-    "tags_empresa": [
-      "Sicoob"
-    ],
+    "tags_empresa": [],
     "relevante": true,
     "importancia": 3
   },
   {
-    "id": "8e89bed7b4f5acd7",
-    "manchete": "Os três novos donos das terras da Cosan",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/os-tres-novos-donos-das-terras-da-cosan",
-    "resumo": "SLC Agrícola, Bom Futuro e outro produtor rural vão dividir as áreas que foram comercializadas por R$ 1,8 bi pela companhia de Rubens Ometto",
-    "fonte": "AgFeed",
-    "data": "2026-07-12T22:06:01.060Z",
+    "id": "84fc078a8c8c91e7",
+    "manchete": "Rivais querem comprar a Enel São Paulo. Falta combinar com os italianos",
+    "url": "https://braziljournal.com/rivais-querem-comprar-a-enel-sao-paulo-falta-combinar-com-os-italianos/",
+    "resumo": "Com o avanço de um processo que pode resultar na revogação do contrato de distribuição de energia da Enel São Paulo, alguns grupos já têm avaliado uma potencial aquisição da concessão da empresa. A Equatorial Energia, a Neoenergia, da espanhola Iberdrola, e a CPFL, da chinesa State Grid, estão entre os players que…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-12T23:41:14.000Z",
     "tags_tema": [
       "M&A",
+      "Regulação",
       "Economia Real"
     ],
     "tags_empresa": [
-      "Cosan",
-      "SLC Agrícola",
-      "Bom Futuro"
+      "Enel São Paulo",
+      "Equatorial Energia",
+      "Neoenergia",
+      "CPFL",
+      "Iberdrola"
     ],
     "relevante": true,
-    "importancia": 3
+    "importancia": 4
   },
   {
     "id": "4ac9060efd18ff92",
