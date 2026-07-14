@@ -1,5 +1,355 @@
 [
   {
+    "id": "8a0c39a2a55a9407",
+    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
+    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
+    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
+    "fonte": "AgFeed",
+    "data": "2026-07-14T22:11:30.896Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Stenon"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "26d9fb937ac4348a",
+    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
+    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
+    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
+    "fonte": "AgFeed",
+    "data": "2026-07-14T22:11:30.894Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "BNDES",
+      "bp bioenergy"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "97a0ed3c187f55b6",
+    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
+    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
+    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
+    "fonte": "AgFeed",
+    "data": "2026-07-14T22:11:30.893Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JBS",
+      "Santander"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7103850c2883a981",
+    "manchete": "ARTIGO - O enfraquecimento do seguro rural amplia a fragilidade financeira do campo brasileiro ARTIGO - O enfraquecimento do seguro rural amplia a fragilidade financeira do campo brasileiro",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-enfraquecimento-do-seguro-rural-amplia-a-fragilidade-financeira-do-campo-brasileiro",
+    "resumo": "Sem uma rede de proteção, o agricultor fica exposto a um ciclo de risco que pode afetar a dinâmica econômica de todo o setor",
+    "fonte": "AgFeed",
+    "data": "2026-07-14T22:11:30.893Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aaa0945be52882d8",
+    "manchete": "A estratégia de sobrevivência da Lavoro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-de-sobrevivencia-da-lavoro",
+    "resumo": "Documento apresentado à justiça do PR indica que companhia deve encolher ainda mais e trocar RE por RJ",
+    "fonte": "AgFeed",
+    "data": "2026-07-14T22:11:30.892Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Lavoro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "928dd3861593ce86",
+    "manchete": "Recuperação extrajudicial da Oncoclínicas passa \"raspando\". O desafio maior começa agora",
+    "url": "https://neofeed.com.br/negocios/recuperacao-extrajudicial-da-oncoclinicas-passa-raspando-o-desafio-maior-comeca-agora/",
+    "resumo": "Oncoclínicas terá 90 dias para conseguir apoio da maioria dos credores. No primeiro semestre, pulverização da dívida foi obstáculo para obtenção de waiver",
+    "fonte": "NeoFeed",
+    "data": "2026-07-14T22:11:10.722Z",
+    "tags_tema": [
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [
+      "Oncoclínicas"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "950a1143a56c1d0e",
+    "manchete": "O que o Citi diz sobre o cenário pós-privatização da Copasa",
+    "url": "https://neofeed.com.br/negocios/o-que-o-citi-diz-sobre-o-cenario-pos-privatizacao-da-copasa/",
+    "resumo": "Para os analistas do Citi, a Copasa, que agora tem a Equatorial como acionista de referência, deve garantir a renovação de seus contratos de concessão até 2073 e ampliar o volume de investimentos",
+    "fonte": "NeoFeed",
+    "data": "2026-07-14T22:11:10.722Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Copasa",
+      "Equatorial",
+      "Citi"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8767668cbd9069ec",
+    "manchete": "Visa impulsiona lucro recorde do J.P. Morgan (e lança “sombra” sobre o Pix)",
+    "url": "https://neofeed.com.br/economia/visa-impulsiona-lucro-recorde-do-j-p-morgan-e-lanca-sombra-sobre-o-pix/",
+    "resumo": "Bandeira de cartão de crédito teve peso no aumentou de 41% do lucro do J.P. Morgan no segundo trimestre; Trump ameaça tarifaço por Pix prejudicar sistemas de pagamentos dos EUA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-14T22:11:10.722Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ff0e81602ab967c3",
+    "manchete": "Rumo a R$ 1 trilhão: como os FIDCs redefiniram a liquidez corporativa na reta final da crise de crédito",
+    "url": "https://neofeed.com.br/insiders/rumo-a-r-1-trilhao-como-os-fidcs-redefiniram-a-liquidez-corporativa-na-reta-final-da-crise-de-credito/",
+    "resumo": "Enquanto a renda fixa tradicional enfrenta aversão ao risco, os fundos de investimento em direitos creditórios se destacam no mercado de crédito brasileiro com captações crescentes",
+    "fonte": "NeoFeed",
+    "data": "2026-07-14T22:11:10.721Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "84d59c2ed6d31f5f",
+    "manchete": "MP do Frete passa às vésperas de caducar, mas empresas prometem ofensiva no STF",
+    "url": "https://neofeed.com.br/poder/mp-do-frete-passa-as-vesperas-de-caducar-mas-empresas-prometem-ofensiva-no-stf/",
+    "resumo": "Medida provisória sobre frete mínimo será votada no Senado, mas empresários planejam contestar tabelamento no STF.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-14T22:11:10.720Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1948bdefb740802a",
+    "manchete": "O que a Cocos Capital quer do Brasil após adquirir a Warren",
+    "url": "https://neofeed.com.br/negocios/o-que-a-cocos-capital-quer-do-brasil-apos-adquirir-a-warren/",
+    "resumo": "Com aquisição da Warren, plataforma argentina mira público com até US$ 100 mil de patrimônio, buscando replicar fórmula aplicada na Argentina",
+    "fonte": "NeoFeed",
+    "data": "2026-07-14T22:11:10.720Z",
+    "tags_tema": [
+      "Venture Capital",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Cocos Capital",
+      "Warren"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "8afc649d9fc1f9f7",
+    "manchete": "Vale (VALE3) elege Wilfred Theodoor Bruijn como presidente do conselho",
+    "url": "https://www.infomoney.com.br/mercados/vale-vale3-elege-wilfred-theodoor-bruijn-como-presidente-do-conselho/",
+    "resumo": "A eleição aconteceu ​após a renúncia de ​Daniel ⁠André Stieler, na ⁠semana passada",
+    "fonte": "InfoMoney",
+    "data": "2026-07-14T22:10:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "155e39b15a3a571c",
+    "manchete": "Senado aprova MP que endurece regras do frete e amplia proteção a caminhoneiros",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-mp-que-endurece-regras-do-frete-e-amplia-protecao-a-caminhoneiros/",
+    "resumo": "O texto estabelece mecanismos mais rigorosos de controle, com destaque para a obrigatoriedade do registro de todas as operações de frete",
+    "fonte": "InfoMoney",
+    "data": "2026-07-14T21:47:14.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "444dc76ef4fbe0b1",
+    "manchete": "Vale (VALE3) elege presidente tampão para conselho; veja quem assume",
+    "url": "https://www.moneytimes.com.br/vale-vale3-elege-presidente-tampao-para-conselho-veja-quem-assume/",
+    "resumo": "A Vale (VALE3) elegeu Wilfred Theodoor Bruijn para presidente do conselho até 22 de julho de 2026, mostra documento enviado ao mercado nesta terça-feira. A eleição ocorre após Daniel Stieler deixar o cargo semanas antes da Assembleia Geral Extraordinária (AGE) marcada para 22, que votaria justamente sua destituição…",
+    "fonte": "Money Times",
+    "data": "2026-07-14T21:28:27.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aaf41dd022eb2f40",
+    "manchete": "Camil (CAML3) vê lucro cair 57,6% no 1T26, para R$ 28 milhões",
+    "url": "https://www.moneytimes.com.br/camil-caml3-ve-lucro-cair-576-no-1t26-apesar-de-avanco-da-receita-e-do-crescimento-em-volumes-pads/",
+    "resumo": "A Camil (CAML3) registrou lucro líquido de R$ 28 milhões no primeiro trimestre de 2026 (1T26), recuo de 57,6% na comparação com o mesmo trimestre do ano passado (1T25). A receita líquida somou R$ 2,668 bilhões, praticamente estável em relação ao mesmo período do ano anterior (-0,7%), mas com alta de 6,6% frente ao…",
+    "fonte": "Money Times",
+    "data": "2026-07-14T21:23:53.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Camil"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4bb2d3cd0567ac6f",
+    "manchete": "Ânima compra a FMU por R$ 410 milhões",
+    "url": "https://braziljournal.com/anima-compra-a-fmu-por-r-410-milhoes/",
+    "resumo": "A Ânima Educação acaba de anunciar que comprou o Centro Universitário FMU, pagando R$ 410 milhões por uma das principais universidades privadas de São Paulo e aumentando sua base de alunos em 15% e sua receita líquida em 11%. A transação será paga em duas parcelas. A Ânima está pagando R$ 240 milhões de imediato…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-14T21:19:34.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Ânima Educação",
+      "FMU"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "3d647ea2a24ada73",
+    "manchete": "Ânima (ANIM3) compra FMU por R$ 410 milhões e amplia presença no ensino superior",
+    "url": "https://www.moneytimes.com.br/anima-anim3-compra-fmu-por-r-410-milhoes-e-amplia-presenca-no-ensino-superior-vtra/",
+    "resumo": "A Ânima (ANIM3) anunciou nesta terça-feira (14) a aquisição da totalidade das cotas da Faculdades Metropolitanas Unidas (FMU), em recuperação judicial, por R$ 410 milhões. A operação foi firmada por meio de sua subsidiária integral Rede Educacional do Brasil e ainda depende da aprovação do Conselho Administrativo de…",
+    "fonte": "Money Times",
+    "data": "2026-07-14T21:11:54.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Ânima",
+      "FMU"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "15957ecc1fc0be41",
+    "manchete": "IBGE lança mapa logístico e reúne os caminhos do Brasil em plataforma interativa",
+    "url": "https://www.moneytimes.com.br/ibge-lanca-mapa-logistico-e-reune-os-caminhos-do-brasil-em-plataforma-interativa-gaep/",
+    "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) lançou um \"mapa logístico\" do País que revela por onde passam as cargas que sustentam o Produto Interno Bruto (PIB) do País. A nova plataforma reúne os principais corredores rodoviários, ferroviários e hidroviários do país, abrindo uma base de dados estratégica…",
+    "fonte": "Money Times",
+    "data": "2026-07-14T21:01:03.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "27bb300a76ecdb1f",
+    "manchete": "Tarifa dos EUA sobre produtos brasileiros pode chegar a 26%, estima Citi",
+    "url": "https://www.moneytimes.com.br/tarifa-dos-eua-sobre-produtos-brasileiros-pode-chegar-a-26-estima-citi/",
+    "resumo": "A decisão dos Estados Unidos sobre novas tarifas para produtos brasileiros deve sair nesta quarta-feira (15) e pode elevar a carga efetiva sobre as exportações do país para até 26%, segundo estimativas do Citi. Caso a investigação comercial específica contra o Brasil resulte na adoção de novas sobretaxas, o país…",
+    "fonte": "Money Times",
+    "data": "2026-07-14T20:28:30.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Citi"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e2a23e2e67892b74",
+    "manchete": "Ultrapar: CPPIB vende R$ 1,3 bilhão em ações e zera posição",
+    "url": "https://braziljournal.com/ultrapar-cppib-vende-r-13-bilhao-em-acoes-e-zera-posicao/",
+    "resumo": "O CPPIB zerou sua posição na Ultrapar, vendendo 44 milhões de ações hoje num block trade que movimentou R$ 1,3 bilhão na B3, fontes a par do assunto disseram ao Brazil Journal. O fundo de pensão canadense tinha uma participação de 4% na Ultrapar, depois de já haver vendido parte de sua posição na Bolsa [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-14T16:45:51.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "CPPIB",
+      "Ultrapar"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "81762c775a30bc1f",
+    "manchete": "Valor Capital lidera rodada Série A de US$ 18 milhões na fintech mexicana Aviva",
+    "url": "https://startupi.com.br/valor-capital-lidera-rodada-serie-a/",
+    "resumo": "Startupi Valor Capital lidera rodada Série A de US$ 18 milhões na fintech mexicana Aviva A Aviva, startup que utiliza entrevistas em vídeo conduzidas por avatares com inteligência artificial para concessão de crédito a consumidores e microempreendedores, anunciou uma rodada Série A de US$ 18 milhões, liderada pela…",
+    "fonte": "Startupi",
+    "data": "2026-07-14T16:05:04.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Valor Capital",
+      "Aviva"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "acc61c027c31a46e",
+    "manchete": "Fintechs concedem R$ 53,8 bilhões em crédito e consolidam nova fase da transformação financeira no Brasil",
+    "url": "https://startupi.com.br/fintechs-concedem-r-538-bilhoes-em-credito/",
+    "resumo": "Startupi Fintechs concedem R$ 53,8 bilhões em crédito e consolidam nova fase da transformação financeira no Brasil O volume de crédito concedido pelas fintechs digitais brasileiras chegou a R$ 53,8 bilhões em 2025, alta de 51% em relação ao ano anterior, segundo a 6ª edição da Pesquisa Fintechs de Crédito Digital,…",
+    "fonte": "Startupi",
+    "data": "2026-07-14T15:54:50.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "fb1ee4ed5573d2ab",
     "manchete": "Usinas \"familiares\" plantam segunda fase da indústria de etanol de milho",
     "url": "https://agfeed.com.br/negocios/usinas-familiares-plantam-segunda-fase-da-industria-de-etanol-de-milho",
@@ -53,69 +403,6 @@
     "resumo": "Com quase todo o volume autorizado já comprometido, indústrias reduzem ritmo de abates e avaliam novos destinos para a carne brasileira",
     "fonte": "AgFeed",
     "data": "2026-07-14T11:46:52.744Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d3ffedc2232bbfe4",
-    "manchete": "Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032",
-    "url": "https://agfeed.com.br/negocios/grupo-potencial-revisa-projecoes-e-plano-de-r-6-bi-pode-ser-concluido-so-em-2032",
-    "resumo": "VP da Potencial, Carlos Eduardo Hammerschmidt, explica que atrasos no cumprimento da de mistura de biodiesel prejudicam investimentos",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.744Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Grupo Potencial"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f17eda1a9f639074",
-    "manchete": "Lavoro busca guinada \"radical\" em estratégia de recuperação e encolhe ainda mais para sobreviver",
-    "url": "https://agfeed.com.br/negocios/lavoro-busca-guinada-radical-em-estrategia-de-recuperacao-e-encolhe-ainda-mais-para-sobreviver",
-    "resumo": "Lavoro acelera reestruturação, fecha mais lojas e prepara recuperação judicial com foco na operação do Paraná",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.740Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Lavoro"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b9f4da3326031068",
-    "manchete": "Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\"",
-    "url": "https://agfeed.com.br/negocios/novo-ceo-e-investimentos-de-r-150-milhoes-a-receita-da-pamplona-alimentos-para-saciar-fome-de-proteinas",
-    "resumo": "Pamplona Alimentos tem novo CEO, acelera profissionalização e vê oportunidades com demanda maior impulsionada por canetas emagrecedoras",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.739Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Pamplona Alimentos"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a21939e7e07cb5c",
-    "manchete": "\"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai",
-    "url": "https://agfeed.com.br/negocios/brasiguaios-corporativos-empresas-brasileiras-do-agro-aceleram-planos-de-expansao-no-paraguai",
-    "resumo": "Companhias brasileiras avaliam ou já colocam em prática planos de expansão no Paraguai de olho em ambiente de negócios mais favorável",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.738Z",
     "tags_tema": [
       "Economia Real"
     ],
