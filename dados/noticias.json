@@ -1,5 +1,269 @@
 [
   {
+    "id": "374ae853d6e5fc5a",
+    "manchete": "Junior Friboi adquire operação da Frialto em Rondônia A planta em Ji-Paraná tem capacidade de abater 20 mil cabeças de gado mensalmente",
+    "url": "https://www.cnnbrasil.com.br/agro/junior-friboi-adquire-operacao-da-frialto-em-rondonia/",
+    "resumo": "A planta em Ji-Paraná tem capacidade de abater 20 mil cabeças de gado mensalmente",
+    "fonte": "AgFeed",
+    "data": "2026-07-15T11:51:29.855Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Junior Friboi",
+      "Frialto"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f17eda1a9f639074",
+    "manchete": "Lavoro busca guinada \"radical\" em estratégia de recuperação e encolhe ainda mais para sobreviver",
+    "url": "https://agfeed.com.br/negocios/lavoro-busca-guinada-radical-em-estrategia-de-recuperacao-e-encolhe-ainda-mais-para-sobreviver",
+    "resumo": "Lavoro acelera reestruturação, fecha mais lojas e prepara recuperação judicial com foco na operação do Paraná",
+    "fonte": "AgFeed",
+    "data": "2026-07-15T11:51:29.854Z",
+    "tags_tema": [
+      "Economia Real",
+      "RJ/EJ"
+    ],
+    "tags_empresa": [
+      "Lavoro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6c7a038681be3e09",
+    "manchete": "A inflação do El Niño",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-inflacao-do-el-nino",
+    "resumo": "Banco Goldman Sachs projeta alta dos preços das commodities em mais de 15% por conta dos efeitos climáticos",
+    "fonte": "AgFeed",
+    "data": "2026-07-15T11:51:29.853Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Goldman Sachs"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2a21939e7e07cb5c",
+    "manchete": "\"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai \"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai",
+    "url": "https://agfeed.com.br/negocios/brasiguaios-corporativos-empresas-brasileiras-do-agro-aceleram-planos-de-expansao-no-paraguai",
+    "resumo": "Companhias brasileiras avaliam ou já colocam em prática planos de expansão no Paraguai de olho em ambiente de negócios mais favorável",
+    "fonte": "AgFeed",
+    "data": "2026-07-15T11:51:29.852Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b9f4da3326031068",
+    "manchete": "Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\"",
+    "url": "https://agfeed.com.br/negocios/novo-ceo-e-investimentos-de-r-150-milhoes-a-receita-da-pamplona-alimentos-para-saciar-fome-de-proteinas",
+    "resumo": "Pamplona Alimentos tem novo CEO, acelera profissionalização e vê oportunidades com demanda maior impulsionada por canetas emagrecedoras",
+    "fonte": "AgFeed",
+    "data": "2026-07-15T11:51:29.852Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Pamplona Alimentos"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e3ec21cc0d0f4591",
+    "manchete": "Stripe e Advent querem mexer no mercado global de pagamentos e oferecem US$ 53 bi pelo PayPal",
+    "url": "https://neofeed.com.br/negocios/stripe-e-advent-querem-mexer-no-mercado-global-de-pagamentos-e-oferecem-us-53-bi-pelo-paypal/",
+    "resumo": "Com prêmio de cerca de 28% sobre o preço de fechamento das ações da PayPal, papel registra forte valorização no pré-mercado. Proposta conjunta tem financiamento bancário comprometido de aproximadamente US$ 50 bilhões",
+    "fonte": "NeoFeed",
+    "data": "2026-07-15T11:51:21.074Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Stripe",
+      "Advent",
+      "PayPal"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "e7d69cee9c817d68",
+    "manchete": "Na Novo Nordisk, atrito com as redes de farmácias e o desejo de emplacar o Wegovy no SUS",
+    "url": "https://neofeed.com.br/negocios/na-novo-nordisk-atrito-com-as-redes-de-farmacias-e-o-desejo-de-emplacar-o-wegovy-no-sus/",
+    "resumo": "A Novo Nordisk, fabricante do Ozempic e Wegovy, lançou programa de venda direta das canetas, sem passar pelas farmácias. Mas a reação das varejistas foi forte e a empresa recuou",
+    "fonte": "NeoFeed",
+    "data": "2026-07-15T11:51:21.072Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Novo Nordisk"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aabb803dd54e0b56",
+    "manchete": "Sem melhoras, BTG vê mais um trimestre difícil para o varejo; veja quais ações devem se destacar",
+    "url": "https://www.moneytimes.com.br/sem-melhoras-btg-ve-mais-um-trimestre-dificil-para-o-varejo-veja-quais-acoes-se-destacam-lmrs/",
+    "resumo": "O segundo trimestre de 2026 (2T26) deve marcar mais um período amargo para o varejo. Sem sinais de melhora no cenário macroeconômico, o bolso do consumidor brasileiro tem pouco alívio, enquanto os nomes do setor sentem os impactos diretamente em seus balanços. O alto patamar dos juros segue corroendo a renda…",
+    "fonte": "Money Times",
+    "data": "2026-07-15T11:44:57.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "BTG"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "eb934b8c06262009",
+    "manchete": "Usiminas: correção é oportunidade ou sinal de alerta? Há riscos para 2º semestre?",
+    "url": "https://www.infomoney.com.br/mercados/usiminas-correcao-e-oportunidade-ou-sinal-de-alerta-ha-riscos-para-2o-semestre/",
+    "resumo": "Os papéis acumulam queda superior a 23% nos últimos 30 dias, embora ainda apresentem valorização de cerca de 38% em 2026",
+    "fonte": "InfoMoney",
+    "data": "2026-07-15T11:13:49.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Usiminas"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1939ec621ce6628a",
+    "manchete": "Melnick (MELK3) registra vendas líquidas no valor de R$ 108 mi no 2º trimestre",
+    "url": "https://www.infomoney.com.br/mercados/melnick-melk3-registra-vendas-liquidas-no-valor-de-r-108-mi-no-2o-trimestre/",
+    "resumo": "No 2T26 foram entregues seis empreendimentos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-15T11:12:07.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Melnick"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "2c2d6f9a98d758e9",
+    "manchete": "Fundo imobiliário anuncia novo inquilino para imóvel deixado pelo Santander; IFIX sobe",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-novo-inquilino-para-imovel-deixado-pelo-santander-ifix-sobe-igdl/",
+    "resumo": "O fundo imobiliário Rio Bravo Renda Varejo (RBVA11) anunciou a assinatura de um contrato de locação com a Geo Cosméticos para dois pavimentos de um dos edifícios do seu portfólio, localizado em Jundiaí (SP). Segundo o comunicado divulgado ao mercado, o acordo foi firmado em 13 de julho e tem prazo de 10 anos, com…",
+    "fonte": "Money Times",
+    "data": "2026-07-15T11:10:37.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Rio Bravo Renda Varejo",
+      "Geo Cosméticos",
+      "Santander"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "317b47796f9d113d",
+    "manchete": "Camil (CAML3) tem baixa de 57,6% no lucro no 1º trimestre",
+    "url": "https://www.infomoney.com.br/mercados/camil-caml3-resultados-primeiro-trimestre-2026/",
+    "resumo": "A receita líquida alcançou R$ 2,67 bilhões",
+    "fonte": "InfoMoney",
+    "data": "2026-07-15T11:06:49.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Camil"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ea97bf13b148a58e",
+    "manchete": "Melnick (MELK3) registra queda de 67% nas vendas no 2T26",
+    "url": "https://www.moneytimes.com.br/melnick-melk3-registra-queda-de-67-nas-vendas-no-2t26-igdl/",
+    "resumo": "A Melnick (MELK3) informou, na noite de terça-feira (14), que suas vendas líquidas somaram R$ 108 milhões no segundo trimestre de 2026 (2T26), abaixo dos R$ 325 milhões observados no mesmo intervalo de 2025. Segundo prévia operacional divulgada ao mercado, a companhia lançou um empreendimento que totalizou Valor Geral…",
+    "fonte": "Money Times",
+    "data": "2026-07-15T10:44:26.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Melnick"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b1d921eb3b02d8da",
+    "manchete": "Brasil deve ser o primeiro alvo de nova rodada de tarifas de Trump; taxa de 25% pode atingir 4 mil produtos",
+    "url": "https://www.moneytimes.com.br/brasil-se-prepara-para-novas-tarifas-dos-eua-enquanto-washington-amplia-a-pressao-comercial/",
+    "resumo": "O Brasil se prepara para a imposição de uma nova tarifa de 25% pelos Estados Unidos, que pode atingir mais de 4 mil produtos brasileiros, após meses de negociações intensas, mas em grande parte infrutíferas, disseram à Reuters quatro fontes que acompanham as discussões. O Brasil deve ser o primeiro alvo em uma nova…",
+    "fonte": "Money Times",
+    "data": "2026-07-15T10:22:58.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "be0e4077c3d32b65",
+    "manchete": "Nos leilões de rodovias, “o céu é o limite” para a Opportunity e 4UM",
+    "url": "https://braziljournal.com/nos-leiloes-de-rodovias-o-ceu-e-o-limite-para-a-opportunity-e-4um/",
+    "resumo": "O Opportunity e a 4UM Investimentos começaram no setor de rodovias como rivais, mas o relacionamento evoluiu para uma parceria e acabou em casamento com a criação da Nova Rodovias. A JV entre a gestora de Daniel Dantas, Veronica Dantas e Dório Ferman e o veículo de investimentos da família J. Malucelli já tem duas…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-15T09:50:40.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Opportunity",
+      "4UM Investimentos",
+      "Nova Rodovias"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "3b5b3c14d02a9c7c",
+    "manchete": "A cada dez anos, uma crise. A Kepler Weber decidiu transformar isso em estratégia",
+    "url": "https://braziljournal.com/a-cada-dez-anos-uma-crise-a-kepler-weber-decidiu-transformar-isso-em-estrategia/",
+    "resumo": "Para a centenária Kepler Weber, a maior fabricante de silos do Brasil, anos terminados com o número 6 não costumam trazer boas notícias. Em 1996, as famílias fundadoras venderam o controle da empresa depois que uma crise no agronegócio tornou a sua dívida impagável. Dez anos depois, outra retração no agro deixou a…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-15T09:50:04.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Kepler Weber"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "8a0c39a2a55a9407",
     "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
     "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
@@ -356,53 +620,6 @@
     "resumo": "Etanol de milho entra em nova fase com usinas familiares, verticalização no agro e expansão de projetos regionais no Brasil",
     "fonte": "AgFeed",
     "data": "2026-07-14T11:46:52.746Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9b2078fecb08da7b",
-    "manchete": "3tentos comemora cinco anos de IPO com ações em alta e acelera expansão pelo Brasil",
-    "url": "https://agfeed.com.br/negocios/3tentos-comemora-cinco-anos-de-ipo-com-acoes-em-alta-e-acelera-expansao-pelo-brasil",
-    "resumo": "Ações da 3tentos acumulam valorização de 21% desde a abertura de capital na B3, em 2021, coroando estratégia de diversificação de negócios",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.746Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "3tentos"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9a8509a7c0205fc3",
-    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
-    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
-    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.745Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "ETG",
-      "VLI"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8cf2861d5dcc962f",
-    "manchete": "Cota da China altera estratégia e preocupa setor da carne bovina brasileira Com quase todo o volume autorizado já comprometido, indústrias reduzem ritmo de abates e avaliam novos destinos para a carne brasileira",
-    "url": "https://www.cnnbrasil.com.br/agro/cota-da-china-altera-estrategia-e-preocupa-setor-da-carne-bovina-brasileira/",
-    "resumo": "Com quase todo o volume autorizado já comprometido, indústrias reduzem ritmo de abates e avaliam novos destinos para a carne brasileira",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T11:46:52.744Z",
     "tags_tema": [
       "Economia Real"
     ],
