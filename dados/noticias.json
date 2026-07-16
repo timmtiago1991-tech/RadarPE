@@ -1,5 +1,315 @@
 [
   {
+    "id": "b8107f63d26d3f06",
+    "manchete": "Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café, carne bovina e etanol de fora Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café, carne bovina e etanol de fora",
+    "url": "https://agfeed.com.br/economia/tarifaco-2-a-sancao-eua-aplicam-taxa-de-25-sobre-produtos-brasileiros-mas-deixam-cafe-carne-bovina-e-etanol-de-fora",
+    "resumo": "EUA impõem tarifa de 25% ao Brasil, mas isentam café, carne bovina e etanol; medida afeta exportações do agronegócio",
+    "fonte": "AgFeed",
+    "data": "2026-07-16T11:55:12.762Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "00a378fca0130882",
+    "manchete": "Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras",
+    "url": "https://agfeed.com.br/financas/da-fazenda-a-faria-lima-e-vice-versa-com-produtores-a-frente-planalto-capital-aposta-em-tese-de-terras",
+    "resumo": "Quando o pecuarista Braz Neto decidiu criar a gestora Planalto Capital há 10 anos, a ideia era diversificar os investimentos de sua família para além do agronegócio. Até meados do ano passado, a atuação da casa estava dedicada à antecipar recebíveis para empresas de logística, mas nessa trajetória, e com novos sócios…",
+    "fonte": "AgFeed",
+    "data": "2026-07-16T11:55:12.761Z",
+    "tags_tema": [
+      "Private Equity",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Planalto Capital"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f06622c0927bf727",
+    "manchete": "O novo componente que está dando as cartas nos family offices",
+    "url": "https://neofeed.com.br/wealth-management/o-novo-componente-que-esta-dando-as-cartas-nos-family-offices/",
+    "resumo": "Planejamento fiscal passa a ter peso semelhante ao da seleção de ativos, levando clientes a investir por meio de estruturas diferentes",
+    "fonte": "NeoFeed",
+    "data": "2026-07-16T11:55:09.244Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "863e36d02d68b131",
+    "manchete": "Oncoclinicas diz que recebeu oferta da IG4 e que não há transação acordada",
+    "url": "https://www.infomoney.com.br/mercados/oncoclinicas-diz-que-recebeu-oferta-da-ig4-e-que-nao-ha-transacao-acordada/",
+    "resumo": "A empresa acrescentou que, atualmente, não há acordo ⁠sobre ​uma possível ​transação com a IG4 ou qualquer outra ⁠parte interessada",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T11:45:16.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Oncoclinicas",
+      "IG4"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "c7d8e0e24e234ec2",
+    "manchete": "Tarifa de Trump ameaça US$ 11 bilhões em exportações brasileiras, diz Amcham",
+    "url": "https://www.moneytimes.com.br/tarifa-de-trump-ameaca-us-11-bilhoes-em-exportacoes-brasileiras-diz-amcham/",
+    "resumo": "A Câmara Americana de Comércio para o Brasil (Amcham Brasil) classificou como um resultado \"muito negativo\" para a relação bilateral a decisão do governo dos Estados Unidos de impor uma tarifa adicional de 25% sobre cerca de 3 mil produtos brasileiros. A medida foi oficializada na quarta-feira (15) como desfecho da…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T11:42:39.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Amcham Brasil"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "8cee54d2094cc8b3",
+    "manchete": "B3 (B3SA3) registra alta de 16,8% no volume negociado em junho",
+    "url": "https://www.infomoney.com.br/mercados/b3-b3sa3-registra-alta-de-168-no-volume-negociado-em-junho/",
+    "resumo": "A receita média por contrato ficou em R$ 1,172, teve alta anual de 1,3%",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T11:35:34.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "B3"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d9ddb442dd60b90e",
+    "manchete": "Brava Energia (BRAV3): CVM aceita recurso da Ecopetrol e destrava OPA",
+    "url": "https://www.moneytimes.com.br/brava-energia-brav3-cvm-aceita-recurso-da-ecopetrol-e-destrava-opa-lmrs/",
+    "resumo": "A Brava Energia (BRAV3) informou ao mercado, na quarta-feira (15), que o Colegiado da Comissão de Valores Mobiliários (CVM) decidiu favoravelmente ao recurso da Ecopetrol em relação à OPA (oferta pública de aquisição de ações) de controle da companhia. Em junho, a OPA foi suspensa temporariamente após decisão da…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T11:33:24.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Brava Energia",
+      "Ecopetrol",
+      "CVM"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "38893fe4bd580395",
+    "manchete": "Tarifaço dos EUA: governo brasileiro vai acionar Lei de Reciprocidade",
+    "url": "https://www.infomoney.com.br/mercados/tarifaco-dos-eua-governo-brasileiro-vai-acionar-lei-de-reciprocidade/",
+    "resumo": "Estados Unidos confirmaram nova taxa de 25% sobre produtos nacionais",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T11:25:48.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "68bfedb1cef61d55",
+    "manchete": "Governo chama tarifaço de 'marco lastimável', culpa Bolsonaro e prepara retaliação",
+    "url": "https://www.moneytimes.com.br/governo-chama-tarifaco-dos-eua-de-marco-lastimavel-prepara-retaliacao-e-culpa-bolsonaro-jcav/",
+    "resumo": "O governo federal elevou o tom contra a decisão dos Estados Unidos de impor uma tarifa de 25% sobre produtos brasileiros e afirmou que responderá tanto no campo diplomático quanto jurídico. Em nota divulgada na quarta-feira (15), o Palácio do Planalto classificou a medida como um \"marco lastimável\" nas relações entre…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T11:24:32.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "b9bc347e9ae1250c",
+    "manchete": "Tarifaço afeta US$ 11 bi em exportações do agro e da indústria, diz Câmara Americana",
+    "url": "https://www.infomoney.com.br/economia/tarifaco-afeta-us-11-bi-em-exportacoes-do-agro-e-da-industria-diz-camara-americana/",
+    "resumo": "Governo Trump anunciou tarifa de 25% sobre produtos brasileiros. Medida entra em vigor em 22 de julho",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T11:24:20.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8c0b929de6b47957",
+    "manchete": "Totvs (TOTS3) conclui recompra de 20 milhões de ações",
+    "url": "https://www.infomoney.com.br/mercados/totvs-tots3-conclui-recompra-de-20-milhoes-de-acoes/",
+    "resumo": "As ações serão mantidas em tesouraria",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T11:21:57.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Totvs"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "305f91a8266dae88",
+    "manchete": "Axia (AXIA3) conclui alienação de participações minoritárias para a GEBBRAS",
+    "url": "https://www.infomoney.com.br/mercados/axia-axia3-conclui-alienacao-de-participacoes-minoritarias-para-a-gebbras/",
+    "resumo": "O valor recebido foi de de R$ 451,4 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T11:15:10.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Axia",
+      "GEBBRAS"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "d59da656aff871c8",
+    "manchete": "Marco Rubio culpa Lula por tarifa de 25% dos EUA: Priorizou o 'próprio ego' e agiu sem 'boa-fé'",
+    "url": "https://www.moneytimes.com.br/marco-rubio-culpa-lula-por-tarifa-de-25-dos-eua-sobre-produtos-brasileiros-faltou-boa-fe-igdl/",
+    "resumo": "O secretário de Estado dos Estados Unidos (EUA), Marco Rubio, culpou o presidente Luiz Inácio Lula da Silva (PT) pela decisão do país norte-americano de impor uma tarifa adicional de 25% sobre importações provenientes do Brasil. Em publicação feita no X (antigo Twitter) na manhã desta quinta-feira (16), o republicano…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T11:12:22.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1649539b96b614f1",
+    "manchete": "Fundo imobiliário anuncia recompra de até 10% das cotas; IFIX avança",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-recompra-de-ate-10-das-cotas-ifix-avanca-igdl/",
+    "resumo": "O fundo imobiliário Zagros Renda (GGRC11) anunciou, nessa quarta-feira (15), a criação de um programa de recompra de cotas, com início previsto para o próximo dia 30 de julho. Em comunicado divulgado ao mercado, o veículo afirmou que a iniciativa permitirá a aquisição de até 34.115.118 papéis, o equivalente a 10% do…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T10:59:44.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Zagros Renda"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "970f8627604eb39a",
+    "manchete": "Carne e café salvos, indústria na mira: quem escapou e quem será atingido pela tarifa de 25% dos EUA",
+    "url": "https://www.moneytimes.com.br/carne-e-cafe-salvos-industria-na-mira-quem-escapou-e-quem-sera-atingido-pela-tarifa-de-25-dos-eua/",
+    "resumo": "Os Estados Unidos ampliaram a lista de exceções à tarifa adicional de 25% sobre produtos brasileiros, que entra em vigor no dia 22 de julho, e deixaram de fora da medida 2.126 itens exportados pelo Brasil. A relação divulgada pelo Escritório do Representante Comercial dos EUA (USTR) inclui alimentos, minérios,…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T10:45:08.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9bf2e39964930195",
+    "manchete": "Novas tarifas dos EUA de 25% começam na próxima semana; isenções são mantidas",
+    "url": "https://www.moneytimes.com.br/novas-tarifas-dos-eua-de-25-comecam-na-proxima-semana-isencoes-sao-mantidas-fets/",
+    "resumo": "A nova tarifa de 25% dos Estados Unidos sobre importações provenientes do Brasil terá início na próxima quarta-feira, dia 22 de julho, informou o Escritório do Representante de Comércio dos EUA (USTR na sigla em inglês), na noite desta quarta-feira (15). \"As extensas negociações com o Brasil ao longo do último ano não…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T10:19:36.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "636fa41f2fc14c28",
+    "manchete": "Terminais de GNL viram tema de disputa entre ANP, Petrobras e empresas",
+    "url": "https://braziljournal.com/terminais-de-gnl-viram-tema-de-disputa-entre-anp-petrobras-e-empresas/",
+    "resumo": "Companhias que operam terminais de gás natural liquefeito (GNL) e instalações de tratamento e processamento de gás, incluindo a Petrobras, não gostaram nada de uma recente resolução da Agência Nacional do Petróleo (ANP) que definiu regras para o acesso negociado de outras empresas a suas infraestruturas. Uma das…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-16T09:50:19.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Petrobras",
+      "ANP"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4da3869839a710b0",
+    "manchete": "Na era do GLP-1, a Panvel — a 7x lucro — quer mostrar que é mais que isso",
+    "url": "https://braziljournal.com/o-mercado-so-ve-o-glp-1-a-panvel-quer-mostrar-que-e-mais-do-que-isso/",
+    "resumo": "PORTO ALEGRE – O GLP-1 foi apontado como o Santo Graal das farmácias brasileiras. Afinal, a popularização das canetas emagrecedoras aumentou assustadoramente o ticket médio das farmácias, levou fluxo para as lojas e abriu uma avenida de consumo em outras categorias – de suplementos a produtos de beleza. Resultado: as…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-16T09:50:19.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Panvel"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f1b7bf9004b4b141",
+    "manchete": "Congresso adia fechamento do Marco Legal e IA habitará no limbo legal até depois das eleições",
+    "url": "https://startupi.com.br/congresso-adia-fechamento-do-marco-legal-e-ia-habitara-no-limbo-legal-ate-depois-das-eleicoes/",
+    "resumo": "Startupi Congresso adia fechamento do Marco Legal e IA habitará no limbo legal até depois das eleições Com a postergação da votação do PL 2.338/2023 para o período pós-eleitoral, as empresas enfrentam vácuo regulatório e o desafio de se adaptarem às exigências imediatas e severas do Tribunal Superior Eleitoral para…",
+    "fonte": "Startupi",
+    "data": "2026-07-16T08:00:00.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "98d696f8adce1c4e",
+    "manchete": "O que a lista do Sebrae revela sobre a nova rota das startups brasileiras?",
+    "url": "https://startupi.com.br/o-que-a-lista-do-sebrae-revela-sobre-a-nova-rota-das-startups-brasileiras/",
+    "resumo": "Startupi O que a lista do Sebrae revela sobre a nova rota das startups brasileiras? O foco mudou do crescimento acelerado e queima de caixa para a eficiência operacional imediata em setores tradicionais da economia real. O post O que a lista do Sebrae revela sobre a nova rota das startups brasileiras? aparece primeiro…",
+    "fonte": "Startupi",
+    "data": "2026-07-16T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Sebrae"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "9a8509a7c0205fc3",
     "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
     "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
@@ -115,6 +425,23 @@
     ],
     "relevante": true,
     "importancia": 3
+  },
+  {
+    "id": "ec9b71f8834039f7",
+    "manchete": "Dívida local da Braskem deteriora no secundário em meio a impasse com credores",
+    "url": "https://braziljournal.com/divida-local-da-braskem-deteriora-no-secundario-em-meio-a-impasse-com-credores/",
+    "resumo": "Com uma dívida impagável e credores divididos, a Braskem viu suas debêntures e CRAs passarem a ser negociados a cerca de 30% do valor de face no mercado secundário nos últimos dias, segundo gestores de crédito que receberam ofertas pelos papéis. Em abril e maio, quando houve um pico de negociação desses títulos, o…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-15T22:08:30.000Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Braskem"
+    ],
+    "relevante": true,
+    "importancia": 4
   },
   {
     "id": "ca914eb65a07c7d5",
