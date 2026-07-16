@@ -1,5 +1,299 @@
 [
   {
+    "id": "54d7f24918c76745",
+    "manchete": "Mais arroz e feijão e menos lucro no prato da Camil",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/mais-arroz-e-feijao-e-menos-lucro-no-prato-da-camil",
+    "resumo": "Companhia vendeu quase 18% mais produtos, mas viu custos e juros derrubarem seus ganhos no trimestre",
+    "fonte": "AgFeed",
+    "data": "2026-07-16T22:13:37.122Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Camil"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1f6af480e6020054",
+    "manchete": "Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café e carne bovina de fora Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café e carne bovina de fora",
+    "url": "https://agfeed.com.br/economia/tarifaco-2-a-sancao-eua-aplicam-taxa-de-25-sobre-produtos-brasileiros-mas-deixam-cafe-e-carne-bovina-de-fora",
+    "resumo": "EUA impõem tarifa de 25% ao Brasil, mas isentam café, carne bovina e etanol; medida afeta exportações do agronegócio",
+    "fonte": "AgFeed",
+    "data": "2026-07-16T22:13:37.121Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bf33e8c067401fd6",
+    "manchete": "IPO da Syngenta deve ser adiado mais uma vez e ocorrer só em 2027",
+    "url": "https://agfeed.com.br/negocios/ipo-da-syngenta-deve-ser-adiado-mais-uma-vez-e-ocorrer-so-em-2027",
+    "resumo": "IPO da Syngenta deve ficar para 2027 após tensões no Oriente Médio e incertezas regulatórias afetarem planos da companhia",
+    "fonte": "AgFeed",
+    "data": "2026-07-16T22:13:37.120Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Syngenta"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "71df7c5ae79216bf",
+    "manchete": "A aposta de US$ 3,8 bilhões da fabricante do Mounjaro no potencial das substâncias psicodélicas",
+    "url": "https://neofeed.com.br/negocios/a-aposta-de-us-38-bilhoes-da-fabricante-do-mounjaro-no-potencial-das-substancias-psicodelicas/",
+    "resumo": "Eli Lilly aproveita sucesso com medicamentos para obesidade para comprar companhia de biotecnologia apoiada por Peter Thiel",
+    "fonte": "NeoFeed",
+    "data": "2026-07-16T22:13:22.148Z",
+    "tags_tema": [
+      "Venture Capital",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Eli Lilly",
+      "Peter Thiel"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "32260268ca4490f0",
+    "manchete": "Movida \"acelera\" números e ganha fôlego para reduzir alavancagem",
+    "url": "https://neofeed.com.br/negocios/movida-acelera-numeros-e-ganha-folego-para-reduzir-alavancagem/",
+    "resumo": "Prévia de resultados da Movida fortalece visão de melhora operacional e abre caminho para que o fluxo de caixa volte a ficar positivo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-16T22:13:22.147Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Movida"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8b413c51a99f96b9",
+    "manchete": "Petroleira avalia investimento em \"atalho\" para escapar do risco em Ormuz",
+    "url": "https://neofeed.com.br/negocios/petroleira-avalia-investimento-em-atalho-para-escapar-do-risco-em-ormuz/",
+    "resumo": "Para escapar do estreito de ormuz, petroleira americana tem planos para investir em dois campos de petróleo no Iraque. Para isso, avalia aportar em óleoduto até a Síria",
+    "fonte": "NeoFeed",
+    "data": "2026-07-16T22:13:22.145Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "4ebd2a831a433944",
+    "manchete": "O que Cimed e concorrentes disseram ao Cade sobre a aquisição da Medley pela EMS",
+    "url": "https://neofeed.com.br/negocios/o-que-cimed-e-concorrentes-disseram-ao-cade-sobre-a-aquisicao-da-medley-pela-ems/",
+    "resumo": "Cade ouviu 65 empresas sobre o impacto da venda da Medley no mercado de genéricos. A Cimed foi a mais contundente nas críticas ao negócio",
+    "fonte": "NeoFeed",
+    "data": "2026-07-16T22:13:22.144Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Cimed",
+      "Medley",
+      "EMS",
+      "Cade"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "31c2fff32e931eae",
+    "manchete": "Nova tarifa dos EUA afetará até 18% das exportações do Brasil, diz ministro",
+    "url": "https://www.infomoney.com.br/economia/nova-tarifa-dos-eua-afetara-ate-18-das-exportacoes-do-brasil-diz-ministro/",
+    "resumo": "Impacto estimado chega a US$ 7,4 bilhões, e governo promete apoio aos setores mais afetados",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T22:12:21.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "9d4bb36ed8695d91",
+    "manchete": "Eneva (ENEV3) amplia geração de energia em 35% no 2º trimestre com maior despacho térmico",
+    "url": "https://www.moneytimes.com.br/eneva-enev3-amplia-geracao-de-energia-em-35-no-2o-trimestre-com-maior-despacho-termico/",
+    "resumo": "A Eneva (ENEV3) registrou geração bruta total de 2.537 Gigawatt-hora (GWh) no segundo trimestre de 2026, alta de 35% em relação ao mesmo período do ano passado. Segundo a companhia, o desempenho foi impulsionado pelo maior despacho termelétrico por ordem de mérito no Sistema Interligado Nacional (SIN). A produção de…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T22:07:33.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Eneva"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d726b6a1ccf15620",
+    "manchete": "Telefônica Brasil (VIVT3) aprova R$ 500 milhões em JCP; veja quem tem direito",
+    "url": "https://www.moneytimes.com.br/telefonica-brasil-vivt3-aprova-r-500-milhoes-em-jcp-veja-quem-tem-direito/",
+    "resumo": "A Telefônica Brasil (VIVT3) informou nesta quinta-feira (16) que seu conselho de administração aprovou a distribuição de R$ 500 milhões em juros sobre capital próprio (JCP). O valor bruto corresponde a R$ 0,1565 por ação. Após a retenção de Imposto de Renda na fonte de 17,5%, o valor líquido será de R$ 0,1291 por…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T22:06:03.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Telefônica Brasil"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1a94332dbf63e3a2",
+    "manchete": "Alckmin: Brasil usará reciprocidade no momento adequado e apoiará setores afetados",
+    "url": "https://www.infomoney.com.br/politica/alckmin-brasil-usara-reciprocidade-no-momento-adequado-e-apoiara-setores-afetados/",
+    "resumo": "Vice-presidente classifica tarifaço dos EUA como injusto e diz que governo reativará o Brasil Soberano",
+    "fonte": "InfoMoney",
+    "data": "2026-07-16T22:05:40.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "59ff1acdb87fda9c",
+    "manchete": "Inter (INBR32): Squadra vende ações em meio à queda de mais de 30% dos papéis",
+    "url": "https://www.moneytimes.com.br/inter-inbr32-squadra-vende-acoes-em-meio-a-queda-de-mais-de-30-dos-papeis/",
+    "resumo": "A Squadra reduziu sua participação acionária no Inter (INBR32) para 9,80%, mostra documento enviado ao mercado nesta quinta-feira (16). Segundo o comunicado, a gestora passou a deter 31,9 milhões de ações da companhia. Como de praxe, a gestora afirmou que a venda não tem como objetivo alterar a composição do controle…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T21:51:07.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Squadra",
+      "Inter"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dc551827ca257a2c",
+    "manchete": "Moody's rebaixa rating da Cosan (CSAN3) para B1 e mantém perspectiva negativa",
+    "url": "https://www.moneytimes.com.br/moodys-rebaixa-rating-da-cosan-csan3-para-b1-e-mantem-perspectiva-negativa/",
+    "resumo": "A Moody's Ratings rebaixou nesta quinta-feira (16) a nota de crédito da Cosan (CSAN3) para B1, de Ba3, e manteve a perspectiva negativa, encerrando a revisão para possível rebaixamento iniciada em 24 de fevereiro após o anúncio da reestruturação da Raízen. Segundo a Moody's, \"o rebaixamento dos ratings da Cosan para…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T21:45:49.000Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "Moody's",
+      "Raízen"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "8d9a0cf50f4d0a35",
+    "manchete": "Plano &#038; Plano (PLPL3): Vendas sobem 9% no 2T26 e atingem R$ 916 milhões",
+    "url": "https://www.moneytimes.com.br/plano-plano-plpl3-vendas-sobem-9-no-2t26-e-atingem-r-916-milhoes-rnda/",
+    "resumo": "A Plano &#38; Plano (PLPL3) viu suas vendas líquidas subirem 9% no segundo trimestre, para R$ 916 milhões, mostra documento enviado ao mercado nesta quinta-feira (16). Segundo o comunicado, foram comercializadas 3.351 unidades, volume 8% superior ao observado no mesmo trimestre do ano anterior. Já o preço médio de…",
+    "fonte": "Money Times",
+    "data": "2026-07-16T21:28:18.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Plano & Plano"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "33813e688ff5ef59",
+    "manchete": "No M&#038;A da ayahuasca e do MDMA, Eli Lilly paga US$ 2,8 bi pela AtaiBeckley",
+    "url": "https://braziljournal.com/no-ma-da-ayahuasca-e-do-mdma-eli-lilly-paga-us-28-bi-pela-ataibeckley/",
+    "resumo": "A Eli Lilly anunciou hoje a compra da AtaiBeckley – uma fabricante de medicamentos psicodélicos experimentais – por US$ 2,8 bilhões, à medida que a indústria farmacêutica começa a abraçar tratamentos alternativos para a saúde mental. O preço da operação, de US$ 6,75 por ação em dinheiro, representa um prêmio de 26% em…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-16T17:28:44.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Eli Lilly",
+      "AtaiBeckley"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "3a55c883f5fd2197",
+    "manchete": "Ânima: Controladores compram mais ações em meio a selloff",
+    "url": "https://braziljournal.com/anima-controladores-compram-mais-acoes-em-meio-a-selloff/",
+    "resumo": "A ação da Ânima Educação sobe quase 10% hoje depois que membros do grupo de controle aumentaram sua participação na empresa em meio à implosão do papel ontem. Daniel Castanho, o chairman da companhia, e Rômulo Castanho, irmão de Daniel, compraram mais 7% da companhia, elevando a participação do grupo de controle de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-16T17:22:39.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Ânima Educação"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "44752945a897cc32",
+    "manchete": "Com fundo de R$ 5 milhões, Yungas investe em startup de IA focada em redes de franquia",
+    "url": "https://startupi.com.br/com-fundo-de-r-5-milhoes-yungas-investe-em-startup-de-ia-focada-em-redes-de-franquia/",
+    "resumo": "Startupi Com fundo de R$ 5 milhões, Yungas investe em startup de IA focada em redes de franquia A inteligência artificial começa a ganhar espaço nas redes de franquia ou de operação própria e a Yungas, plataforma de gestão e comunicação para grandes redes de franquias, se dedica a impulsionar soluções baseadas em IA…",
+    "fonte": "Startupi",
+    "data": "2026-07-16T13:37:27.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Yungas"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dede22b92e864a8f",
+    "manchete": "Canopy compra Maxicon e estreia no agronegócio com software que movimenta R$ 120 bilhões",
+    "url": "https://startupi.com.br/canopy-compra-maxicon/",
+    "resumo": "Startupi Canopy compra Maxicon e estreia no agronegócio com software que movimenta R$ 120 bilhões A Canopy, companhia brasileira dedicada à aquisição e ao desenvolvimento de negócios de tecnologia voltados para clientes corporativos, acaba de dar seu primeiro passo no agronegócio e anuncia a aquisição da Maxicon…",
+    "fonte": "Startupi",
+    "data": "2026-07-16T13:22:18.000Z",
+    "tags_tema": [
+      "M&A",
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Canopy",
+      "Maxicon"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
     "id": "b8107f63d26d3f06",
     "manchete": "Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café, carne bovina e etanol de fora Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café, carne bovina e etanol de fora",
     "url": "https://agfeed.com.br/economia/tarifaco-2-a-sancao-eua-aplicam-taxa-de-25-sobre-produtos-brasileiros-mas-deixam-cafe-carne-bovina-e-etanol-de-fora",
@@ -870,23 +1164,6 @@
     "tags_empresa": [
       "BNDES",
       "bp bioenergy"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "97a0ed3c187f55b6",
-    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
-    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
-    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T22:11:30.893Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "JBS",
-      "Santander"
     ],
     "relevante": true,
     "importancia": 3
