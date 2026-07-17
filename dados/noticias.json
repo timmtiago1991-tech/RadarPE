@@ -1,5 +1,354 @@
 [
   {
+    "id": "97a0ed3c187f55b6",
+    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
+    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
+    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.299Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JBS",
+      "Santander"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e6600cc4517ba26e",
+    "manchete": "Crise financeira acelera consolidação no agro e abre janela para aquisições Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
+    "url": "https://www.cnnbrasil.com.br/agro/crise-financeira-acelera-consolidacao-no-agro-e-abre-janela-para-aquisicoes/",
+    "resumo": "Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.298Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "a2d3039ddaf6da2a",
+    "manchete": "Novo tarifaço deve ter influência pontual sobre preço de alimento no Brasil Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
+    "url": "https://www.cnnbrasil.com.br/agro/novo-tarifaco-deve-ter-influencia-pontual-sobre-preco-de-alimento-no-brasil/",
+    "resumo": "Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.298Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a2aab2a4956ed557",
+    "manchete": "A mudança de tom no acordo das dívidas do agro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-mudanca-de-tom-no-acordo-das-dividas-do-agro",
+    "resumo": "Discursos amistosos marcam anúncio de MP que abre caminho para renegociação de R$ 100 bilhões em débitos de produtores",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.295Z",
+    "tags_tema": [
+      "Economia Real",
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f97ddbb0840c4463",
+    "manchete": "Moody’s corta rating da Cosan e aponta desafios para desalavancagem da holding Moody’s corta rating da Cosan e aponta desafios para desalavancagem da holding",
+    "url": "https://agfeed.com.br/financas/moodys-corta-rating-da-cosan-e-aponta-desafios-para-desalavancagem-da-holding",
+    "resumo": "Agência de classificação de risco rebaixa nota de crédito da Cosan e alerta para desafios de redução de endividamento",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.294Z",
+    "tags_tema": [
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [
+      "Cosan"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63c89d6e1275c8ee",
+    "manchete": "JBS lança debêntures de R$ 400 milhões para ampliar produção de biodiesel e modernizar operação do Porto de Itajaí JBS lança debêntures de R$ 400 milhões para ampliar produção de biodiesel e modernizar operação do Porto de Itajaí",
+    "url": "https://agfeed.com.br/negocios/jbs-lanca-debentures-de-r-400-milhoes-para-ampliar-producao-de-biodiesel-e-modernizar-operacao-do-porto-de-itajai",
+    "resumo": "Captação será destinada à expansão de três usinas de biocombustível em MT, SP e SC e à modernização do terminal portuário catarinense",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.294Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JBS"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1a5606185d435e80",
+    "manchete": "Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro",
+    "url": "https://agfeed.com.br/negocios/apos-ciclo-de-mas-nitro-reforca-aposta-em-mais-biologicos-para-crescer-quase-20-no-agro",
+    "resumo": "Depois de consolidar presença no agronegócio por meio de aquisições, Nitro pretende faturar R$ 1,2 bi no agro em 2026 e lança novos produtos",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T11:43:01.293Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Nitro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c5ededff65748da3",
+    "manchete": "A insustentável leveza do “jabuti” de R$ 140 bilhões incluído em PL do setor elétrico",
+    "url": "https://neofeed.com.br/economia/a-insustentavel-leveza-do-jabuti-de-r-140-bilhoes-incluido-em-pl-do-setor-eletrico/",
+    "resumo": "Comissão do Senado usa lei sobre benefícios da tarifa rural para enxertar contratação por 30 anos de térmicas a gás e PCHs",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T11:42:51.593Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b929e8e37caa807c",
+    "manchete": "EXCLUSIVO: Governo propõe ampliar concorrência no leilão de megaterminal do Porto de Santos",
+    "url": "https://neofeed.com.br/poder/exclusivo-governo-propoe-ampliar-concorrencia-no-leilao-de-megaterminal-do-porto-de-santos/",
+    "resumo": "O ministro de Portos e Aeroportos diz que governo vai propor a inclusão de armadores e empresas incumbentes no leilão do Tecon Santos 10",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T11:42:51.592Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d690ed3ce39384d",
+    "manchete": "A Nomos quer dobrar de tamanho sem abandonar o trader",
+    "url": "https://neofeed.com.br/videos/a-nomos-quer-dobrar-de-tamanho-sem-abandonar-o-trader/",
+    "resumo": "Sócia da XP, casa mira R$ 20 bi em um ano e 10% do mercado na B3 com plano de crescimento orgânico e com aquisições",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T11:42:51.592Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Nomos",
+      "XP"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d7ed67d31ddf0661",
+    "manchete": "Maior que muito IPO, fundo imobiliário BTLG11 levanta R$ 1,8 bilhão (em cash)",
+    "url": "https://neofeed.com.br/negocios/maior-que-muito-ipo-fundo-imobiliario-btlg11-levanta-r-18-bilhao-em-cash/",
+    "resumo": "O fundo imobiliário do BTG focado em logística bateu recorde de captação para um produto de tijolo com R$ 1,807 bilhão. Com isso, ele atinge um valor de mercado de R$ 7,3 bilhões",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T11:42:51.592Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "BTG Pactual"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "7e655a24baa98ece",
+    "manchete": "Caixa Seguridade (CXSE3) inicia seleção para parceria em seguros",
+    "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-cxse3-inicia-selecao-para-parceria-em-seguros/",
+    "resumo": "A parceria comercial terá vigência de cinco anos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-17T11:26:44.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Caixa Seguridade"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0df9f6fe690d9301",
+    "manchete": "CXMT: como IPO da fabricante de chips levou a novo temor e fez ações de IA desabarem",
+    "url": "https://www.infomoney.com.br/mercados/cxmt-como-ipo-da-fabricante-de-chips-levou-a-novo-temor-em-ia-e-fez-acoes-desabarem/",
+    "resumo": "Abertura de capital gerou temores de problemas de liquidez em um mercado que já se mostrava frágil devido às valorizações exageradas do setor de tecnologia",
+    "fonte": "InfoMoney",
+    "data": "2026-07-17T11:22:12.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "CXMT"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2c2bb2861cb80f4f",
+    "manchete": "Hitachi Energy e Eve fazem acordo para desenvolvimento de infraestrutura elétrica para eVTOLs",
+    "url": "https://www.moneytimes.com.br/hitachi-energy-e-eve-fazem-acordo-para-desenvolvimento-de-infraestrutura-eletrica-para-evtols-lmrs/",
+    "resumo": "A fabricante Hitachi Energy e a Eve Air Mobility fecharam uma parceria para desenvolver conjuntamente a infraestrutura elétrica para a operação de aeronaves elétricas de decolagem e pouso verticais (eVTOLs), anunciaram as empresas nesta sexta-feira (17). Sob o acordo, as empresas vão unir competências para viabilizar…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T11:17:38.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Hitachi Energy",
+      "Eve Air Mobility"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "6ea34bc4266c7c23",
+    "manchete": "Governo libera R$ 13 bilhões em crédito extraordinário à Fazenda, Agricultura e AGU",
+    "url": "https://www.moneytimes.com.br/governo-publica-mp-que-abre-r13285-bilhoes-em-credito-extraordinario-a-fazenda-agricultura-e-agu/",
+    "resumo": "O governo do presidente Luiz Inácio Lula da Silva publicou medida provisória em edição extra do Diário Oficial da União na noite de quinta-feira (17) que abre crédito extraordinário no valor total de R$ 13,285 bilhões aos Ministérios da Fazenda; Agricultura, Pecuária e Abastecimento; e Advocacia-Geral da União. De…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T11:04:02.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1e62a5daf08cf69e",
+    "manchete": "Grupo Vamos (VAMO3) registra receita de R$ 1,55 bi no 2º tri, alta anual de 10,1%",
+    "url": "https://www.infomoney.com.br/mercados/grupo-vamos-vamo3-registra-receita-de-r-155-bi-no-2o-tri-alta-anual-de-101/",
+    "resumo": "No negócio de locação, a receita avançou 7,5%, para R$ 1,08 bilhão",
+    "fonte": "InfoMoney",
+    "data": "2026-07-17T11:03:48.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Grupo Vamos"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "10b9d76765b88633",
+    "manchete": "Telefônica Brasil (VIVT3) anuncia R$ 500 mi em proventos; veja quem tem direito",
+    "url": "https://www.infomoney.com.br/mercados/telefonica-brasil-vivt3-anuncia-r-500-mi-em-proventos-veja-quem-tem-direito/",
+    "resumo": "O pagamento desse provento será realizado até 30 de abril de 2027",
+    "fonte": "InfoMoney",
+    "data": "2026-07-17T10:57:41.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Telefônica Brasil"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "59084316350e75c8",
+    "manchete": "Com o novo tarifaço nos EUA, qual será o impacto na economia brasileira?",
+    "url": "https://www.infomoney.com.br/economia/com-o-novo-tarifaco-nos-eua-qual-sera-o-impacto-na-economia-brasileira/",
+    "resumo": "Câmara Americana de Comércio para o Brasil vê US$ 11 bi em exportações afetadas, mas especialistas apontam que 62% dos itens embarcados entram na lista de exceções",
+    "fonte": "InfoMoney",
+    "data": "2026-07-17T10:55:17.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68c13637d154116e",
+    "manchete": "Fundo imobiliário renova contrato com Banrisul (BRSR6) por mais 5 anos; IFIX avança",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-renova-contrato-com-banrisul-brsr6-por-mais-5-anos-ifix-avanca-igdl/",
+    "resumo": "O fundo imobiliário Banrisul Novas Fronteiras (BNFS11) anunciou, por meio de fato relevante, que renovou o contrato de locação de um imóvel ocupado pelo Banco do Estado do Rio Grande do Sul por mais cinco anos. Segundo o comunicado divulgado ao mercado, o acordo celebrado terá vigência entre 14 de outubro de 2026 e 13…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T10:54:41.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Banrisul Novas Fronteiras",
+      "Banco do Estado do Rio Grande do Sul"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "134b3178554d90da",
+    "manchete": "A nova aposta dos fundos imobiliários (FIIs) para destravar valor aos cotistas, segundo CEO da Hedge Investments",
+    "url": "https://www.moneytimes.com.br/a-nova-aposta-dos-fundos-imobiliarios-fiis-para-destravar-valor-segundo-ceo-da-hedge-igdl/",
+    "resumo": "Pouco mais de um ano após a Comissão de Valores Mobiliários (CVM) autorizar a recompra de cotas pelos fundos imobiliários, a Hedge Investments, gestora com mais de R$ 12 bilhões sob administração, decidiu repetir a estratégia em um de seus 55 veículos. Trata-se do Hedge TOP FOFII 3 (HFOF11), o FII brasileiro pioneiro…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T10:00:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Hedge Investments"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c7d2815fd0292c39",
+    "manchete": "SLC Agrícola (SLCE3): 'Compramos com desconto uma área que se paga sozinha', diz CEO sobre terras da Radar",
+    "url": "https://www.moneytimes.com.br/slc-agricola-slce3-compramos-com-desconto-uma-area-que-se-paga-sozinha-diz-ceo-sobre-compra-de-terras-da-radar-pads/",
+    "resumo": "A compra de terras da Radar pela SLC Agrícola (SLCE3) tem uma lógica simples, na avaliação do CEO Aurélio Pavinato: adquirir um ativo de alta qualidade por um preço abaixo do mercado e cuja própria geração de caixa será suficiente para pagar o investimento ao longo do tempo. Em entrevista ao Money Times, o executivo…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T10:00:00.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "SLC Agrícola",
+      "Radar"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "d90ca3ae8e566de7",
+    "manchete": "“Céu Único”: Brasil dá passo para acordo que pode mudar o mercado aéreo",
+    "url": "https://braziljournal.com/ceu-unico-brasil-da-passo-para-acordo-que-pode-mudar-o-mercado-aereo/",
+    "resumo": "Um memorando de entendimento assinado pelo Governo nesta semana com Argentina, Chile e Paraguai para avançar num chamado acordo de “Céu Único Sul-Americano” é o primeiro passo para uma política que poderia trazer um necessário choque de competição ao mercado aéreo nacional. A liberalização agora em discussão…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-17T09:50:50.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "54d7f24918c76745",
     "manchete": "Mais arroz e feijão e menos lucro no prato da Camil",
     "url": "https://agfeed.com.br/videos/agfeed-cnn-money/mais-arroz-e-feijao-e-menos-lucro-no-prato-da-camil",
@@ -870,69 +1219,6 @@
     "importancia": 3
   },
   {
-    "id": "f17eda1a9f639074",
-    "manchete": "Lavoro busca guinada \"radical\" em estratégia de recuperação e encolhe ainda mais para sobreviver",
-    "url": "https://agfeed.com.br/negocios/lavoro-busca-guinada-radical-em-estrategia-de-recuperacao-e-encolhe-ainda-mais-para-sobreviver",
-    "resumo": "Lavoro acelera reestruturação, fecha mais lojas e prepara recuperação judicial com foco na operação do Paraná",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T11:51:29.854Z",
-    "tags_tema": [
-      "Economia Real",
-      "RJ/EJ"
-    ],
-    "tags_empresa": [
-      "Lavoro"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6c7a038681be3e09",
-    "manchete": "A inflação do El Niño",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-inflacao-do-el-nino",
-    "resumo": "Banco Goldman Sachs projeta alta dos preços das commodities em mais de 15% por conta dos efeitos climáticos",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T11:51:29.853Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Goldman Sachs"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a21939e7e07cb5c",
-    "manchete": "\"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai \"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai",
-    "url": "https://agfeed.com.br/negocios/brasiguaios-corporativos-empresas-brasileiras-do-agro-aceleram-planos-de-expansao-no-paraguai",
-    "resumo": "Companhias brasileiras avaliam ou já colocam em prática planos de expansão no Paraguai de olho em ambiente de negócios mais favorável",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T11:51:29.852Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b9f4da3326031068",
-    "manchete": "Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\"",
-    "url": "https://agfeed.com.br/negocios/novo-ceo-e-investimentos-de-r-150-milhoes-a-receita-da-pamplona-alimentos-para-saciar-fome-de-proteinas",
-    "resumo": "Pamplona Alimentos tem novo CEO, acelera profissionalização e vê oportunidades com demanda maior impulsionada por canetas emagrecedoras",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T11:51:29.852Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Pamplona Alimentos"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "e3ec21cc0d0f4591",
     "manchete": "Stripe e Advent querem mexer no mercado global de pagamentos e oferecem US$ 53 bi pelo PayPal",
     "url": "https://neofeed.com.br/negocios/stripe-e-advent-querem-mexer-no-mercado-global-de-pagamentos-e-oferecem-us-53-bi-pelo-paypal/",
@@ -1130,40 +1416,6 @@
     ],
     "tags_empresa": [
       "Kepler Weber"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8a0c39a2a55a9407",
-    "manchete": "Alemã Stenon capta R$ 100 milhões e coloca Brasil no foco para ampliar uso de análise de solo em tempo real",
-    "url": "https://agfeed.com.br/agtech/alema-stenon-capta-r-100-milhoes-e-coloca-brasil-no-foco-para-ampliar-uso-de-analise-de-solo-em-tempo-real",
-    "resumo": "Na missão de escalar globalmente sua tecnologia de análises de solo em tempo real – e com o Brasil no centro dessa estratégia -, a startup alemã Stenon acabou de captar 18 milhões de euros (cerca de R$ 106 milhões pela cotação atual) em uma rodada do tipo Série B. Por aqui, segundo revelou o",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T22:11:30.896Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Stenon"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "26d9fb937ac4348a",
-    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
-    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
-    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
-    "fonte": "AgFeed",
-    "data": "2026-07-14T22:11:30.894Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "BNDES",
-      "bp bioenergy"
     ],
     "relevante": true,
     "importancia": 3
