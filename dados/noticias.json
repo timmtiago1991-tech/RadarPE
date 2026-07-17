@@ -1,5 +1,279 @@
 [
   {
+    "id": "7103850c2883a981",
+    "manchete": "ARTIGO - O enfraquecimento do seguro rural amplia a fragilidade financeira do campo brasileiro",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-enfraquecimento-do-seguro-rural-amplia-a-fragilidade-financeira-do-campo-brasileiro",
+    "resumo": "Sem uma rede de proteção, o agricultor fica exposto a um ciclo de risco que pode afetar a dinâmica econômica de todo o setor",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.263Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f17eda1a9f639074",
+    "manchete": "Lavoro busca guinada \"radical\" em estratégia de recuperação e encolhe ainda mais para sobreviver",
+    "url": "https://agfeed.com.br/negocios/lavoro-busca-guinada-radical-em-estrategia-de-recuperacao-e-encolhe-ainda-mais-para-sobreviver",
+    "resumo": "Lavoro acelera reestruturação, fecha mais lojas e prepara recuperação judicial com foco na operação do Paraná",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.262Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Lavoro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d3d820ed401a15a4",
+    "manchete": "StoneX amplia negócio de trading e leva comercialização de café e algodão para o mundo digital",
+    "url": "https://agfeed.com.br/negocios/stonex-amplia-negocio-de-trading-e-leva-comercialiacao-de-cafe-e-algodao-para-o-mundo-digital",
+    "resumo": "Parceria com agtech leva comercialização de commodities físicas à sistema virtual com preços físicos em tempo real",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.262Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "StoneX"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b9f4da3326031068",
+    "manchete": "Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\" Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\"",
+    "url": "https://agfeed.com.br/negocios/novo-ceo-e-investimentos-de-r-150-milhoes-a-receita-da-pamplona-alimentos-para-saciar-fome-de-proteinas",
+    "resumo": "Pamplona Alimentos tem novo CEO, acelera profissionalização e vê oportunidades com demanda maior impulsionada por canetas emagrecedoras",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.261Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Pamplona Alimentos"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "61be6aed8cefad10",
+    "manchete": "Com R$ 1 milhão e a família Ermírio de Moraes, startup InLida quer digitalizar a pecuária Com R$ 1 milhão e a família Ermírio de Moraes, startup InLida quer digitalizar a pecuária",
+    "url": "https://agfeed.com.br/agtech/com-r-1-milhao-e-a-familia-ermirio-de-moraes-startup-inlida-quer-digitalizar-a-pecuaria",
+    "resumo": "Agtech InLida lança a segunda geração de sua plataforma de gestão de rebanhos, que soma mais de 30 mil propriedades cadastradas",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.261Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "InLida"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "26d9fb937ac4348a",
+    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
+    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
+    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.260Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "BNDES",
+      "bp bioenergy"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b800bf537b13f908",
+    "manchete": "Syngenta vai esperar mais pelo IPO",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/syngenta-vai-esperar-mais-pelo-ipo",
+    "resumo": "Multinacional pretendia abrir capital ainda este ano em Hong Kong, mas instabilidades no cenário global fizeram com que planos fossem adiados",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.259Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Syngenta"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "976dc5ab10307088",
+    "manchete": "Na equação de custos, volume e preços da Camil, lucro cai mais uma vez em novo trimestre",
+    "url": "https://agfeed.com.br/negocios/na-equacao-de-custos-volume-e-precos-da-camil-lucro-cai-mais-uma-vez-em-novo-trimestre",
+    "resumo": "Camil vendeu quase 18% mais produtos, mas despesas maiores e juros elevados derrubaram os ganhos no trimestre",
+    "fonte": "AgFeed",
+    "data": "2026-07-17T22:05:30.259Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Camil"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f40d7d7b6a3a5d9c",
+    "manchete": "Execução virou a \"mercadoria\" mais valiosa do varejo brasileiro, defende BTG Pactual",
+    "url": "https://neofeed.com.br/economia/execucao-virou-a-mercadoria-mais-valiosa-do-varejo-brasileiro-defende-btg-pactual/",
+    "resumo": "Para BTG Pactual, assim como foi no período pós-impeachment, empresas terão de foco em produtividade e não contar com PIB",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T22:05:14.720Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "BTG Pactual"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "8ace9fbe606bbbda",
+    "manchete": "Entre tarifas e “megaeleição”, variáveis econômicas no Brasil dependem do humor de Donald Trump",
+    "url": "https://neofeed.com.br/experts/entre-tarifas-e-megaeleicao-variaveis-economicas-no-brasil-dependem-do-humor-de-donald-trump/",
+    "resumo": "A combinação entre incerteza externa e calendário político comprime a previsibilidade dos indicadores e amplia a sensibilidade do mercado a choques de curto prazo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T22:05:14.719Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "aaa60de561a4edd9",
+    "manchete": "“Faltam empresas aéreas no Brasil\", diz ministro de Portos e Aeroportos. Um acordo quer virar essa página",
+    "url": "https://neofeed.com.br/economia/faltam-empresas-aereas-no-brasil-diz-ministro-de-portos-e-aeroportos-um-acordo-quer-virar-essa-pagina/",
+    "resumo": "Brasil, Argentina, Chile e Paraguai assinam acordo para criar um \"mercado único de aviação\" na América do Sul, aumentando a competição aérea",
+    "fonte": "NeoFeed",
+    "data": "2026-07-17T22:05:14.715Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1c1b2ac079321c40",
+    "manchete": "Raízen (RAIZ4): B3 estende prazo para companhia reenquadrar ações abaixo de R$ 1",
+    "url": "https://www.moneytimes.com.br/raizen-raiz4-b3-estende-prazo-para-companhia-reenquadrar-acoes-abaixo-de-r-1-pads/",
+    "resumo": "A Raízen (RAIZ4) informou nesta sexta-feira (17) que recebeu da B3 uma prorrogação do prazo para apresentar um plano de reenquadramento da cotação de suas ações preferenciais, que seguem negociadas abaixo de R$ 1. Segundo comunicado enviado ao mercado, a companhia terá até 31 de março de 2027 para apresentar o…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T21:17:36.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Raízen",
+      "B3"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0da8573bca707fb6",
+    "manchete": "Petrobras (PETR4): ações têm nova alta com avanço do petróleo por conflito EUA-Irã",
+    "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-acoes-tem-nova-alta-com-avanco-do-petroleo-por-conflito-eua-ira/",
+    "resumo": "Os preços do petróleo subiram forte depois que os EUA e o Irã intensificaram os ataques em todo o Golfo Pérsico",
+    "fonte": "InfoMoney",
+    "data": "2026-07-17T20:51:44.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Petrobras"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "c514649536256e8f",
+    "manchete": "Próximo de sair da bolsa, Helbor (HBOR3) tem queda nas vendas no 2T26 com ausência de lançamentos",
+    "url": "https://www.moneytimes.com.br/proximo-de-sair-da-bolsa-helbor-hbor3-tem-queda-nas-vendas-no-2o-trimestre-com-ausencia-de-lancamentos-rnda/",
+    "resumo": "A Helbor (HBOR3) divulgou sua prévia operacional do segundo trimestre de 2026, marcada pela ausência de lançamentos no período e pela desaceleração das vendas. A incorporadora vendeu R$ 338,5 milhões em Valor Geral de Vendas (VGV), queda de 27,5% em relação ao mesmo trimestre do ano passado e de 19,4% na comparação…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T20:49:05.000Z",
+    "tags_tema": [
+      "M&A",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Helbor"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "9a87317af5a9d8c4",
+    "manchete": "CSN (CSNA3) e CSN Mineração (CMIN3): Safra corta preços-alvo; o que fazer com as ações?",
+    "url": "https://www.moneytimes.com.br/csn-csna3-e-csn-mineracao-cmin3-safra-corta-precos-alvo-apos-reavaliar-perspectivas-o-que-fazer-com-as-acoes-lmrs/",
+    "resumo": "O Safra cortou os preços-alvo para as ações da CSN (CSNA3) e CSN Mineração (CMIN3). No caso da CSN, o preço-alvo foi cortado de R$ 11,30 para R$ 6,10 no final de 2026, o que ainda representa um potencial de valorização de cerca de 19,6% sobre o preço de fechamento anterior. O banco manteve a [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-17T20:02:14.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "CSN",
+      "CSN Mineração",
+      "Safra"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0aab516e6256368f",
+    "manchete": "Procuradoria pede bloqueio de fundos da teia do Master por rombo de R$ 640 mi no RioPrevidência",
+    "url": "https://www.moneytimes.com.br/procuradoria-pede-bloqueio-de-fundos-da-teia-do-master-por-rombo-de-r-640-mi-no-rioprevidencia/",
+    "resumo": "A Procuradoria-Geral do Estado do Rio de Janeiro pediu à Justiça o bloqueio de bens de três gestoras ligadas à Master Corretora, braço de investimentos do conglomerado gerido por Daniel Vorcaro, e de seus respectivos diretores. Dois fundos receberam R$ 641,4 milhões em aportes do RioPrevidência, que teve seus…",
+    "fonte": "Money Times",
+    "data": "2026-07-17T19:30:30.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Master Corretora",
+      "RioPrevidência"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "9e6d3725e22bd648",
+    "manchete": "Toku anuncia investimento para expandir no mercado brasileiro",
+    "url": "https://startupi.com.br/toku-anuncia-investimento-para-expandir-no-mercado-brasileiro/",
+    "resumo": "Startupi Toku anuncia investimento para expandir no mercado brasileiro A Toku, fintech especializada em gestão financeira e recebíveis, anuncia a expansão de seus investimentos e operações no mercado brasileiro. Fundada no Chile por Cristina Etcheberry, a empresa atua de forma estratégica na eficiência financeira e…",
+    "fonte": "Startupi",
+    "data": "2026-07-17T13:53:28.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Toku"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "97a0ed3c187f55b6",
     "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
     "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
@@ -643,37 +917,6 @@
     "importancia": 4
   },
   {
-    "id": "b8107f63d26d3f06",
-    "manchete": "Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café, carne bovina e etanol de fora Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café, carne bovina e etanol de fora",
-    "url": "https://agfeed.com.br/economia/tarifaco-2-a-sancao-eua-aplicam-taxa-de-25-sobre-produtos-brasileiros-mas-deixam-cafe-carne-bovina-e-etanol-de-fora",
-    "resumo": "EUA impõem tarifa de 25% ao Brasil, mas isentam café, carne bovina e etanol; medida afeta exportações do agronegócio",
-    "fonte": "AgFeed",
-    "data": "2026-07-16T11:55:12.762Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "00a378fca0130882",
-    "manchete": "Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras",
-    "url": "https://agfeed.com.br/financas/da-fazenda-a-faria-lima-e-vice-versa-com-produtores-a-frente-planalto-capital-aposta-em-tese-de-terras",
-    "resumo": "Quando o pecuarista Braz Neto decidiu criar a gestora Planalto Capital há 10 anos, a ideia era diversificar os investimentos de sua família para além do agronegócio. Até meados do ano passado, a atuação da casa estava dedicada à antecipar recebíveis para empresas de logística, mas nessa trajetória, e com novos sócios…",
-    "fonte": "AgFeed",
-    "data": "2026-07-16T11:55:12.761Z",
-    "tags_tema": [
-      "Private Equity",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Planalto Capital"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "f06622c0927bf727",
     "manchete": "O novo componente que está dando as cartas nos family offices",
     "url": "https://neofeed.com.br/wealth-management/o-novo-componente-que-esta-dando-as-cartas-nos-family-offices/",
@@ -953,70 +1196,6 @@
     "importancia": 2
   },
   {
-    "id": "9a8509a7c0205fc3",
-    "manchete": "ETG chega ao Brasil (nos trilhos da VLI) para implantar fábrica de fertilizantes em TO",
-    "url": "https://agfeed.com.br/negocios/etg-chega-ao-brasil-nos-trilhos-da-vli-para-implantar-fabrica-de-fertilizantes-em-to",
-    "resumo": "ETG e VLI fecham acordo para que o grupo africano instale unidade junto ao hub logístico da operadora ferroviária em Palmeirante",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T22:11:49.861Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "ETG",
-      "VLI"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d3ffedc2232bbfe4",
-    "manchete": "Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032",
-    "url": "https://agfeed.com.br/negocios/grupo-potencial-revisa-projecoes-e-plano-de-r-6-bi-pode-ser-concluido-so-em-2032",
-    "resumo": "VP da Potencial, Carlos Eduardo Hammerschmidt, explica que atrasos no cumprimento da de mistura de biodiesel prejudicam investimentos",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T22:11:49.860Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Grupo Potencial"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a46b1228ff56db7",
-    "manchete": "Stine mexe as peças, amplia \"invasão\" do Brasil e aposta no Sul para disputar liderança na soja",
-    "url": "https://agfeed.com.br/negocios/stine-mexe-as-pecas-amplia-invasao-do-brasil-e-aposta-no-sul-para-disputar-lideranca-na-soja",
-    "resumo": "Companhia americana vê, em região do Brasil, caminho para estar no topo do pelotão de vendas da oleaginosa",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T22:11:49.859Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Stine"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "88402a8005b31d9d",
-    "manchete": "Governo e bancada ruralista fecham acordo para renegociar R$ 100 bilhões em dívidas do agro",
-    "url": "https://agfeed.com.br/economia/governo-e-bancada-ruralista-fecham-acordo-para-renegociar-r-100-bilhoes-em-dividas-do-agro",
-    "resumo": "Medida provisória amplia renegociação para crédito rural, cria fundo garantidor de até R$ 2 bi e prevê prazos de até dez anos para pagamento",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T22:11:49.856Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "563c5d39ea47dbcc",
     "manchete": "Uber oferece US$ 12,5 bi pela Delivery Hero para reforçar expansão do Uber Eats",
     "url": "https://neofeed.com.br/negocios/uber-oferece-us-125-bi-pela-delivery-hero-para-reforcar-expansao-do-uber-eats/",
@@ -1199,24 +1378,6 @@
     ],
     "relevante": true,
     "importancia": 2
-  },
-  {
-    "id": "374ae853d6e5fc5a",
-    "manchete": "Junior Friboi adquire operação da Frialto em Rondônia A planta em Ji-Paraná tem capacidade de abater 20 mil cabeças de gado mensalmente",
-    "url": "https://www.cnnbrasil.com.br/agro/junior-friboi-adquire-operacao-da-frialto-em-rondonia/",
-    "resumo": "A planta em Ji-Paraná tem capacidade de abater 20 mil cabeças de gado mensalmente",
-    "fonte": "AgFeed",
-    "data": "2026-07-15T11:51:29.855Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Junior Friboi",
-      "Frialto"
-    ],
-    "relevante": true,
-    "importancia": 3
   },
   {
     "id": "e3ec21cc0d0f4591",

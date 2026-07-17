@@ -1,5 +1,135 @@
 [
   {
+    "id": "49d6ca2f75df181d",
+    "manchete": "ARTIGO - Os riscos do produtor, da percepção ao pulso ARTIGO - Os riscos do produtor, da percepção ao pulso",
+    "data": "2026-07-17T22:05:30.258Z"
+  },
+  {
+    "id": "dc2a287fe6101b12",
+    "manchete": "Startup AgSafe leva IA às pulverizações para tentar reduzir mortes de abelhas no campo Startup AgSafe leva IA às pulverizações para tentar reduzir mortes de abelhas no campo",
+    "data": "2026-07-17T22:05:30.257Z"
+  },
+  {
+    "id": "47a4f7c90e1b980d",
+    "manchete": "Nova IA da China derruba mercados globais. Será o novo \"momento DeepSeek\"?",
+    "data": "2026-07-17T22:05:14.720Z"
+  },
+  {
+    "id": "78912abddd03d706",
+    "manchete": "Scott Galloway segue \"bullish\" com a IA, mas alerta que bolha já começou a estourar",
+    "data": "2026-07-17T22:05:14.719Z"
+  },
+  {
+    "id": "1e8b4e1249cb9724",
+    "manchete": "A SEC pensa em acabar com os balanços trimestrais, mas 200 mil respostas parecem discordar",
+    "data": "2026-07-17T22:05:14.717Z"
+  },
+  {
+    "id": "82a031d8ee29d3dd",
+    "manchete": "Moeda japonesa perde relevância e Tóquio vira a \"grande pechincha global\"",
+    "data": "2026-07-17T22:05:14.716Z"
+  },
+  {
+    "id": "8f5c67accb6129eb",
+    "manchete": "Netflix vive um \"filme de terror\" na bolsa que já custou mais de uma Disney em valor de mercado",
+    "data": "2026-07-17T22:05:14.716Z"
+  },
+  {
+    "id": "881302c1f97945f0",
+    "manchete": "Argentina x Espanha: Melhor ataque e melhor defesa da Copa se enfrentam na final",
+    "data": "2026-07-17T21:10:00.000Z"
+  },
+  {
+    "id": "6814cd66fd12764f",
+    "manchete": "Pombo-correio digital? Aplicativo envia mensagens que podem chegar em 1 ano",
+    "data": "2026-07-17T21:00:00.000Z"
+  },
+  {
+    "id": "d1a9cd8700267488",
+    "manchete": "Ações da Netflix tombam após resultado e com cenário de desaceleração do crescimento",
+    "data": "2026-07-17T20:50:05.000Z"
+  },
+  {
+    "id": "276463ce1f85a957",
+    "manchete": "PF monta esquema para proteger presidenciáveis com drones, blindados e kit antibomba",
+    "data": "2026-07-17T20:49:30.000Z"
+  },
+  {
+    "id": "2669e6aa01cef4b9",
+    "manchete": "Ibovespa fecha quase estável com Petrobras atenuando pressão de bancos",
+    "data": "2026-07-17T20:48:43.000Z"
+  },
+  {
+    "id": "14b387de720e2172",
+    "manchete": "Bolsas de NY fecham em forte queda com tombo de techs e balanços no radar",
+    "data": "2026-07-17T20:39:35.000Z"
+  },
+  {
+    "id": "55b92e7d5c43fb0d",
+    "manchete": "Convenções partidárias dão largada à corrida eleitoral 2026",
+    "data": "2026-07-17T20:31:38.000Z"
+  },
+  {
+    "id": "c1d17d982dc7a72e",
+    "manchete": "Moonshot: a startup chinesa que desafia os LLMs americanos",
+    "data": "2026-07-17T20:29:44.000Z"
+  },
+  {
+    "id": "5b0f5f1fa4572300",
+    "manchete": "Taxas dos DIs fecham com altas firmes em dia de aversão a risco",
+    "data": "2026-07-17T20:26:44.000Z"
+  },
+  {
+    "id": "8763cba7fcae2257",
+    "manchete": "Dólar hoje sobe a R$ 5,11, com ataques entre EUA e Irã; na semana, moeda fica estável",
+    "data": "2026-07-17T20:25:56.000Z"
+  },
+  {
+    "id": "ae3cc768418818be",
+    "manchete": "SpaceX planeja outra tentativa de lançamento da Starship na próxima semana",
+    "data": "2026-07-17T20:24:42.000Z"
+  },
+  {
+    "id": "d2895d5eb7ab9baa",
+    "manchete": "Wall Street pressiona, Ibovespa 'resiste' com Petrobras (PETR4) e fecha em leve baixa; dólar sobe a R$ 5,11",
+    "data": "2026-07-17T20:23:57.000Z"
+  },
+  {
+    "id": "cc1acc6b4d14d688",
+    "manchete": "Wall Street tomba 1% na semana com tecnologia e alta do petróleo; Nasdaq lidera perdas",
+    "data": "2026-07-17T20:08:23.000Z"
+  },
+  {
+    "id": "f8a45458cf65108a",
+    "manchete": "Dólar sobe a R$ 5,11 com 'risk-off' nos mercados globais",
+    "data": "2026-07-17T20:03:10.000Z"
+  },
+  {
+    "id": "51cec9aa6671b2d7",
+    "manchete": "Petróleo avança cerca de 16% na semana com intensificação do conflito no Oriente Médio",
+    "data": "2026-07-17T19:36:04.000Z"
+  },
+  {
+    "id": "c32feb3c3b3049d5",
+    "manchete": "Na UnitedHealth, o turnaround começa a aparecer",
+    "data": "2026-07-17T17:26:52.000Z"
+  },
+  {
+    "id": "20b9c6b9e863a8b9",
+    "manchete": "Platform Engineering: a base da inovação contínua na era da IA",
+    "data": "2026-07-17T14:08:45.000Z"
+  },
+  {
+    "id": "3559fde053b38a74",
+    "manchete": "O papel da experiência do usuário na escolha dos meios de pagamento",
+    "data": "2026-07-17T13:59:42.000Z"
+  },
+  {
+    "id": "20db98f13c15135f",
+    "manchete": "Brasil se consolida como referência regional em personalização financeira, aponta pesquisa",
+    "data": "2026-07-17T13:41:06.000Z"
+  },
+  {
     "id": "b12d9b8ec5c421cf",
     "manchete": "Inflação na zona do euro: CPI anual desacelera a 2,8% em junho e confirma prévia",
     "data": "2026-07-17T11:42:25.000Z"
