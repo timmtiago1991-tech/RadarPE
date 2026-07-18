@@ -1,5 +1,37 @@
 [
   {
+    "id": "d3ffedc2232bbfe4",
+    "manchete": "Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032",
+    "url": "https://agfeed.com.br/negocios/grupo-potencial-revisa-projecoes-e-plano-de-r-6-bi-pode-ser-concluido-so-em-2032",
+    "resumo": "VP da Potencial, Carlos Eduardo Hammerschmidt, explica que atrasos no cumprimento da de mistura de biodiesel prejudicam investimentos",
+    "fonte": "AgFeed",
+    "data": "2026-07-18T22:05:32.155Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Grupo Potencial"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7d08c69f0f6138a1",
+    "manchete": "Casas Bahia aprova aumento de capital de R$ 140,6 milhões",
+    "url": "https://www.infomoney.com.br/mercados/casas-bahia-aprova-aumento-de-capital-de-r-1406-milhoes/",
+    "resumo": "Aumento decorre da conversão de debêntures em ações e foi aprovado sem direito de preferência aos acionistas",
+    "fonte": "InfoMoney",
+    "data": "2026-07-18T20:45:27.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Casas Bahia"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "88402a8005b31d9d",
     "manchete": "Governo e bancada ruralista fecham acordo para renegociar R$ 100 bilhões em dívidas do agro",
     "url": "https://agfeed.com.br/economia/governo-e-bancada-ruralista-fecham-acordo-para-renegociar-r-100-bilhoes-em-dividas-do-agro",
@@ -456,23 +488,6 @@
     ],
     "tags_empresa": [
       "JBS"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a5606185d435e80",
-    "manchete": "Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro",
-    "url": "https://agfeed.com.br/negocios/apos-ciclo-de-mas-nitro-reforca-aposta-em-mais-biologicos-para-crescer-quase-20-no-agro",
-    "resumo": "Depois de consolidar presença no agronegócio por meio de aquisições, Nitro pretende faturar R$ 1,2 bi no agro em 2026 e lança novos produtos",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T11:43:01.293Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Nitro"
     ],
     "relevante": true,
     "importancia": 3
