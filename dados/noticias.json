@@ -1,5 +1,97 @@
 [
   {
+    "id": "88402a8005b31d9d",
+    "manchete": "Governo e bancada ruralista fecham acordo para renegociar R$ 100 bilhões em dívidas do agro",
+    "url": "https://agfeed.com.br/economia/governo-e-bancada-ruralista-fecham-acordo-para-renegociar-r-100-bilhoes-em-dividas-do-agro",
+    "resumo": "Medida provisória amplia renegociação para crédito rural, cria fundo garantidor de até R$ 2 bi e prevê prazos de até dez anos para pagamento",
+    "fonte": "AgFeed",
+    "data": "2026-07-18T11:19:08.861Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a33ca0dd7b0f17e9",
+    "manchete": "O crescimento orgânico e biológico da Nitro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-crescimento-organico-e-biologico-da-nitro",
+    "resumo": "Depois de um ciclo de aquisições para consolidar presença no agro, grupo faz lançamentos e projeta receita de R$ 1,2 bi em 2026",
+    "fonte": "AgFeed",
+    "data": "2026-07-18T11:19:08.860Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Nitro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "00a378fca0130882",
+    "manchete": "Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras",
+    "url": "https://agfeed.com.br/financas/da-fazenda-a-faria-lima-e-vice-versa-com-produtores-a-frente-planalto-capital-aposta-em-tese-de-terras",
+    "resumo": "Quando o pecuarista Braz Neto decidiu criar a gestora Planalto Capital há 10 anos, a ideia era diversificar os investimentos de sua família para além do agronegócio. Até meados do ano passado, a atuação da casa estava dedicada à antecipar recebíveis para empresas de logística, mas nessa trajetória, e com novos sócios…",
+    "fonte": "AgFeed",
+    "data": "2026-07-18T11:19:08.859Z",
+    "tags_tema": [
+      "Private Equity",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Planalto Capital"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6b3b8e1f3fe631f3",
+    "manchete": "Tarifaço contra Brasil e balanços nos EUA assumem foco; veja os destaques da semana",
+    "url": "https://www.infomoney.com.br/onde-investir/tarifaco-perde-forca-e-balancos-assumem-o-foco-vejam-os-destaques-da-semana/",
+    "resumo": "Os principais itens que o país exporta — petróleo, café, carne bovina, aviões e celulose — ficaram de fora da cobrança",
+    "fonte": "InfoMoney",
+    "data": "2026-07-18T10:48:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6460e3555d979738",
+    "manchete": "Como a América Latina pode aproveitar seu potencial em minerais críticos?",
+    "url": "https://www.infomoney.com.br/economia/como-a-america-latina-pode-aproveitar-seu-potencial-em-minerais-criticos/",
+    "resumo": "Agência de classificação de risco Moody's lista o potencial da região para produzir os principais ativos da transição energética, mas adverte que entraves de capital, tecnologia e mercado precisam ser superados",
+    "fonte": "InfoMoney",
+    "data": "2026-07-18T08:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Moody's"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "e677806944143c7e",
+    "manchete": "Tarifaço atinge mais SP e SC; governo buscará novos destinos para produtos",
+    "url": "https://www.infomoney.com.br/politica/tarifaco-atinge-mais-sp-e-sc-governo-buscara-novos-destinos-para-produtos/",
+    "resumo": "Taxa de 25% irá recair sobre 2.375 itens nacionais, que representam US$ 7,2 bilhões em venda anual",
+    "fonte": "InfoMoney",
+    "data": "2026-07-18T02:16:17.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "7103850c2883a981",
     "manchete": "ARTIGO - O enfraquecimento do seguro rural amplia a fragilidade financeira do campo brasileiro",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-enfraquecimento-do-seguro-rural-amplia-a-fragilidade-financeira-do-campo-brasileiro",
@@ -621,36 +713,6 @@
     "tags_empresa": [],
     "relevante": true,
     "importancia": 2
-  },
-  {
-    "id": "54d7f24918c76745",
-    "manchete": "Mais arroz e feijão e menos lucro no prato da Camil",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/mais-arroz-e-feijao-e-menos-lucro-no-prato-da-camil",
-    "resumo": "Companhia vendeu quase 18% mais produtos, mas viu custos e juros derrubarem seus ganhos no trimestre",
-    "fonte": "AgFeed",
-    "data": "2026-07-16T22:13:37.122Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Camil"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1f6af480e6020054",
-    "manchete": "Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café e carne bovina de fora Tarifaço 2, a sanção: EUA aplicam taxa de 25% sobre produtos brasileiros, mas deixam café e carne bovina de fora",
-    "url": "https://agfeed.com.br/economia/tarifaco-2-a-sancao-eua-aplicam-taxa-de-25-sobre-produtos-brasileiros-mas-deixam-cafe-e-carne-bovina-de-fora",
-    "resumo": "EUA impõem tarifa de 25% ao Brasil, mas isentam café, carne bovina e etanol; medida afeta exportações do agronegócio",
-    "fonte": "AgFeed",
-    "data": "2026-07-16T22:13:37.121Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
   },
   {
     "id": "bf33e8c067401fd6",
