@@ -1,5 +1,157 @@
 [
   {
+    "id": "6b2e882c4673cd8b",
+    "manchete": "Maré de incertezas freia expansão da Fider, empresa de pescados do grupo MCassab Maré de incertezas freia expansão da Fider, empresa de pescados do grupo MCassab",
+    "url": "https://agfeed.com.br/negocios/mare-de-incertezas-freia-expansao-da-fider-empresa-de-pescados-do-grupo-mcassab",
+    "resumo": "Com exportações reduzidas e planos de investimento suspensos após tarifaço dos EUA, Fider aposta no mercado premium",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T22:07:37.661Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Fider",
+      "MCassab"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a2aab2a4956ed557",
+    "manchete": "A mudança de tom no acordo das dívidas do agro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-mudanca-de-tom-no-acordo-das-dividas-do-agro",
+    "resumo": "Discursos amistosos marcam anúncio de MP que abre caminho para renegociação de R$ 100 bilhões em débitos de produtores",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T22:07:37.660Z",
+    "tags_tema": [
+      "Economia Real",
+      "Dívida/Debêntures",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f97ddbb0840c4463",
+    "manchete": "Moody’s corta rating da Cosan e aponta desafios para desalavancagem da holding",
+    "url": "https://agfeed.com.br/financas/moodys-corta-rating-da-cosan-e-aponta-desafios-para-desalavancagem-da-holding",
+    "resumo": "Agência de classificação de risco rebaixa nota de crédito da Cosan e alerta para desafios de redução de endividamento",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T22:07:37.659Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Cosan",
+      "Moody's"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "63c89d6e1275c8ee",
+    "manchete": "JBS lança debêntures de R$ 400 milhões para ampliar produção de biodiesel e modernizar operação do Porto de Itajaí",
+    "url": "https://agfeed.com.br/negocios/jbs-lanca-debentures-de-r-400-milhoes-para-ampliar-producao-de-biodiesel-e-modernizar-operacao-do-porto-de-itajai",
+    "resumo": "Captação será destinada à expansão de três usinas de biocombustível em MT, SP e SC e à modernização do terminal portuário catarinense",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T22:07:37.659Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JBS"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "02bc1ae35b1e0494",
+    "manchete": "A Tupperware quer sair da \"geladeira\" no Brasil",
+    "url": "https://neofeed.com.br/finde/a-tupperware-quer-sair-da-geladeira-no-brasil/",
+    "resumo": "Após ter superado recuperação judicial nos EUA, a empresa vendeu a operação na América Latina para a mexicana BeFra. No Brasil, o plano é desenvolver novos materiais, como o vidro, e investir em vendas digitais dos 200 mil consultores",
+    "fonte": "NeoFeed",
+    "data": "2026-07-19T22:07:30.359Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Tupperware",
+      "BeFra"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f435064147931e93",
+    "manchete": "Grupo MM, fundado no Paraná, aposta no interior e mira Top 10 do varejo brasileiro",
+    "url": "https://www.infomoney.com.br/business/grupo-mm-fundado-no-parana-aposta-no-interior-e-mira-top-10-do-varejo-brasileiro/",
+    "resumo": "Companhia conta com mais de 230 lojas físicas distribuídas entre Paraná, Santa Catarina, São Paulo e Mato Grosso do Sul, além de operação nacional via canais digitais e atacado.",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T20:07:15.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Grupo MM"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "56c6ca56411c2387",
+    "manchete": "Congresso ameaça CPI sobre suposta interferência do governo na Vale (VALE3), diz portal",
+    "url": "https://www.moneytimes.com.br/congresso-ameaca-cpi-sobre-suposta-interferencia-do-governo-na-vale-vale3-diz-portal-lils/",
+    "resumo": "A eleição para o Conselho de Administração da Vale (VALE3), marcada para a próxima quarta-feira (22), aumentou a tensão entre o governo federal e o Congresso Nacional. Segundo uma reportagem da CNN Brasil divulgada na noite deste sábado (18), parlamentares discutem a possibilidade de instalar uma Comissão Parlamentar…",
+    "fonte": "Money Times",
+    "data": "2026-07-19T13:39:09.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1acb584edb817bbc",
+    "manchete": "Vamos (VAMO3): Bradesco BBI vê ação descontada e potencial de alta de quase 90%",
+    "url": "https://www.moneytimes.com.br/vamos-vamo3-bradesco-bbi-ve-acao-descontada-e-potencial-de-alta-de-quase-90-lils/",
+    "resumo": "Vamos (VAMO3) está descontada na avaliação do Bradesco BBI. Em relatório recente, os analistas consideram que a ação ainda não está refletinfo plenamente a melhora operacional observada na companhia. \"A recuperação deixou de ser apenas uma expectativa e passou a aparecer nos números, enquanto o valuation permanece…",
+    "fonte": "Money Times",
+    "data": "2026-07-19T13:10:57.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Vamos",
+      "Bradesco BBI"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "73f431b260ed60c6",
+    "manchete": "XP prevê resultados sólidos para LWSA (LWSA3) e Bemobi (BMOB3) no 2T26",
+    "url": "https://www.moneytimes.com.br/xp-preve-resultados-solidos-da-lwsa-lwsa3-e-bemobi-bmob3-no-2t26-garg/",
+    "resumo": "A XP Investimentos espera que LWSA (LWSA3) e Bemobi (BMOB3) apresentem resultados sólidos no segundo trimestre de 2026 (2T26), sustentados por crescimento de receita e expansão de margens. O banco manteve recomendação de compra para as duas empresas. Para a LWSA, a XP projeta receita líquida de R$ 375 milhões, alta de…",
+    "fonte": "Money Times",
+    "data": "2026-07-19T13:00:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "XP Investimentos",
+      "LWSA",
+      "Bemobi"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "1a46b1228ff56db7",
     "manchete": "Stine mexe as peças, amplia \"invasão\" do Brasil e aposta no Sul para disputar liderança na soja",
     "url": "https://agfeed.com.br/negocios/stine-mexe-as-pecas-amplia-invasao-do-brasil-e-aposta-no-sul-para-disputar-lideranca-na-soja",
@@ -379,22 +531,6 @@
     "importancia": 3
   },
   {
-    "id": "976dc5ab10307088",
-    "manchete": "Na equação de custos, volume e preços da Camil, lucro cai mais uma vez em novo trimestre",
-    "url": "https://agfeed.com.br/negocios/na-equacao-de-custos-volume-e-precos-da-camil-lucro-cai-mais-uma-vez-em-novo-trimestre",
-    "resumo": "Camil vendeu quase 18% mais produtos, mas despesas maiores e juros elevados derrubaram os ganhos no trimestre",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T22:05:30.259Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Camil"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "f40d7d7b6a3a5d9c",
     "manchete": "Execução virou a \"mercadoria\" mais valiosa do varejo brasileiro, defende BTG Pactual",
     "url": "https://neofeed.com.br/economia/execucao-virou-a-mercadoria-mais-valiosa-do-varejo-brasileiro-defende-btg-pactual/",
@@ -541,23 +677,6 @@
     "importancia": 3
   },
   {
-    "id": "97a0ed3c187f55b6",
-    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
-    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
-    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T11:43:01.299Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "JBS",
-      "Santander"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "e6600cc4517ba26e",
     "manchete": "Crise financeira acelera consolidação no agro e abre janela para aquisições Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
     "url": "https://www.cnnbrasil.com.br/agro/crise-financeira-acelera-consolidacao-no-agro-e-abre-janela-para-aquisicoes/",
@@ -571,21 +690,6 @@
     "tags_empresa": [],
     "relevante": true,
     "importancia": 4
-  },
-  {
-    "id": "a2d3039ddaf6da2a",
-    "manchete": "Novo tarifaço deve ter influência pontual sobre preço de alimento no Brasil Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
-    "url": "https://www.cnnbrasil.com.br/agro/novo-tarifaco-deve-ter-influencia-pontual-sobre-preco-de-alimento-no-brasil/",
-    "resumo": "Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T11:43:01.298Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
   },
   {
     "id": "c5ededff65748da3",
