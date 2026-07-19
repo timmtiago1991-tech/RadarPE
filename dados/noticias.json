@@ -1,5 +1,148 @@
 [
   {
+    "id": "1a46b1228ff56db7",
+    "manchete": "Stine mexe as peças, amplia \"invasão\" do Brasil e aposta no Sul para disputar liderança na soja",
+    "url": "https://agfeed.com.br/negocios/stine-mexe-as-pecas-amplia-invasao-do-brasil-e-aposta-no-sul-para-disputar-lideranca-na-soja",
+    "resumo": "Companhia americana vê, em região do Brasil, caminho para estar no topo do pelotão de vendas da oleaginosa",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T11:32:33.140Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Stine"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2a21939e7e07cb5c",
+    "manchete": "\"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai \"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai",
+    "url": "https://agfeed.com.br/negocios/brasiguaios-corporativos-empresas-brasileiras-do-agro-aceleram-planos-de-expansao-no-paraguai",
+    "resumo": "Companhias brasileiras avaliam ou já colocam em prática planos de expansão no Paraguai de olho em ambiente de negócios mais favorável",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T11:32:33.139Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1a5606185d435e80",
+    "manchete": "Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro",
+    "url": "https://agfeed.com.br/negocios/apos-ciclo-de-mas-nitro-reforca-aposta-em-mais-biologicos-para-crescer-quase-20-no-agro",
+    "resumo": "Depois de consolidar presença no agronegócio por meio de aquisições, Nitro pretende faturar R$ 1,2 bi no agro em 2026 e lança novos produtos",
+    "fonte": "AgFeed",
+    "data": "2026-07-19T11:32:33.136Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Nitro"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "971cc60173b5aa37",
+    "manchete": "Como novas regras tributárias vão reformar Construção Civil",
+    "url": "https://www.infomoney.com.br/business/mais-notas-menos-improviso-tributaria-faz-verdadeira-reforma-na-construcao-civil/",
+    "resumo": "Com a reforma, a mudança parece técnica, mas, no caso da construção civil, altera profundamente a gestão do negócio; entenda",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T10:55:00.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6598404bf48608f1",
+    "manchete": "Startups: Metade das empresas que demitiram por IA vai recontratar até 2027",
+    "url": "https://www.infomoney.com.br/business/startups-metade-das-empresas-que-demitiram-por-ia-vai-recontratar-ate-2027/",
+    "resumo": "Consultoria diz que a IA \"não está madura o suficiente\" para substituir experiência, e empresas que cortaram cedo estão pagando o preço",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T10:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f43ffe378cc0c87f",
+    "manchete": "SpaceX e OpenAI antes da bolsa: Investidores capturam mais valorização pré-IPO?",
+    "url": "https://www.infomoney.com.br/mercados/spacex-e-openai-antes-da-bolsa-investidores-capturam-mais-valorizacao-pre-ipo/",
+    "resumo": "Parte expressiva da geração de valor acontece fora dos mercados públicos e fica concentrada entre investidores que conseguem acessar essas oportunidades antecipadamente",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T10:00:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "SpaceX",
+      "OpenAI"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "94e38460b22445b3",
+    "manchete": "Quando sai o resultado da Vale (VALE3) do 2º tri de 2026?",
+    "url": "https://www.infomoney.com.br/mercados/quando-sai-o-resultado-da-vale-vale3-do-2o-tri-de-2026/",
+    "resumo": "De acordo com a companhia, o relatório de produção e vendas do segundo trimestre será divulgado em 21 de julho, após o fechamento do mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T09:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "73dd2634fb986e40",
+    "manchete": "De estagiário a investidor: a estratégia para construir um portfólio de sucesso",
+    "url": "https://www.infomoney.com.br/business/de-estagiario-a-investidor-a-estrategia-para-construir-um-portfolio-de-sucesso/",
+    "resumo": "Ex-presidente da Roche no México, Evandro Caitano trocou o crachá pelo risco e hoje aposta em academias, seguros e imóveis",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T09:00:00.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "Roche"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "8fe4edae286c8b2e",
+    "manchete": "Após crises sucessivas, a Boeing tenta virar a página",
+    "url": "https://www.infomoney.com.br/business/global/apos-crises-sucessivas-a-boeing-tenta-virar-a-pagina/",
+    "resumo": "A empresa abriu uma nova linha de produção para dar conta da forte demanda por seu 737 Max, embora os pedidos por seus novos aviões ainda fiquem atrás dos da rival Airbus",
+    "fonte": "InfoMoney",
+    "data": "2026-07-19T08:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Boeing",
+      "Airbus"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "d3ffedc2232bbfe4",
     "manchete": "Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032",
     "url": "https://agfeed.com.br/negocios/grupo-potencial-revisa-projecoes-e-plano-de-r-6-bi-pode-ser-concluido-so-em-2032",
@@ -441,54 +584,6 @@
       "Economia Real"
     ],
     "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a2aab2a4956ed557",
-    "manchete": "A mudança de tom no acordo das dívidas do agro",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-mudanca-de-tom-no-acordo-das-dividas-do-agro",
-    "resumo": "Discursos amistosos marcam anúncio de MP que abre caminho para renegociação de R$ 100 bilhões em débitos de produtores",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T11:43:01.295Z",
-    "tags_tema": [
-      "Economia Real",
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f97ddbb0840c4463",
-    "manchete": "Moody’s corta rating da Cosan e aponta desafios para desalavancagem da holding Moody’s corta rating da Cosan e aponta desafios para desalavancagem da holding",
-    "url": "https://agfeed.com.br/financas/moodys-corta-rating-da-cosan-e-aponta-desafios-para-desalavancagem-da-holding",
-    "resumo": "Agência de classificação de risco rebaixa nota de crédito da Cosan e alerta para desafios de redução de endividamento",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T11:43:01.294Z",
-    "tags_tema": [
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [
-      "Cosan"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "63c89d6e1275c8ee",
-    "manchete": "JBS lança debêntures de R$ 400 milhões para ampliar produção de biodiesel e modernizar operação do Porto de Itajaí JBS lança debêntures de R$ 400 milhões para ampliar produção de biodiesel e modernizar operação do Porto de Itajaí",
-    "url": "https://agfeed.com.br/negocios/jbs-lanca-debentures-de-r-400-milhoes-para-ampliar-producao-de-biodiesel-e-modernizar-operacao-do-porto-de-itajai",
-    "resumo": "Captação será destinada à expansão de três usinas de biocombustível em MT, SP e SC e à modernização do terminal portuário catarinense",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T11:43:01.294Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "JBS"
-    ],
     "relevante": true,
     "importancia": 3
   },
