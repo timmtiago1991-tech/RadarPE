@@ -1,5 +1,181 @@
 [
   {
+    "id": "97a0ed3c187f55b6",
+    "manchete": "Ventos do Norte fracos atrapalham JBS e Santander rebaixa recomendação para ação",
+    "url": "https://agfeed.com.br/negocios/ventos-do-norte-fracos-atrapalham-jbs-e-santander-rebaixa-recomendacao-para-acao",
+    "resumo": "Santander vê piora dos fundamentos nos principais negócios da JBS e avalia que a escassez de gado nos EUA deve seguir pressionando resultados",
+    "fonte": "AgFeed",
+    "data": "2026-07-20T12:27:07.939Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JBS",
+      "Santander"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a2d3039ddaf6da2a",
+    "manchete": "Novo tarifaço deve ter influência pontual sobre preço de alimento no Brasil Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
+    "url": "https://www.cnnbrasil.com.br/agro/novo-tarifaco-deve-ter-influencia-pontual-sobre-preco-de-alimento-no-brasil/",
+    "resumo": "Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
+    "fonte": "AgFeed",
+    "data": "2026-07-20T12:27:07.937Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6c92de9d8c643ae7",
+    "manchete": "Como a Nido conecta famílias brasileiras a startups dos EUA",
+    "url": "https://neofeed.com.br/videos/cafe-investidor/como-a-nido-conecta-familias-brasileiras-a-startups-dos-eua/",
+    "resumo": "Laura Constantini explica a tese de sua nova gestora de venture capital: dar acesso ao investidor brasileiro a startups nos EUA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-20T12:27:00.824Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "Nido"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "8e60cb5f212cbeff",
+    "manchete": "Fôlego financeiro? Raízen (RAIZ4) vende Usina Caarapó no Mato Grosso do Sul por R$ 760 milhões",
+    "url": "https://www.moneytimes.com.br/folego-financeiro-raizen-raiz4-vende-usina-caarapo-no-mato-grosso-do-sul-por-r-760-milhoes-lmrs/",
+    "resumo": "A Raízen (RAIZ4) informou ao mercado a venda da Usina Caarapó, localizada no Mato Grosso do Sul, para a Adecoagro Vale do Ivinhema. O acordo prevê ainda cessão de cana-de-açúcar própria e dos contratos com fornecedores vinculados a essa unidade, que totalizaram aproximadamente 3,5 milhões de toneladas de cana…",
+    "fonte": "Money Times",
+    "data": "2026-07-20T12:02:39.000Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Raízen",
+      "Adecoagro Vale do Ivinhema"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "fc71ee4fcb9009ac",
+    "manchete": "JiveMauá compra controle da Rota Verde Goiás e estreia na gestão de infraestrutura",
+    "url": "https://www.infomoney.com.br/onde-investir/jivemaua-compra-controle-da-rota-verde-goias-e-estreia-na-gestao-de-infraestrutura/",
+    "resumo": "Gestora vê oportunidade em concessões e prepara fundos para investir em participações acionárias em outras empresas",
+    "fonte": "InfoMoney",
+    "data": "2026-07-20T12:00:00.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "JiveMauá",
+      "Rota Verde Goiás"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "ce8934de4b0d646f",
+    "manchete": "Preços do minério recuam em meio à fraqueza sazonal na demanda chinesa por aço",
+    "url": "https://www.infomoney.com.br/mercados/precos-do-minerio-recuam-em-meio-a-fraqueza-sazonal-na-demanda-chinesa-por-aco/",
+    "resumo": "A referência de minério de ferro para agosto na Bolsa de Cingapura registrou queda de 0,15%, para US$100,05 por tonelada",
+    "fonte": "InfoMoney",
+    "data": "2026-07-20T11:56:52.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "84c0bd39cb4761c1",
+    "manchete": "Casas Bahia (BHIA3) aprova aumento de capital no valor de R$ 140,6 milhões",
+    "url": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-aprova-aumento-de-capital-no-valor-de-r-1406-milhoes/",
+    "resumo": "R$ 14 milhões serão destinado à conta de capital social e o valor restante à conta de reserva de capital",
+    "fonte": "InfoMoney",
+    "data": "2026-07-20T11:46:47.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Casas Bahia"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a8e15c7e587112af",
+    "manchete": "Pão de Açúcar (PCAR3) refuta acusações de favorecimento a credores em plano de recuperação extrajudicial",
+    "url": "https://www.moneytimes.com.br/pao-de-acucar-pcar3-refuta-acusacoes-de-favorecimento-a-credores-em-plano-de-recuperacao-extrajudicial-lmrs/",
+    "resumo": "O GPA (PCAR3), dono da bandeira Pão de Açúcar, negou favorecimento a bancos e credores — em especial o Itaú Unibanco (ITUB4) — no plano de recuperação extrajudicial, conforme comunicado enviado ao mercado na noite de sexta-feira (17). A manifestação ocorreu após a B3 solicitar esclarecimentos sobre reportagem do Valor…",
+    "fonte": "Money Times",
+    "data": "2026-07-20T11:42:32.000Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "GPA",
+      "Itaú Unibanco"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "0743feaaf21228da",
+    "manchete": "DeepSeek quer fazer IPO e reforça aposta chinesa na corrida das IAs",
+    "url": "https://startupi.com.br/deepseek-quer-fazer-ipo-e-reforca-aposta-chinesa-na-corrida-das-ias/",
+    "resumo": "Startupi DeepSeek quer fazer IPO e reforça aposta chinesa na corrida das IAs A eficiência de custos e o pragmatismo de código aberto da DeepSeek devem ir à IPO e ameaçam a liderança tecnológica global. O post DeepSeek quer fazer IPO e reforça aposta chinesa na corrida das IAs aparece primeiro em Startupi e foi escrito…",
+    "fonte": "Startupi",
+    "data": "2026-07-20T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05d0ad4468190121",
+    "manchete": "EUA tarifam a globalização e relações internacionais entram numa nova fase",
+    "url": "https://startupi.com.br/eua-tarifam-a-globalizacao-e-relacoes-internacionais-entram-numa-nova-fase/",
+    "resumo": "Startupi EUA tarifam a globalização e relações internacionais entram numa nova fase Estratégia americana de utilizar tarifas como arma de negociação política redefine as cadeias produtivas globais, elevando custos e criando um cenário de incerteza que força empresas e governos a repensar suas rotas de exportação. O…",
+    "fonte": "Startupi",
+    "data": "2026-07-20T08:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "89e62a0fdf640912",
+    "manchete": "Defense Techs colocam capital de risco na linha de frente da geopolítica",
+    "url": "https://startupi.com.br/defense-techs-colocam-capital-de-risco-na-linha-de-frente-da-geopolitica/",
+    "resumo": "Startupi Defense Techs colocam capital de risco na linha de frente da geopolítica Volume recorde de captações em startups da área de defesa mostram como a política internacional tem direcionado atenção não somente de governos, mas principalmente de investidores. O post Defense Techs colocam capital de risco na linha…",
+    "fonte": "Startupi",
+    "data": "2026-07-20T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "6b2e882c4673cd8b",
     "manchete": "Maré de incertezas freia expansão da Fider, empresa de pescados do grupo MCassab Maré de incertezas freia expansão da Fider, empresa de pescados do grupo MCassab",
     "url": "https://agfeed.com.br/negocios/mare-de-incertezas-freia-expansao-da-fider-empresa-de-pescados-do-grupo-mcassab",
@@ -510,22 +686,6 @@
     "tags_empresa": [
       "BNDES",
       "bp bioenergy"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b800bf537b13f908",
-    "manchete": "Syngenta vai esperar mais pelo IPO",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/syngenta-vai-esperar-mais-pelo-ipo",
-    "resumo": "Multinacional pretendia abrir capital ainda este ano em Hong Kong, mas instabilidades no cenário global fizeram com que planos fossem adiados",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T22:05:30.259Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Syngenta"
     ],
     "relevante": true,
     "importancia": 3
