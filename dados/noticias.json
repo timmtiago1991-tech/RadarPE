@@ -1,5 +1,340 @@
 [
   {
+    "id": "d3d820ed401a15a4",
+    "manchete": "StoneX amplia negócio de trading e leva comercialização de café e algodão para o mundo digital",
+    "url": "https://agfeed.com.br/negocios/stonex-amplia-negocio-de-trading-e-leva-comercialiacao-de-cafe-e-algodao-para-o-mundo-digital",
+    "resumo": "Parceria com agtech leva comercialização de commodities físicas à sistema virtual com preços físicos em tempo real",
+    "fonte": "AgFeed",
+    "data": "2026-07-21T12:02:19.989Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b9f4da3326031068",
+    "manchete": "Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\" Novo CEO e investimentos de R$ 150 milhões: a receita da Pamplona Alimentos para saciar \"fome de proteínas\"",
+    "url": "https://agfeed.com.br/negocios/novo-ceo-e-investimentos-de-r-150-milhoes-a-receita-da-pamplona-alimentos-para-saciar-fome-de-proteinas",
+    "resumo": "Pamplona Alimentos tem novo CEO, acelera profissionalização e vê oportunidades com demanda maior impulsionada por canetas emagrecedoras",
+    "fonte": "AgFeed",
+    "data": "2026-07-21T12:02:19.988Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Pamplona Alimentos"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "26d9fb937ac4348a",
+    "manchete": "BNDES aprova financiamento de R$ 245 milhões para bp bioenergy em projeto de biometano",
+    "url": "https://agfeed.com.br/negocios/bndes-aprova-financiamento-de-r-245-milhoes-para-bp-bioenergy-em-projeto-de-biometano",
+    "resumo": "Banco público vai aportar recursos para empresa ligada à petroleira britânica implantar unidade no interior de Goiás",
+    "fonte": "AgFeed",
+    "data": "2026-07-21T12:02:19.986Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "BNDES",
+      "bp bioenergy"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cda1620ec1f7d64c",
+    "manchete": "Raízen vende mais uma usina",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/raizen-vende-mais-uma-usina",
+    "resumo": "Adecoagro compra unidade no MS por R$ 760 milhões, que vão ajudar a honrar compromissos da recuperação extrajudicial",
+    "fonte": "AgFeed",
+    "data": "2026-07-21T12:02:19.984Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Raízen",
+      "Adecoagro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "9ddf562855125efd",
+    "manchete": "No balanço da Yara, o paradoxo da escalada dos preços dos fertilizantes: menos encomendas e mais margens",
+    "url": "https://agfeed.com.br/negocios/no-balanco-da-yara-o-paradoxo-da-escalada-dos-precos-dos-fertilizantes-menos-encomendas-e-mais-margens",
+    "resumo": "Yara vê margens crescerem com alta dos fertilizantes, mas guerra no Oriente Médio reduz demanda e pressiona resultados",
+    "fonte": "AgFeed",
+    "data": "2026-07-21T12:02:19.983Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Yara"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "edab5ca24cd5f252",
+    "manchete": "TRXF11 desembolsa R$ 1,4 bilhão para entrar na “Faria Lima” do e-commerce",
+    "url": "https://neofeed.com.br/negocios/trxf11-desembolsa-r-14-bilhao-para-entrar-na-faria-lima-do-e-commerce/",
+    "resumo": "O fundo imobiliário TRXF11 voltou ao mercado e anuncia a maior transação da sua história menos de um mês após comprar o Hotel Emiliano Rio, em Copacabana",
+    "fonte": "NeoFeed",
+    "data": "2026-07-21T12:02:09.304Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "TRXF11"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "ccc00ec5593f62da",
+    "manchete": "“Jabuti” do setor elétrico ameaça travar usinas renováveis e elevar custos em R$ 500 milhões ao ano",
+    "url": "https://neofeed.com.br/economia/jabuti-do-setor-eletrico-ameaca-travar-usinas-renovaveis-e-elevar-custos-em-r-500-milhoes-ao-ano/",
+    "resumo": "Estudo da Aurora aponta alta de 12% no corte de geração renovável centralizada com contratação de 2,5 GW de térmicas a gás incluída em PL",
+    "fonte": "NeoFeed",
+    "data": "2026-07-21T12:02:09.304Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Aurora"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "2e58b01484a1af54",
+    "manchete": "Nubank compra banco para não perder o \"bank\"",
+    "url": "https://neofeed.com.br/negocios/nubank-compra-banco-para-nao-perder-o-bank/",
+    "resumo": "Operação do Nubank visa obtenção de licença bancária no Brasil para atender nova exigência do Banco Central para uso de denominação “banco” no País",
+    "fonte": "NeoFeed",
+    "data": "2026-07-21T12:02:09.303Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Nubank"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "84664298e2cbbb16",
+    "manchete": "Stone quer ir além da maquininha e define sua nova avenida de crescimento: virar banco",
+    "url": "https://neofeed.com.br/negocios/stone-quer-ir-alem-da-maquininha-e-define-sua-nova-avenida-de-crescimento-virar-banco/",
+    "resumo": "A empresa amplia serviços financeiros e aguarda o aval do Banco Central para formalizar a transição para o modelo bancário",
+    "fonte": "NeoFeed",
+    "data": "2026-07-21T12:02:09.302Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Stone"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "ca68e66bc4648beb",
+    "manchete": "Vale: Ollie abre vantagem na eleição para chairman",
+    "url": "https://braziljournal.com/vale-ollie-abre-vantagem-na-eleicao-para-chairman/",
+    "resumo": "A Vale divulgou agora há pouco o boletim de votos à distância para a assembleia que elegerá amanhã o novo chairman da companhia, mostrando uma largada favorável ao candidato apoiado por sua maior acionista, a Previ. Manuel Lino Silva de Sousa Oliveira, o “Ollie”, que ocupa hoje a posição de lead independent director…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-21T11:46:30.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0a0ff758d6cd4b35",
+    "manchete": "T4F (SHOW3) atinge quórum em OPA e avança para fechamento de capital",
+    "url": "https://www.infomoney.com.br/mercados/t4f-show3-atinge-quorum-em-opa-e-avanca-para-fechamento-de-capital/",
+    "resumo": "O preço pago na OPA foi de R$ 6,02 por ação",
+    "fonte": "InfoMoney",
+    "data": "2026-07-21T11:45:05.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "T4F"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "30e9d10aee86acce",
+    "manchete": "Bitcoin (BTC) avança para US$ 66 mil com fluxo de ETFs e alívio nos mercados; veja cotações das criptomoedas hoje (21)",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-dispara-para-us-66-mil-com-fluxo-de-etfs-e-alivio-nos-mercados-veja-cotacoes-das-criptomoedas-hoje-21-igdl/",
+    "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 66 mil nesta terça-feira (21), com alta de cerca de 3,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra ganhos de 5,7%, enquanto, em um mês, apresenta valorização próxima de 3%. De uma maneira…",
+    "fonte": "Money Times",
+    "data": "2026-07-21T11:44:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e2e12aa9bd4b92e8",
+    "manchete": "T4F (SHOW3) dá adeus à B3; veja o que fazer se você não vendeu suas ações na OPA",
+    "url": "https://www.moneytimes.com.br/t4f-show3-da-adeus-a-b3-veja-o-que-fazer-se-voce-nao-vendeu-suas-acoes-na-opa-lmrs/",
+    "resumo": "A T4F (SHOW3) realizou na segunda-feira (20) o leilão da oferta pública de aquisição de ações (OPA) para cancelar seu registro de companhia aberta e se despedir da bolsa brasileira. Conforme o detalhamento do resultado do leilão, o acionista controlador Fernando Luiz Alterio levou a maior parte: 1.946.835 ações…",
+    "fonte": "Money Times",
+    "data": "2026-07-21T11:40:51.000Z",
+    "tags_tema": [
+      "M&A",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "T4F"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "7d6b9e8cefd2c6d4",
+    "manchete": "Trump prepara nova rodada de tarifas, diz jornal",
+    "url": "https://www.moneytimes.com.br/trump-prepara-nova-rodada-de-tarifas-diz-jornal/",
+    "resumo": "O governo dos Estados Unidos estuda impor novas tarifas a dezenas de países ainda nesta semana, em um movimento para substituir a tarifa global temporária de 10% sobre importações, cuja validade expira na próxima sexta-feira (24). As informações foram publicadas pelo Financial Times e repercutidas pela Reuters.…",
+    "fonte": "Money Times",
+    "data": "2026-07-21T11:38:20.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d819c08c4ed5f6ca",
+    "manchete": "Cogna (COGN3) elege Guilherme Mélega como membro da Diretoria Estatutária",
+    "url": "https://www.infomoney.com.br/mercados/cogna-cogn3-elege-guilherme-melega-como-membro-da-diretoria-estatutaria/",
+    "resumo": "Anteriormente, ele atuou como Diretor Presidente da Vasta Platform Limited",
+    "fonte": "InfoMoney",
+    "data": "2026-07-21T11:36:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": [
+      "Cogna"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "3bdfaa18e5c9de1d",
+    "manchete": "Fundo imobiliário de shopping anuncia 12ª emissão de cotas; IFIX interrompe sequência de alta",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-de-shopping-anuncia-12a-emissao-de-cotas-ifix-interrompe-sequencia-de-alta-igdl/",
+    "resumo": "O fundo imobiliário Hedge Brasil Shopping (HGBS11) aprovou a realização da sua 12ª emissão de cotas, em uma operação que pode movimentar quase R$ 300 milhões, mostra fato relevante divulgado ao mercado. Segundo o documento, serão emitidos, inicialmente, 12 milhões de novos papéis, ao preço de R$ 20,30 cada,…",
+    "fonte": "Money Times",
+    "data": "2026-07-21T10:51:15.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Hedge Brasil Shopping"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f417e03a9e70cdc1",
+    "manchete": "Vale (VALE3) divulga produção na véspera de decisão sobre comando da empresa; Ibovespa em dólar sobe hoje (21)",
+    "url": "https://www.moneytimes.com.br/vale-vale3-divulga-producao-na-vespera-de-decisao-sobre-comando-da-empresa-ibovespa-em-dolar-sobe-hoje-21/",
+    "resumo": "As atenções do mercado estão voltadas para a Vale (VALE3), que divulga, após o fechamento do mercado, seu relatório de produção e vendas referente ao segundo trimestre de 2026. Os dados operacionais são aguardados pelos investidores em meio às expectativas sobre o desempenho da companhia em um cenário ainda marcado…",
+    "fonte": "Money Times",
+    "data": "2026-07-21T10:15:34.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8c5cd5808956993e",
+    "manchete": "Vale (VALE3): Produção deve reagir no 2T26, mas custos devem ser \"pedra no sapato\"",
+    "url": "https://www.moneytimes.com.br/vale-vale3-producao-deve-reagir-no-2t26-mas-custos-devem-ser-pedra-no-sapato-vtra/",
+    "resumo": "A Vale (VALE3) deve apresentar uma forte recuperação na produção de minério de ferro no segundo trimestre de 2026, beneficiada pela melhora sazonal das condições climáticas e pelo avanço de projetos de expansão. O movimento, porém, deve vir acompanhado de custos mais elevados, apontam Santander e Genial Investimentos.…",
+    "fonte": "Money Times",
+    "data": "2026-07-21T10:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b05266ce5c7f5575",
+    "manchete": "Acreditação na saúde digital: novo padrão busca integrar tecnologia e qualidade assistencial",
+    "url": "https://startupi.com.br/acreditacao-na-saude-digital-novo-padrao-busca-integrar-tecnologia-e-qualidade-assistencial/",
+    "resumo": "Startupi Acreditação na saúde digital: novo padrão busca integrar tecnologia e qualidade assistencial Iniciativa lançada durante encontro do Instituto Coalizão Saúde, em São Paulo, estabelece diretrizes para a governança de dados e interoperabilidade no setor de saúde brasileiro. O post Acreditação na saúde digital:…",
+    "fonte": "Startupi",
+    "data": "2026-07-21T08:00:00.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Instituto Coalizão Saúde"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "9539445ede01be8e",
+    "manchete": "Nubank encontra um banco para chamar de seu",
+    "url": "https://braziljournal.com/nubank-encontra-um-banco-para-chamar-de-seu/",
+    "resumo": "Agora é oficial: Nubank. O banco de David Vélez anunciou a compra de 100% do Banco Porto Real de Investimentos, uma instituição financeira carioca da família Tarquínio Monteiro da Costa. O valor da transação não foi divulgado, e o fechamento ainda depende da aprovação do BC. Com a compra, o Nubank passará a ter uma…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-20T23:39:48.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Nubank",
+      "Banco Porto Real de Investimentos"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "48cf8a53365837b1",
+    "manchete": "A estratégia da JiveMauá em rodovias e infra",
+    "url": "https://braziljournal.com/a-estrategia-da-jivemaua-em-rodovias-e-infra/",
+    "resumo": "A JiveMauá acaba de assumir o controle da Rota Verde, em Goiás, estreando seus investimentos em equity no setor de infraestrutura depois de converter em participação acionária uma dívida da antiga concessionária da rodovia, a Azevedo &#38; Travassos. A gestora tinha exposição anterior em infra por meio de fundos de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-20T22:52:42.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JiveMauá",
+      "Rota Verde",
+      "Azevedo & Travassos"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
     "id": "976dc5ab10307088",
     "manchete": "Na equação de custos, volume e preços da Camil, lucro cai mais uma vez em novo trimestre",
     "url": "https://agfeed.com.br/negocios/na-equacao-de-custos-volume-e-precos-da-camil-lucro-cai-mais-uma-vez-em-novo-trimestre",
@@ -799,23 +1134,6 @@
     "importancia": 3
   },
   {
-    "id": "00a378fca0130882",
-    "manchete": "Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras",
-    "url": "https://agfeed.com.br/financas/da-fazenda-a-faria-lima-e-vice-versa-com-produtores-a-frente-planalto-capital-aposta-em-tese-de-terras",
-    "resumo": "Quando o pecuarista Braz Neto decidiu criar a gestora Planalto Capital há 10 anos, a ideia era diversificar os investimentos de sua família para além do agronegócio. Até meados do ano passado, a atuação da casa estava dedicada à antecipar recebíveis para empresas de logística, mas nessa trajetória, e com novos sócios…",
-    "fonte": "AgFeed",
-    "data": "2026-07-18T11:19:08.859Z",
-    "tags_tema": [
-      "Private Equity",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Planalto Capital"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "6b3b8e1f3fe631f3",
     "manchete": "Tarifaço contra Brasil e balanços nos EUA assumem foco; veja os destaques da semana",
     "url": "https://www.infomoney.com.br/onde-investir/tarifaco-perde-forca-e-balancos-assumem-o-foco-vejam-os-destaques-da-semana/",
@@ -857,36 +1175,6 @@
       "Regulação"
     ],
     "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7103850c2883a981",
-    "manchete": "ARTIGO - O enfraquecimento do seguro rural amplia a fragilidade financeira do campo brasileiro",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-enfraquecimento-do-seguro-rural-amplia-a-fragilidade-financeira-do-campo-brasileiro",
-    "resumo": "Sem uma rede de proteção, o agricultor fica exposto a um ciclo de risco que pode afetar a dinâmica econômica de todo o setor",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T22:05:30.263Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f17eda1a9f639074",
-    "manchete": "Lavoro busca guinada \"radical\" em estratégia de recuperação e encolhe ainda mais para sobreviver",
-    "url": "https://agfeed.com.br/negocios/lavoro-busca-guinada-radical-em-estrategia-de-recuperacao-e-encolhe-ainda-mais-para-sobreviver",
-    "resumo": "Lavoro acelera reestruturação, fecha mais lojas e prepara recuperação judicial com foco na operação do Paraná",
-    "fonte": "AgFeed",
-    "data": "2026-07-17T22:05:30.262Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Lavoro"
-    ],
     "relevante": true,
     "importancia": 3
   },
