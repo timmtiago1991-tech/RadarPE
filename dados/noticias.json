@@ -1,5 +1,263 @@
 [
   {
+    "id": "f307717ce1442ffe",
+    "manchete": "ARTIGO - O agro não espera: energia confiável como condição de produção",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-agro-nao-espera-energia-confiavel-como-condicao-de-producao",
+    "resumo": "No campo, a tolerância à incerteza energética é zero — e quem entende isso já encontrou uma resposta",
+    "fonte": "AgFeed",
+    "data": "2026-07-22T12:06:32.034Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8fc7ad132f72c8ce",
+    "manchete": "Os \"novos brasiguaios\": Paraguai atrai onda de brasileiros em busca de terras agrícolas baratas",
+    "url": "https://agfeed.com.br/negocios/os-novos-brasiguaios-paraguai-atrai-onda-de-brasileiros-em-busca-de-terras-agricolas-baratas",
+    "resumo": "Nova geração de investidores cruza fronteira em busca de diversificação patrimonial, terras de menor valor e ambiente tributário competitivo",
+    "fonte": "AgFeed",
+    "data": "2026-07-22T12:06:32.029Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "756e1ccb1033f8d5",
+    "manchete": "Cenário pouco provável, mas possível",
+    "url": "https://agfeed.com.br/campo-das-ideias/desafios-da-pecuaria/cenario-pouco-provavel-mas-possivel",
+    "resumo": "Números da pecuária brasileira têm evidenciado um desempenho cada vez mais associado aos ganhos de produtividade",
+    "fonte": "AgFeed",
+    "data": "2026-07-22T12:06:32.025Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "57c149e1d494cb5f",
+    "manchete": "Antes de IPO, OpenAI recruta David Vélez, fundador do Nubank, para o conselho",
+    "url": "https://neofeed.com.br/negocios/antes-de-ipo-openai-recruta-david-velez-fundador-do-nubank-para-o-conselho/",
+    "resumo": "A entrada do CEO global do Nubank no board da dona do ChatGPT ocorre em um momento em que a empresa ajusta sua estrutura",
+    "fonte": "NeoFeed",
+    "data": "2026-07-22T12:06:04.973Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "16cf8a053add8f32",
+    "manchete": "CEO global da Stellantis faz alerta sobre avanço chinês: “O Brasil precisa estabelecer prioridades”",
+    "url": "https://neofeed.com.br/negocios/ceo-global-da-stellantis-faz-alerta-sobre-avanco-chines-o-brasil-precisa-estabelecer-prioridades/",
+    "resumo": "Antonio Filosa, CEO global da Stellantis, alerta para o impacto dos carros chineses sobre a cadeia nacional e cobra uma definição do governo sobre o futuro da indústria.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-22T12:06:04.972Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Stellantis"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "55177fdb09e1949f",
+    "manchete": "IA do Jusbrasil ajuda bancos a identificar clientes ligados ao PCC e ao Comando Vermelho",
+    "url": "https://neofeed.com.br/videos/revolucao-ia/ia-do-jusbrasil-ajuda-bancos-a-identificar-clientes-ligados-ao-pcc-e-ao-comando-vermelho/",
+    "resumo": "Jusbrasil usa IA para ajudar bancos a identificar fraudes, pessoas presas e clientes com possíveis ligações ao PCC e ao Comando Vermelho.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-22T12:06:04.970Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Jusbrasil"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f059e383a3544f5c",
+    "manchete": "IA dobra a cobertura, reduz equipes e turbina retornos: o novo normal das gestoras brasileiras",
+    "url": "https://neofeed.com.br/negocios/ia-dobra-a-cobertura-reduz-equipes-e-turbina-retornos-o-novo-normal-das-gestoras-brasileiras/",
+    "resumo": "O NeoFeed conversou com oito gestoras que somam mais de R$ 100 bilhões em investimentos para entender como o mercado local está adotando a IA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-22T12:06:04.969Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "969bc4440a511c4a",
+    "manchete": "As opções do governo Lula para responder ao tarifaço dos Estados Unidos",
+    "url": "https://www.infomoney.com.br/politica/as-opcoes-do-governo-lula-para-responder-ao-tarifaco-dos-estados-unidos/",
+    "resumo": "Governo evita falar em retaliação imediata, prepara medidas de apoio aos exportadores e mantém negociação aberta com Washington",
+    "fonte": "InfoMoney",
+    "data": "2026-07-22T12:01:53.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5d73d396230da67b",
+    "manchete": "Número de embarcações que atravessam Estreito de Ormuz continua caindo, preocupações com a segurança persistem",
+    "url": "https://www.moneytimes.com.br/numero-de-embarcacoes-que-atravessam-estreito-de-ormuz-continua-caindo-preocupacoes-com-a-seguranca-persistem/",
+    "resumo": "O número de embarcações que atravessaram o Estreito de Ormuz diminuiu ainda mais na terça-feir (21)a, segundo dados do setor de transporte marítimo, à medida que as preocupações com a segurança persistiam em meio aos ataques contínuos entre os Estados Unidos e o Irã. Um total de três navios de carga atravessaram o…",
+    "fonte": "Money Times",
+    "data": "2026-07-22T11:54:38.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "5abccda32a7028ae",
+    "manchete": "Michelle troca convenção nacional por ato do PL no DF, onde deve definir candidatura",
+    "url": "https://www.infomoney.com.br/politica/michelle-troca-convencao-nacional-por-ato-do-pl-no-df-onde-deve-definir-candidatura/",
+    "resumo": "Ex-primeira-dama faltará à convenção do partido em São Paulo mas, segundo aliados, comparecerá no evento em Brasília",
+    "fonte": "InfoMoney",
+    "data": "2026-07-22T11:52:03.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c892c34ff8ed3f4c",
+    "manchete": "O que os exportadores afetados pelo tarifaço dos EUA buscam na reunião com o governo",
+    "url": "https://www.infomoney.com.br/politica/o-que-os-exportadores-afetados-pelo-tarifaco-dos-eua-buscam-na-reuniao-com-o-governo/",
+    "resumo": "Executivo vai se encontrar com associações de alguns dos segmentos mais atingidos pela nova tarifa, como móveis e açúcar",
+    "fonte": "InfoMoney",
+    "data": "2026-07-22T11:45:19.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "b74d4e802fa20aaa",
+    "manchete": "Vale, WEG, Santander, Braskem, Oncoclínicas e mais ações para acompanhar hoje",
+    "url": "https://www.infomoney.com.br/mercados/vale-weg-santander-braskem-oncoclinicas-e-mais-acoes-para-acompanhar-hoje/",
+    "resumo": "Confira os principais destaques do noticiário corporativo desta quarta-feira",
+    "fonte": "InfoMoney",
+    "data": "2026-07-22T11:44:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [
+      "Vale",
+      "WEG",
+      "Santander",
+      "Braskem",
+      "Oncoclínicas"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f8103923ea2dd98b",
+    "manchete": "Onda de calor na Europa reduz a projeção da safra de grãos",
+    "url": "https://www.infomoney.com.br/economia/onda-de-calor-na-europa-reduz-a-projecao-da-safra-de-graos/",
+    "resumo": "Estimativa foi reduzida para 286,6 milhões de toneladas nos 27 países da UE e no Reino Unido, 9 milhões de toneladas a menos que a projeção anterior",
+    "fonte": "InfoMoney",
+    "data": "2026-07-22T11:41:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b5cd4fe5aee98767",
+    "manchete": "Braskem (BRKM5) confirma negociações com credores sobre possível reestruturação de dívida",
+    "url": "https://www.moneytimes.com.br/braskem-brkm5-confirma-negociacoes-com-credores-sobre-possivel-reestruturacao-de-divida-lmrs/",
+    "resumo": "A Braskem (BRKM5) confirmou nesta terça-feira (21) que mantém discussões com credores financeiros acerca de uma possível reestruturação de sua estrutura de capital. A empresa afirmou, contudo, que as propostas recebidas até agora são \"indicativas e não vinculantes\" e que as condições apresentadas por grupos de…",
+    "fonte": "Money Times",
+    "data": "2026-07-22T11:34:42.000Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Braskem"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "9a80a144a6eec153",
+    "manchete": "WEG (WEGE3) lucra R$ 1,55 bilhão no 2T26, em linha com o esperado; veja os números",
+    "url": "https://www.moneytimes.com.br/weg-wege3-lucra-r-155-bilhao-no-2t26-em-linha-com-o-esperado-veja-os-numeros-lmrs/",
+    "resumo": "A WEG (WEGE3) reportou lucro líquido de R$ 1,55 bilhão no segundo trimestre, um recuo de 2,1% ante o mesmo período do ano anterior e avanço de 7% sobre o último trimestre, mostra relatório de resultados divulgado ao mercado nesta quarta-feira (22). A cifra veio em linha com as expectativas do mercado. Projeções…",
+    "fonte": "Money Times",
+    "data": "2026-07-22T11:28:40.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "WEG"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0229182cb6d3b2a6",
+    "manchete": "Fundo imobiliário ajusta operação que prevê retorno de IPCA +13,6% ao ano; IFIX cai",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-ajusta-operacao-que-preve-retorno-de-ipca-136-ao-ano-ifix-cai-igdl/",
+    "resumo": "O fundo imobiliário Riza Arctium Real Estate (RZAT11) informou, por meio de fato relevante, que alterou as condições de compra de um imóvel localizado em Maringá (PR), em uma operação avaliada em R$ 20 milhões. Segundo o novo documento, o valor total da negociação permanece o mesmo, mas as partes ajustaram o…",
+    "fonte": "Money Times",
+    "data": "2026-07-22T11:00:47.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Riza Arctium Real Estate"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "932326f79c90d4c2",
+    "manchete": "Pode faltar gás nos EUA? A projeção contrarian de um gestor (e suas consequências)",
+    "url": "https://braziljournal.com/pode-faltar-gas-nos-eua-a-projecao-contrarian-de-um-gestor-e-suas-consequencias/",
+    "resumo": "Em meio a uma produção de gás natural em níveis recorde nos Estados Unidos e um consenso de que o mercado estará bem abastecido nos próximos anos, um gestor está chamando a atenção com uma projeção que ele mesmo admite: “soa como uma heresia.” Com a AI impulsionando a geração de energia em usinas térmicas, [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-22T09:50:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "509b225fb54eed8b",
+    "manchete": "Por que a nova era das startups está excluindo os jovens talentos?",
+    "url": "https://startupi.com.br/por-que-a-nova-era-das-startups-esta-excluindo-os-jovens-talentos/",
+    "resumo": "Startupi Por que a nova era das startups está excluindo os jovens talentos? Boom da inteligência artificial e alta de valuations no venture capital estão reduzindo vagas e o acesso de jovens a ações em startups. O post Por que a nova era das startups está excluindo os jovens talentos? aparece primeiro em Startupi e…",
+    "fonte": "Startupi",
+    "data": "2026-07-22T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "00a378fca0130882",
     "manchete": "Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras",
     "url": "https://agfeed.com.br/financas/da-fazenda-a-faria-lima-e-vice-versa-com-produtores-a-frente-planalto-capital-aposta-em-tese-de-terras",
@@ -1333,20 +1591,6 @@
     "tags_empresa": [
       "Casas Bahia"
     ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "88402a8005b31d9d",
-    "manchete": "Governo e bancada ruralista fecham acordo para renegociar R$ 100 bilhões em dívidas do agro",
-    "url": "https://agfeed.com.br/economia/governo-e-bancada-ruralista-fecham-acordo-para-renegociar-r-100-bilhoes-em-dividas-do-agro",
-    "resumo": "Medida provisória amplia renegociação para crédito rural, cria fundo garantidor de até R$ 2 bi e prevê prazos de até dez anos para pagamento",
-    "fonte": "AgFeed",
-    "data": "2026-07-18T11:19:08.861Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
     "relevante": true,
     "importancia": 3
   },
