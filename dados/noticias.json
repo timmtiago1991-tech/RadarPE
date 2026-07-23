@@ -1,5 +1,287 @@
 [
   {
+    "id": "1a5606185d435e80",
+    "manchete": "Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro",
+    "url": "https://agfeed.com.br/negocios/apos-ciclo-de-mas-nitro-reforca-aposta-em-mais-biologicos-para-crescer-quase-20-no-agro",
+    "resumo": "Depois de consolidar presença no agronegócio por meio de aquisições, Nitro pretende faturar R$ 1,2 bi no agro em 2026 e lança novos produtos",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T12:04:17.022Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Nitro"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "96cc89b42455daf8",
+    "manchete": "Simpar vende Porto de Aratu, na Bahia, para gigante global ICTSI por R$ 1,8 bilhão Simpar vende Porto de Aratu, na Bahia, para gigante global ICTSI por R$ 1,8 bilhão",
+    "url": "https://agfeed.com.br/negocios/simpar-vende-porto-de-aratu-na-bahia-para-gigante-global-ictsi-por-r-18-bilhao",
+    "resumo": "Simpar vende Porto de Aratu à ICTSI por R$ 1,8 bilhão e reforça estratégia de monetização de ativos logísticos no agro",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T12:04:17.019Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Simpar",
+      "ICTSI"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "89da63c4c7fdae3e",
+    "manchete": "O subproduto virou negócio: M. Dias Branco cria nova vertical para entrar de vez na nutrição animal",
+    "url": "https://agfeed.com.br/negocios/o-subproduto-virou-negocio-m-dias-branco-cria-nova-vertical-para-entrar-de-vez-na-nutricao-animal",
+    "resumo": "M. Dias Branco transforma subproduto da moagem em nova frente de crescimento, com foco em rastreabilidade e distribuição nacional",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T12:04:17.019Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "M. Dias Branco"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb2ed662b5f6d321",
+    "manchete": "Infraero encolhe, perde relevância e tenta se reinventar com estrutura inchada",
+    "url": "https://neofeed.com.br/economia/infraero-encolhe-perde-relevancia-e-tenta-se-reinventar-com-estrutura-inchada/",
+    "resumo": "Com participação cada vez menor nos grandes terminais, a estatal estatal vive ocaso e deve focar sua operação em aeroportos regionais",
+    "fonte": "NeoFeed",
+    "data": "2026-07-23T12:04:12.597Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Infraero"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "394bd12ebff5df6c",
+    "manchete": "Simpar, Petrobras, B3, Trisul, Mitre e mais ações para acompanhar hoje",
+    "url": "https://www.infomoney.com.br/mercados/simpar-petrobras-b3-trisul-mitre-e-mais-acoes-para-acompanhar-hoje/",
+    "resumo": "Confira os principais destaques do noticiário corporativo desta quinta-feira",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T11:46:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [
+      "Simpar",
+      "Petrobras",
+      "B3",
+      "Trisul",
+      "Mitre"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d47478d42bc3d46e",
+    "manchete": "Simpar (SIMH3) vende 100% da operação CS Porto Aratu por R$ 1,8 bilhão",
+    "url": "https://www.moneytimes.com.br/simpar-simh3-vende-100-da-cs-porto-aratu-por-r-18-bilhao-lmrs/",
+    "resumo": "A Simpar (SIMH3) e sua a controlada CS Brasil Holdingum assinaram contrato com a ICTSI Americas para a venda de 100% da HSIM Participações por R$ 1,8 bilhão, mostra fato relevante divulgado ao mercado nesta quinta-feira (23). A HSIM detém a CS Porto Aratu, um dos principais hubs logísticos do país para o escoamento de…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T11:41:47.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Simpar",
+      "CS Brasil Holding",
+      "ICTSI Americas"
+    ],
+    "relevante": true,
+    "importancia": 5
+  },
+  {
+    "id": "8503aa8cbb3a5c32",
+    "manchete": "Houthis dizem ter atacado petroleiros sauditas, ameaçando criar novo 'gargalo' para o petróleo",
+    "url": "https://www.moneytimes.com.br/houthis-dizem-ter-atacado-petroleiros-sauditas-ameacando-criar-novo-ponto-de-estrangulamento-no-fornecimento-de-energia/",
+    "resumo": "Os houthis, grupo militante do Iêmen aliado do Irã, afirmaram nesta quinta-feira ter atacado dois petroleiros sauditas como parte de um bloqueio naval à Arábia Saudita, ameaçando criar um segundo ponto de estrangulamento no abastecimento global de petróleo, além do quase fechamento do Estreito de Ormuz. Duas semanas…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T11:21:23.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "bb3a7fc037ca31e0",
+    "manchete": "B3 (B3SA3): Eduardo Neves assume vice-presidência de Tecnologia",
+    "url": "https://www.infomoney.com.br/mercados/b3-b3sa3-eduardo-neves-assume-vice-presidencia-de-tecnologia/",
+    "resumo": "Eduardo iniciará suas atividades na B3 nos próximos meses, após a conclusão do processo de transição no Itaú",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T11:21:07.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "B3",
+      "Itaú"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d27032dc96fff446",
+    "manchete": "Maré começa a virar no mercado e Brasil é principal aposta, aponta Bradesco BBI",
+    "url": "https://www.infomoney.com.br/mercados/mare-comeca-a-virar-no-mercado-e-brasil-e-principal-aposta-aponta-bradesco-bbi/",
+    "resumo": "Relatório do banco aponta melhora no humor de investidores locais, fim dos resgates em fundos e mercado brasileiro descontado; banco mantém Brasil como principal aposta na América Latina diante das eleições de 2026 e da perspectiva de queda dos juros",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T11:20:55.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Bradesco BBI"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "80c7eee7f98d2608",
+    "manchete": "Mercado Livre propõe operação própria de farmácia no Chile após lançamento no Brasil",
+    "url": "https://www.moneytimes.com.br/mercado-livre-propoe-operacao-propria-de-farmacia-no-chile-apos-lancamento-no-brasil/",
+    "resumo": "O Mercado Livre discutiu uma proposta com autoridades do Chile para operar como farmácia no país, plano que exigirá mudanças nas regulações locais, de acordo com registros de reuniões realizadas entre as partes nos últimos meses. A iniciativa representa um novo passo do Mercado Livre rumo à expansão de suas próprias…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T11:18:03.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Mercado Livre"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "56b4a50fa5d243c4",
+    "manchete": "Régis Bittencourt (BR-116) vai a leilão hoje; três empresas disputam uma das principais rodovias do país",
+    "url": "https://www.moneytimes.com.br/regis-bittencourt-vai-a-leilao-hoje-tres-empresas-disputam-uma-das-principais-rodovias-do-pais-isca/",
+    "resumo": "O leilão de concessão da rodovia Régis Bittencourt, a BR-116, acontece nesta quinta-feira (23) e envolve um dos ativos rodoviários mais atrativos disponíveis atualmente. Três empresas apresentaram propostas para a disputa: Motiva (MOTV3), Grupo EPR e Arteris (ARTR3), atual operadora da concessão. O vencedor ficará…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T11:08:00.000Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Motiva",
+      "Grupo EPR",
+      "Arteris"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "904f02c74214d5d4",
+    "manchete": "Fundo imobiliário convoca cotistas para aprovar emissão de até R$ 1,1 bilhão; IFIX aprofunda perdas",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-convoca-cotistas-para-aprovar-emissao-de-ate-r-11-bilhao-ifix-aprofunda-perdas-igdl/",
+    "resumo": "O fundo imobiliário Pátria Renda Urbana (HGRU11), da Pátria Investimentos, convocou seus cotistas para deliberar sobre a realização da sua 7ª emissão de cotas. Segundo o edital de convocação, o montante inicial da oferta será de até R$ 1,1 bilhão, podendo ser ampliado com um lote adicional, caso haja demanda, ou…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T10:58:37.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Pátria Investimentos",
+      "Pátria Renda Urbana"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc3b815e2ecb0097",
+    "manchete": "Conselho da Vale quer destituir Gasparino, acusado de vazamento",
+    "url": "https://braziljournal.com/conselho-da-vale-quer-destituicao-de-gasparino-acusado-de-vazamento/",
+    "resumo": "O conselho de administração da Vale votou pela destituição de um de seus membros, Marcelo Gasparino, acusado de vazamento de informações confidenciais. A decisão, que agora será submetida aos acionistas da mineradora em uma assembleia geral ainda a ser convocada, veio poucas horas após a eleição de um novo chairman,…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-23T09:50:57.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "735ef52c88f35602",
+    "manchete": "Engie e outras empresas querem antecipar bilhões ao Governo para manter hidrelétricas",
+    "url": "https://braziljournal.com/engie-e-outras-empresas-querem-antecipar-bilhoes-ao-governo-para-manter-hidreletricas/",
+    "resumo": "Operadores de usinas hidrelétricas, como a Engie e outros grupos, querem oferecer ao Governo pagamentos bilionários para garantir a renovação antecipada por até 30 anos de seus contratos de concessão que vencem no curto e médio prazo. Essa possibilidade entrou no radar das empresas depois da aprovação de uma lei no…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-23T09:50:39.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Engie"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0e2d67a336380af1",
+    "manchete": "Brasil segue no centro das estratégias globais de inovação. Resta o Brasil também apostar em si",
+    "url": "https://startupi.com.br/brasil-segue-no-centro-das-estrategias-globais-de-inovacao-resta-o-brasil-tambem-apostar-em-si/",
+    "resumo": "Startupi Brasil segue no centro das estratégias globais de inovação. Resta o Brasil também apostar em si Enquanto gigantes globais posicionam o país na vanguarda tecnológica, o ecossistema doméstico ainda hesita em transformar capital intelectual em soberania produtiva. O post Brasil segue no centro das estratégias…",
+    "fonte": "Startupi",
+    "data": "2026-07-23T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "0c6c912b9ac18f6f",
+    "manchete": "O Dia Depois de Amanhã: Economia Brasileira Acorda com a Sombra de 25% de Tarifa Americana",
+    "url": "https://startupi.com.br/o-dia-depois-de-amanha-economia-brasileira-acorda-com-a-sombra-de-25-de-tarifa-americana/",
+    "resumo": "Startupi O Dia Depois de Amanhã: Economia Brasileira Acorda com a Sombra de 25% de Tarifa Americana Começa a valer a sobretaxa sobre 3.000 produtos a partir de hoje e governo Lula estuda retaliação via Lei da Reciprocidade e OMC, enquanto mercado tenta decifrar quem sai ganhando na guerra comercial O post O Dia Depois…",
+    "fonte": "Startupi",
+    "data": "2026-07-23T08:00:00.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "060c7d02ebc31eee",
+    "manchete": "Como a ‘Unicorns Mafia’ está criando a próxima geração de startups no Brasil",
+    "url": "https://startupi.com.br/como-a-unicorns-mafia-esta-criando-a-proxima-geracao-de-startups-no-brasil/",
+    "resumo": "Startupi Como a ‘Unicorns Mafia’ está criando a próxima geração de startups no Brasil Do Rappi ao Nubank, movimento de ex-funcionários de gigantes do ecossistema dá origem a uma geração de founders mais experientes e ambiciosos O post Como a ‘Unicorns Mafia’ está criando a próxima geração de startups no Brasil aparece…",
+    "fonte": "Startupi",
+    "data": "2026-07-23T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [
+      "Rappi",
+      "Nubank"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "dede663e6e9e5d52",
     "manchete": "Agro concentrou R$ 7,7 bilhões de crédito do Plano Brasil Soberano No pacote de socorro contra tarifaço de 2025, indústria de alimentos foi mais beneficiada; maior parte de recursos executados foi para liquidez e pagamento de despesas",
     "url": "https://www.cnnbrasil.com.br/agro/agro-concentrou-r-77-bilhoes-de-credito-do-plano-brasil-soberano/",
@@ -1718,36 +2000,6 @@
     ],
     "relevante": true,
     "importancia": 2
-  },
-  {
-    "id": "1a46b1228ff56db7",
-    "manchete": "Stine mexe as peças, amplia \"invasão\" do Brasil e aposta no Sul para disputar liderança na soja",
-    "url": "https://agfeed.com.br/negocios/stine-mexe-as-pecas-amplia-invasao-do-brasil-e-aposta-no-sul-para-disputar-lideranca-na-soja",
-    "resumo": "Companhia americana vê, em região do Brasil, caminho para estar no topo do pelotão de vendas da oleaginosa",
-    "fonte": "AgFeed",
-    "data": "2026-07-19T11:32:33.140Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Stine"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a21939e7e07cb5c",
-    "manchete": "\"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai \"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai",
-    "url": "https://agfeed.com.br/negocios/brasiguaios-corporativos-empresas-brasileiras-do-agro-aceleram-planos-de-expansao-no-paraguai",
-    "resumo": "Companhias brasileiras avaliam ou já colocam em prática planos de expansão no Paraguai de olho em ambiente de negócios mais favorável",
-    "fonte": "AgFeed",
-    "data": "2026-07-19T11:32:33.139Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
   },
   {
     "id": "971cc60173b5aa37",
