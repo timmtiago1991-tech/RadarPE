@@ -1,5 +1,308 @@
 [
   {
+    "id": "98523337cf28d203",
+    "manchete": "Suzano aposta em geração de valor após investimentos bilionários Objetivo da companhia é aumentar produtividade das florestas para sustentar a capacidade de produção já instalada",
+    "url": "https://www.cnnbrasil.com.br/agro/suzano-aposta-em-geracao-de-valor-apos-investimentos-bilionarios/",
+    "resumo": "Objetivo da companhia é aumentar produtividade das florestas para sustentar a capacidade de produção já instalada",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T22:13:35.602Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Suzano"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6c8cbb8da72f450",
+    "manchete": "O avanço passo a passo da Vittia",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-avanco-passo-a-passo-da-vittia",
+    "resumo": "Companhia reforça aportes em inovação e lançamento de produtos para enfrentar a massificação do mercado de biológicos",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T22:13:35.599Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Vittia"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "051c839a0ff4ad37",
+    "manchete": "Bioengenharia, IA e R$ 18 milhões: a fórmula de uma startup para \"reprogramar\" o mercado de bioinsumos Bioengenharia, IA e R$ 18 milhões: a fórmula de uma startup para \"reprogramar\" o mercado de bioinsumos",
+    "url": "https://agfeed.com.br/agtech/bioengenharia-ia-e-r-18-milhoes-a-formula-de-uma-startup-para-reprogramar-o-mercado-de-bioinsumos",
+    "resumo": "Terra Genomics capta R$ 18 milhões para desenvolver microrganismos editados com IA e mira transformar o mercado de bioinsumos.",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T22:13:35.597Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Terra Genomics"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dca35977232f832d",
+    "manchete": "John Deere volta a investir em produção e vai fabricar componentes eletrônicos no Brasil",
+    "url": "https://agfeed.com.br/negocios/john-deere-volta-a-investir-em-producao-e-vai-fabricar-componentes-eletronicos-no-brasil",
+    "resumo": "John Deere investe R$ 75 milhões em Canoas para fabricar componentes eletrônicos e ampliar produção no Brasil",
+    "fonte": "AgFeed",
+    "data": "2026-07-23T22:13:35.596Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "John Deere"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "02f5187e5874d2ec",
+    "manchete": "Simpar segue caminho de desinvestimentos e vende operações em porto da Bahia por R$ 1,8 bilhão",
+    "url": "https://neofeed.com.br/negocios/simpar-segue-caminho-de-desinvestimentos-e-vende-operacoes-em-porto-da-bahia-por-r-18-bilhao/",
+    "resumo": "A Simpar, holding que controla a JSL, Movida e Vamos, vende operação portuária para ICTSI Americas, subsidiária do maior operador independente do mundo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-23T22:13:20.771Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Simpar",
+      "JSL",
+      "Movida",
+      "Vamos",
+      "ICTSI Americas"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "8ac7eefc273ee1eb",
+    "manchete": "Na Weg, a volta da confiança dos investidores após trimestre acima das expectativas",
+    "url": "https://neofeed.com.br/negocios/na-weg-a-volta-da-confianca-dos-investidores-apos-trimestre-acima-das-expectativas/",
+    "resumo": "Sentimento em relação à multinacional de Jaraguá do Sul Weg atingiu o maior nível desde o terceiro trimestre de 2024, diz XP",
+    "fonte": "NeoFeed",
+    "data": "2026-07-23T22:13:20.770Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Weg"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d7d45e4b6645dd90",
+    "manchete": "ARTIGO: O ativo que o mercado brasileiro ainda não aprendeu a precificar corretamente",
+    "url": "https://neofeed.com.br/insiders/artigo-o-ativo-que-o-mercado-brasileiro-ainda-nao-aprendeu-a-precificar-corretamente/",
+    "resumo": "O Brasil gera 80 milhões de toneladas de resíduos anualmente, que podem ser transformados em ativos valiosos, impulsionando a economia circular. Mas o mercado ainda subestima uma das infraestruturas mais estratégicas do País",
+    "fonte": "NeoFeed",
+    "data": "2026-07-23T22:13:20.770Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "101327b750c66225",
+    "manchete": "Batalha pela Régis Bittencourt muda o jogo das rodovias brasileiras",
+    "url": "https://neofeed.com.br/economia/batalha-pela-regis-bittencourt-muda-o-jogo-das-rodovias-brasileiras/",
+    "resumo": "Vitória da EPR no leilão da BR-116 redefine mapa das concessões e entrega a um novo protagonista corredor logístico dos mais valiosos do País",
+    "fonte": "NeoFeed",
+    "data": "2026-07-23T22:13:20.769Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "EPR"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "bc20675045798801",
+    "manchete": "Expert XP: Ajuste fiscal será “no amor ou na porrada”, diz Walter Maciel",
+    "url": "https://www.infomoney.com.br/economia/ajuste-fiscal-brasil-walter-maciel-expert-xp/",
+    "resumo": "Em painel sobre futuro dos mercaods, CEO da AZ Quest afirmou que alta dos gastos públicos exigirá correção e alerta para risco de crise caso o país siga ampliando despesas sem ajuste nas contas",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T22:03:15.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "AZ Quest",
+      "XP"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "21dcf53b69b403fe",
+    "manchete": "Com taxa de 12,5% por trabalho forçado, Trump tenta reconstruir muro tarifário global",
+    "url": "https://www.infomoney.com.br/mundo/com-taxa-de-125-por-trabalho-forcado-trump-tenta-reconstruir-muro-tarifario-global/",
+    "resumo": "Nova sobretaxa vai substituir tarifas impostas a dezenas de países que expiram nesta sexta",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T21:56:47.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "ec7a4b7ff0b2fdb9",
+    "manchete": "EUA anunciam sobretaxa de 12,5% sobre produtos brasileiros",
+    "url": "https://www.infomoney.com.br/mercados/eua-anuncia-sobretaxa-de-125-sobre-produtos-brasileiros/",
+    "resumo": "Sobretaxa por suposta falha no combate ao trabalho forçado entra em vigor nesta sexta-feira e amplia pressão comercial sobre exportações brasileiras",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T21:45:59.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "94a63f71e791a057",
+    "manchete": "B3 prepara stablecoin e vê tokenização como próximo salto do mercado financeiro",
+    "url": "https://www.infomoney.com.br/mercados/b3-prepara-stablecoin-tokenizacao-proximo-salto-mercado-financeiro/",
+    "resumo": "Debate na Expert XP reuniu executivos que apontam ganhos de eficiência, liquidez e diversificação para investidores nos próximos anos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-23T21:38:16.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "B3",
+      "XP"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4322efa4fc913920",
+    "manchete": "EUA confirmam tarifa de até 12,5% sobre Brasil e outros parceiros comerciais",
+    "url": "https://www.moneytimes.com.br/eua-confirmam-tarifa-de-125-sobre-importacoes-do-brasil-e-outros-parceiros-comerciais-em-investigacao-sobre-trabalho-forcado/",
+    "resumo": "Os Estados Unidos anunciaram nesta quinta-feira (23) a aplicação de uma tarifa adicional de até 12,5% sobre importações do Brasil e de outras economias investigadas por falhas na proibição e fiscalização da entrada de produtos fabricados com trabalho forçado, justamente quando uma tarifa global temporária de 10% chega…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T21:34:50.000Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "ff558d3e3de98b9e",
+    "manchete": "BrasilAgro (AGRO3) aprova dívida de até R$ 200 milhões com Banco do Brasil e amplia flexibilidade para operações de hedge",
+    "url": "https://www.moneytimes.com.br/brasilagro-agro3-aprova-divida-de-ate-r-200-milhoes-com-banco-do-brasil-e-amplia-flexibilidade-para-operacoes-de-hedge-pads/",
+    "resumo": "O conselho de administração da BrasilAgro (AGRO3) aprovou a contratação de uma nova dívida de até R$ 200 milhões junto ao Banco do Brasil, estruturada por meio de uma Cédula de Produto Rural (CPR), além de uma operação de swap para converter a exposição da dívida para dólar. A decisão foi tomada em reunião realizada…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T21:04:10.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [
+      "BrasilAgro",
+      "Banco do Brasil"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "59547b000972148c",
+    "manchete": "Santander vê execução como diferencial e elege Smart Fit (SMFT3) e Loja Renner (LREN3) como 'top picks' no varejo",
+    "url": "https://www.moneytimes.com.br/santander-ve-execucao-como-diferencial-e-elege-smart-fit-smft3-e-loja-renner-lren3-como-top-picks-no-varejo-lmrs/",
+    "resumo": "O Santander atualizou suas principais recomendações para o varejo da América Latina. No Brasil, Smart Fit (SMFT3) e Lojas Renner (LREN3) são as top picks do banco. Os analistas Lucas Esteves e Ulises Argote, que assinam o relatório, reconhecem que as condições macroeconômicas permaneçam mistas na América Latina, com…",
+    "fonte": "Money Times",
+    "data": "2026-07-23T20:01:39.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Santander",
+      "Smart Fit",
+      "Lojas Renner"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f8a4a832a647be5c",
+    "manchete": "Atoms, a startup de ‘industrial AI’ do fundador do Uber",
+    "url": "https://braziljournal.com/atoms-a-startup-de-industrial-ai-do-fundador-do-uber/",
+    "resumo": "Travis Kalanick, o fundador exilado do Uber, acaba de levantar US$ 1,7 bilhão em equity e dívida para sua nova startup, a Atoms, que quer construir sistemas de automação para diversos setores da indústria. A a16z liderou a rodada, que também teve a participação do Uber. Ben Horowitz, um dos principais VCs do mundo,…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-23T18:13:31.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "Atoms",
+      "a16z",
+      "Uber"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "6e6710a52f99c787",
+    "manchete": "EPR vence leilão da Régis, uma rodovia campeã (em margens e problemas)",
+    "url": "https://braziljournal.com/epr-vence-leilao-da-regis-uma-rodovia-campea-em-margens-e-problemas/",
+    "resumo": "A EPR arrematou a concessão da Régis Bittencourt, entre São Paulo e Paraná, em leilão realizado hoje na sede da B3, superando propostas da Motiva e da Arteris, atual operadora, ao ofertar um deságio de 22,5% nas tarifas de pedágio. A Motiva, que era vista por boa parte do mercado como a favorita, fez um [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-23T18:07:52.000Z",
+    "tags_tema": [
+      "M&A",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "EPR",
+      "Motiva",
+      "Arteris",
+      "B3"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "96e3becacaacf43f",
+    "manchete": "Simpar vende terminais na Bahia por R$ 1,8 bilhão",
+    "url": "https://braziljournal.com/simpar-vende-terminais-na-bahia-por-r-18-bilhao/",
+    "resumo": "A Simpar vendeu dois terminais portuários por um enterprise value de R$ 1,8 bilhão – numa transação elogiada pelo mercado por jogar luz sobre o valor dos ativos de infraestrutura da holding de Fernando Simões e permitir à empresa continuar sua desalavancagem. A ação da Simpar sobe mais de 5% com a notícia no final…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-23T15:39:20.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Simpar"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
     "id": "1a5606185d435e80",
     "manchete": "Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro Após ciclo de M&As, Nitro reforça aposta em (mais) biológicos para crescer quase 20% no agro",
     "url": "https://agfeed.com.br/negocios/apos-ciclo-de-mas-nitro-reforca-aposta-em-mais-biologicos-para-crescer-quase-20-no-agro",
@@ -1844,39 +2147,6 @@
     "data": "2026-07-20T08:00:00.000Z",
     "tags_tema": [
       "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6b2e882c4673cd8b",
-    "manchete": "Maré de incertezas freia expansão da Fider, empresa de pescados do grupo MCassab Maré de incertezas freia expansão da Fider, empresa de pescados do grupo MCassab",
-    "url": "https://agfeed.com.br/negocios/mare-de-incertezas-freia-expansao-da-fider-empresa-de-pescados-do-grupo-mcassab",
-    "resumo": "Com exportações reduzidas e planos de investimento suspensos após tarifaço dos EUA, Fider aposta no mercado premium",
-    "fonte": "AgFeed",
-    "data": "2026-07-19T22:07:37.661Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Fider",
-      "MCassab"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a2aab2a4956ed557",
-    "manchete": "A mudança de tom no acordo das dívidas do agro",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-mudanca-de-tom-no-acordo-das-dividas-do-agro",
-    "resumo": "Discursos amistosos marcam anúncio de MP que abre caminho para renegociação de R$ 100 bilhões em débitos de produtores",
-    "fonte": "AgFeed",
-    "data": "2026-07-19T22:07:37.660Z",
-    "tags_tema": [
-      "Economia Real",
-      "Dívida/Debêntures",
-      "Regulação"
     ],
     "tags_empresa": [],
     "relevante": true,
