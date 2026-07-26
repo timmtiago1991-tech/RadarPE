@@ -1,17 +1,64 @@
 [
   {
-    "id": "94dfd8d5927a73ab",
-    "manchete": "Coopama vai além do café com leite, ganha força nos grãos e mira se fixar na faixa do R$ 1 bilhão",
-    "url": "https://agfeed.com.br/negocios/coopama-vai-alem-do-cafe-com-leite-ganha-forca-nos-graos-e-mira-se-fixar-na-faixa-do-r-1-bilhao",
-    "resumo": "Cooperativa do Sul de Minas amplia investimentos em armazenagem, aposta na diversificação e vê café especial e grãos sustentarem novo ciclo de crescimento",
+    "id": "5e1c7945fed9c1c4",
+    "manchete": "Bayer faz acordo com grupo francês para explorar filão bilionário de sementes híbridas de trigo",
+    "url": "https://agfeed.com.br/negocios/bayer-faz-acordo-com-grupo-frances-para-explorar-filao-bilionario-de-sementes-hibridas-de-trigo",
+    "resumo": "Bayer e RAGT firmam parceria para desenvolver sementes híbridas de trigo mais produtivas e resistentes ao clima extremo",
     "fonte": "AgFeed",
-    "data": "2026-07-25T22:07:45.162Z",
+    "data": "2026-07-26T11:39:21.012Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "Coopama"
+      "Bayer",
+      "RAGT"
     ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "35da5728eead8465",
+    "manchete": "FIIs de renda urbana ainda têm muito espaço para crescer, diz gestor do RBVA11",
+    "url": "https://www.infomoney.com.br/onde-investir/fiis-de-renda-urbana-ainda-tem-muito-espaco-para-crescer-diz-gestor-do-rbva11/",
+    "resumo": "Os fundos imobiliários de renda urbana devem desempenhar um papel importante na expansão da indústria de FIIs",
+    "fonte": "InfoMoney",
+    "data": "2026-07-26T11:00:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "RBVA11"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1c997797ca2b40ec",
+    "manchete": "Private equity da América Latina gera valor mais rápido, mas tropeça em IA",
+    "url": "https://www.infomoney.com.br/business/private-equity-da-america-latina-gera-valor-mais-rapido-mas-tropeca-em-ia/",
+    "resumo": "Pesquisa da FTI Consulting mostra que líderes veem conversão de caixa e otimização do capital de giro no portfólio mais rápido na região",
+    "fonte": "InfoMoney",
+    "data": "2026-07-26T10:00:00.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [
+      "FTI Consulting"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "17f1c736fdb084ac",
+    "manchete": "Padronização dos registros de imóveis vai deixar registro de financiamento mais ágil",
+    "url": "https://www.infomoney.com.br/minhas-financas/padronizacao-dos-registros-de-imoveis-vai-deixar-registro-de-financiamento-mais-agil/",
+    "resumo": "A modernização dos registros é vista como a peça que faltava para completar a digitalização da jornada imobiliária",
+    "fonte": "InfoMoney",
+    "data": "2026-07-26T08:00:00.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
     "relevante": true,
     "importancia": 2
   },
@@ -81,6 +128,22 @@
       "Regulação"
     ],
     "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "f361cecc918ded3f",
+    "manchete": "O maior erro que o mercado comete na avaliação de risco no agronegócio, segundo a Agrolend",
+    "url": "https://www.moneytimes.com.br/o-maior-erro-que-o-mercado-comete-na-avaliacao-de-risco-no-agronegocio-segundo-a-agrolend-pads/",
+    "resumo": "A recente onda de inadimplência e recuperações judiciais no agronegócio expôs um dos principais desafios enfrentados por bancos, fundos e fintechs que financiam o setor: como medir corretamente o risco de um produtor? Para Alan Glezer, CEO da Agrolend, o mercado financeiro ainda comete um erro importante ao avaliar…",
+    "fonte": "Money Times",
+    "data": "2026-07-25T13:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Agrolend"
+    ],
     "relevante": true,
     "importancia": 2
   },
