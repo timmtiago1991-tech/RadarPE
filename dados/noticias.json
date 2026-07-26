@@ -1,20 +1,66 @@
 [
   {
-    "id": "5e1c7945fed9c1c4",
-    "manchete": "Bayer faz acordo com grupo francês para explorar filão bilionário de sementes híbridas de trigo",
-    "url": "https://agfeed.com.br/negocios/bayer-faz-acordo-com-grupo-frances-para-explorar-filao-bilionario-de-sementes-hibridas-de-trigo",
-    "resumo": "Bayer e RAGT firmam parceria para desenvolver sementes híbridas de trigo mais produtivas e resistentes ao clima extremo",
+    "id": "976dc5ab10307088",
+    "manchete": "Na equação de custos, volume e preços da Camil, lucro cai mais uma vez em novo trimestre",
+    "url": "https://agfeed.com.br/negocios/na-equacao-de-custos-volume-e-precos-da-camil-lucro-cai-mais-uma-vez-em-novo-trimestre",
+    "resumo": "Camil vendeu quase 18% mais produtos, mas despesas maiores e juros elevados derrubaram os ganhos no trimestre",
     "fonte": "AgFeed",
-    "data": "2026-07-26T11:39:21.012Z",
+    "data": "2026-07-26T22:10:58.588Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "Bayer",
-      "RAGT"
+      "Camil"
     ],
     "relevante": true,
-    "importancia": 2
+    "importancia": 3
+  },
+  {
+    "id": "4ea17134a483dfb9",
+    "manchete": "Do maior estádio do mundo ao fundo imobiliário afetado pelo GPA: Veja as principais notícias da semana",
+    "url": "https://www.moneytimes.com.br/do-maior-estadio-do-mundo-ao-fundo-imobiliario-afetado-pelo-gpa-veja-as-principais-noticias-da-semana-igdl/",
+    "resumo": "Do maior estádio do mundo ao fundo imobiliário que sofreu rescisão antecipada do GPA (Grupo Pão de Açúcar) e anunciou impacto nos resultados, a semana reuniu assuntos que movimentaram o mercado e despertaram o interesse dos leitores do Money Times. Entre os temas mais lidos, também estão o programa que ajuda taxistas…",
+    "fonte": "Money Times",
+    "data": "2026-07-26T14:58:31.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "GPA"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a6be55ba40f7aa21",
+    "manchete": "Bolsa brasileira volta a atrair investidores estrangeiros após dois meses de saídas; entenda o porquê",
+    "url": "https://www.moneytimes.com.br/bolsa-brasileira-volta-a-atrair-investidores-estrangeiros-apos-dois-meses-de-saidas-entenda-o-porque-igdl/",
+    "resumo": "Julho tem sido marcado pela retomada da entrada de capital externo na bolsa de valores brasileira, com saldo positivo de R$ 2,351 bilhões na primeira quinzena. Em parte, o ingresso é visto por analistas ouvidos pelo Broadcast, sistema de notícias em tempo real do Grupo Estado, como um movimento técnico, processo…",
+    "fonte": "Money Times",
+    "data": "2026-07-26T14:17:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f99f8f9de9cf0939",
+    "manchete": "Temporada de balanços: Usiminas (USIM5), Vale (VALE3) e outras 10 empresas divulgam resultados nesta semana",
+    "url": "https://www.moneytimes.com.br/temporada-de-balancos-usiminas-usim5-vale-vale3-e-outras-10-empresas-divulgam-resultados-nesta-semana/",
+    "resumo": "O mês de julho chega ao fim com a divulgação dos resultados do segundo trimestre de 2026 (2T26) de ao menos 10 empresas. Entre os dias 27 e 31, alguns dos destaques são a Usiminas (USIM5), Vale (VALE3), Santander (SANB11) e Ambev (ABEV3). O Santander espera que a Vale apresente resultados sólidos no segundo trimestre…",
+    "fonte": "Money Times",
+    "data": "2026-07-26T13:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Usiminas",
+      "Vale",
+      "Santander",
+      "Ambev"
+    ],
+    "relevante": true,
+    "importancia": 3
   },
   {
     "id": "35da5728eead8465",
