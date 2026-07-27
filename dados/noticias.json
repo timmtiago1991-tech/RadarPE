@@ -1,5 +1,245 @@
 [
   {
+    "id": "5e1c7945fed9c1c4",
+    "manchete": "Bayer faz acordo com grupo francês para explorar filão bilionário de sementes híbridas de trigo",
+    "url": "https://agfeed.com.br/negocios/bayer-faz-acordo-com-grupo-frances-para-explorar-filao-bilionario-de-sementes-hibridas-de-trigo",
+    "resumo": "Bayer e RAGT firmam parceria para desenvolver sementes híbridas de trigo mais produtivas e resistentes ao clima extremo",
+    "fonte": "AgFeed",
+    "data": "2026-07-27T13:22:51.925Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Bayer",
+      "RAGT"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "94dfd8d5927a73ab",
+    "manchete": "Coopama vai além do café com leite, ganha força nos grãos e mira se fixar na faixa do R$ 1 bilhão",
+    "url": "https://agfeed.com.br/negocios/coopama-vai-alem-do-cafe-com-leite-ganha-forca-nos-graos-e-mira-se-fixar-na-faixa-do-r-1-bilhao",
+    "resumo": "Cooperativa do Sul de Minas amplia investimentos em armazenagem, aposta na diversificação e vê café especial e grãos sustentarem novo ciclo de crescimento",
+    "fonte": "AgFeed",
+    "data": "2026-07-27T13:22:51.925Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Coopama"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "59ed9c2c4610f045",
+    "manchete": "A Núclea movimenta R$ 18 trilhões por ano e descobriu que seu maior ativo não eram as transações",
+    "url": "https://neofeed.com.br/videos/numeros-falam/a-nuclea-movimenta-r-18-trilhoes-por-ano-e-descobriu-que-seu-maior-ativo-nao-eram-as-transacoes/",
+    "resumo": "A Núclea é a empresa de infraestrutura por trás de boletos, cartões e transferências bancárias está usando a mesma estrutura para criar novos negócios",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T13:22:44.769Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Núclea"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "e215cd261c1cceef",
+    "manchete": "\"Cabo eleitoral\" que ninguém quer, El Niño escancara os gargalos de infraestrutura do Brasil",
+    "url": "https://neofeed.com.br/economia/cabo-eleitoral-que-ninguem-quer-el-nino-escancara-os-gargalos-de-infraestrutura-do-brasil/",
+    "resumo": "Brasil entra no “Super El Niño” gastando três vezes mais com reação do que com prevenção e com perdas anuais de R$ 19,5 bilhões",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T13:22:44.768Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "3244d988c9e207a5",
+    "manchete": "WEG recebe dupla elevação para compra com \"nova fase de crescimento\"; ações saltam",
+    "url": "https://www.infomoney.com.br/mercados/weg-wege3-recebe-dupla-elevacao-para-compra-jpmorgan-e-bbi-veem-nova-fase-de-crescimento-desempenho-acoes/",
+    "resumo": "Bradesco BBI elevou a recomendação para outperform e fixou preço-alvo de R$ 60, enquanto JPMorgan passou a indicar compra com alvo de R$ 56; bancos veem forte aceleração do crescimento a partir de 2027",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T13:17:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "WEG",
+      "Bradesco BBI",
+      "JPMorgan"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "91e6dfdbef715787",
+    "manchete": "Morgan Stanley rebaixa BB Seguridade, Caixa Seguridade e Porto Seguro; ações caem",
+    "url": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-bb-seguridade-caixa-seguridade-e-porto-seguro-desempenho-acoes/",
+    "resumo": "Banco mantém uma visão cautelosa para o crescimento dos lucros, diante da desaceleração da atividade econômica e da perspectiva de juros elevados por um período prolongado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T13:12:38.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Morgan Stanley",
+      "BB Seguridade",
+      "Caixa Seguridade",
+      "Porto Seguro"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "b335683425a60359",
+    "manchete": "CSN Mineração (CMIN3) amplia programa de recompra de ações",
+    "url": "https://www.moneytimes.com.br/csn-mineracao-cmin3-amplia-programa-de-recompra-de-acoes-lmrs/",
+    "resumo": "A CSN Mineração (CMIN3) informou ao mercado que seu conselho de administração aprovou um aditamento ao programa de recompra de ações da companhia aprovado em maio deste ano, para incluir um adicional de até 50 milhões ações ordinárias sobre o montante aprovado originalmente. Com o acréscimo o programa prevê a…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T13:03:32.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "CSN Mineração"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9f61c8cf7daa4069",
+    "manchete": "Mais uma mudança na Vale (VALE3): Marcelo Gasparino renuncia ao conselho da mineradora",
+    "url": "https://www.moneytimes.com.br/marcelo-gasparino-renuncia-ao-conselho-da-vale/",
+    "resumo": "O conselheiro da Vale (VALE3) Marcelo Gasparino disse nesta segunda-feira (27) que submeteu uma carta de renúncia ao cargo no colegiado da mineradora, o desdobramento mais recente de tensões de governança que levaram à eleição de um novo presidente do conselho na semana passada. O conselho da Vale já havia decidido…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T12:59:59.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [
+      "Vale"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "1adf2d08fc55801e",
+    "manchete": "Petrobras (PETR4), Brava (BRAV3), Embraer (EMBJ3) e outros destaques desta segunda (27)",
+    "url": "https://www.moneytimes.com.br/petrobras-petr4-slc-agricola-slce3-calendario-de-balancos-e-outros-destaques-desta-segunda-27-ceci/",
+    "resumo": "O novo diretor de Transição Energética da Petrobras (PETR4), a recomendação para que os acionistas aceitem a OPA da Brava Energia (BRAV3) e a carteira de pedidos da Embraer (EMBJ3) são alguns dos destaques corporativos desta segunda-feira (27). Confira o Radar do Mercado: Petrobras (PETR4): Conselho aprova a eleição…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T12:56:31.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Petrobras",
+      "Brava Energia",
+      "Embraer"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "147d9e3bebcac3f7",
+    "manchete": "Aluguel na reforma tributária: proprietários de imóveis terão que emitir nota fiscal, mas medida não atinge todos os locadores",
+    "url": "https://www.moneytimes.com.br/reforma-tributaria-aluguel-nota-fiscal-rsgp/",
+    "resumo": "Quem aluga imóveis pode ser obrigado a ter Cadastro Nacional da Pessoa Jurídica (CNPJ) e emitir nota fiscal a partir de 1º de janeiro de 2027. A exigência faz parte da regulamentação da Reforma Tributária (Lei Complementar nº 214/2025), que prevê a cobrança do Imposto sobre Bens e Serviços (IBS) e da Contribuição…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T12:54:34.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "600ba6d8b3e2830f",
+    "manchete": "Irã diz que ainda controla Estreito de Ormuz e que não pretende negociar com EUA",
+    "url": "https://www.infomoney.com.br/mundo/ira-diz-que-ainda-controla-estreito-de-ormuz-e-que-nao-pretende-negociar-com-eua/",
+    "resumo": "Após suspensão dos bombardeios americanos, Teerã afirma controlar navegabilidade na região, enquanto petróleo despenca quase 8% no mercado global",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T12:50:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "168e2cc11fc264f0",
+    "manchete": "JPMorgan rebaixa Isa Energia (ISAE4) para neutro e vê menos espaço para valorização",
+    "url": "https://www.infomoney.com.br/mercados/jpmorgan-rebaixa-isa-energia-isae4-para-neutra-e-ve-menos-espaco-para-valorizacao-desempenho-acoes/",
+    "resumo": "Banco avalia que a ação já reflete boa parte dos fundamentos positivos e vê redução das chances de um acordo com a Sefaz-SP, além de juros mais altos pressionando o retorno esperado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T12:44:51.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "JPMorgan",
+      "Isa Energia"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "c69bfe427cec6b39",
+    "manchete": "Estudo mostra que 2 em cada 3 edtechs no Brasil nunca receberam investimento",
+    "url": "https://startupi.com.br/estudo-mostra-que-2-em-cada-3-edtechs-no-brasil-nunca-receberam-investimento/",
+    "resumo": "Startupi Estudo mostra que 2 em cada 3 edtechs no Brasil nunca receberam investimento Mais de 66% das edtechs brasileiras nunca receberam investimento externo. Ainda assim, boa parte dessas empresas conseguiu consolidar seus negócios e hoje compõem um ecossistema mais maduro e resiliente do que o mercado imagina. É o…",
+    "fonte": "Startupi",
+    "data": "2026-07-27T12:16:56.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "6de33df62b01bc8f",
+    "manchete": "BNB anuncia R$120 milhões para startups do Nordeste e coloca região no Mapa da Inovação",
+    "url": "https://startupi.com.br/bnb-anuncia-r120-milhoes-para-startups-do-nordeste-e-coloca-regiao-no-mapa-da-inovacao/",
+    "resumo": "Startupi BNB anuncia R$120 milhões para startups do Nordeste e coloca região no Mapa da Inovação Fundo Capital Semente, criado por BNB, Finep e Sebrae, pode injetar até R$6 milhões por negócio e mira empresas com receita anual de até R$4,8 milhões O post BNB anuncia R$120 milhões para startups do Nordeste e coloca…",
+    "fonte": "Startupi",
+    "data": "2026-07-27T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [
+      "BNB",
+      "Finep",
+      "Sebrae"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "45bf642921b3d370",
+    "manchete": "O ‘split payment’ pode acabar com a sonegação — mas vai ser bem confuso",
+    "url": "https://braziljournal.com/o-split-payment-pode-acabar-com-a-sonegacao-mas-vai-ser-bem-confuso/",
+    "resumo": "A reforma tributária começa para valer em janeiro de 2027, embora de maneira escalonada e com um looooongo período de transição. Para os contribuintes, a grande novidade será o split payment, um sistema de cobrança de tributos que promete derrubar a sonegação e a informalidade – mas que, ao menos no início, vai…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-27T03:30:52.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
     "id": "976dc5ab10307088",
     "manchete": "Na equação de custos, volume e preços da Camil, lucro cai mais uma vez em novo trimestre",
     "url": "https://agfeed.com.br/negocios/na-equacao-de-custos-volume-e-precos-da-camil-lucro-cai-mais-uma-vez-em-novo-trimestre",
