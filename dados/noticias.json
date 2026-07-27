@@ -1,33 +1,246 @@
 [
   {
-    "id": "5e1c7945fed9c1c4",
-    "manchete": "Bayer faz acordo com grupo francês para explorar filão bilionário de sementes híbridas de trigo",
-    "url": "https://agfeed.com.br/negocios/bayer-faz-acordo-com-grupo-frances-para-explorar-filao-bilionario-de-sementes-hibridas-de-trigo",
-    "resumo": "Bayer e RAGT firmam parceria para desenvolver sementes híbridas de trigo mais produtivas e resistentes ao clima extremo",
+    "id": "c6681f07777a34dc",
+    "manchete": "O apetite sem fim da Coamo",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-apetite-sem-fim-da-coamo",
+    "resumo": "Cooperativa volta a avançar sobre ativos da Belagrícola no Paraná, mantendo a estratégia de ocupar espaços deixados pela empresa em crise",
     "fonte": "AgFeed",
-    "data": "2026-07-27T13:22:51.925Z",
+    "data": "2026-07-27T22:16:45.145Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "Bayer",
-      "RAGT"
+      "Coamo",
+      "Belagrícola"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b5fe0306e83a9025",
+    "manchete": "MP das dívidas rurais autoriza os bancos a operarem linhas para reestruturar débitos. Problema resolvido? MP das dívidas rurais autoriza os bancos a operarem linhas para reestruturar débitos. Problema resolvido?",
+    "url": "https://agfeed.com.br/campo-das-ideias/direito-de-produzir/mp-das-dividas-rurais-autoriza-os-bancos-a-operarem-linhas-para-reestruturar-debitos-problema-resolvido",
+    "resumo": "Medida, que foi regulamentada, não obriga instituições a adotarem a renegociação, que pode ser feita “por sua conveniência e decisão”",
+    "fonte": "AgFeed",
+    "data": "2026-07-27T22:16:45.144Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fdfd9121f70922e0",
+    "manchete": "Mantiqueira volta ao mercado de CRAs com emissão de R$ 150 milhões Mantiqueira volta ao mercado de CRAs com emissão de R$ 150 milhões",
+    "url": "https://agfeed.com.br/financas/mantiqueira-volta-ao-mercado-de-cras-com-emissao-de-r-150-milhoes",
+    "resumo": "Produtora de ovos, que tem JBS como sócia, protocolou oferta pública de títulos sob coordenação líder da XP Investimentos",
+    "fonte": "AgFeed",
+    "data": "2026-07-27T22:16:45.143Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "Mantiqueira",
+      "JBS",
+      "XP Investimentos"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "46ac9882b5c0bb48",
+    "manchete": "AVIN explica por que corrida da IA pode impulsionar WEG",
+    "url": "https://neofeed.com.br/janela-de-mercado/avin-capital-ve-weg-como-vendedora-de-picaretas-da-corrida-da-ia/",
+    "resumo": "Avin vê potencial de alta de quase 40% para as ações da WEG, impulsionadas pela expansão de data centers, redes elétricas e inteligência artificial.",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T22:16:31.164Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "WEG",
+      "Avin"
     ],
     "relevante": true,
     "importancia": 2
   },
   {
-    "id": "94dfd8d5927a73ab",
-    "manchete": "Coopama vai além do café com leite, ganha força nos grãos e mira se fixar na faixa do R$ 1 bilhão",
-    "url": "https://agfeed.com.br/negocios/coopama-vai-alem-do-cafe-com-leite-ganha-forca-nos-graos-e-mira-se-fixar-na-faixa-do-r-1-bilhao",
-    "resumo": "Cooperativa do Sul de Minas amplia investimentos em armazenagem, aposta na diversificação e vê café especial e grãos sustentarem novo ciclo de crescimento",
-    "fonte": "AgFeed",
-    "data": "2026-07-27T13:22:51.925Z",
+    "id": "e76d730412a975ba",
+    "manchete": "Na reta final, governo tenta destravar concessão da Hidrovia do Paraguai",
+    "url": "https://neofeed.com.br/poder/na-reta-final-governo-tenta-destravar-concessao-da-hidrovia-do-paraguai/",
+    "resumo": "Brasil planeja enviar projeto ao Congresso antes das eleições para ratificar a Hidrovia do Paraguai, enquanto negociações com Paraguai e Bolívia avançam",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T22:16:31.163Z",
+    "tags_tema": [
+      "Regulação",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4a97188d83d0f495",
+    "manchete": "ARTIGO: Como a Lei das S.A. e a Lei de Arbitragem ajudam a construir o mercado brasileiro",
+    "url": "https://neofeed.com.br/insiders/artigo-como-a-lei-das-s-a-e-a-lei-de-arbitragem-ajudam-a-construir-o-mercado-brasileiro/",
+    "resumo": "As leis das S.A. e de Arbitragem no Brasil reduziram o risco jurídico e impulsionaram o mercado de capitais. Agora, a evolução será crucial para enfrentar desafios como a tokenização de ativos e a IA",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T22:16:31.163Z",
+    "tags_tema": [
+      "Regulação",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "91d95f6e431d362a",
+    "manchete": "Na Embraer, BTG, XP e Citi ajustam plano de voo após recorde nos pedidos de aviões militares",
+    "url": "https://neofeed.com.br/negocios/na-embraer-btg-xp-e-citi-ajustam-plano-de-voo-apos-recorde-nos-pedidos-de-avioes-militares/",
+    "resumo": "Embraer registra backlog de US$ 34,5 bilhões no segundo trimestre, alta de 16%. Destaque foi a encomenda de 10 KC-390 para os Emirados Árabes Unidos",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T22:16:31.163Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [
+      "Embraer",
+      "BTG Pactual",
+      "XP",
+      "Citibank"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "ab977b2881534730",
+    "manchete": "Apps de entrega e e-commerce aceleram carteiras de FIDCs e superam R$ 25 bi em concessão de crédito",
+    "url": "https://neofeed.com.br/negocios/apps-de-entrega-e-e-commerce-aceleram-carteiras-de-fidcs-e-superam-r-25-bi-em-concessao-de-credito/",
+    "resumo": "m FIDCs, veículos ligados à Shopee tiveram maior crescimento no primeiro semestre, enquanto estruturas da 99 apresentam maior alta de inadimplência",
+    "fonte": "NeoFeed",
+    "data": "2026-07-27T22:16:31.163Z",
+    "tags_tema": [
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [
+      "Shopee",
+      "99"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "04b47d513bfcea94",
+    "manchete": "TIM (TIMS3): lucro líquido cresce 6,2% no 2º trimestre e vai a R$ 1,036 bilhão",
+    "url": "https://www.infomoney.com.br/mercados/tim-tims3-resultados-segundo-trimestre-2026/",
+    "resumo": "O destaque do período foi o avanço da clientela de banda larga e a incorporação integral da empresa de tecnologia recém-adquirida V8 Tech",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T22:13:52.000Z",
     "tags_tema": [
       "Economia Real"
     ],
     "tags_empresa": [
-      "Coopama"
+      "TIM",
+      "V8 Tech"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f4775022d4632ce3",
+    "manchete": "Em recuperação judicial, Toky (TOKY3) aprova grupamento de ações na proporção de 20 para 1",
+    "url": "https://www.moneytimes.com.br/em-recuperacao-judicial-toky-toky3-aprova-grupamento-de-acoes-na-proporcao-de-20-para-1-vtra/",
+    "resumo": "A Toky (TOKY3), dona da Tok&#38;Stok e da Mobly, informou nesta segunda-feira (27) que seus acionistas aprovaram, em assembleia geral extraordinária, o grupamento da totalidade das ações ordinárias da companhia na proporção de 20 para 1. Assim, cada conjunto de 20 ações será convertido em uma única ação. Segundo a…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T22:03:34.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Toky",
+      "Tok&Stok",
+      "Mobly"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fea4d1ddf3249b3f",
+    "manchete": "TIM (TIMS3) lucra R$ 1,04 bilhão no 2º trimestre, alta de 6,2%",
+    "url": "https://www.moneytimes.com.br/tim-tims3-lucra-r-104-bilhao-no-2o-trimestre-alta-de-62-vtra/",
+    "resumo": "O lucro líquido normalizado da TIM (TIMS3) somou R$ 1,03 bilhão no segundo trimestre de 2026, alta de 6,2% em relação ao mesmo período do ano anterior. A receita líquida avançou 5,5%, para R$ 6,965 bilhões, enquanto o Ebitda normalizado cresceu 7%, para R$ 3,586 bilhões. Na avaliação da companhia, o desempenho foi…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T21:39:39.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [
+      "TIM"
+    ],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "aa2b0b6287d5f53c",
+    "manchete": "Mercado de capitais registra volume recorde no 1º semestre de 2026, diz Anbima",
+    "url": "https://www.moneytimes.com.br/mercado-de-capitais-registra-volume-recorde-no-1o-semestre-de-2026-diz-anbima/",
+    "resumo": "O mercado de capitais brasileiro movimentou R$ 361,8 bilhões em ofertas no primeiro semestre de 2026, o maior volume já registrado para o período na série histórica da Anbima (Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais), iniciada em 2012. Segundo dados da Anbima, o montante representa…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T21:10:54.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Anbima"
+    ],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e3669e0cc1291b8c",
+    "manchete": "Calendário de obrigatoriedade de documentos da Reforma Tributária sai até julho",
+    "url": "https://www.infomoney.com.br/economia/calendario-de-obrigatoriedade-de-documentos-da-reforma-tributaria-sai-ate-julho/",
+    "resumo": "São os documentos fiscais eletrônicos com destaque da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS)",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T20:56:48.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 2
+  },
+  {
+    "id": "d6356eccfb042856",
+    "manchete": "Startups: tarifas pesam sobre vendas e afetam resultados da Shein às vésperas de IPO",
+    "url": "https://www.infomoney.com.br/business/ipo-da-shein-tarifas-pesam-sobre-vendas-nos-eua-e-afetam-resultados/",
+    "resumo": "Empresa apresentou prejuízo líquido de US$ 99 milhões no primeiro trimestre de 2026 e valuation pode não chegar a US$ 50 bi",
+    "fonte": "InfoMoney",
+    "data": "2026-07-27T20:46:24.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "Shein"
+    ],
+    "relevante": true,
+    "importancia": 4
+  },
+  {
+    "id": "84e0abdeac1ca9b0",
+    "manchete": "B3 faz mudança em 101 BDRs e reduz preço de entrada para investidores",
+    "url": "https://www.moneytimes.com.br/b3-faz-mudanca-em-101-bdrs-e-reduz-preco-de-entrada-para-investidores/",
+    "resumo": "A B3 (B3SA3) iniciou nesta segunda-feira (27) o ajuste de paridade de 101 BDRs de empresas estrangeiras para reduzir o preço unitário dos recibos e facilitar o acesso de investidores pessoa física a ativos internacionais. A expectativa é que parte dos BDRs passe a ser negociada na faixa entre R$ 50 e R$ 100 por…",
+    "fonte": "Money Times",
+    "data": "2026-07-27T20:02:48.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [
+      "B3"
     ],
     "relevante": true,
     "importancia": 2
