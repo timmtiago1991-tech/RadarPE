@@ -1,5 +1,557 @@
 [
   {
+    "id": "9ddf562855125efd",
+    "manchete": "No balanço da Yara, o paradoxo da escalada dos preços dos fertilizantes: menos encomendas e mais margens",
+    "url": "https://agfeed.com.br/negocios/no-balanco-da-yara-o-paradoxo-da-escalada-dos-precos-dos-fertilizantes-menos-encomendas-e-mais-margens",
+    "resumo": "Yara vê margens crescerem com alta dos fertilizantes, mas guerra no Oriente Médio reduz demanda e pressiona resultados",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.583Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "756e1ccb1033f8d5",
+    "manchete": "Cenário pouco provável, mas possível",
+    "url": "https://agfeed.com.br/campo-das-ideias/desafios-da-pecuaria/cenario-pouco-provavel-mas-possivel",
+    "resumo": "Números da pecuária brasileira têm evidenciado um desempenho cada vez mais associado aos ganhos de produtividade",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.582Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fdd04220395c771b",
+    "manchete": "As armas da Vittia para enfrentar a massificação dos biológicos e atravessar a tormenta do setor As armas da Vittia para enfrentar a massificação dos biológicos e atravessar a tormenta do setor",
+    "url": "https://agfeed.com.br/negocios/as-armas-da-vittia-para-enfrentar-a-massificacao-dos-biologicos-e-atravessar-a-tormenta-do-setor",
+    "resumo": "Vittia acelera pesquisas em biológicos, amplia atuação internacional e busca preservar competitividade enquanto espera a recuperação do agro",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.581Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dadd5b6387674f14",
+    "manchete": "Jussara estuda instalar fábrica de leite em pó no Paraguai, com investimento de US$ 10 milhões Jussara estuda instalar fábrica de leite em pó no Paraguai, com investimento de US$ 10 milhões",
+    "url": "https://agfeed.com.br/negocios/jussara-estuda-instalar-fabrica-de-leite-em-po-no-paraguai-com-investimento-de-us-10-milhoes",
+    "resumo": "Indústria paulista de laticínios Jussara avalia unidade no Paraguai, primeira da empresa no exterior, mas voltada ao mercado brasileiro",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.581Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "89da63c4c7fdae3e",
+    "manchete": "O subproduto virou negócio: M. Dias Branco cria nova vertical para entrar de vez na nutrição animal",
+    "url": "https://agfeed.com.br/negocios/o-subproduto-virou-negocio-m-dias-branco-cria-nova-vertical-para-entrar-de-vez-na-nutricao-animal",
+    "resumo": "M. Dias Branco transforma subproduto da moagem em nova frente de crescimento, com foco em rastreabilidade e distribuição nacional",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.580Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63dd646dc415b004",
+    "manchete": "A receita da 3R Ribersolo para crescer 30% ao ano: aumentar o escopo dos diagnósticos no campo",
+    "url": "https://agfeed.com.br/negocios/a-receita-da-3r-ribersolo-para-crescer-30-ao-ano-aumentar-o-escopo-dos-diagnosticos-no-campo",
+    "resumo": "Dois anos após fusão, empresa que tem como sócios 10b e Good Karma aposta na expansão do mercado de diagnósticos",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.580Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5753f0fa6d840c68",
+    "manchete": "Um protocolo Brasil-China para azeitar exportações",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/um-protocolo-brasil-china-para-azeitar-exportacoes",
+    "resumo": "Estudo da WRI mostra que protocolo antidesmatamento comum poderia ampliar confiança no comércio bilateral",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.579Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dca35977232f832d",
+    "manchete": "John Deere volta a investir em produção e vai fabricar componentes eletrônicos no Brasil John Deere volta a investir em produção e vai fabricar componentes eletrônicos no Brasil",
+    "url": "https://agfeed.com.br/negocios/john-deere-volta-a-investir-em-producao-e-vai-fabricar-componentes-eletronicos-no-brasil",
+    "resumo": "John Deere investe R$ 75 milhões em Canoas para fabricar componentes eletrônicos e ampliar produção no Brasil",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.579Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "051c839a0ff4ad37",
+    "manchete": "Bioengenharia, IA e R$ 18 milhões: a fórmula de uma startup para \"reprogramar\" o mercado de bioinsumos Bioengenharia, IA e R$ 18 milhões: a fórmula de uma startup para \"reprogramar\" o mercado de bioinsumos",
+    "url": "https://agfeed.com.br/agtech/bioengenharia-ia-e-r-18-milhoes-a-formula-de-uma-startup-para-reprogramar-o-mercado-de-bioinsumos",
+    "resumo": "Terra Genomics capta R$ 18 milhões para desenvolver microrganismos editados com IA e mira transformar o mercado de bioinsumos.",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.579Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dc292c0b2fcbcc24",
+    "manchete": "A estratégia \"sem UE\" do frango brasileiro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-sem-ue-do-frango-brasileiro",
+    "resumo": "ABPA minimiza efeito do bloqueio europeu às exportações do Brasil e mantém projeções de vendas externas para este ano",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.578Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5534434a4ad33ed8",
+    "manchete": "DIRETO DA FAZENDA",
+    "url": "https://agfeed.com.br/campo-das-ideias/direto-da-fazenda/",
+    "resumo": "Autor Teresa Cristina (Teka) Vendramini Fazendeira e socióloga, é ex-presidente da Sociedade Rural Brasileira e atual conselheira da Embrapa Ver todos os posts",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.577Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1d2ada1029ce15c",
+    "manchete": "O boi China ensina o caminho para o boi europeu",
+    "url": "https://agfeed.com.br/campo-das-ideias/direto-da-fazenda/o-boi-china-ensina-o-caminho-para-o-boi-europeu",
+    "resumo": "O Brasil deve atender às exigências sanitárias de cada mercado de forma individual, sem impor restrições nacionais",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.577Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2bb4f8a87d718029",
+    "manchete": "Agroallianz, de Coopercitrus e DVA, busca parceiro na meta do primeiro bilhão",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/agroallianz-de-coopercitrus-e-dva-busca-parceiro-na-meta-do-primeiro-bilhao",
+    "resumo": "Agroallianz aposta em inovação em defensivos, mira R$ 1 bi em faturamento e amplia presença no agronegócio brasileiro",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.576Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e17a22e77552c291",
+    "manchete": "Com recurso à OMC contra tarifas de Trump, Brasil move peça mais política do que prática, diz especialista Com recurso à OMC contra tarifas de Trump, Brasil move peça mais política do que prática, diz especialista",
+    "url": "https://agfeed.com.br/economia/com-recurso-a-omc-contra-tarifas-de-trump-brasil-move-peca-mais-politica-do-que-pratica-diz-especialista",
+    "resumo": "Brasil aciona OMC contra tarifas de Trump, mas medida tem efeito político e fortalece estratégia comercial, diz especialista",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.576Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "31020d292e927ba8",
+    "manchete": "Bloqueio da União Europeia ao frango brasileiro não deve desequilibrar mercado, diz ABPA Bloqueio da União Europeia ao frango brasileiro não deve desequilibrar mercado, diz ABPA",
+    "url": "https://agfeed.com.br/economia/bloqueio-da-uniao-europeia-ao-frango-brasileiro-nao-deve-desequilibrar-mercado-diz-abpa",
+    "resumo": "ABPA diz que eventual embargo da União Europeia não deve desequilibrar o mercado e aposta no redirecionamento das exportações",
+    "fonte": "AgFeed",
+    "data": "2026-07-28T22:15:23.576Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fde772ec0cb6d119",
+    "manchete": "Apple atinge US$ 5 trilhões e vira porto seguro em meio à liquidação de ações de empresas de IA",
+    "url": "https://neofeed.com.br/negocios/apple-atinge-us-5-trilhoes-e-vira-porto-seguro-em-meio-a-liquidacao-de-acoes-de-empresas-de-ia/",
+    "resumo": "O conservadorismo da Apple em seus investimentos em IA está valendo a pena em um momento que cresce o ceticismo de investidores com os pesados aportes de empresas com a tecnologia",
+    "fonte": "NeoFeed",
+    "data": "2026-07-28T22:15:17.013Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1e1c1f6b5ba552fc",
+    "manchete": "A nova Fifa de Infantino: operação de US$ 4,2 bilhões marca entrada da entidade no jogo do mercado",
+    "url": "https://neofeed.com.br/negocios/a-nova-fifa-de-infantino-operacao-de-us-42-bilhoes-marca-entrada-da-entidade-no-jogo-do-mercado/",
+    "resumo": "Entidade estrutura venda de participação em empresa que reunirá direitos de transmissão e patrocínios, avaliada em US$ 20 bilhões",
+    "fonte": "NeoFeed",
+    "data": "2026-07-28T22:15:17.013Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "043bb1df48237438",
+    "manchete": "No prospecto do IPO, Shein quer convencer o mercado de que não vende (apenas) roupas",
+    "url": "https://neofeed.com.br/negocios/no-prospecto-do-ipo-shein-quer-convencer-o-mercado-de-que-nao-vende-apenas-roupas/",
+    "resumo": "Texto do documento do IPO da Shein mostra que o futuro da companhia é um reposicionamento em que a rede de fast fashion troca o múltiplo da moda pelo da tecnologia",
+    "fonte": "NeoFeed",
+    "data": "2026-07-28T22:15:17.012Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ee0e95fdaba57429",
+    "manchete": "Boeing volta a \"ganhar altitude\", mas Air Force One mantém resultado no vermelho",
+    "url": "https://neofeed.com.br/negocios/boeing-volta-a-ganhar-altitude-mas-air-force-one-mantem-resultado-no-vermelho/",
+    "resumo": "Na Boeing, aumento das entregas de aeronaves comerciais impulsiona geração de caixa e anima investidores, que veem boas perspectivas para a empresa",
+    "fonte": "NeoFeed",
+    "data": "2026-07-28T22:15:17.012Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8de664a45137b5ea",
+    "manchete": "Inadimplência pode ser o gatilho do próximo choque na bolsa, avalia cofundador da Meraki Capital",
+    "url": "https://neofeed.com.br/economia/inadimplencia-pode-ser-o-gatilho-do-proximo-choque-na-bolsa-avalia-cofundador-da-meraki-capital/",
+    "resumo": "Com R$ 2 bilhões, gestora de ações tem buscado ações de empresas com caixa e bancos com menos exposição ao varejo",
+    "fonte": "NeoFeed",
+    "data": "2026-07-28T22:15:17.012Z",
+    "tags_tema": [
+      "Private Equity",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "64467c094d18bbf4",
+    "manchete": "“Precisamos conectar as ferrovias para reduzir custo logístico”, diz ministro dos Transportes",
+    "url": "https://neofeed.com.br/economia/precisamos-conectar-as-ferrovias-para-reduzir-custo-logistico-diz-ministro-dos-transportes/",
+    "resumo": "À frente dos Transportes, ministro George Santoro defende política de concessões do governo e revela aposta no Arco do Sudeste",
+    "fonte": "NeoFeed",
+    "data": "2026-07-28T22:15:17.011Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f3b47ac6907614f",
+    "manchete": "Petrobras bate recorde de produção no 2T26 com avanço de Búzios e novas plataformas",
+    "url": "https://www.moneytimes.com.br/petrobras-bate-recorde-de-producao-no-2t26-com-avanco-de-buzios-e-novas-plataformas-vtra/",
+    "resumo": "A Petrobras (PETR4) registrou produção média de 3,336 milhões de barris de óleo equivalente por dia (boed) no segundo trimestre de 2026 (2T26), novo recorde para a companhia. O volume representa um crescimento de 3,4% em relação aos 3,225 milhões de boed produzidos no primeiro trimestre e uma alta de 14,1% na…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T22:12:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aea75d5f474d1417",
+    "manchete": "Irritação de Trump com Netanyahu evidencia tensões em encontro de líderes",
+    "url": "https://www.infomoney.com.br/mundo/irritacao-de-trump-com-netanyahu-evidencia-tensoes-em-encontro-de-lideres/",
+    "resumo": "O gabinete de Netanyahu não respondeu imediatamente aos pedidos de comentário sobre as declarações de Trump",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T21:34:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "01b7e7686cf85672",
+    "manchete": "Ford eleva guidance mesmo após prejuízo no segundo trimestre de 2026",
+    "url": "https://www.moneytimes.com.br/ford-eleva-guidance-mesmo-apos-prejuizo-no-segundo-trimestre-de-2026/",
+    "resumo": "A Ford Motors elevou seu guidance para 2026, após registrar um prejuízo líquido de US$ 1,3 bilhão no segundo trimestre de 2026, ante prejuízo de US$ 1,398 bilhão projetado por analistas consultados pela FactSet. O lucro ajustado por ação foi de US$ 0,42, acima do esperado por especialistas do FactSet de US$ 0,36. A…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T21:33:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ed5ac3b4eedc1478",
+    "manchete": "Lula pede para diretor da OMS mandar recado sobre SUS para Trump",
+    "url": "https://www.infomoney.com.br/politica/lula-pede-para-diretor-da-oms-mandar-recado-sobre-sus-para-trump/",
+    "resumo": "Lula também pediu ao diretor da OMS que diga a Trump que \"qualquer pobre do Brasil pode fazer\" um tratamento contra o câncer",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T21:32:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9d2ee7ebfded3cc9",
+    "manchete": "Casa Rosada minimiza crise com Brasil: \"sempre houve insultos de ambos os lados\"",
+    "url": "https://www.infomoney.com.br/mundo/casa-rosada-minimiza-crise-com-brasil-sempre-houve-insultos-de-ambos-os-lados/",
+    "resumo": "Porta-voz Adrian Ravier assegurou que se trata de \"diferenças ideológicas e políticas\", mas esclareceu que \"a Argentina nunca as levou ao plano diplomático\"",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T21:26:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc52594d4559e282",
+    "manchete": "Trigo fica firme em Chicago com hostilidades no Mar Negro",
+    "url": "https://www.moneytimes.com.br/trigo-fica-firme-em-chicago-com-hostilidades-no-mar-negro-pads/",
+    "resumo": "Os preços do trigo registraram uma ligeira alta após um dia de negociações voláteis, à medida que os operadores avaliavam as perspectivas de conversas entre a Ucrânia e a Rússia para manter a circulação de navios de carga pelos principais portos do Mar Negro, enquanto a guerra entre os dois países continua. O trigo…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T21:24:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6fc80cf35f48ffdb",
+    "manchete": "Acordo com Irã não prevê taxas nem pedágios para passagem por Ormuz, diz EUA",
+    "url": "https://www.infomoney.com.br/mundo/acordo-com-ira-nao-preve-taxas-nem-pedagios-para-passagem-por-ormuz-diz-eua/",
+    "resumo": "A ​autoridade norte-americana disse que ⁠o ​Irã estava fazendo ​exigências irracionais que foram ​rejeitadas ⁠por Omã ⁠e pelos Estados Unidos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T21:24:32.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "18ca51fbe76edf6f",
+    "manchete": "Visa (VISA34) tem aumento no lucro, mas resultado por ação fica abaixo do esperado e papéis recuam em NY",
+    "url": "https://www.moneytimes.com.br/visa-visa34-tem-aumento-no-lucro-mas-resultado-por-acao-fica-abaixo-do-esperado-e-papeis-recuam-em-ny/",
+    "resumo": "A Visa (VISA34) registrou lucro de US$ 5,6 bilhões, ou US$ 2,97 por ação, no trimestre encerrado em 30 de junho, em um aumento de 7% em relação ao lucro de um ano antes, avanço que foi de 10% por ação no período. Analistas consultados pela FactSet esperavam lucro maior, de US$ 3,23 por ação. [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-28T21:21:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6a25cf96efcbba35",
+    "manchete": "Relação de juros e Bolsa dos EUA foi alterada drasticamente pela IA, dizem gestores",
+    "url": "https://www.infomoney.com.br/onde-investir/relacao-de-juros-e-bolsa-dos-eua-foi-alterada-drasticamente-pela-ia-dizem-gestores/",
+    "resumo": "Especialistas avaliam que a corrida pela inteligência artificial sustenta a economia americana e mantém os juros elevados, mas cria desafios para mercados menos expostos à tecnologia",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T21:17:04.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "03a38fdb4f41e19d",
+    "manchete": "Crédito imobiliário cresce 23% no semestre enquanto Abecip revê previsões para 2026",
+    "url": "https://www.infomoney.com.br/minhas-financas/credito-imobiliario-cresce-23-no-semestre-enquanto-abecip-reve-previsoes-para-2026/",
+    "resumo": "As operações financiadas por meio do FGTS são as principais responsáveis pela revisão das projeções para 2026",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T21:02:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4c2260b8ec596bb7",
+    "manchete": "Santander (SANB11) apagado? Veja o tamanho do lucro da próxima quarta-feira (29)",
+    "url": "https://www.moneytimes.com.br/santander-sanb11-apagado-veja-o-que-tamanho-do-lucro-do-resultado-da-proxima-quarta-feira-28-rnda/",
+    "resumo": "O Santander (SANB11) divulgará seus números sem muito entusiasmo de analistas. Depois de um primeiro trimestre já apagado, com piora do ROE (retorno sobre o patrimônio líquido) e inadimplência, parte de analistas espera um 'passo para trás' no lucro. Inclusive, já há um bom indicativo disso: o Grupo Santander Espanha…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T20:58:29.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b35d22496400aac4",
+    "manchete": "TIM e Vivo: por que as ações fecharam em forte queda de 6% após balanços do 2T?",
+    "url": "https://www.infomoney.com.br/mercados/tim-e-vivo-por-que-as-acoes-sao-destaque-de-queda-do-ibovespa-apos-o-balanco-do-2t/",
+    "resumo": "Ações registraram queda em um dia positivo do mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T20:56:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4e6688c59316e6c9",
+    "manchete": "Ibovespa: surpresa com IPCA-15 faz índice subir 0,70%; mercado vê alívio, não vitória",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-surpresa-com-ipca-15-faz-indice-subir-1-mercado-ve-alivio-nao-vitoria/",
+    "resumo": "Prévia da inflação sobe apenas 0,06% em julho, derruba os juros futuros e aumenta o apetite por risco na Bolsa, embora analistas alertem para riscos externos e impactos das tarifas dos EUA",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T20:53:10.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dfe300f3ce92703e",
+    "manchete": "Ibovespa fecha novamente em alta, com impulso do IPCA-15, bancos e Petrobras",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28072026/",
+    "resumo": "Índices nos EUA terminam mistos, com ações de chips; Dow Jones fica positivo",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T20:52:21.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c95553bb26b52b3a",
+    "manchete": "Shein divulga investigação nos EUA e traz alerta em processo de IPO em Hong Kong",
+    "url": "https://www.infomoney.com.br/mercados/shein-divulga-investigacao-nos-eua-e-traz-alerta-em-processo-de-ipo-em-hong-kong/",
+    "resumo": "Shein divulga investigação da FTC e aponta possibilidade de pagamentos significativos",
+    "fonte": "InfoMoney",
+    "data": "2026-07-28T20:49:18.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8324da1076cbb385",
+    "manchete": "Ibovespa avança com expectativa de corte na Selic após IPCA-15; dólar sobe a R$ 5,12",
+    "url": "https://www.moneytimes.com.br/ibovespa-28-7-26-apsa/",
+    "resumo": "O Ibovespa (IBOV) avançou com o dado mais fraco da prévia da inflação reforçando a leitura de que o Banco Central deve cortar os juros na reunião de agosto sobre política monetária. Nesta terça-feira (28), o principal índice da bolsa brasileira terminou as negociações com alta de 0,70%, aos 176.564,75 pontos. Já o…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T20:23:40.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8f896ce493a07e1d",
+    "manchete": "Taxas dos DIs têm queda firme com IPCA-15 abaixo do esperado",
+    "url": "https://www.moneytimes.com.br/taxas-dos-dis-tem-queda-firme-com-ipca-15-abaixo-do-esperado-lils/",
+    "resumo": "As taxas dos Depósitos Interfinanceiros (DIs) registraram queda firme nesta terça-feira (28), impulsionadas pelos dados de inflação do IPCA-15, que vieram abaixo das estimativas do mercado, e com a ajuda adicional das perdas do petróleo no exterior. No fim da tarde, a taxa do Depósito Interfinanceiro (DI) para janeiro…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T20:21:17.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eaf007bb0c27cb1d",
+    "manchete": "Sem Cleitinho, bloco sem candidato 'lidera' em Minas Gerais",
+    "url": "https://www.moneytimes.com.br/sem-cleitinho-bloco-de-indecisos-brancos-e-nulos-lidera-em-minas-gerais-gaep/",
+    "resumo": "Líder nos dois turnos na corrida eleitoral em Minas Gerais, senador Cleitinho Azevedo (Republicanos) tem dado sinais de que não disputará as eleições 2026 no Estado. Aliados foram informados que ele pode desistir da eventual candidatura, cenário que ganhou força após a morte do seu irmão, Matheus Azevedo, de leucemia,…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T20:19:10.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e0b6abd5d7f0076f",
+    "manchete": "Dólar avança R$ 5,12 à espera de Fed e com baixa do petróleo",
+    "url": "https://www.moneytimes.com.br/dolar-28-7-26-apsa/",
+    "resumo": "O dólar à vista ganhou força ante o real à espera da decisão de política monetária do Federal Reserve (Fed, o banco central dos Estados Unidos) amanhã e da nova sessão de perdas do petróleo. Nesta terça-feira (28), o dólar à vista terminou as negociações a R$ 5,1223, em alta de 0,20%. O dólar destoou [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-28T20:05:09.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fa3be1dbbcd678a6",
+    "manchete": "Wall Street tem tom misto de olho em Oriente Médio e à espera de Fed",
+    "url": "https://www.moneytimes.com.br/wall-street-28-7-26-lils/",
+    "resumo": "Os índices de Wall Street tiveram mais uma sessão volátil e encerraram o pregão sem direção única em reação a balanços corporativos, queda dos preços do petróleo pelo terceiro dia consecutivo e otimismo de avanço nas negociações de paz no Oriente Médio e reabertura do Estreito de Ormuz. O 'sell-off' em ações de…",
+    "fonte": "Money Times",
+    "data": "2026-07-28T20:02:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b5cbb27118a00fe5",
+    "manchete": "O impacto de Revenue Intelligence no valuation de startups",
+    "url": "https://startupi.com.br/o-impacto-de-revenue-intelligence-no-valuation-de-startups/",
+    "resumo": "Startupi O impacto de Revenue Intelligence no valuation de startups * Por Thais Sterenberg Quando um investidor senta para avaliar uma startup, ele não olha apenas para o produto ou para o potencial de mercado. Ele tenta entender se a empresa sabe o que está acontecendo dentro dela, se consegue prever o que vem pela…",
+    "fonte": "Startupi",
+    "data": "2026-07-28T13:12:16.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fea7f0cae628fb5c",
+    "manchete": "R$ 1 trilhão em FIDCs: o que explica a expansão em meio à queda da Selic?",
+    "url": "https://startupi.com.br/r-1-trilhao-em-fidcs-o-que-explica-a-expansao-em-meio-a-queda-da-selic/",
+    "resumo": "Startupi R$ 1 trilhão em FIDCs: o que explica a expansão em meio à queda da Selic? A leitura mais comum sobre os Fundos de Investimento em Direitos Creditórios (FIDCs) os trata como um produto de juro alto: enquanto a Selic aperta e o banco recua, o crédito estruturado avança. O problema dessa leitura é que ela não…",
+    "fonte": "Startupi",
+    "data": "2026-07-28T12:32:25.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "c4b1b31ecf0bc202",
     "manchete": "Grupo Cavalca amplia atuação no agro e mira novas fronteiras",
     "url": "https://agfeed.com.br/negocios/grupo-cavalca-amplia-atuacao-no-agro-e-mira-novas-fronteiras",
@@ -212,30 +764,6 @@
     "manchete": "Um conteúdo AMAGGI",
     "url": "https://agfeed.com.br/author/um-conteudo-amaggi/",
     "resumo": "Um conteúdo AMAGGI",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.633Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8a4ace578a7807b1",
-    "manchete": "Protocolo Brasil-China pode unificar regras para soja e carne livres de desmatamento, avalia WRI Protocolo Brasil-China pode unificar regras para soja e carne livres de desmatamento, avalia WRI",
-    "url": "https://agfeed.com.br/esg/protocolo-brasil-china-pode-unificar-regras-para-soja-e-carne-livres-de-desmatamento-avalia-wri",
-    "resumo": "Organização propõe harmonizar critérios de monitoramento e rastreabilidade para fortalecer o comércio bilateral",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.633Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c8d9cfa4510b3b15",
-    "manchete": "Abertura da Coopercitrus Expo destaca força do cooperativismo e expectativa de negócios para a safra Abertura da Coopercitrus Expo destaca força do cooperativismo e expectativa de negócios para a safra",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/abertura-da-copercitrus-expo-destaca-forca-do-cooperativismo-e-expectativa-de-negocios-para-a-safra",
-    "resumo": "Abertura da edição 2026 da Coopercitrus Expo destaca força do cooperativismo e expectativa de negócios para a nova safra",
     "fonte": "AgFeed",
     "data": "2026-07-28T12:15:49.633Z",
     "tags_tema": [],
@@ -604,56 +1132,6 @@
       "Venture Capital"
     ],
     "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c6681f07777a34dc",
-    "manchete": "O apetite sem fim da Coamo",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-apetite-sem-fim-da-coamo",
-    "resumo": "Cooperativa volta a avançar sobre ativos da Belagrícola no Paraná, mantendo a estratégia de ocupar espaços deixados pela empresa em crise",
-    "fonte": "AgFeed",
-    "data": "2026-07-27T22:16:45.145Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Coamo",
-      "Belagrícola"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b5fe0306e83a9025",
-    "manchete": "MP das dívidas rurais autoriza os bancos a operarem linhas para reestruturar débitos. Problema resolvido? MP das dívidas rurais autoriza os bancos a operarem linhas para reestruturar débitos. Problema resolvido?",
-    "url": "https://agfeed.com.br/campo-das-ideias/direito-de-produzir/mp-das-dividas-rurais-autoriza-os-bancos-a-operarem-linhas-para-reestruturar-debitos-problema-resolvido",
-    "resumo": "Medida, que foi regulamentada, não obriga instituições a adotarem a renegociação, que pode ser feita “por sua conveniência e decisão”",
-    "fonte": "AgFeed",
-    "data": "2026-07-27T22:16:45.144Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fdfd9121f70922e0",
-    "manchete": "Mantiqueira volta ao mercado de CRAs com emissão de R$ 150 milhões Mantiqueira volta ao mercado de CRAs com emissão de R$ 150 milhões",
-    "url": "https://agfeed.com.br/financas/mantiqueira-volta-ao-mercado-de-cras-com-emissao-de-r-150-milhoes",
-    "resumo": "Produtora de ovos, que tem JBS como sócia, protocolou oferta pública de títulos sob coordenação líder da XP Investimentos",
-    "fonte": "AgFeed",
-    "data": "2026-07-27T22:16:45.143Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Mantiqueira",
-      "JBS",
-      "XP Investimentos"
-    ],
     "relevante": true,
     "importancia": 3
   },
@@ -1061,22 +1539,6 @@
     "importancia": 2
   },
   {
-    "id": "976dc5ab10307088",
-    "manchete": "Na equação de custos, volume e preços da Camil, lucro cai mais uma vez em novo trimestre",
-    "url": "https://agfeed.com.br/negocios/na-equacao-de-custos-volume-e-precos-da-camil-lucro-cai-mais-uma-vez-em-novo-trimestre",
-    "resumo": "Camil vendeu quase 18% mais produtos, mas despesas maiores e juros elevados derrubaram os ganhos no trimestre",
-    "fonte": "AgFeed",
-    "data": "2026-07-26T22:10:58.588Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Camil"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "4ea17134a483dfb9",
     "manchete": "Do maior estádio do mundo ao fundo imobiliário afetado pelo GPA: Veja as principais notícias da semana",
     "url": "https://www.moneytimes.com.br/do-maior-estadio-do-mundo-ao-fundo-imobiliario-afetado-pelo-gpa-veja-as-principais-noticias-da-semana-igdl/",
@@ -1269,39 +1731,6 @@
     "importancia": 2
   },
   {
-    "id": "e332e25d099b5d91",
-    "manchete": "Ele \"não gostava\" de confinamentos. Mas decidiu criar o seu e agora projeta faturar R$ 800 milhões Ele \"não gostava\" de confinamentos. Mas decidiu criar o seu e agora projeta faturar R$ 800 milhões",
-    "url": "https://agfeed.com.br/negocios/ele-nao-gostava-de-confinamentos-mas-decidiu-criar-o-seu-e-agora-projeta-faturar-r-800-milhoes",
-    "resumo": "Com três unidades arrendadas em SP, Maximus aposta em modelo de cobrança por matéria seca e projeta entregar 110 mil animais este ano",
-    "fonte": "AgFeed",
-    "data": "2026-07-25T11:37:32.873Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Maximus"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7ccb674d06623a7e",
-    "manchete": "Coamo avança sobre (mais) ativos da Belagrícola e assume unidades em cinco municípios do Paraná Coamo avança sobre (mais) ativos da Belagrícola e assume unidades em cinco municípios do Paraná",
-    "url": "https://agfeed.com.br/negocios/coamo-avanca-sobre-mais-ativos-da-belagricola-e-assume-unidades-em-cinco-municipios-do-parana",
-    "resumo": "Coamo amplia atuação no Paraná com novos ativos da Belagrícola e reforça estratégia de expansão e armazenagem de grãos",
-    "fonte": "AgFeed",
-    "data": "2026-07-25T11:37:32.868Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Coamo",
-      "Belagrícola"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "425e25a57cc1928c",
     "manchete": "Crédito estruturado ganha espaço e FIDCs devem se popularizar, dizem gestores",
     "url": "https://www.infomoney.com.br/onde-investir/credito-estruturado-ganha-espaco-e-fidcs-devem-se-popularizar-dizem-gestores/",
@@ -1354,40 +1783,6 @@
     ],
     "relevante": true,
     "importancia": 4
-  },
-  {
-    "id": "d3ffedc2232bbfe4",
-    "manchete": "Grupo Potencial revisa projeções e plano de R$ 6 bi pode ser concluído só em 2032",
-    "url": "https://agfeed.com.br/negocios/grupo-potencial-revisa-projecoes-e-plano-de-r-6-bi-pode-ser-concluido-so-em-2032",
-    "resumo": "VP da Potencial, Carlos Eduardo Hammerschmidt, explica que atrasos no cumprimento da de mistura de biodiesel prejudicam investimentos",
-    "fonte": "AgFeed",
-    "data": "2026-07-24T22:17:22.236Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Grupo Potencial"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a42e7bc4aa1ead6b",
-    "manchete": "De gigante para gigante: futuro ex-CEO da Syngenta vai assumir posto no alto escalão da ADM De gigante para gigante: futuro ex-CEO da Syngenta vai assumir posto no alto escalão da ADM",
-    "url": "https://agfeed.com.br/negocios/de-gigante-para-gigante-futuro-ex-ceo-da-syngenta-vai-assumir-posto-no-alto-escalao-da-adm",
-    "resumo": "Ex-CEO da Syngenta assume cargo na ADM enquanto companhia prepara IPO bilionário previsto para 2027 em Hong Kong",
-    "fonte": "AgFeed",
-    "data": "2026-07-24T22:17:22.235Z",
-    "tags_tema": [
-      "Economia Real",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Syngenta",
-      "ADM"
-    ],
-    "relevante": true,
-    "importancia": 3
   },
   {
     "id": "e25cc6bd39defead",
@@ -1612,36 +2007,6 @@
     ],
     "tags_empresa": [
       "ANTT"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a21939e7e07cb5c",
-    "manchete": "\"Brasiguaios corporativos\", empresas brasileiras do agro aceleram planos de expansão no Paraguai",
-    "url": "https://agfeed.com.br/negocios/brasiguaios-corporativos-empresas-brasileiras-do-agro-aceleram-planos-de-expansao-no-paraguai",
-    "resumo": "Companhias brasileiras avaliam ou já colocam em prática planos de expansão no Paraguai de olho em ambiente de negócios mais favorável",
-    "fonte": "AgFeed",
-    "data": "2026-07-24T11:56:55.984Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a46b1228ff56db7",
-    "manchete": "Stine mexe as peças, amplia \"invasão\" do Brasil e aposta no Sul para disputar liderança na soja",
-    "url": "https://agfeed.com.br/negocios/stine-mexe-as-pecas-amplia-invasao-do-brasil-e-aposta-no-sul-para-disputar-lideranca-na-soja",
-    "resumo": "Companhia americana vê, em região do Brasil, caminho para estar no topo do pelotão de vendas da oleaginosa",
-    "fonte": "AgFeed",
-    "data": "2026-07-24T11:56:55.981Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Stine"
     ],
     "relevante": true,
     "importancia": 3
