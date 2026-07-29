@@ -1,5 +1,615 @@
 [
   {
+    "id": "493a32b93c26628d",
+    "manchete": "SLC Agrícola inaugura maior algodoeira da companhia no Piauí Unidade tem capacidade para processar até 80 fardos de algodão por hora e beneficiar a produção de aproximadamente 20 mil hectares por safra, com possibilidade de ampliação para atender até 25 mil hectares",
+    "url": "https://www.cnnbrasil.com.br/agro/slc-agricola-inaugura-maior-algodoeira-da-companhia-no-piaui/",
+    "resumo": "Unidade tem capacidade para processar até 80 fardos de algodão por hora e beneficiar a produção de aproximadamente 20 mil hectares por safra, com possibilidade de ampliação para atender até 25 mil hectares",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.771Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6f6fcc2d3d4c7ac",
+    "manchete": "JBS fecha parceria com empresa sul-coreana para ampliar presença na Ásia Unidade tem capacidade para processar até 80 fardos de algodão por hora e beneficiar a produção de aproximadamente 20 mil hectares por safra, com possibilidade de ampliação para atender até 25 mil hectares",
+    "url": "https://www.cnnbrasil.com.br/agro/jbs-fecha-parceria-com-empresa-sul-coreana-para-ampliar-presenca-na-asia/",
+    "resumo": "Unidade tem capacidade para processar até 80 fardos de algodão por hora e beneficiar a produção de aproximadamente 20 mil hectares por safra, com possibilidade de ampliação para atender até 25 mil hectares",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.771Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "60043fe4d2612337",
+    "manchete": "AgLíderes: A revolução verde (e lucrativa) do Grupo Roncador, segundo o CEO Pelerson Penido",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-a-revolucao-verde-e-lucrativa-do-grupo-roncador-segundo-o-ceo-pelerson-penido",
+    "resumo": "Fazenda Roncador já foi considerada a maior do Brasil e hoje é referência mundial em sustentabilidade. Empresa investe em mineradora",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.770Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fcafba9c01463751",
+    "manchete": "AgLíderes: As armas da Syngenta em tempos de custo alto e instabilidades, na visão de André Savino",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-as-armas-da-syngenta-em-tempos-de-custo-alto-e-instabilidades-na-visao-de-andre-savino",
+    "resumo": "André Savino, presidente da Syngenta Proteção de Cultivos, admite que o conflito no Irã trouxe custos mais elevados, com “chance de prejuízo”",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.770Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "61605ede0f8231a1",
+    "manchete": "Brasil apela \"no vazio\" do OMC",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/brasil-apela-no-vazio-do-omc",
+    "resumo": "Por que o recurso do País contra os tarifaços de Trump devem causar mais efeito político do que prático",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.770Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63e300b1e6330afc",
+    "manchete": "Coopercitrus Expo deve movimentar R$ 2 bi",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/coopercitrus-expo-deve-movimentar-r-2-bi",
+    "resumo": "Feira que ocorre essa semana em Bebedouro (SP) marca os 50 anos da cooperativa paulista, uma das maiores do País",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.770Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4c69cef6a83f7be6",
+    "manchete": "Na “contramão” do mercado, Massari Fértil dobra capacidade em seis meses e traça rota para R$ 1 bilhão",
+    "url": "https://agfeed.com.br/negocios/na-contramao-do-mercado-massari-fertil-dobra-capacidade-em-seis-meses-e-traca-rota-para-r-1-bilhao",
+    "resumo": "Massari Fértil dobra produção, investe em fertilizantes nacionais e mira R$ 1 bilhão em receita com expansão no agro",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.769Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "82de00cfcf04abd4",
+    "manchete": "Um conteúdo AMAGGI",
+    "url": "https://agfeed.com.br/author/um-conteudo-amaggi/",
+    "resumo": "Um conteúdo AMAGGI",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.769Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f08d89660c0738a9",
+    "manchete": "O susto na 3tentos: ações da empresa caem 19%, mas analistas confiam",
+    "url": "https://agfeed.com.br/negocios/o-susto-na-3tentos-acoes-da-empresa-caem-19-mas-analistas-confiam",
+    "resumo": "Rumores sobre uma piora acima do esperado nos resultados da 3tentos no segundo trimestre ampliaram a desvalorização dos papeis",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.768Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d15d440ba61e2b43",
+    "manchete": "As lições da Coopercitrus para formar as novas caras do cooperativismo As lições da Coopercitrus para formar as novas caras do cooperativismo",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/as-licoes-da-coopercitrus-para-formar-as-novas-caras-do-cooperativismo",
+    "resumo": "Liga Jovem criada pela cooperativa reúne filhos e netos de associados para preparar a próxima geração de líderes do campo",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.768Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c9ce51b0434bd19f",
+    "manchete": "Mais enxuta, Basf supera expectativas no trimestre, com leve alta na divisão agrícola Mais enxuta, Basf supera expectativas no trimestre, com leve alta na divisão agrícola",
+    "url": "https://agfeed.com.br/negocios/mais-enxuta-basf-supera-expectativas-no-trimestre-com-leve-alta-na-divisao-agricola",
+    "resumo": "Basf supera expectativas no 2º trimestre, eleva guidance, avança no IPO da divisão agrícola e acelera reestruturação global",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.768Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b797f0445c7f526c",
+    "manchete": "ARTIGO - O impacto do El Niño vai além do agro: como proteger operações e pagamentos na instabilidade ARTIGO - O impacto do El Niño vai além do agro: como proteger operações e pagamentos na instabilidade",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-impacto-do-el-nino-vai-alem-do-agro-como-proteger-operacoes-e-pagamentos-na-instabilidade",
+    "resumo": "Nenhuma empresa controla o clima. Mas as empresas podem controlar a qualidade da própria informação e a disciplina dos seus processos",
+    "fonte": "AgFeed",
+    "data": "2026-07-29T22:10:53.768Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ef172535d62ced4c",
+    "manchete": "A Ferrari elétrica apanhou nas redes sociais e dos investidores, mas bate meta do ano em dois meses",
+    "url": "https://neofeed.com.br/negocios/a-ferrari-eletrica-apanhou-nas-redes-sociais-e-dos-investidores-mas-bate-meta-do-ano-em-dois-meses/",
+    "resumo": "Após ser alvo de uma bateria de críticas, o Luce, primeiro modelo 100% elétrico da montadora italiana, alcançou a venda de cerca de 500 unidades no início de julho, sob o impulso de mercados como a China",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.362Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3da4c9a642ce9945",
+    "manchete": "Anvisa aprova mais cinco canetas emagrecedoras, mas nenhuma delas será produzida no Brasil",
+    "url": "https://neofeed.com.br/negocios/anvisa-aprova-mais-cinco-canetas-emagrecedoras-mas-nenhuma-delas-sera-produzida-no-brasil/",
+    "resumo": "A Hypera, que vai produzir na Índia, lançará sua caneta pela marca Mantecorp e prevê chegar às farmácias em dois meses",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.362Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9c3f3e77c3a25966",
+    "manchete": "\"O real é o melhor ativo do Brasil\": por que Alfredo Menezes, da Armor, aposta na moeda e foge da bolsa",
+    "url": "https://neofeed.com.br/economia/o-real-e-o-melhor-ativo-do-brasil-por-que-alfredo-menezes-da-armor-aposta-na-moeda-e-foge-da-bolsa/",
+    "resumo": "O fundador da Armor Capital prevê mais queda para o dólar impulsionada por China, mas alerta que juro alto vai disparar a inadimplência",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.361Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0a7bcdcad3732d90",
+    "manchete": "Santander Brasil tem lucro e ROE em queda e aumento de provisões. Banco diz que \"joga na defesa\"",
+    "url": "https://neofeed.com.br/negocios/santander-brasil-tem-lucro-e-roe-em-queda-e-aumento-de-provisoes-banco-diz-que-joga-na-defesa/",
+    "resumo": "Lucro recorrente cai 17,6%, ROE recua para 12,5% e PDD sobe 20,6% no trimestre. Santander diz que adota postura defensiva",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.361Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6dcbe594881f3a57",
+    "manchete": "Eneva pode avançar em leilão do setor elétrico com nova reviravolta na disputa",
+    "url": "https://neofeed.com.br/economia/eneva-pode-avancar-em-leilao-do-setor-eletrico-com-nova-reviravolta-na-disputa/",
+    "resumo": "Inabilitação dos projetos da EPP no LRCap de março abre espaço para mais 790 MW da companhia, ampliando domínio da Eneva no certame",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.361Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d8e8f0b9d79a204f",
+    "manchete": "A conta de R$ 1,3 bi do governo com o Super El Niño e o mapa de quem ganha e perde no mercado",
+    "url": "https://neofeed.com.br/economia/a-conta-de-r-13-bi-do-governo-com-o-super-el-nino-e-o-mapa-de-quem-ganha-e-perde-no-mercado/",
+    "resumo": "Risco de quebra de safra no Rio Grande do Sul concentra preocupação. Relatório da XP adverte que inflação de alimentos deve crescer",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.360Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "808a2687c1082e58",
+    "manchete": "Mark Zuckerberg diz que banir as IAs chinesas é um erro. E aproveita para alfinetar a OpenAI e a Anthropic",
+    "url": "https://neofeed.com.br/negocios/mark-zuckerberg-diz-que-banir-as-ias-chinesas-e-um-erro-e-aproveita-para-alfinetar-a-openai-e-a-anthropic/",
+    "resumo": "O cofundador e CEO da Meta diz que o plano do governo americano de bloquear os modelos chineses não seria uma solução eficaz",
+    "fonte": "NeoFeed",
+    "data": "2026-07-29T22:10:46.360Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "99c87ec1caed21e0",
+    "manchete": "Qualcomm registra queda em lucro e receita citando aumento de custos com memória",
+    "url": "https://www.infomoney.com.br/mercados/qualcomm-registra-queda-em-lucro-e-receita-citando-aumento-de-custos-com-memoria/",
+    "resumo": "Lucro ajustado por ação recuou 23%, para US$ 1,87, abaixo das projeções",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T22:09:53.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "67372f5c933b9d70",
+    "manchete": "Fifa abre processos contra Argentina por cânticos, atrasos e briga na final da Copa",
+    "url": "https://www.infomoney.com.br/esportes/fifa-abre-processos-contra-argentina-por-canticos-atrasos-e-briga-na-final-da-copa/",
+    "resumo": "Entidade máxima do futebol notifica federação, atletas e comissão técnica por episódios que vão de supostos gestos discriminatórios a agressões",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T22:01:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b2af5bff0fd6908a",
+    "manchete": "Como a Sumirê uniu 20 famílias e criou uma empresa que mira R$ 600 milhões",
+    "url": "https://www.infomoney.com.br/business/como-a-sumire-uniu-20-familias-e-criou-uma-empresa-que-mira-r-600-milhoes/",
+    "resumo": "Rede de perfumarias profissionalizou um modelo familiar incomum, transformou antigos donos de lojas em acionistas e prepara a empresa para um novo ciclo de crescimento",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T22:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "53e1640b7abff36b",
+    "manchete": "Geração de empregos supera estimativas em junho, mas analistas preveem desaceleração",
+    "url": "https://www.infomoney.com.br/economia/caged-junho-2026-geracao-empregos/",
+    "resumo": "Apesar da abertura de 145,2 mil vagas e do recorde no número de demissões voluntárias, analistas projetam a perda de fôlego da economia no curto prazo diante da escassez de mão de obra e incertezas políticas.",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:53:22.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a5961b00dcf2f599",
+    "manchete": "Motiva (MOTV3) tem salto de 67% no lucro do 2º tri, para R$ 663 milhões",
+    "url": "https://www.infomoney.com.br/mercados/motiva-motv3-resultados-segundo-trimestre-2026/",
+    "resumo": "Companhia ⁠teve receita ​líquida ajustada de R$ 3,63 bilhões de abril ​ao final de junho",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:51:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c107e0c8245d82ae",
+    "manchete": "Motiva (MOTV3) lucra 67% mais no 2T26 com novas concessões",
+    "url": "https://www.moneytimes.com.br/motiva-motv3-lucra-67-mais-no-2t26-com-novas-concessoes-vtra/",
+    "resumo": "A Motiva (MOTV3), antiga CCR, reportou um segundo trimestre de 2026 marcado pela contribuição das novas concessões rodoviárias, com crescimento de dois dígitos na receita, no Ebitda (lucro antes de juros, impostos, depreciação e amortização) e no lucro líquido ajustado. Entre abril e junho, a companhia registrou…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T21:42:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a72e84ed646ef966",
+    "manchete": "Comércio brasileiro fatura R$ 7,7 tri e emprega 10,6 milhões em 2024",
+    "url": "https://www.infomoney.com.br/economia/comercio-brasileiro-fatura-r-77-tri-e-emprega-106-milhoes-em-2024/",
+    "resumo": "Atacado lidera receita com 48,7% do total; supermercados e hipermercados são o maior destaque em empregos e faturamento, aponta o IBGE.",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:36:47.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6bbe4641cc3a8a45",
+    "manchete": "Meta tem lucro líquido de US$ 15,85 bilhões para o segundo trimestre de 2026",
+    "url": "https://www.moneytimes.com.br/meta-tem-lucro-liquido-de-us-1585-bilhoes-para-o-segundo-trimestre-de-2026/",
+    "resumo": "A Meta apresentou nesta quarta-feira, 29, um lucro líquido de US$ 15,85 bilhões para o segundo trimestre de 2026, uma queda de 14% em relação ao mesmo período do ano anterior. O lucro por ação diluída ficou em US$ 6,18, uma queda de 13% em um ano e abaixo dos US$ 7,19 esperados pelos analistas [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-29T21:33:19.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e896f0077f186ad1",
+    "manchete": "Na Motiva, sai a Mover e entra o Bradesco; até quando?",
+    "url": "https://braziljournal.com/na-motiva-sai-a-mover-e-entra-o-bradesco-ate-quando/",
+    "resumo": "O Grupo Mover, a antiga Camargo Corrêa, assinou um acordo para vender toda sua participação de 14,86% na Motiva ao Bradesco BBI, marcando sua saída da empresa de concessões que fundou no final dos anos 1990. A transação foi concretizada após os demais membros do bloco de controle da Motiva – Soares Penido, Itaúsa e…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T21:32:13.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9df96beedf4c2dbb",
+    "manchete": "Microsoft supera em receita com impulso da demanda em nuvem e IA; ação sobe 3% no after de NY",
+    "url": "https://www.moneytimes.com.br/microsoft-supera-em-receita-com-impulso-da-demanda-em-nuvem-e-ia-acao-sobe-3-no-after-de-ny/",
+    "resumo": "A Microsoft viu suas receitas crescerem 18% no quarto trimestre fiscal, encerrado em 30 de junho, em relação ao mesmo período do ano anterior, ao informar um crescimento robusto em computação em nuvem e aumento no número de assinantes pagos de ferramentas de inteligência artificial (IA). No trimestre encerrado em…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T21:26:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05c885aa24756155",
+    "manchete": "Treasuries de 30 anos atingem maior nível desde 2007 após Fed manter juros",
+    "url": "https://www.infomoney.com.br/mercados/treasuries-de-30-anos-atingem-maior-nivel-desde-2007-apos-fed-manter-juros/",
+    "resumo": "Banco central vota 9 a 3 pela manutenção da taxa entre 3,5% e 3,75%; probabilidade de alta em setembro sobe a 60% com três dissidências a favor do aperto",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:21:20.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "81f7f99e13901576",
+    "manchete": "Juros longos dos EUA atingem máxima em 18 anos após Fed manter juros pela 5ª vez consecutiva",
+    "url": "https://www.moneytimes.com.br/juros-longos-dos-eua-atingem-maxima-em-18-anos-apos-fed-manter-juros-pela-5a-vez-consecutiva-lils/",
+    "resumo": "Os rendimentos do título do Tesouro dos Estados Unidos – o Treasury – de 30 anos atingiram o maior nível desde julho de 2007 nesta quarta-feira (29), a 5,244%, após a decisão do Federal Reserve (Fed, o Banco Central dos EUA) de manter os juros inalterados na faixa de 3,50% a 3,75% ao ano pela [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-29T21:19:00.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e962b9917185414b",
+    "manchete": "'Pix Pensão': Lula sanciona a transferência automática de pensões alimentícias",
+    "url": "https://www.infomoney.com.br/minhas-financas/pix-pensao-lula-sanciona-a-transferencia-automatica-de-pensoes-alimenticias/",
+    "resumo": "Os bancos ficarão obrigados a efetuar o crédito em conta nas datas definidas pela Justiça",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:11:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b026fd07888dbb5a",
+    "manchete": "Ventos fortes atingem o Rio, com metrô, trem e barcas parados",
+    "url": "https://www.infomoney.com.br/brasil/ventos-de-mais-de-90-km-h-atingem-o-rio-e-provocam-queda-de-luz-em-varios-bairros/",
+    "resumo": "Mudança no tempo já causa impactos em diferentes regiões da capital, com registros de interrupção no fornecimento de energia e alterações na operação do metrô e do BRT; rajadas mais intensas são esperadas ao longo da tarde e da noite",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:04:16.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "788084cfef17b56b",
+    "manchete": "Taxas dos DIs perdem força sob influência do Fed, mas fecham com altas leves",
+    "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-perdem-forca-sob-influencia-do-fed-mas-fecham-com-altas-leves/",
+    "resumo": "Taxas dos DIs chegaram a virar para o negativo durante ⁠a tarde",
+    "fonte": "InfoMoney",
+    "data": "2026-07-29T21:03:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0d5a893501856e5c",
+    "manchete": "Ibovespa segue Wall Street e fecha em baixa em dia de Fed; dólar cai a R$ 5,10",
+    "url": "https://www.moneytimes.com.br/ibovespa-segue-wall-street-e-fecha-em-baixa-em-dia-de-fed-dolar-cai-a-r-510/",
+    "resumo": "O Ibovespa (IBOV) operou em baixa de quase 1% durante a maior parte do pregão, seguindo o exterior, e encerrou no negativo em dia de decisão do Federal Reserve (Fed, o banco central dos EUA) e falas do presidente do BC norte-americano, Kevin Warsh. Nesta quarta-feira (29), o principal índice da bolsa brasileira…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T20:31:04.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9e5ce6e056abb4b3",
+    "manchete": "Dólar recua a R$ 5,10 após decisão do Fed",
+    "url": "https://www.moneytimes.com.br/dolar-29-7-26-apsa/",
+    "resumo": "O dólar à vista perdeu força ante o real após a decisão de política monetária do Federal Reserve (Fed, o banco central dos Estados Unidos) e das falas do presidente do BC norte-americano. Nesta quarta-feira (29), o dólar à vista terminou as negociações a R$ 5,1084, em queda de 0,27%. O dólar acompanhou o…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T20:09:08.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "67722b22377aa764",
+    "manchete": "Wall Street tomba após decisão do Fed com maior dissidência em uma década; Dow Jones tem pior pregão desde abril de 2025",
+    "url": "https://www.moneytimes.com.br/wall-street-29-7-26-lils/",
+    "resumo": "Os índices de Wall Street fecharam em forte queda após a decisão do Federal Reserve (Fed, o Banco Central dos EUA) de manter os juros inalterados, com os investidores avaliando se o BC conseguirá manter a inflação sob controle. Em destaque, o Dow Jones caiu 1,100 pontos, registrando a pior queda desde abril do ano…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T20:06:58.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "96378ece6317f995",
+    "manchete": "Pedidos de recuperação judicial no agro do Brasil sobem 33% no 1º tri e podem bater recorde em 2026, aponta Neot",
+    "url": "https://www.moneytimes.com.br/pedidos-de-recuperacao-judicial-no-agro-do-brasil-sobem-33-no-1o-tri-e-podem-bater-recorde-em-2026-aponta-neot-pads/",
+    "resumo": "Os pedidos de recuperação judicial no agronegócio brasileiro somaram 517 no primeiro trimestre, aumento de 33% em relação ao mesmo período do ano passado, sinalizando que 2026 pode bater um novo recorde de solicitações, segundo análise divulgada nesta quarta-feira (29) pela Neot. A companhia de tecnologia…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T20:04:36.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1597a0c1426c71bb",
+    "manchete": "Fed segura juros, fala sobre dissidência e Warsh avisa: \"não temos varinha mágica\"",
+    "url": "https://www.moneytimes.com.br/fed-segura-juros-fala-sobre-dissidencia-e-warsh-avisa-nao-temos-varinha-magica/",
+    "resumo": "A segunda decisão de política monetária do Federal Reserve sob o comando de Kevin Warsh veio acompanhada da maior divisão no Comitê Federal de Mercado Aberto (FOMC) desde 2016. Embora o banco central tenha mantido a taxa de juros por 9 votos a 3, as três dissidências dominaram as atenções e abriram espaço para…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T19:46:35.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fadd1cb4316d1f76",
+    "manchete": "Petróleo dispara 7% com temor de nova escalada das tensões no Oriente Médio",
+    "url": "https://www.moneytimes.com.br/petroleo-29-7-26-lils/",
+    "resumo": "Após três dias consecutivos de queda, os preços do petróleo disparam nesta quarta-feira (29) com a retomada dos ataques entre Estados Unidos e Irã no Oriente Médio. O movimento renovou o temor de escalada nas tensões na região e aumentou as incertezas sobre as negociações de paz. O contrato mais líquido do petróleo…",
+    "fonte": "Money Times",
+    "data": "2026-07-29T19:20:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f4588abc5dd1aaab",
+    "manchete": "Casas Bahia: Itaú aplaude turnaround, mas macro joga contra",
+    "url": "https://braziljournal.com/casas-bahia-itau-aplaude-turnaround-mas-macro-joga-contra/",
+    "resumo": "O Itaú BBA retomou sua cobertura do Grupo Casas Bahia com recomendação ‘neutra’ – reconhecendo o sucesso do turnaround executado pelo CEO Renato Franklin mas pontuando que a tese é altamente dependente de uma queda dos juros. O banco colocou um preço-alvo de R$ 1, um upside potencial de cerca de 25% em relação ao…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T18:40:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "93cc7afefba7d178",
+    "manchete": "Pernambucanas troca comando: recruta ex-CEO do GPA e ex-CFO do Avenida",
+    "url": "https://braziljournal.com/pernambucanas-troca-comando-recruta-ex-ceo-do-gpa-e-ex-cfo-do-avenida/",
+    "resumo": "A Pernambucanas acaba de trocar todo o seu comando para tentar fazer algo que não conseguiu nos últimos anos: transformar seu turnaround em lucro. Marcelo Pimentel, o ex-CEO do GPA e da Lojas Marisa, vai substituir Ricardo Doebeli na presidência da varejista centenária a partir de amanhã. Ernane Abrahão, que era…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T15:49:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "58bec53d181957e1",
+    "manchete": "Coreia quer terras raras do Brasil: POSCO vai a Minas",
+    "url": "https://braziljournal.com/coreia-quer-terras-raras-do-brasil-posco-vai-a-minas/",
+    "resumo": "A POSCO — a gigante coreana da siderurgia — fez uma parceria estratégica com a australiana Meteoric Resources visando garantir acesso a uma parcela da produção futura de um projeto de terras raras em Minas Gerais. O acordo mostra como o potencial brasileiro em terras raras está despertando interesse pelo mundo, à…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T15:35:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "25b7096e4e660314",
+    "manchete": "O tri horroroso do Santander Brasil: lucro menor, mais provisões, ROE de 12,5%",
+    "url": "https://braziljournal.com/o-tri-horroroso-do-santander-brasil-lucro-menor-mais-provisoes-roe-de-125/",
+    "resumo": "O Santander Brasil abriu a temporada de balanços de bancos com um resultado preocupante no segundo trimestre. O lucro caiu para R$ 3 bilhões – 20% menor que o do primeiro trimestre e 18% abaixo do resultado do mesmo período de 2025. A ação despenca cerca de 6% hoje. O consenso indicava um lucro de [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T14:54:17.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8bca4f027baf0efa",
+    "manchete": "Einship, startup de IA para comércio exterior, capta R$ 5,3 milhões para acelerar expansão global",
+    "url": "https://startupi.com.br/einship-startup-de-ia-para-comercio-exterior-capta-r-53-milhoes-para-acelerar-expansao-global/",
+    "resumo": "Startupi Einship, startup de IA para comércio exterior, capta R$ 5,3 milhões para acelerar expansão global A Einship, AI-Native LogTech brasileira especializada em inteligência de dados e gestão de operações de comércio exterior, acaba de concluir uma rodada seed de US$ 1 milhão, liderada pelo fundo americano Parceiro…",
+    "fonte": "Startupi",
+    "data": "2026-07-29T14:14:11.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ba9a2291164d44b4",
+    "manchete": "Os drones kamikaze da Ucrânia que o mundo todo deseja",
+    "url": "https://braziljournal.com/os-drones-kamikaze-da-ucrania-que-o-mundo-todo-deseja/",
+    "resumo": "Quando foi arrastada pela Rússia para a guerra, há quatro anos, a Ucrânia suplicava às grandes potências do Ocidente por armamentos. Mas de lá pra cá, o país fortaleceu sua indústria bélica com o conhecimento acumulado no front – e agora produz alguns dos drones mais desejados do mercado. EUA, União Europeia e países…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T14:08:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "24ad3ad8bd8c1725",
+    "manchete": "Sebrae e Magalu se unem para capacitar 10 mil empreendedores",
+    "url": "https://startupi.com.br/sebrae-e-magalu-se-unem-para-capacitar-10-mil-empreendedores/",
+    "resumo": "Startupi Sebrae e Magalu se unem para capacitar 10 mil empreendedores O Sebrae e o Magalu assinaram, nesta terça-feira (28), um convênio de cooperação técnica que amplia as oportunidades de acesso de micro e pequenas empresas ao comércio eletrônico. Com vigência de 36 meses, a iniciativa prevê capacitar 10 mil…",
+    "fonte": "Startupi",
+    "data": "2026-07-29T13:58:14.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ef2f7eae92512e0e",
+    "manchete": "Por que tantos ecossistemas de inovação fracassam?",
+    "url": "https://startupi.com.br/por-que-tantos-ecossistemas-de-inovacao-fracassam/",
+    "resumo": "Startupi Por que tantos ecossistemas de inovação fracassam? Há algo curioso — e profundamente contraditório — acontecendo no mundo da inovação. Durante a pandemia, empresas criaram laboratórios, contrataram equipes, aceleraram programas digitais, investiram em startups e passaram a tratar a inovação como questão de…",
+    "fonte": "Startupi",
+    "data": "2026-07-29T12:53:47.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "e332e25d099b5d91",
     "manchete": "Ele \"não gostava\" de confinamentos. Mas decidiu criar o seu e agora projeta faturar R$ 800 milhões",
     "url": "https://agfeed.com.br/negocios/ele-nao-gostava-de-confinamentos-mas-decidiu-criar-o-seu-e-agora-projeta-faturar-r-800-milhoes",
@@ -1122,106 +1732,6 @@
     "fonte": "AgFeed",
     "data": "2026-07-28T12:15:49.636Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "37f4181966ad7c82",
-    "manchete": "Soja reage e abre \"janela de oportunidade\" para o produtor brasileiro, que acelera vendas",
-    "url": "https://agfeed.com.br/economia/soja-reage-e-abre-janela-de-oportunidade-para-o-produtor-brasileiro-que-acelera-vendas",
-    "resumo": "Alta da soja abre janela para vendas no Brasil; Céleres recomenda travar preços e garantir margem diante da volatilidade",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.635Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "263560832ca5d8bc",
-    "manchete": "BTG Pactual vê MP do crédito rural como \"ponte para recuperação gradual\" do BB",
-    "url": "https://agfeed.com.br/financas/btg-pactual-ve-mp-do-credito-rural-como-ponte-para-recuperacao-gradual-do-bb",
-    "resumo": "BTG vê MP do crédito rural como avanço para o Banco do Brasil, mas recuperação da carteira deve ganhar força só no 4º trimestre",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.635Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1cf88d1125eedb2d",
-    "manchete": "Após investir R$ 25 milhões, Synkka inicia vendas e mira faturar R$ 300 milhões até 2030 Após investir R$ 25 milhões, Synkka inicia vendas e mira faturar R$ 300 milhões até 2030",
-    "url": "https://agfeed.com.br/negocios/apos-investir-r-25-milhoes-synkka-inicia-vendas-e-mira-faturar-r-300-milhoes-ate-2030",
-    "resumo": "Synkka inicia vendas com foco em soja, milho, café e cana e planeja chegar a 1 milhão de hectares até o fim da década",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.635Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b841562e989b71b2",
-    "manchete": "Na batalha contra o desperdício, Aravita triplica receita, mas ainda enfrenta desafios",
-    "url": "https://agfeed.com.br/agtech/na-batalha-contra-o-desperdicio-aravita-triplica-receita-mas-ainda-enfrenta-desafios",
-    "resumo": "Startup Aravita usa IA para evitar o descarte de frutas, legumes e verduras nos supermercados já tem mais de 100 clientes",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.635Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bcebf9e7e9f1efd0",
-    "manchete": "Na Uisa, safra maior e receita de R$ 1,86 bi. Mas ainda falta “ambiente” para o etanol de milho",
-    "url": "https://agfeed.com.br/negocios/na-uisa-safra-maior-e-receita-de-r-186-bi-mas-ainda-falta-ambiente-para-o-etanol-de-milho",
-    "resumo": "Uisa, antiga Usina Itamarati, prevê moagem de 7,8 milhões de toneladas de cana-de-açúcar, com plano de ampliar áreas de irrigação",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.634Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "836a3289db136357",
-    "manchete": "Com festa e projeção de R$ 2 bi, Coopercitrus Expo celebra 50 anos da cooperativa e retomada do mercado",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/com-festa-e-projecao-r-2-bi-coopercitrus-expo-celebra-50-anos-da-cooperativa-e-retomada-do-mercado",
-    "resumo": "Coopercitrus Expo 2026 deve superar R$ 2 bilhões em negócios e sinaliza retomada das compras para a safra 2026/2027.",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.634Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ae21b773652fb9b6",
-    "manchete": "ARTIGO - Como combater o crime organizado que lucra com a terra ilegal",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-como-combater-o-crime-organizado-que-lucra-com-a-terra-ilegal",
-    "resumo": "A área produz soja, obtém crédito rural, possui cadastro ambiental e até pode acessar mercados exigentes em sustentabilidade. Ainda assim, sua origem pode estar em uma ocupação ilegal de terras públicas. Trata-se de uma espécie de “lavagem de terras”, processo pelo qual um ativo fundiário de origem ilícita é…",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.634Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "356f0a89e929cfdb",
-    "manchete": "Citi reduz (de novo) preço-alvo da SLC Agrícola, mas projeta melhora nos resultados do segundo trimestre",
-    "url": "https://agfeed.com.br/negocios/citi-reduz-de-novo-preco-alvo-da-slc-agricola-mas-projeta-melhora-nos-resultados-do-segundo-trimestre",
-    "resumo": "Banco diminui preço-alvo da SLC de R$ 15 para R$ 14,50 por maior alavancagem após compra de terras, mas mantém recomendação neutra para ação",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.634Z",
-    "tags_tema": [
-      "M&A"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
