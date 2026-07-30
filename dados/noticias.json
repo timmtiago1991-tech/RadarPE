@@ -1,5 +1,508 @@
 [
   {
+    "id": "1cf88d1125eedb2d",
+    "manchete": "Após investir R$ 25 milhões, Synkka inicia vendas e mira faturar R$ 300 milhões até 2030 Após investir R$ 25 milhões, Synkka inicia vendas e mira faturar R$ 300 milhões até 2030",
+    "url": "https://agfeed.com.br/negocios/apos-investir-r-25-milhoes-synkka-inicia-vendas-e-mira-faturar-r-300-milhoes-ate-2030",
+    "resumo": "Synkka inicia vendas com foco em soja, milho, café e cana e planeja chegar a 1 milhão de hectares até o fim da década",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.323Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b841562e989b71b2",
+    "manchete": "Na batalha contra o desperdício, Aravita triplica receita, mas ainda enfrenta desafios",
+    "url": "https://agfeed.com.br/agtech/na-batalha-contra-o-desperdicio-aravita-triplica-receita-mas-ainda-enfrenta-desafios",
+    "resumo": "Startup Aravita usa IA para evitar o descarte de frutas, legumes e verduras nos supermercados já tem mais de 100 clientes",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.323Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "37f4181966ad7c82",
+    "manchete": "Soja reage e abre \"janela de oportunidade\" para o produtor brasileiro, que acelera vendas",
+    "url": "https://agfeed.com.br/economia/soja-reage-e-abre-janela-de-oportunidade-para-o-produtor-brasileiro-que-acelera-vendas",
+    "resumo": "Alta da soja abre janela para vendas no Brasil; Céleres recomenda travar preços e garantir margem diante da volatilidade",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.322Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bcebf9e7e9f1efd0",
+    "manchete": "Na Uisa, safra maior e receita de R$ 1,86 bi. Mas ainda falta “ambiente” para o etanol de milho",
+    "url": "https://agfeed.com.br/negocios/na-uisa-safra-maior-e-receita-de-r-186-bi-mas-ainda-falta-ambiente-para-o-etanol-de-milho",
+    "resumo": "Uisa, antiga Usina Itamarati, prevê moagem de 7,8 milhões de toneladas de cana-de-açúcar, com plano de ampliar áreas de irrigação",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.321Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "836a3289db136357",
+    "manchete": "Com festa e projeção de R$ 2 bi, Coopercitrus Expo celebra 50 anos da cooperativa e retomada do mercado Com festa e projeção de R$ 2 bi, Coopercitrus Expo celebra 50 anos da cooperativa e retomada do mercado",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/com-festa-e-projecao-r-2-bi-coopercitrus-expo-celebra-50-anos-da-cooperativa-e-retomada-do-mercado",
+    "resumo": "Coopercitrus Expo 2026 deve superar R$ 2 bilhões em negócios e sinaliza retomada das compras para a safra 2026/2027.",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.321Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ae21b773652fb9b6",
+    "manchete": "ARTIGO - Como combater o crime organizado que lucra com a terra ilegal ARTIGO - Como combater o crime organizado que lucra com a terra ilegal",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-como-combater-o-crime-organizado-que-lucra-com-a-terra-ilegal",
+    "resumo": "A área produz soja, obtém crédito rural, possui cadastro ambiental e até pode acessar mercados exigentes em sustentabilidade. Ainda assim, sua origem pode estar em uma ocupação ilegal de terras públicas. Trata-se de uma espécie de “lavagem de terras”, processo pelo qual um ativo fundiário de origem ilícita é…",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.321Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "356f0a89e929cfdb",
+    "manchete": "Citi reduz (de novo) preço-alvo da SLC Agrícola, mas projeta melhora nos resultados do segundo trimestre",
+    "url": "https://agfeed.com.br/negocios/citi-reduz-de-novo-preco-alvo-da-slc-agricola-mas-projeta-melhora-nos-resultados-do-segundo-trimestre",
+    "resumo": "Banco diminui preço-alvo da SLC de R$ 15 para R$ 14,50 por maior alavancagem após compra de terras, mas mantém recomendação neutra para ação",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.321Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fda272a962aafa4e",
+    "manchete": "O homem das vacas milionárias agora monta uma “linha de produção” de touros de alta qualidade",
+    "url": "https://agfeed.com.br/negocios/o-homem-das-vacas-milionarias-agora-monta-uma-linha-de-producao-de-touros-de-alta-qualidade",
+    "resumo": "Casa Branca aposta em touros Nelore de alta genética para suprir déficit de reprodutores e elevar a produtividade da pecuária",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.318Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb041e32a15dca32",
+    "manchete": "Em nova fase e com novo sócio, FMC supera estimativa de lucro, mesmo com recuo de 17% na receita Em nova fase e com novo sócio, FMC supera estimativa de lucro, mesmo com recuo de 17% na receita",
+    "url": "https://agfeed.com.br/negocios/em-nova-fase-e-com-novo-socio-fmc-supera-estimativa-de-lucro-mesmo-com-recuo-de-17-na-receita",
+    "resumo": "FMC supera lucro esperado após aporte da Tessenderlo, mas receita cai 17% e empresa reduz projeções para 2026",
+    "fonte": "AgFeed",
+    "data": "2026-07-30T12:05:11.318Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8a71426a743a0282",
+    "manchete": "Guerra nas estradas: Buser avança no STF e acirra batalha bilionária do transporte",
+    "url": "https://neofeed.com.br/poder/guerra-nas-estradas-buser-avanca-no-stf-e-acirra-batalha-bilionaria-do-transporte/",
+    "resumo": "A Buser vence no STF, gerando conflito com empresas de ônibus tradicionais sobre regulamentação e concorrência no transporte rodoviário",
+    "fonte": "NeoFeed",
+    "data": "2026-07-30T12:05:08.361Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "15b159df049fde26",
+    "manchete": "IGP-M passa a cair 1,16% em julho, diz FGV",
+    "url": "https://www.infomoney.com.br/economia/igp-m-passa-a-cair-116-em-julho-diz-fgv/",
+    "resumo": "A expectativa em pesquisa da Reuters era de queda de 1,09%, e com o resultado do mês o índice passou a acumular em 12 meses alta de 2,76%",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:58:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "90427f127356b8f6",
+    "manchete": "Bitcoin (BTC) ronda US$ 64,5 mil após Fed e balanços de big techs; veja cotações das criptomoedas hoje (30)",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-ronda-us-645-mil-apos-fed-e-balancos-de-big-techs-veja-cotacoes-das-criptomoedas-hoje-30-igdl/",
+    "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 64,5 mil nesta quinta-feira (30), com leve queda de 0,2% nas últimas 24 horas, de acordo com dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra perda um pouco maior, de quase 2%, enquanto, em um mês, sustenta valorização perto…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:58:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d4a6ca087775323",
+    "manchete": "Tornado no RS provoca destruição e deixa ao menos cinco pessoas feridas",
+    "url": "https://www.infomoney.com.br/brasil/tornado-no-rs-provoca-destruicao-e-deixa-ao-menos-cinco-pessoas-feridas/",
+    "resumo": "A Defesa Civil apontou que os eventos meteorológicos deixaram cinco pessoas feridas e 19 desalojadas em 18 cidades",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:56:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc58029153850cd1",
+    "manchete": "Banco da Inglaterra mantêm juros em 3,75%, mas mais membros apoiam alta",
+    "url": "https://www.infomoney.com.br/economia/banco-da-inglaterra-mantem-juros-em-375-mas-mais-membros-apoiam-alta/",
+    "resumo": "Se o Banco da Inglaterra ​continuar a manter os juros inalterados, isso será um alívio para o novo primeiro-ministro do Reino Unido, Andy Burnham",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:54:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a450cae234c72ec2",
+    "manchete": "BoE mantém juro em 3,75% pela 5ª vez seguida com desaceleração inflacionária",
+    "url": "https://www.moneytimes.com.br/boe-mantem-juro-em-375-pela-5a-vez-seguida-com-desaceleracao-inflacionaria-jcav/",
+    "resumo": "O Banco da Inglaterra (BoE, na sigla em inglês) decidiu manter sua principal taxa de juros em 3,75% pela quinta vez consecutiva, ao fim da reunião de política monetária nesta quinta-feira, 30, diante da desaceleração inflacionária no Reino Unido, apesar da recente escalada do conflito no Oriente Médio. A decisão veio…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:53:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "871b61d98f685a3d",
+    "manchete": "Flávio Bolsonaro irá à convenção que confirmará candidatura de Tarcísio em São Paulo",
+    "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-ira-a-convencao-que-confirmara-candidatura-de-tarcisio-em-sao-paulo/",
+    "resumo": "A presença do senador na convenção do Republicanos reforça a aliança entre Flávio Bolsonaro e Tarcísio na eleição para a Presidência neste ano",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:52:56.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05ea94c2ae044b75",
+    "manchete": "Concessões de empréstimos no Brasil sobem 6,5% em junho, diz BC",
+    "url": "https://www.infomoney.com.br/mercados/concessoes-de-emprestimos-no-brasil-sobem-65-em-junho-diz-bc/",
+    "resumo": "No mês, a inadimplência no segmento de recursos livres ficou em 6,2%, repetindo a mesma taxa do mês anterior",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:52:27.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1afc10e8bbc5bf0e",
+    "manchete": "Ambev frustra projeções no 2T apesar de lucro forte; mercado olha além do efeito Copa",
+    "url": "https://www.infomoney.com.br/mercados/ambev-abev3-frustra-projecoes-no-2t-apesar-de-lucro-forte-mercado-olha-alem-do-efeito-copa-desempenho-acoes/",
+    "resumo": "Receita e Ebitda ficaram abaixo das expectativas do mercado no 2T26, enquanto o lucro foi impulsionado por efeitos financeiros; analistas veem impacto da Copa menor do que o esperado",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:46:28.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc0a9b6a3a7ee1f0",
+    "manchete": "Quaest: Daniel Vilela lidera cenários de 1º e 2º turnos em Goiás",
+    "url": "https://www.infomoney.com.br/politica/quaest-daniel-vilela-lidera-cenarios-de-1o-e-2o-turnos-em-goias/",
+    "resumo": "No primeiro turno, o atual governador de Goiás registrou 37% de intenção de voto",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:42:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "003067fe7c996dab",
+    "manchete": "Vale (VALE3): o que o mercado quer ver no balanço hoje após o relatório de produção e vendas",
+    "url": "https://www.moneytimes.com.br/vale-vale3-o-que-o-mercado-quer-ver-no-balanco-hoje-apos-o-relatorio-de-producao-e-vendas/",
+    "resumo": "Com a divulgação de seu balanço do segundo trimestre de 2026 após o encerramento do pregão da B3 nesta quinta-feira, a Vale (VALE3) se encontra sob grande expectativa do mercado. A mineradora já adiantou ter entregado o melhor segundo trimestre desde 2018, impulsionada por uma produção robusta e preços favoráveis de…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:42:23.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5113bccfdd1a2d3c",
+    "manchete": "Quaest: Juliana Brizola empata com Zucco no 2º turno pelo RS",
+    "url": "https://www.infomoney.com.br/politica/quaest-juliana-brizola-empata-com-zucco-no-2o-turno-pelo-rs/",
+    "resumo": "Juliana e Zucco também empatam tecnicamente no cenário de primeiro turno",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:39:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b1ef180814f3a89b",
+    "manchete": "IGP-M passa a cair 1,16% em julho, diz FGV",
+    "url": "https://www.moneytimes.com.br/igp-m-passa-a-cair-116-em-julho-diz-fgv/",
+    "resumo": "O Índice Geral de Preços-Mercado (IGP-M) caiu 1,16% em julho, um pouco mais do que o esperado, após recuo de 0,50% no mês anterior, mostraram dados divulgados pela Fundação Getulio Vargas (FGV) nesta quinta-feira (30). A expectativa em pesquisa da Reuters era de queda de 1,09%, e com o resultado do mês o índice passou…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:38:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "798cb2a2ac1d9063",
+    "manchete": "Quaest: Ciro lidera no CE contra Elmano de Freitas nos cenários de 1º e 2º turnos",
+    "url": "https://www.infomoney.com.br/politica/quaest-ciro-lidera-no-ce-contra-elmano-de-freitas-nos-cenarios-de-1o-e-2o-turnos/",
+    "resumo": "No primeiro turno, Ciro registrou 43% de intenções de voto, e Elmano, 33%",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:37:24.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1e56e83fb631fd49",
+    "manchete": "Tráfego aéreo doméstico do Brasil cresce em junho e destoa da retração global",
+    "url": "https://www.infomoney.com.br/economia/trafego-aereo-domestico-do-brasil-cresce-em-junho-e-destoa-da-retracao-global/",
+    "resumo": "Segundo a IATA, Brasil teve alta de 0,9% na métrica quilômetro-viagem de receitas (RPK) em voos domésticos em junho ante o mesmo mês de 2025, enquanto a média global foi de queda de 3%",
+    "fonte": "InfoMoney",
+    "data": "2026-07-30T11:26:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4663a88a41afdf3a",
+    "manchete": "Ambev (ABEV3) pagará R$ 1,1 bilhão em juros sobre o capital próprio; veja quem recebe fatia",
+    "url": "https://www.moneytimes.com.br/ambev-abev3-pagara-r-11-bilhao-em-juros-sobre-o-capital-proprio-veja-quem-recebe-fatia-lmrs/",
+    "resumo": "O conselho de administração da Ambev (ABEV3) aprovou a distribuição de R$ 1,1 bilhão em juros sobre o capital próprio (JCP), com base no lucro do exercício e nos saldos disponíveis. O montante equivale ao valor bruto de R$ 0,0713 por ação. Em comunicado divulgado ao mercado nesta quinta-feira (30), a companhia pontua…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:20:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "485c973f4c3dcb26",
+    "manchete": "Dividendo à vista: Fundo imobiliário vende participação em shopping e prevê lucro de R$ 1,70 por cota; IFIX recua",
+    "url": "https://www.moneytimes.com.br/dividendo-a-vista-fundo-imobiliario-vende-participacao-em-shopping-e-preve-lucro-de-r-170-por-cota-ifix-recua-igdl/",
+    "resumo": "O fundo imobiliário Pátria Malls (PMLL11) anunciou, por meio de fato relevante, que concluiu a venda de sua participação de 40% do Shopping Park Sul, em Volta Redonda (RJ), por R$ 160,8 milhões. Segundo o comunicado, a operação, antecipada em comunicado ao mercado publicado em abril, faz parte da estratégia da gestora…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:08:57.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "48bf1d5465455293",
+    "manchete": "Ambev (ABEV3) bate expectativa do mercado e lucro avança 24,5% no 2T26, a R$ 3,47 bilhões",
+    "url": "https://www.moneytimes.com.br/ambev-abev3-bate-expectativa-do-mercado-e-lucro-avanca-245-no-2t26-a-r-347-bilhoes-lmrs/",
+    "resumo": "A Ambev (ABEV3) reportou lucro líquido de R$ 3,47 bilhões referente ao segundo trimestre de 2026, um avanço de 24,5% no ano, mostra relatório de resultados divulgado nesta quinta-feira (30). Na linha ajustada, o resultado é de R$ 3,49 bilhões. A cifra superou a expectativa do mercado. Consenso reunido pela Bloomberg…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:02:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "763128527badcf26",
+    "manchete": "Economia da zona do euro cresce mais que o esperado no 2º tri por gastos com IA e confiança dos consumidores",
+    "url": "https://www.moneytimes.com.br/economia-da-zona-do-euro-cresce-mais-que-o-esperado-no-2o-tri-por-gastos-com-ia-e-confianca-dos-consumidores-jcav/",
+    "resumo": "A economia da zona do euro cresceu mais do que o esperado no segundo trimestre já que o aumento dos investimentos em IA, os gastos governamentais generosos e vários fatores pontuais mais do que compensaram o impacto negativo dos altos custos de energia e da guerra no Irã. A economia dos 21 países que adotam [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:00:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05d640b1e137cafd",
+    "manchete": "Mercado de trabalho deve ditar a política monetária no médio prazo, avalia economista-chefe do Daycoval",
+    "url": "https://www.moneytimes.com.br/mesmo-com-ipca-mais-fraco-mercado-de-trabalho-deve-ditar-a-politica-monetaria-no-medio-prazo-avalia-economista-chefe-do-daycoval-apsa/",
+    "resumo": "Os dados recentes mais benignos da inflação não foram suficientes para alterar as estimativas do Banco Daycoval para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) e a Selic em 2026. A instituição segue com previsão de 5,2% para o IPCA e de 14% para o juro básico no fim deste ano. De acordo [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:00:00.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2d8d1f7880490c8e",
+    "manchete": "Bolsas da Ásia fecham majoritariamente em baixa; Kospi estende perdas com ações ligadas à IA",
+    "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-baixa-kospi-estende-perdas-com-acoes-ligadas-a-ia/",
+    "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quinta-feira, com a da Coreia do Sul estendendo perdas de mais de 16% dos últimos dois dias, em uma onda de vendas liderada por ações ligadas à inteligência artificial. O índice sul-coreano Kospi oscilou antes de encerrar o pregão em Seul em queda de 1,23%,…",
+    "fonte": "Money Times",
+    "data": "2026-07-30T11:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f18cd9c80e9f2fb1",
+    "manchete": "OPINIÃO. Uma nova abordagem com Lula: discutir crescimento, não o déficit",
+    "url": "https://braziljournal.com/opiniao-uma-nova-abordagem-com-lula-discutir-crescimento-nao-o-deficit/",
+    "resumo": "Durante boa parte dos anos 80, o debate econômico brasileiro se concentrou na inércia inflacionária. O diagnóstico estava correto ao identificar um importante mecanismo de propagação da inflação, mas incompleto ao não resolver as condições fiscais e monetárias que a alimentavam. Diagnósticos econômicos podem estar…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-30T09:50:53.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68857724936ee642",
+    "manchete": "A Runflow cria agentes de AI – e atraiu os fundadores do EBANX",
+    "url": "https://braziljournal.com/a-runflow-cria-agentes-de-ai-e-atraiu-os-fundadores-do-ebanx/",
+    "resumo": "Edmee Moreira, Danrley Morais e Mariana Pastorelli venderam sua startup – a LinkAPI – para a Semantix em 2021. Agora, os três empreendedores – que colocaram quase R$ 100 milhões no bolso com a saída – estão ensaiando um segundo ato: a Runflow, uma startup que atua num dos mercados mais quentes do momento, os [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-30T09:50:49.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7eaa1e2a09f7d5c6",
+    "manchete": "Quem vai suceder Bernard Arnault?",
+    "url": "https://braziljournal.com/quem-vai-suceder-bernard-arnault/",
+    "resumo": "Bernard Arnault está em modo contenção de crise. O maior empresário da França abandonou sua postura low profile no domingo, depois que o Le Monde publicou uma matéria afirmando que seus cinco filhos estão disputando o controle da LVMH numa trama à la Succession, a série épica da HBO. Arnault estreou uma conta no X…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-30T09:50:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "048086e88b9b9d45",
+    "manchete": "A ilusão da escala no marketing de conteúdo",
+    "url": "https://startupi.com.br/a-ilusao-da-escala-no-marketing-de-conteudo/",
+    "resumo": "Startupi A ilusão da escala no marketing de conteúdo * Por Gerson Soares Em 2026, o marketing de conteúdo atingiu um ponto de inflexão silencioso. Nunca se produziu tanto, nunca se publicou com tanta frequência e nunca foi tão fácil escalar volume. Ainda assim, os resultados médios mostram outra direção. A crença…",
+    "fonte": "Startupi",
+    "data": "2026-07-30T09:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f7b1ab06477ea93",
+    "manchete": "A evolução significativa no Open Finance e no Pix Automático",
+    "url": "https://startupi.com.br/a-evolucao-significativa-no-open-finance-e-no-pix-automatico/",
+    "resumo": "Startupi A evolução significativa no Open Finance e no Pix Automático A nova estrutura regulatória coloca um ponto final na época das facilidades e passa a demandar uma eficiência genuína dos novos participantes do ecossistema financeiro. O post A evolução significativa no Open Finance e no Pix Automático aparece…",
+    "fonte": "Startupi",
+    "data": "2026-07-30T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "96918f4129dfec46",
+    "manchete": "A IA está mudando o que vale a pena ser construído",
+    "url": "https://startupi.com.br/a-ia-esta-mudando-o-que-vale-a-pena-ser-construido/",
+    "resumo": "Startupi A IA está mudando o que vale a pena ser construído * Por Maria Teresa Fornea O mercado ficou obcecado em tentar prever quais profissões vão desaparecer com a revolução da inteligência artificial, quem será substituído e quantas (poucas) pessoas serão necessárias para operar as empresas do futuro. Mas, apesar…",
+    "fonte": "Startupi",
+    "data": "2026-07-30T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dc8fc90123e5767d",
+    "manchete": "Selic em 14,25%: por que o juro alto está engordando o M&#038;A e deixando o Venture Capital de dieta",
+    "url": "https://startupi.com.br/selic-em-1425-por-que-o-juro-alto-esta-engordando-o-ma-e-deixando-o-venture-capital-de-dieta/",
+    "resumo": "Startupi Selic em 14,25%: por que o juro alto está engordando o M&A e deixando o Venture Capital de dieta A diminuição gradual da taxa básica de juros ainda mantém os investidores de venture capital em um estado de cautela, ao mesmo tempo que cria uma oportunidade valiosa para fusões e aquisições no cenário de…",
+    "fonte": "Startupi",
+    "data": "2026-07-30T08:00:00.000Z",
+    "tags_tema": [
+      "M&A",
+      "Venture Capital",
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f91a3a4c4d9eef55",
+    "manchete": "A Ferrari que todo mundo espinafrou já bateu a meta – sem sair da fábrica",
+    "url": "https://braziljournal.com/a-ferrari-que-todo-mundo-espinafrou-ja-bateu-a-meta-sem-sair-da-fabrica/",
+    "resumo": "Quando a Ferrari anunciou seu primeiro modelo elétrico há dois meses, o Luce, pessoas ligadas ao setor vaticinaram que ali era o começo do fim da lendária montadora criada por Enzo Ferrari. O ex-presidente da marca, Luca di Montezemolo, chegou a sugerir que o carro não ostentasse o icônico cavalo rampante e disse que…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T22:37:29.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "76d9122c94e769f5",
+    "manchete": "O ‘Partido das Baratas’ que faz a Índia tremer. Se a moda pega&#8230;",
+    "url": "https://braziljournal.com/o-partido-das-baratas-que-faz-a-india-tremer-se-a-moda-pega/",
+    "resumo": "A prosperidade desperta novas demandas – e pode desencadear tensão social e protestos, como demonstra o movimento do ‘Partido das Baratas’ na Índia. O Cockroach Janta Party (CJP) nasceu como sátira, com seus memes viralizando nas redes sociais. Foi lançado em 16 de maio deste ano pelo estrategista político Abhijeet…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-29T22:15:17.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "493a32b93c26628d",
     "manchete": "SLC Agrícola inaugura maior algodoeira da companhia no Piauí Unidade tem capacidade para processar até 80 fardos de algodão por hora e beneficiar a produção de aproximadamente 20 mil hectares por safra, com possibilidade de ampliação para atender até 25 mil hectares",
     "url": "https://www.cnnbrasil.com.br/agro/slc-agricola-inaugura-maior-algodoeira-da-companhia-no-piaui/",
@@ -1297,18 +1800,6 @@
     "importancia": 3
   },
   {
-    "id": "31020d292e927ba8",
-    "manchete": "Bloqueio da União Europeia ao frango brasileiro não deve desequilibrar mercado, diz ABPA Bloqueio da União Europeia ao frango brasileiro não deve desequilibrar mercado, diz ABPA",
-    "url": "https://agfeed.com.br/economia/bloqueio-da-uniao-europeia-ao-frango-brasileiro-nao-deve-desequilibrar-mercado-diz-abpa",
-    "resumo": "ABPA diz que eventual embargo da União Europeia não deve desequilibrar o mercado e aposta no redirecionamento das exportações",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T22:15:23.576Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "fde772ec0cb6d119",
     "manchete": "Apple atinge US$ 5 trilhões e vira porto seguro em meio à liquidação de ações de empresas de IA",
     "url": "https://neofeed.com.br/negocios/apple-atinge-us-5-trilhoes-e-vira-porto-seguro-em-meio-a-liquidacao-de-acoes-de-empresas-de-ia/",
@@ -1672,66 +2163,6 @@
       "Venture Capital",
       "Curva de Juros"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c4b1b31ecf0bc202",
-    "manchete": "Grupo Cavalca amplia atuação no agro e mira novas fronteiras",
-    "url": "https://agfeed.com.br/negocios/grupo-cavalca-amplia-atuacao-no-agro-e-mira-novas-fronteiras",
-    "resumo": "Com origem no Paraná, Cavalca fatura mais de R$ 2,5 bilhões por ano, possui empresas em diferentes setores e se espelha em Amaggi e Locks",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.636Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "76f403b2eb8401f0",
-    "manchete": "Âmbar Energia investe R$ 65 milhões na produção de biometano Unidades em Campo Grande, Andradina e Lins vão produzir 14 milhões de metros cúbicos de combustível renovável por ano",
-    "url": "https://www.cnnbrasil.com.br/agro/ambar-energia-investe-r-65-milhoes-na-producao-de-biometano/",
-    "resumo": "Unidades em Campo Grande, Andradina e Lins vão produzir 14 milhões de metros cúbicos de combustível renovável por ano",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.636Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f47e0b078543aed1",
-    "manchete": "Tarifa sobre etanol ainda é “relevante” para produtores, diz secretário Unidades em Campo Grande, Andradina e Lins vão produzir 14 milhões de metros cúbicos de combustível renovável por ano",
-    "url": "https://www.cnnbrasil.com.br/agro/tarifa-sobre-etanol-ainda-e-relevante-para-produtores-diz-secretario/",
-    "resumo": "Unidades em Campo Grande, Andradina e Lins vão produzir 14 milhões de metros cúbicos de combustível renovável por ano",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.636Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7a586343148027c7",
-    "manchete": "ARTIGO - Cruzamento industrial aumenta competitividade da pecuária brasileira ARTIGO - Cruzamento industrial aumenta competitividade da pecuária brasileira",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-cruzamento-industrial-aumenta-competitividade-da-pecuaria-brasileira",
-    "resumo": "Cruzamento industrial conta hoje com genética mais avançada, melhor manejo e mercado disposto a remunerar bem animais com maior qualidade",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.636Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fdf61d08251374a8",
-    "manchete": "Com “brisa de otimismo”, mercado de fertilizantes reage, mas ainda corre contra o tempo Com “brisa de otimismo”, mercado de fertilizantes reage, mas ainda corre contra o tempo",
-    "url": "https://agfeed.com.br/negocios/com-brisa-de-otimismo-mercado-de-fertilizantes-reage-mas-ainda-corre-contra-o-tempo",
-    "resumo": "As duas últimas semanas foram marcadas por um “sopro de otimismo” no mercado de fertilizantes no Brasil, com o maior nível de comercialização dos últimos doze meses. A definição é de Eduardo Monteiro, country manager da multinacional americana Mosaic no País. Segundo ele, as indústrias do setor venderam cerca de 2…",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T12:15:49.636Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
