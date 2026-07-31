@@ -1,5 +1,424 @@
 [
   {
+    "id": "051c839a0ff4ad37",
+    "manchete": "Bioengenharia, IA e R$ 18 milhões: a fórmula de uma startup para \"reprogramar\" o mercado de bioinsumos",
+    "url": "https://agfeed.com.br/agtech/bioengenharia-ia-e-r-18-milhoes-a-formula-de-uma-startup-para-reprogramar-o-mercado-de-bioinsumos",
+    "resumo": "Terra Genomics capta R$ 18 milhões para desenvolver microrganismos editados com IA e mira transformar o mercado de bioinsumos.",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.070Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1d2ada1029ce15c",
+    "manchete": "O boi China ensina o caminho para o boi europeu",
+    "url": "https://agfeed.com.br/campo-das-ideias/direto-da-fazenda/o-boi-china-ensina-o-caminho-para-o-boi-europeu",
+    "resumo": "O Brasil deve atender às exigências sanitárias de cada mercado de forma individual, sem impor restrições nacionais",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.068Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e17a22e77552c291",
+    "manchete": "Com recurso à OMC contra tarifas de Trump, Brasil move peça mais política do que prática, diz especialista",
+    "url": "https://agfeed.com.br/economia/com-recurso-a-omc-contra-tarifas-de-trump-brasil-move-peca-mais-politica-do-que-pratica-diz-especialista",
+    "resumo": "Brasil aciona OMC contra tarifas de Trump, mas medida tem efeito político e fortalece estratégia comercial, diz especialista",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.067Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dc292c0b2fcbcc24",
+    "manchete": "A estratégia \"sem UE\" do frango brasileiro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-sem-ue-do-frango-brasileiro",
+    "resumo": "ABPA minimiza efeito do bloqueio europeu às exportações do Brasil e mantém projeções de vendas externas para este ano",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.067Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5534434a4ad33ed8",
+    "manchete": "DIRETO DA FAZENDA",
+    "url": "https://agfeed.com.br/campo-das-ideias/direto-da-fazenda/",
+    "resumo": "Autor Teresa Cristina (Teka) Vendramini Fazendeira e socióloga, é ex-presidente da Sociedade Rural Brasileira e atual conselheira da Embrapa Ver todos os posts",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.067Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2bb4f8a87d718029",
+    "manchete": "Agroallianz, de Coopercitrus e DVA, busca parceiro na meta do primeiro bilhão",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/agroallianz-de-coopercitrus-e-dva-busca-parceiro-na-meta-do-primeiro-bilhao",
+    "resumo": "Agroallianz aposta em inovação em defensivos, mira R$ 1 bi em faturamento e amplia presença no agronegócio brasileiro",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.066Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6bf50a439f6dd224",
+    "manchete": "Criada por gigantes do agro, Tello escala operação de fertilizantes, com R$ 900 milhões no radar",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/criada-por-gigantes-do-agro-tello-escala-operacao-de-fertilizantes-com-r-900-milhoes-no-radar",
+    "resumo": "Após concluir investimento de R$ 180 milhões em SP, fabricante de fertilizantes de Amaggi, Coopercitrus e Campanelli prepara operação no MT",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.065Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63e81353cd3f9a82",
+    "manchete": "Cooperativas do agro crescem dois dígitos em 2025 e faturam quase meio trilhão Cooperativas do agro crescem dois dígitos em 2025 e faturam quase meio trilhão",
+    "url": "https://agfeed.com.br/negocios/cooperativas-do-agro-crescem-dois-digitos-em-2025-e-faturam-quase-meio-trilhao",
+    "resumo": "Levantamento do Sistema OCB mostra que cooperativas aceleraram crescimento no ano passado e ampliaram presença no campo",
+    "fonte": "AgFeed",
+    "data": "2026-07-31T12:19:13.065Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c89fb417b5c6188a",
+    "manchete": "A pescaria nos M&As: investidores estratégicos estão tomando o lugar das gestoras de private equity",
+    "url": "https://neofeed.com.br/negocios/a-pescaria-nos-mas-investidores-estrategicos-estao-tomando-o-lugar-das-gestoras-de-private-equity/",
+    "resumo": "Em um momento em que os fundos de private equity estão mais cautelosos, empresas fisgam fatias em companhias privadas e listadas",
+    "fonte": "NeoFeed",
+    "data": "2026-07-31T12:19:09.687Z",
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b11fb77f1f92a073",
+    "manchete": "Justiça homologa plano de R$ 65 bilhões e credores viram sócios da Raízen",
+    "url": "https://neofeed.com.br/negocios/justica-homologa-plano-de-r-65-bilhoes-e-credores-viram-socios-da-raizen/",
+    "resumo": "A Justiça de São Paulo homologou o plano de recuperação extrajudicial da Raízen, que teve adesão de 81,6% dos credores e abre caminho para um aporte de R$ 3,5 bilhões a R$ 4 bilhões na operação",
+    "fonte": "NeoFeed",
+    "data": "2026-07-31T12:19:09.687Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "79bd15a185ba6e7f",
+    "manchete": "Mendonça autorizou PF a monitorar celular de Jaques Wagner após suspeita de vazamento",
+    "url": "https://www.moneytimes.com.br/mendonca-autorizou-pf-a-monitorar-celular-de-jaques-wagner-apos-suspeita-de-vazamento-gaep/",
+    "resumo": "O ministro do Supremo Tribunal Federal (STF) André Mendonça autorizou a Polícia Federal (PF) a quebrar o sigilo telefônico do ex-líder do governo Lula no Senado, Jaques Wagner (PT-BA), e monitorar os movimentos de seu telefone celular após suspeitar do vazamento de um pedido de operação da PF contra o petista,…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T12:16:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e5e698af0cb350ed",
+    "manchete": "Defesa de Lulinha cita “fishing expedition” e diz que PF tenta achar crime sem provas",
+    "url": "https://www.infomoney.com.br/politica/defesa-de-lulinha-cita-fishing-expedition-e-diz-que-pf-tenta-achar-crime-sem-provas/",
+    "resumo": "Advogado de Fábio Luís Lula da Silva afirma que investigação autorizada pelo STF não encontrou irregularidades e defende atuação responsável da Polícia Federal",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T12:15:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6c2e56eda078f696",
+    "manchete": "B3 atrasa abertura de ativos após problemas na Câmara; contratos futuros em leilão",
+    "url": "https://www.infomoney.com.br/mercados/b3-atrasa-abertura-de-ativos-apos-problemas-na-camara-contratos-ficam-em-leilao/",
+    "resumo": "B3 informou nesta sexta que atrasou a abertura do pregão de listados devido a problemas relacionados ao envio de arquivos e à abertura da Câmara B3,",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T12:15:18.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "615736b32bea537c",
+    "manchete": "Índice de incerteza econômica recua em julho, com dados de inflação mais leves",
+    "url": "https://www.infomoney.com.br/economia/indice-de-incerteza-economica-recua-em-julho-com-dados-de-inflacao-mais-leves/",
+    "resumo": "Indicador de Incerteza da Economia, da FGV/Ibre, recuou 1,9 ponto em julho, para 109,4 pontos; recuo foi influenciado pela menor dispersão nas previsões de mercado para as taxas de juros nos próximos 12 meses",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T12:11:58.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cbd23fe8b273196e",
+    "manchete": "Movida (MOVI3) aprova pagamento de proventos de R$ 255 milhões e aumento de capital",
+    "url": "https://www.infomoney.com.br/mercados/movida-movi3-aprova-pagamento-de-proventos-de-r-255-milhoes-e-aumento-de-capital/",
+    "resumo": "O pagamento será realizado em 11 de setembro de 2026",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T12:09:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6ccc4c52f42402df",
+    "manchete": "Irã diz ter atingido dois navios-tanque em Ormuz e afirma que outros quatro recuaram",
+    "url": "https://www.infomoney.com.br/mundo/ira-diz-ter-atingido-dois-navios-tanque-em-ormuz-e-afirma-que-outros-quatro-recuaram/",
+    "resumo": "A Guarda Revolucionária também afirmou ter alertado companhias de navegação para que \"não deem atenção aos comunicados\" dos EUA sobre estreito",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T12:00:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ead049ecfb9879e5",
+    "manchete": "Israel precisa aprovar acordo de Trump antes que Hamas implemente, diz representante",
+    "url": "https://www.infomoney.com.br/mundo/israel-precisa-aprovar-acordo-de-trump-antes-que-hamas-implemente-diz-representante/",
+    "resumo": "Israel precisa aprovar acordo de Trump antes que Hamas o implemente, diz representante do Hamas",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T11:57:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0af7a8d0e868386e",
+    "manchete": "Mesmo com R$ 881,6 milhões do Fundo Eleitoral, campanha de Flávio lança vaquinha",
+    "url": "https://www.infomoney.com.br/politica/mesmo-com-r-8816-milhoes-do-fundo-eleitoral-campanha-de-flavio-lanca-vaquinha/",
+    "resumo": "PL receberá R$ 881,6 milhões do fundo público em 2026, mas candidato aposta em doações de pessoas físicas para ampliar arrecadação",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T11:53:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4ba5d619bc493925",
+    "manchete": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
+    "url": "https://www.infomoney.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/",
+    "resumo": "Segundo a PF, senador e banqueiro tinham \"nítida preferência\" por conversas telefônicas em vez de mensagens",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T11:46:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "98c3f389d9c43908",
+    "manchete": "Vale, Santander, CSN, Raízen, Copasa, Light e mais ações para acompanhar hoje",
+    "url": "https://www.infomoney.com.br/mercados/vale-santander-csn-raizen-copasa-light-e-mais-acoes-para-acompanhar-hoje/",
+    "resumo": "Confira os principais destaques do noticiário corporativo desta sexta-feira (31)",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T11:41:28.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f9f678414c57ad30",
+    "manchete": "Vale supera projeções no 2T e paga dividendos bilionários &#8211; mas custo segue no radar",
+    "url": "https://www.infomoney.com.br/mercados/vale-vale3-supera-projecoes-no-2t-e-anuncia-dividendo-bilionario-mas-custo-segue-no-radar-desempenho-acoes/",
+    "resumo": "Apesar da revisão para cima dos custos do minério de ferro, analistas avaliam que os pontos positivos superam os negativos e veem espaço para uma reação favorável das ações",
+    "fonte": "InfoMoney",
+    "data": "2026-07-31T11:36:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "93166630dc3446eb",
+    "manchete": "Irani (RANI3) vê lucro encolher 70,3%, a R$ 30,9 milhões, no 2T26; confira os números",
+    "url": "https://www.moneytimes.com.br/irani-rani3-ve-lucro-encolher-703-a-r-309-milhoes-no-2t26-veja-os-numeros-lmrs/",
+    "resumo": "A Irani (RANI3) reportou lucro líquido, considerando a operação continuada e descontinuada, de R$ 30,9 milhões no segundo trimestre de 2026, uma queda de 70,3% na comparação com o mesmo período em 2025, mostra relatório de resultados divulgado ao mercado nesta sexta-feira (31). O Ebtida (lucro antes de juros,…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:33:10.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e8aed49306264f38",
+    "manchete": "Irã diz ter atingido dois navios-tanque em Ormuz e afirma que outros quatro recuaram",
+    "url": "https://www.moneytimes.com.br/ira-diz-ter-atingido-dois-navios-tanque-em-ormuz-e-afirma-que-outros-quatro-recuaram/",
+    "resumo": "A Guarda Revolucionária Islâmica do Irã (IRGC, na sigla em inglês) afirmou nesta sexta-feira (31) que atingiu e interceptou dois navios-tanque que tentavam cruzar o Estreito de Ormuz e que outros quatro mudaram de rota e retornaram após ignorarem advertências das forças iranianas. Em comunicado, a IRGC afirmou que,…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:25:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6b0db3f3619c53a3",
+    "manchete": "Ações da Amazon sobem à medida que crescimento da AWS acalma temores com aumento dos gastos com IA",
+    "url": "https://www.moneytimes.com.br/acoes-da-amazon-sobem-a-medida-que-crescimento-da-aws-acalma-temores-com-aumento-dos-gastos-com-ia/",
+    "resumo": "As ações da Amazon subiam mais de 12% antes do início do pregão nesta sexta-feira (31), depois que a gigante do comércio eletrônico divulgou seu maior crescimento no segmento de nuvem em mais de quatro anos, reforçando a confiança dos investidores de que suas apostas multibilionárias em inteligência artificial estão…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:22:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5b0b804baf7d6cef",
+    "manchete": "Vendas da Braskem (BRKM5) caem no 2º tri, mas spreads sobem",
+    "url": "https://www.moneytimes.com.br/vendas-da-braskem-caem-no-2o-tri-mas-spreads-sobem/",
+    "resumo": "A Braskem (BRKM5) anunciou nesta quinta-feira que seus volumes de vendas caíram no segundo trimestre na comparação com o mesmo período do ano passado, mas os chamados spreads de preços tiveram forte alta, impulsionados pela guerra no Oriente Médio. A companhia teve queda de vendas de principais químicos (5%), resinas…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:18:06.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7125f5db8d752887",
+    "manchete": "Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
+    "url": "https://www.moneytimes.com.br/mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/",
+    "resumo": "O ministro do Supremo Tribunal Federal (STF) André Mendonça autorizou a abertura de um inquérito para apurar suspeitas de tráfico de influência no governo federal do empresário Fábio Luís Lula da Silva, filho mais velho do presidente Luiz Inácio Lula da Silva (PT). Relator do caso, Mendonça atendeu a um pedido da…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:10:40.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "38459ae609893509",
+    "manchete": "Milei anuncia projeto de lei para reforma do BC argentino que proibirá financiamento do Tesouro",
+    "url": "https://www.moneytimes.com.br/milei-anuncia-projeto-de-lei-para-reforma-do-bc-argentino-que-proibira-financiamento-do-tesouro/",
+    "resumo": "O presidente argentino, Javier Milei, fez nesta quinta-feira, 30, um pronunciamento para detalhar o projeto de lei de reforma do banco central da Argentina (BCRA) que será enviado ao Congresso do país. Segundo o presidente, o texto proíbe o financiamento do Tesouro e a missão fundamental do BC argentino voltará a ser…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:07:11.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "74a79c53a487ee3c",
+    "manchete": "Lula sinaliza em podcast que não deve ir a debates no 1º turno: 'Quero saber qual é o nível'",
+    "url": "https://www.moneytimes.com.br/lula-sinaliza-em-podcast-que-nao-deve-ir-a-debates-no-1o-turno-quero-saber-qual-e-o-nivel/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) sinalizou que não deve comparecer aos debates eleitorais de primeiro turno. A declaração foi dada em entrevista ao podcast Inteligência Ltda, nesta quinta-feira, 30, apresentado pelo comediante Rogério Vilela. Lula disse analisar o quadro eleitoral antes da decisão de ir ou…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:04:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6a35147ca3ae3e49",
+    "manchete": "BC do Japão sinaliza chance de alta de juros enquanto Tóquio sustenta o iene",
+    "url": "https://www.moneytimes.com.br/bc-do-japao-sinaliza-chance-de-alta-de-juros-enquanto-toquio-sustenta-o-iene/",
+    "resumo": "O Banco do Japão alertou nesta sexta-feira (31), pela primeira vez, que a inflação subjacente pode ultrapassar sua meta e afirmou que as futuras discussões sobre política monetária se concentrarão nos riscos de alta dos preços, sinalizando a possibilidade de um aumento da taxa de juros já em setembro. Esses sinais…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T11:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a82e37c734e36c0f",
+    "manchete": "Japão: BoJ mantém taxa básica de juros em 1% ao ano",
+    "url": "https://www.moneytimes.com.br/japao-boj-mantem-taxa-basica-de-juros-em-1-ao-ano/",
+    "resumo": "O Banco do Japão (BoJ) anunciou a manutenção da taxa básica de juros em 1% ao ano nesta sexta-feira, 31, como era amplamente esperado pelo mercado, sob ponderações dos efeitos do aperto monetário realizado na reunião de junho e das mudanças recentes no cenário internacional, incluindo o conflito no Oriente Médio. Em…",
+    "fonte": "Money Times",
+    "data": "2026-07-31T10:57:16.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f8b9d8c81845f63a",
+    "manchete": "O de baixo sobe e o de cima desce? Não no Brasil",
+    "url": "https://braziljournal.com/o-de-baixo-sobe-e-o-de-cima-desce-nao-no-brasil/",
+    "resumo": "O Brasil ampliou de maneira expressiva seus investimentos sociais e na educação ao longo das últimas décadas – mas a mobilidade social permanece praticamente estagnada. Apenas uma pequena parcela das crianças nascidas em famílias pobres consegue escapar da pobreza na vida adulta, mostra a nova versão do Atlas da…",
+    "fonte": "Brazil Journal",
+    "data": "2026-07-31T09:50:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "42b7f09034ac287f",
+    "manchete": "A Ilusão do Crescimento a Qualquer Custo e o Inevitável Expurgo das Scale-ups",
+    "url": "https://startupi.com.br/a-ilusao-do-crescimento-a-qualquer-custo-e-o-inevitavel-expurgo-das-scale-ups/",
+    "resumo": "Startupi A Ilusão do Crescimento a Qualquer Custo e o Inevitável Expurgo das Scale-ups A segunda onda de recuperações judiciais no ecossistema de inovação impõe a disciplina financeira e liquida a era do capital abundante sem governança. O post A Ilusão do Crescimento a Qualquer Custo e o Inevitável Expurgo das…",
+    "fonte": "Startupi",
+    "data": "2026-07-31T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c01c15753e1dc8d0",
+    "manchete": "Startups de agtech e cleantech trocam equity por dívida para financiar expansão em alta dos juros",
+    "url": "https://startupi.com.br/startups-de-agtech-e-cleantech-trocam-equity-por-divida-para-financiar-expansao-em-alta-dos-juros/",
+    "resumo": "Startupi Startups de agtech e cleantech trocam equity por dívida para financiar expansão em alta dos juros CRIs, debêntures incentivadas e FIDC ganham espaço em operações de growth, com captações estruturadas para infraestrutura, capital de giro e projetos de longo prazo. O post Startups de agtech e cleantech trocam…",
+    "fonte": "Startupi",
+    "data": "2026-07-31T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "7a586343148027c7",
     "manchete": "ARTIGO - Cruzamento industrial aumenta competitividade da pecuária brasileira",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-cruzamento-industrial-aumenta-competitividade-da-pecuaria-brasileira",
@@ -2207,68 +2626,6 @@
     "resumo": "Vittia acelera pesquisas em biológicos, amplia atuação internacional e busca preservar competitividade enquanto espera a recuperação do agro",
     "fonte": "AgFeed",
     "data": "2026-07-28T22:15:23.581Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dadd5b6387674f14",
-    "manchete": "Jussara estuda instalar fábrica de leite em pó no Paraguai, com investimento de US$ 10 milhões Jussara estuda instalar fábrica de leite em pó no Paraguai, com investimento de US$ 10 milhões",
-    "url": "https://agfeed.com.br/negocios/jussara-estuda-instalar-fabrica-de-leite-em-po-no-paraguai-com-investimento-de-us-10-milhoes",
-    "resumo": "Indústria paulista de laticínios Jussara avalia unidade no Paraguai, primeira da empresa no exterior, mas voltada ao mercado brasileiro",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T22:15:23.581Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "89da63c4c7fdae3e",
-    "manchete": "O subproduto virou negócio: M. Dias Branco cria nova vertical para entrar de vez na nutrição animal",
-    "url": "https://agfeed.com.br/negocios/o-subproduto-virou-negocio-m-dias-branco-cria-nova-vertical-para-entrar-de-vez-na-nutricao-animal",
-    "resumo": "M. Dias Branco transforma subproduto da moagem em nova frente de crescimento, com foco em rastreabilidade e distribuição nacional",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T22:15:23.580Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "63dd646dc415b004",
-    "manchete": "A receita da 3R Ribersolo para crescer 30% ao ano: aumentar o escopo dos diagnósticos no campo",
-    "url": "https://agfeed.com.br/negocios/a-receita-da-3r-ribersolo-para-crescer-30-ao-ano-aumentar-o-escopo-dos-diagnosticos-no-campo",
-    "resumo": "Dois anos após fusão, empresa que tem como sócios 10b e Good Karma aposta na expansão do mercado de diagnósticos",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T22:15:23.580Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5753f0fa6d840c68",
-    "manchete": "Um protocolo Brasil-China para azeitar exportações",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/um-protocolo-brasil-china-para-azeitar-exportacoes",
-    "resumo": "Estudo da WRI mostra que protocolo antidesmatamento comum poderia ampliar confiança no comércio bilateral",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T22:15:23.579Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dca35977232f832d",
-    "manchete": "John Deere volta a investir em produção e vai fabricar componentes eletrônicos no Brasil John Deere volta a investir em produção e vai fabricar componentes eletrônicos no Brasil",
-    "url": "https://agfeed.com.br/negocios/john-deere-volta-a-investir-em-producao-e-vai-fabricar-componentes-eletronicos-no-brasil",
-    "resumo": "John Deere investe R$ 75 milhões em Canoas para fabricar componentes eletrônicos e ampliar produção no Brasil",
-    "fonte": "AgFeed",
-    "data": "2026-07-28T22:15:23.579Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
