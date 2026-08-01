@@ -1,5 +1,316 @@
 [
   {
+    "id": "7ccb674d06623a7e",
+    "manchete": "Coamo avança sobre (mais) ativos da Belagrícola e assume unidades em cinco municípios do Paraná",
+    "url": "https://agfeed.com.br/negocios/coamo-avanca-sobre-mais-ativos-da-belagricola-e-assume-unidades-em-cinco-municipios-do-parana",
+    "resumo": "Coamo amplia atuação no Paraná com novos ativos da Belagrícola e reforça estratégia de expansão e armazenagem de grãos",
+    "fonte": "AgFeed",
+    "data": "2026-08-01T22:09:01.108Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a55d6c64c4f9f6e0",
+    "manchete": "O fantasma do \"goût de fumée\" ronda a safra de vinhos franceses",
+    "url": "https://neofeed.com.br/finde/o-fantasma-do-gout-de-fumee-ronda-a-safra-de-vinhos-franceses/",
+    "resumo": "Com os incêndios florestais próximos a Bordeaux, produtores tentam evitar a contaminação invisível das uvas",
+    "fonte": "NeoFeed",
+    "data": "2026-08-01T22:08:55.117Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0d07429bcc727594",
+    "manchete": "A verdadeira (e nada infantil) história por trás dos contos dos irmãos Grimm",
+    "url": "https://neofeed.com.br/finde/a-verdadeira-e-nada-infantil-historia-por-tras-dos-contos-dos-irmaos-grimm/",
+    "resumo": "A nova biografia de Jacob e Wilhelm Grimm mostra como dois pesquisadores da cultura popular alemã deram forma aos contos de fadas modernos",
+    "fonte": "NeoFeed",
+    "data": "2026-08-01T22:08:55.116Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5ec909c21625f66c",
+    "manchete": "Entre o mito e o mercado: a metamorfose de Frida Kahlo em um ícone global",
+    "url": "https://neofeed.com.br/finde/entre-o-mito-e-o-mercado-a-metamorfose-de-frida-kahlo-em-um-icone-global/",
+    "resumo": "A Tate Modern, em Londres, revisita a trajetória da artista mexicana Frida Kahlo e investiga como sua obra e sua imagem ultrapassaram os museus para se tornar um fenômeno da cultura pop contemporânea",
+    "fonte": "NeoFeed",
+    "data": "2026-08-01T22:08:55.116Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4b337d1363c65099",
+    "manchete": "De Salerno para a Serra da Mantiqueira: como Dani Branca virou o melhor pizzaiolo do Brasil",
+    "url": "https://neofeed.com.br/finde/de-salerno-para-a-serra-da-mantiqueira-como-dani-branca-virou-o-melhor-pizzaiolo-do-brasil/",
+    "resumo": "Aos 43 anos, o italiano Dani Branca é eleito o melhor pizzaiolo do Brasil ao alcançar o Top 50 do The Best Pizza Awards 2026",
+    "fonte": "NeoFeed",
+    "data": "2026-08-01T22:08:55.116Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "95ae3d16cdca6f67",
+    "manchete": "Flávio Bolsonaro compara situação do pai ao período de repressão durante a ditadura",
+    "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-compara-situacao-do-pai-ao-periodo-de-repressao-durante-a-ditadura/",
+    "resumo": "Flávio se queixou da prisão de seu pai bem como da proibição pelo judiciário de ter contato com os filhos",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T22:02:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5d662889e58657f2",
+    "manchete": "Santos x Remo: Onde assistir ao jogo da Copa do Brasil?",
+    "url": "https://www.infomoney.com.br/esportes/santos-remo-onde-assistir-copa-do-brasil/",
+    "resumo": "O jogo de ida das oitavas de final terá como mandante o Santos, que joga em casa",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T21:55:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc0848136c0ea983",
+    "manchete": "Vincent Pastore, conhecido por \"Os Sopranos\", morre aos 80 anos",
+    "url": "https://www.infomoney.com.br/mundo/vincent-pastore-conhecido-por-os-sopranos-morre-aos-80-anos/",
+    "resumo": "As circunstâncias de sua morte estão sendo investigadas",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T21:45:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "45c772f9879c2b14",
+    "manchete": "Governo aumenta participões da União no FGI e no FGO, segundo o DOU",
+    "url": "https://www.infomoney.com.br/economia/governo-aumenta-participoes-da-uniao-no-fgi-e-no-fgo-segundo-o-dou/",
+    "resumo": "A ampliação de recursos visa atender exigências da extensão do Novo Desenrola, o programa de renegociação de dívidas",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T21:35:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dcbba2947e56df49",
+    "manchete": "Setor de data centers de IA sofre com atrasos e temor de dificuldades financeiras",
+    "url": "https://www.infomoney.com.br/business/setor-de-data-centers-de-ia-sofre-com-atrasos-e-temor-de-dificuldades-financeiras/",
+    "resumo": "Atrasos em projetos, escassez de mão de obra e mercados de capital mais restritivos estão levando executivos seniores da indústria de data centers a uma visão cada vez mais pessimista",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T21:16:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "65511815f31adcab",
+    "manchete": "Partido Missão oficializa Renan Santos como candidato e lança plano de governo",
+    "url": "https://www.infomoney.com.br/politica/partido-missao-oficializa-renan-santos-como-candidato-e-lanca-plano-de-governo/",
+    "resumo": "Legenda havia antecipado a oficialização da candidatura por motivos de segurança",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T20:54:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f4ac75e5916791df",
+    "manchete": "Quem foi Nirmal Purja, alpinista renomado que morreu em avalanche no Paquistão",
+    "url": "https://www.infomoney.com.br/mundo/quem-foi-nirmal-purja-alpinista-renomado-que-morreu-em-avalanche-no-paquistao/",
+    "resumo": "Purja tinha 43 anos e era famoso por escalar todos os 14 picos com mais de 8 mil metros de altitude em 6 meses",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T20:07:24.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b213e3e6ebde3292",
+    "manchete": "Caiado critica Lula e Bolsonaro: \"são grandes adversários da população brasileira\"",
+    "url": "https://www.infomoney.com.br/politica/caiado-critica-lula-e-bolsonaro-sao-grandes-adversarios-da-populacao-brasileira/",
+    "resumo": "\"Os dois mais rejeitados do País são exatamente o Lula e o Flávio. Então, você não pode ter um país com eleição de rejeitados\", afirmou Caiado",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T20:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4c81a620c56833ef",
+    "manchete": "Petroleiro é atingido por projétil perto no Estreito de Ormuz, segundo autoridades",
+    "url": "https://www.infomoney.com.br/mundo/petroleiro-e-atingido-por-projetil-perto-no-estreito-de-ormuz-segundo-autoridades/",
+    "resumo": "Segundo a UKMTO, a embarcação foi \"atingida por um projétil desconhecido, que causou danos na casa de máquinas\", mas houve registro de feridos",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T19:57:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68933ab4f9d5795f",
+    "manchete": "PCB oficializa candidatura de Edmilson Costa à Presidência",
+    "url": "https://www.infomoney.com.br/politica/pcb-oficializa-candidatura-de-edmilson-costa-a-presidencia/",
+    "resumo": "Os nomes foram aprovados durante a convenção nacional do partido, realizada na Câmara Municipal de São Paulo. A legenda tem até 15 de agosto para registrar as candidaturas na Justiça Eleitoral",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T19:48:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d8db2443804ed1a",
+    "manchete": "Suzano (SUZB3) e mais 4 ações para bater o Ibovespa (IBOV) no curto prazo, segundo a Terra",
+    "url": "https://www.moneytimes.com.br/suzano-suzb3-e-mais-4-acoes-para-bater-o-ibovespa-ibov-no-curto-prazo-segundo-a-terra-lmrs/",
+    "resumo": "A carteira recomendada da Terra Investimentos para o período de 31 de julho a 07 de agosto não passou por alterações em relação a semana anterior. Dessa maneira, a composição permanece com as ações da Sabesp (SBSP3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11). Na última semana, a seleção da Terra…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T17:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b94b1801d80f08d4",
+    "manchete": "É compra: Este fundo imobiliário combina desconto, dividendos e potencial de alta, segundo a XP",
+    "url": "https://www.moneytimes.com.br/e-compra-este-fundo-imobiliario-combina-desconto-dividendos-e-potencial-de-alta-segundo-a-xp-igdl/",
+    "resumo": "A XP Investimentos recomendou compra para as cotas do fundo imobiliário Vinci Logística (VILG11), ao avaliar que o veículo ainda negocia com desconto em relação ao seu valor justo e reúne perspectivas favoráveis para os próximos anos. O preço-alvo da corretora para os papéis é de R$ 107,87, o que representa um…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T16:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7d22165b5be69a36",
+    "manchete": "Tesouro Direto bate recorde em junho com impulso do Tesouro IPCA+",
+    "url": "https://www.moneytimes.com.br/tesouro-direto-bate-recorde-em-junho-com-impulso-do-tesouro-ipca-jcav/",
+    "resumo": "O Tesouro IPCA+ roubou a cena entre os investidores em junho e ajudou o Tesouro Direto a registrar seu melhor resultado desde o início do programa. As vendas líquidas dos títulos públicos somaram R$ 10,1 bilhões no mês, resultado de R$ 14,7 bilhões em aplicações e R$ 4,6 bilhões em resgates. Os títulos atrelados à…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T15:14:40.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cc7a084fc0a63689",
+    "manchete": "Warsh levantou possibilidade de mudar frequência das reuniões de política monetária do Fed, segundo NYT",
+    "url": "https://www.moneytimes.com.br/warsh-levantou-possibilidade-de-mudar-frequencia-das-reunioes-de-politica-monetaria-do-fed-segundo-nyt-jcav/",
+    "resumo": "O chair do Federal Reserve, Kevin Warsh, levantou nesta semana a ideia de reduzir o número de reuniões regulares do Fed nas quais são definidas as taxas de juros, informou o New York Times nesta sexta-feira (31). A medida, se adotada, romperia com uma prática de quase meio século e representaria a mudança operacional…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T14:39:49.000Z",
+    "tags_tema": [
+      "Fundraising",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8a2b4b381ba76863",
+    "manchete": "Dividendos de até 10,4%: Empiricus troca Cyrela por Direcional em carteira para agosto",
+    "url": "https://www.moneytimes.com.br/dividendos-de-ate-104-empiricus-troca-cyrela-por-direcional-em-carteira-para-agosto-jcav/",
+    "resumo": "A Empiricus promoveu uma mudança pontual em sua carteira de dividendos para agosto. A casa de análise retirou as ações da Cyrela (CYRE3) e voltou a recomendar Direcional (DIRR3), mantendo oito ativos no portfólio, todos com participação de 12,5%. A troca ocorre após a queda de quase 20% da Direcional em julho e em…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T14:36:52.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b21d9b6ed51f447f",
+    "manchete": "Debêntures ficaram mais baratas? Itaú BBA vê janela após abertura dos spreads",
+    "url": "https://www.moneytimes.com.br/debentures-ficaram-mais-baratas-itau-bba-ve-janela-apos-abertura-dos-spreads/",
+    "resumo": "O mercado brasileiro de crédito privado passou por um período de ajuste no primeiro semestre de 2026, com abertura dos spreads, resgates em fundos e maior seletividade dos investidores. Apesar da deterioração dos indicadores técnicos, o Itaú BBA avalia que o movimento foi predominantemente técnico e ainda há poucas…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T14:07:29.000Z",
+    "tags_tema": [
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "46ff238043219f94",
+    "manchete": "Livros que deixam buracos na estante",
+    "url": "https://www.moneytimes.com.br/livros-que-deixam-buracos-na-estante-ceci/",
+    "resumo": "Estou obcecado pela leitura que terminei nesta semana. Trata-se de \"O sentido da vida\", do psicanalista Contardo Calligaris, morto em 2021. O título do livro explica bem do que se trata – e vale dizer, ele abre uma discussão e não apresenta uma conclusão fácil. Mas o momento que mais me tocou é quando ele [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-01T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b94ae723366ffed9",
+    "manchete": "Fitch derruba rating da CSN por risco elevado e endividamento",
+    "url": "https://www.moneytimes.com.br/fitch-rebaixa-rating-da-csn-a-ccc-com-piora-de-flexibilidade-financeira-jcav/",
+    "resumo": "A Fitch rebaixou o rating inadimplência do emissor (IDRs) de longo prazo em moeda estrangeira e local de B para CCC+ em uma decisão que retrata a piora da flexibilidade financeira da CSN (CSNA3) diante da queima de caixa contínua apesar de alguma melhora operacional. Altas despesas de juros, despesas com capital…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T13:29:50.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c5df0dc06ce5c117",
+    "manchete": "Lula desafia Trump e Milei: ‘Que venham, mas a extrema direita não volta’",
+    "url": "https://www.moneytimes.com.br/lula-critica-interferencia-de-trump-e-milei-nas-eleicoes-brasileiras-jcav/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) voltou a citar o presidente americano Donald Trump e o congênere argentino Javier Milei, ao questionar uma possível interferência de governantes de outros países nas eleições brasileiras. As falas de Lula foram na convenção do PT que confirmou a candidatura à reeleição de…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T13:23:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b32bd856d63ef455",
+    "manchete": "STF abre novo inquérito por tráfico de influência contra filho de Lula por atuação no Dataprev",
+    "url": "https://www.moneytimes.com.br/stf-abre-novo-inquerito-por-trafico-de-influencia-contra-filho-de-lula-por-atuacao-no-dataprev-jcav/",
+    "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), autorizou nesta sexta-feira (31) que a Polícia Federal abra mais um inquérito criminal por tráfico de influência contra o filho primogênito do presidente Luiz Inácio Lula da Silva, o empresário Fábio Luís Lula da Silva, conhecido como Lulinha, desta vez…",
+    "fonte": "Money Times",
+    "data": "2026-08-01T13:18:32.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "b5fe0306e83a9025",
     "manchete": "MP das dívidas rurais autoriza os bancos a operarem linhas para reestruturar débitos. Problema resolvido? MP das dívidas rurais autoriza os bancos a operarem linhas para reestruturar débitos. Problema resolvido?",
     "url": "https://agfeed.com.br/campo-das-ideias/direito-de-produzir/mp-das-dividas-rurais-autoriza-os-bancos-a-operarem-linhas-para-reestruturar-debitos-problema-resolvido",
@@ -2446,18 +2757,6 @@
     "tags_tema": [
       "IPO/Mercado de Capitais"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b797f0445c7f526c",
-    "manchete": "ARTIGO - O impacto do El Niño vai além do agro: como proteger operações e pagamentos na instabilidade ARTIGO - O impacto do El Niño vai além do agro: como proteger operações e pagamentos na instabilidade",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-impacto-do-el-nino-vai-alem-do-agro-como-proteger-operacoes-e-pagamentos-na-instabilidade",
-    "resumo": "Nenhuma empresa controla o clima. Mas as empresas podem controlar a qualidade da própria informação e a disciplina dos seus processos",
-    "fonte": "AgFeed",
-    "data": "2026-07-29T22:10:53.768Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -11477,395 +11776,5 @@
     ],
     "relevante": true,
     "importancia": 2
-  },
-  {
-    "id": "a629786823737655",
-    "manchete": "Do alfajor ao Mounjaro: Havanna adapta cardápio à era das canetas emagrecedoras",
-    "url": "https://neofeed.com.br/finde/do-alfajor-ao-mounjaro-havanna-adapta-cardapio-a-era-das-canetas-emagrecedoras/",
-    "resumo": "Havanna quer atrair público que hoje usa Ozempic e Mounjaro. Companhia aposta em sorvete com proteína e creatina para crescer 20%",
-    "fonte": "NeoFeed",
-    "data": "2026-07-04T22:09:33.352Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Havanna"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "7a9be9e2e2345448",
-    "manchete": "A nova aposta da Microsoft: ser o “canivete suíço” da IA corporativa",
-    "url": "https://www.infomoney.com.br/business/global/a-nova-aposta-da-microsoft-ser-o-canivete-suico-da-ia-corporativa/",
-    "resumo": "Investimento de US$ 2,5 bilhões mira adoção do Copilot e soluções sob medida",
-    "fonte": "InfoMoney",
-    "data": "2026-07-04T18:55:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [
-      "Microsoft"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "1f54c435e392b4a0",
-    "manchete": "VILG11 e MCCI11 entram na carteira de FIIs que já rendeu 500% do Ifix em 2026; confira o portfólio",
-    "url": "https://www.moneytimes.com.br/vilg11-e-mcci11-entram-na-carteira-de-fiis-que-ja-rendeu-500-do-ifix-em-2026-confira-o-portfolio-lbrdgm074/",
-    "resumo": "A carteira mensal TOP FIIs da Empiricus já está disponível e conta com 7 ativos promissores para julho;",
-    "fonte": "Money Times",
-    "data": "2026-07-04T13:00:00.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Empiricus"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "cc27c7c456845756",
-    "manchete": "Dividendos de julho, Fred Trajano sereno e FIIs: o que bombou no Money Times nesta semana",
-    "url": "https://www.moneytimes.com.br/dividendos-de-julho-fred-trajano-sereno-e-fiis-o-que-bombou-no-money-times-nesta-semana/",
-    "resumo": "Na semana que marcou o fim de junho e do primeiro semestre e o início de julho e da segunda metade do ano, o calendário de dividendos foi a matéria que mais atraiu a atenção dos leitores do Money Times. Em seguida, aparece uma reportagem exclusiva com Fred Trajano, do Magazine Luiza (MGLU3), falando sobre [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-07-04T12:36:24.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Magazine Luiza"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "02f1dcdd30367678",
-    "manchete": "Junho marca 2º mês de saída de estrangeiro da Bolsa, mas saldo segue acima de 2025",
-    "url": "https://www.infomoney.com.br/mercados/junho-marca-2o-mes-de-saida-de-estrangeiro-da-bolsa-mas-saldo-segue-acima-de-2025/",
-    "resumo": "O movimento se deve tanto a fatores externos quanto internos",
-    "fonte": "InfoMoney",
-    "data": "2026-07-04T11:30:00.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "4dbb63fe14648478",
-    "manchete": "Simples Nacional congelado há 8 anos ameaça pequenas empresas com tributação indireta",
-    "url": "https://www.infomoney.com.br/minhas-financas/simples-nacional-congelado-ha-8-anos-ameaca-pequenas-empresas-com-tributacao-indireta/",
-    "resumo": "Contadores e empresários alegam que a falta de atualização dos limites desde 2018 criou uma defasagem que pesa hoje no bolso das pequenas empresas",
-    "fonte": "InfoMoney",
-    "data": "2026-07-04T11:00:00.000Z",
-    "tags_tema": [
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "5e04f3ffcba34c54",
-    "manchete": "Cosan confirma que avalia \"alternativas\" para Rumo - com assessoria do BTG Pactual",
-    "url": "https://agfeed.com.br/negocios/cosan-confirma-que-avalia-alternativas-para-rumo-com-assessoria-do-btg-pactual",
-    "resumo": "Endividada e sob pressão para reduzir sua alavancagem, Cosan estuda possibilidades envolvendo participação na companhia de logística",
-    "fonte": "AgFeed",
-    "data": "2026-07-03T22:15:39.523Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "Cosan",
-      "Rumo",
-      "BTG Pactual"
-    ],
-    "relevante": true,
-    "importancia": 5
-  },
-  {
-    "id": "31d2d6c80298809d",
-    "manchete": "Guerra das canetas emagrecedoras faz Itaú BBA \"emagrecer\" projeções da RD Saúde",
-    "url": "https://neofeed.com.br/negocios/guerra-das-canetas-emagrecedoras-faz-itau-bba-emagrecer-projecoes-da-rd-saude/",
-    "resumo": "Redução das margens das canetas mais baratas e o aumento do mercado informal fez com que Itaú BBA reduzisse preço-alvo de R$ 27 para 20",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T22:15:24.806Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Itaú BBA",
-      "RD Saúde"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1520de1e86040cdf",
-    "manchete": "Por que o avanço de gigantes como OpenAI e Anthropic é uma notícia positiva para a Positivo",
-    "url": "https://neofeed.com.br/negocios/por-que-o-avanco-de-gigantes-como-openai-e-anthropic-e-uma-noticia-positiva-para-a-positivo/",
-    "resumo": "Ao NeoFeed, o CEO Hélio Rotenberg explica que, quanto mais crescer a capacidade computacional para IA, mais vão surgir as oportunidades de processamento local. Custo e segurança de dados são as principais razões",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T22:15:24.805Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Positivo",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "4968e7b64f3400af",
-    "manchete": "HBR faz oferta por 100% da Helbor, buscando destravar valor",
-    "url": "https://braziljournal.com/hbr-faz-oferta-por-100-da-helbor-buscando-destravar-valor/",
-    "resumo": "A HBR Realty acaba de lançar uma oferta para comprar 100% da Helbor – numa operação que vai unir duas empresas do mesmo controlador com o objetivo de extrair sinergias e destravar o valor das ações, que estão paradas há anos na Bolsa. A transação é uma troca de ações, com os acionistas da Helbor [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-03T21:41:05.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "HBR Realty",
-      "Helbor"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "d94d44f5c3d57d2d",
-    "manchete": "Governo anuncia Desenrola MEI para renegociar R$ 12,4 bi em dívidas",
-    "url": "https://www.moneytimes.com.br/governo-anuncia-desenrola-mei-para-renegociar-r-124-bi-em-dividas/",
-    "resumo": "O governo formalizou nesta sexta-feira, 3, o lançamento do Desenrola MEI, um programa de renegociação de dívidas de microempreendedores individuais. Segundo dados apresentados em coletiva de imprensa realizada nesta sexta, o programa tem o potencial de beneficiar 3,5 milhões de MEIs com débitos inscritos na dívida…",
-    "fonte": "Money Times",
-    "data": "2026-07-03T21:05:09.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6dc2b224ab90821d",
-    "manchete": "São Martinho (SMTO3) aprova pagamento de dividendos; veja quem tem direito",
-    "url": "https://www.moneytimes.com.br/sao-martinho-smto3-aprova-pagamento-de-dividendos-veja-quem-tem-direito-pads/",
-    "resumo": "A São Martinho (SMTO3) aprovou o pagamento de R$ 69,91 milhões em dividendos aos acionistas, o equivalente a R$ 0,216 por ação. A distribuição foi aprovada na Assembleia Geral Ordinária e Extraordinária realizada nesta sexta-feira (3). Terão direito aos dividendos os investidores com posição acionária na companhia em…",
-    "fonte": "Money Times",
-    "data": "2026-07-03T20:36:39.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "São Martinho"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "4a02c9360166ff1c",
-    "manchete": "Por que as ações da Engie Brasil despencaram com a aquisição de Jirau?",
-    "url": "https://www.infomoney.com.br/mercados/por-que-as-acoes-da-engie-brasil-despencaram-com-a-aquisicao-de-jirau/",
-    "resumo": "Momento delicado no setor de energia gera mais pressão sobre papéis",
-    "fonte": "InfoMoney",
-    "data": "2026-07-03T20:27:18.000Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Engie Brasil",
-      "Jirau"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "110c2ed8ce89914c",
-    "manchete": "Fertilizantes: Yara compra fábrica de amônia no Texas por US$ 1,3 bilhão",
-    "url": "https://www.moneytimes.com.br/fertilizantes-yara-compra-fabrica-de-amonia-no-texas-por-us-13-bilhao-pads/",
-    "resumo": "A Yara anunciou a aquisição de uma fábrica de produção de amônia em Texas City, no Estado do Texas, nos Estados Unidos, por US$ 1,3 bilhão, em um movimento para ampliar sua base industrial e fortalecer a flexibilidade de abastecimento. A unidade está sendo adquirida da Gulf Coast Ammonia, empresa controlada pela Lotus…",
-    "fonte": "Money Times",
-    "data": "2026-07-03T19:24:07.000Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Yara",
-      "Gulf Coast Ammonia",
-      "Lotus"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "6dbc6787d74308c2",
-    "manchete": "Chanel compra Charvet, a mais antiga camisaria do mundo",
-    "url": "https://neofeed.com.br/negocios/chanel-compra-charvet-a-mais-antiga-camisaria-do-mundo/",
-    "resumo": "Chanel reforça sua aposta na moda masculina ao adquirir a tradicional Charvet, ícone parisiense de alfaiataria artesanal",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T12:53:32.907Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Chanel",
-      "Charvet"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "67d0863b2d13ff80",
-    "manchete": "Inter Asset quer unir quatro FIIs em movimento de consolidação do setor",
-    "url": "https://neofeed.com.br/negocios/inter-asset-quer-unir-quatro-fiis-em-movimento-de-consolidacao-do-setor/",
-    "resumo": "A Inter Asset apresentou uma proposta de reorganização e consolidação de quatro fundos de investimento imobiliário (FIIs) em um único veículo, movimento que vem ganhando força no mercado, diante dos juros elevados, que dificultam a captação de recursos. O braço de investimentos do Inter, que conta com cerca de R$ 24…",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T12:53:32.906Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Inter Asset"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d72ad7c28a0e93ca",
-    "manchete": "Blackrock encontra \"molho secreto\" no Brasil e América Latina",
-    "url": "https://neofeed.com.br/wealth-management/blackrock-encontra-molho-secreto-no-brasil-e-america-latina/",
-    "resumo": "Apesar de o fluxo do capital estrangeiro ter se invertido, Blackrock acredita que a região pode ser uma opção para ter exposição à tese da IA",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T12:53:32.906Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "BlackRock"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "4625b1985986d5e2",
-    "manchete": "Na Syn, a expansão não pode sair do \"campo de visão\" de Elie Horn",
-    "url": "https://neofeed.com.br/negocios/na-syn-a-expansao-nao-pode-sair-do-campo-de-visao-de-elie-horn/",
-    "resumo": "Criada como um spin-off da Cyrela, a Syn, que atua na gestão de shoppings, galpões e edifícios, aposta na filosofia de seu controlador",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T12:53:32.904Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Syn",
-      "Cyrela"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4d03552ef0197272",
-    "manchete": "ISA Energia busca \"reforço de carga\" e avalia follow on de R$ 650 milhões",
-    "url": "https://neofeed.com.br/negocios/isa-energia-busca-reforco-de-carga-e-avalia-follow-on-de-r-650-milhoes/",
-    "resumo": "A companhia de transmissão de energia contratou o BTG Pactual como assessor financeiro para a potencial oferta, que, caso seja concretizada, será o quinto follow na bolsa de valores brasileira em 2026",
-    "fonte": "NeoFeed",
-    "data": "2026-07-03T12:53:32.904Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "ISA Energia",
-      "BTG Pactual"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "3c087148779e0cb1",
-    "manchete": "ISA Energia avalia potencial oferta de ações de R$650 mi",
-    "url": "https://www.infomoney.com.br/mercados/isa-energia-avalia-potencial-oferta-de-acoes-de-r650-mi/",
-    "resumo": "A ‌ISA Energia ​afirmou ainda que, caso a oferta seja realizada, ⁠será ​outorgado ​direito de prioridade aos acionistas ⁠para ​subscrição das ações",
-    "fonte": "InfoMoney",
-    "data": "2026-07-03T12:29:06.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "ISA Energia"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "bc818f0f64f15aaa",
-    "manchete": "Prio (PRIO3), Brava Energia (BRAV3), Embraer (EMBJ3), Natura (NATU3) e outros destaques desta sexta (3)",
-    "url": "https://www.moneytimes.com.br/prio-prio3-brava-energia-brav3-embraer-embj3-natura-natu3-e-outros-destaques-desta-sexta-3-ceci/",
-    "resumo": "O crescimento de produção da Prio (PRIO3) e da Brava Energia (BRAV3), as aeronaves entregues pela Embraer (EMBJ3) e o novo programa de recompra de ações da Natura (NATU3) são alguns dos destaques corporativos desta sexta-feira (3). Confira o Radar do Mercado Produção da Prio (PRIO3) bate recorde no ano A Prio (PRIO3)…",
-    "fonte": "Money Times",
-    "data": "2026-07-03T12:23:55.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Prio",
-      "Brava Energia",
-      "Embraer",
-      "Natura"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "59f123a9078e1f33",
-    "manchete": "EUA marcam fala de Flávio Bolsonaro em audiência que discutirá tarifa contra o Brasil",
-    "url": "https://www.infomoney.com.br/politica/eua-marcam-fala-de-flavio-bolsonaro-em-audiencia-que-discutira-tarifa-contra-o-brasil/",
-    "resumo": "Senador participará no segundo dia da consulta pública do USTR, etapa que antecede decisão do governo americano sobre novas tarifas às exportações brasileiras",
-    "fonte": "InfoMoney",
-    "data": "2026-07-03T12:21:46.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "1497b9246dd01441",
-    "manchete": "Indústria no Brasil cai 0,2% em maio, interrompe 4 meses de alta e frustra projeções",
-    "url": "https://www.infomoney.com.br/economia/industria-no-brasil-cai-02-em-maio-interrompe-4-meses-de-alta-e-frustra-projecoes/",
-    "resumo": "As expectativas em pesquisa da Reuters com economistas eram de altas de 0,3% na variação mensal",
-    "fonte": "InfoMoney",
-    "data": "2026-07-03T12:20:23.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "6435c6980f7270ec",
-    "manchete": "ISA Energia (ISAE4) avalia oferta de ações e pode levantar R$ 650 milhões; entenda",
-    "url": "https://www.moneytimes.com.br/isa-energia-isae4-avalia-oferta-de-acoes-e-pode-levantar-r-650-milhoes-lmrs/",
-    "resumo": "A ISA Energia (ISAE4) está avaliando a possibilidade de fazer uma oferta pública subsequente (follow-on) de distribuição primária de ações preferenciais, que pode levantar cerca de R$ 650 milhões, conforme anunciou a companhia em comunicado nesta sexta-feira (3). Como a operação seria primária, o dinheiro captado a…",
-    "fonte": "Money Times",
-    "data": "2026-07-03T12:17:37.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "ISA Energia"
-    ],
-    "relevante": true,
-    "importancia": 4
   }
 ]
