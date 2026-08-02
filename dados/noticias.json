@@ -1,5 +1,225 @@
 [
   {
+    "id": "b797f0445c7f526c",
+    "manchete": "ARTIGO - O impacto do El Niño vai além do agro: como proteger operações e pagamentos na instabilidade",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-impacto-do-el-nino-vai-alem-do-agro-como-proteger-operacoes-e-pagamentos-na-instabilidade",
+    "resumo": "Nenhuma empresa controla o clima. Mas as empresas podem controlar a qualidade da própria informação e a disciplina dos seus processos",
+    "fonte": "AgFeed",
+    "data": "2026-08-02T11:35:42.614Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a350ede84e5d7402",
+    "manchete": "Candidato a presidente pela sétima vez, Lula unifica a esquerda, mas levanta questões sobre o futuro sem ele",
+    "url": "https://www.moneytimes.com.br/lula-unifica-a-esquerda-mas-levanta-questoes-sobre-o-futuro-sem-ele-gaep/",
+    "resumo": "Quando o presidente Luiz Inácio Lula da Silva (PT) subir ao palco na convenção do Partido dos Trabalhadores, neste domingo (2), para aceitar sua sétima, e última, indicação como candidato à Presidência, aos 80 anos, o fará com a esquerda brasileira mais unida em sua defesa do que em qualquer outro momento de sua longa…",
+    "fonte": "Money Times",
+    "data": "2026-08-02T11:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "99188d69ffe80d8a",
+    "manchete": "Programa de renegociação de dívidas é prorrogado até 31 de agosto",
+    "url": "https://www.moneytimes.com.br/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto-pads/",
+    "resumo": "A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério da Fazenda, publicada no Diário Oficial da União. A medida já havia sido anunciada pelo ministro da Fazenda, Dario Durigan. Os consumidores terão até 31 de agosto para…",
+    "fonte": "Money Times",
+    "data": "2026-08-02T11:29:36.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b0fccc96bc8be4b8",
+    "manchete": "Trump suspende ataque ao Irã a pedidos de Teerã e Oriente Médio para fechar acordo",
+    "url": "https://www.infomoney.com.br/mundo/trump-suspende-ataque-ao-ira-a-pedidos-de-teera-e-oriente-medio-para-fechar-acordo/",
+    "resumo": "O presidente ressaltou, no entanto, que os EUA seguem \"prontos e preparados\" para agir contra o Irã",
+    "fonte": "InfoMoney",
+    "data": "2026-08-02T11:25:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2289dbfedea0da91",
+    "manchete": "Rematrícula escolar: como calcular o custo real da educação dos filhos",
+    "url": "https://www.infomoney.com.br/minhas-financas/rematricula-escolar-como-calcular-o-custo-real-da-educacao-dos-filhos/",
+    "resumo": "Mensalidade é apenas parte da conta; material, transporte, uniforme e atividades podem elevar o gasto mensal em até 20%, segundo especialista",
+    "fonte": "InfoMoney",
+    "data": "2026-08-02T10:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ee8d4e857a776133",
+    "manchete": "OPINIÃO. América 250: o que o Brasil pode aprender",
+    "url": "https://braziljournal.com/opiniao-america-250-o-que-o-brasil-pode-aprender/",
+    "resumo": "Em 4 de julho, os Estados Unidos completaram 250 anos como nação independente. Em 1776, as treze colônias somavam menos de três milhões de habitantes e haviam declarado guerra contra o império mais poderoso do mundo, sem exército profissional, tesouro ou governo central de fato. Poucos dos 56 signatários poderiam…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-02T09:50:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "21bf60fe743e8dba",
+    "manchete": "Ferreirinha já baniu o celular das escolas. Seu próximo alvo: as redes sociais",
+    "url": "https://braziljournal.com/ferreirinha-ja-baniu-o-celular-das-escolas-seu-proximo-alvo-as-redes-sociais/",
+    "resumo": "Quando foi Secretário de Educação do Rio de Janeiro, Renan Ferreirinha liderou uma das medidas mais aplaudidas dos últimos anos: a proibição do uso de celular pelos alunos nas escolas do município. A medida – que entrou em vigor em 2023 – obteve resultados relevantes e serviu de inspiração para a aprovação, dois anos…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-02T09:50:16.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8a0fb0c705cdfec0",
+    "manchete": "OPINIÃO. Lula, entre a ingratidão e a confissão",
+    "url": "https://braziljournal.com/opiniao-lula-entre-a-ingratidao-e-a-confissao/",
+    "resumo": "“Eu acho que criminalista não sabe defender inocente. Criminalista defende bandido” – Lula, em entrevista esta semana. Lula já foi preso algumas vezes na vida. As prisões eram justas ou injustas? Hoje isso pouco importa: cada brasileiro já formou sua opinião, e absolutamente tudo já foi escrito e dito sobre este…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-02T09:50:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "865511ff84b28310",
+    "manchete": "OPINIÃO. A “minha opinião” não é argumento. Precisamos reagir",
+    "url": "https://braziljournal.com/opiniao-a-minha-opiniao-nao-e-argumento-precisamos-reagir/",
+    "resumo": "Em algum momento no passado recente, a “minha opinião” virou argumento. Funciona assim: inicia-se algum debate e, muito rapidamente, alguém, para justificar sua posição, dispara “mas essa é a minha opinião”. Pronto. Super trunfo. Fim da discussão. Nada pode superar essa afirmação. Até há algum tempo, quando se…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-02T09:50:04.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f1f2214949bf69d",
+    "manchete": "7 ações que podem ganhar uma injeção de ânimo com as novas canetas de semaglutida",
+    "url": "https://www.infomoney.com.br/mercados/7-acoes-que-podem-ganhar-uma-injecao-de-animo-com-as-novas-canetas-de-semaglutida/",
+    "resumo": "Na visão do BofA, a entrada de medicamentos de menor preço deve aumentar o acesso da população aos tratamentos com GLP-1",
+    "fonte": "InfoMoney",
+    "data": "2026-08-02T09:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e543147963acdfcd",
+    "manchete": "Veja como garantir o PIS/Pasep 2026 antes do prazo final em agosto",
+    "url": "https://www.moneytimes.com.br/pis-pasep-agosto-2026-isca/",
+    "resumo": "Previsto no artigo 239 da Constituição Federal, o PIS/Pasep é um abono salarial pago anualmente pelo governo, no valor de até um salário mínimo. Em agosto, ele cairá no dia 15, sábado, para trabalhadores nascidos em novembro e dezembro. Funciona como um complemento de renda para trabalhadores que exerceram atividade…",
+    "fonte": "Money Times",
+    "data": "2026-08-02T08:58:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c8ea9417f31d6d78",
+    "manchete": "Meia-idade: especialistas indicam 9 hábitos que aumentam sua longevidade",
+    "url": "https://www.infomoney.com.br/business/global/meia-idade-especialistas-indicam-9-habitos-que-aumentam-sua-longevidade/",
+    "resumo": "Como você cuida de si mesmo nesta fase da vida faz toda a diferença para os anos que virão",
+    "fonte": "InfoMoney",
+    "data": "2026-08-02T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d3be39459da511ee",
+    "manchete": "Lula larga na campanha com aliados e estrutura, mas também com duas crises no radar",
+    "url": "https://www.infomoney.com.br/politica/lula-larga-na-campanha-com-aliados-e-estrutura-mas-tambem-com-duas-crises-no-radar/",
+    "resumo": "Petista chega à convenção com Alckmin confirmado na vice, maior tempo potencial de TV e programa de governo em fase final",
+    "fonte": "InfoMoney",
+    "data": "2026-08-02T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f92f69f1a5953bc",
+    "manchete": "Fantasma de Witzel ajuda a explicar por que Cleitinho ficou fora da disputa em Minas",
+    "url": "https://www.infomoney.com.br/politica/fantasma-de-witzel-ajuda-a-explicar-por-que-cleitinho-ficou-fora-da-disputa-em-minas/",
+    "resumo": "Para especialistas, temor de repetir uma gestão sem base política e dificuldades de articulação pesaram na decisão do senador de não disputar o governo mineiro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-02T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7965ede699aee9c1",
+    "manchete": "“Livro Amarelo”: a doutrina que Renan Santos diz ser a base do projeto do Missão",
+    "url": "https://www.infomoney.com.br/politica/livro-amarelo-a-doutrina-que-renan-santos-diz-ser-a-base-do-projeto-do-missao/",
+    "resumo": "Documento foi apresentado no lançamento da candidatura à Presidência como mais do que um plano de governo e reúne os princípios políticos, econômicos e sociais defendidos pelo novo partido",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T23:37:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c3b19c369e71ca26",
+    "manchete": "Renan tenta transformar eleição em disputa por “projeto de civilização” para o Brasil",
+    "url": "https://www.infomoney.com.br/politica/renan-tenta-transformar-eleicao-em-disputa-por-projeto-de-civilizacao-para-o-brasil/",
+    "resumo": "Em lançamento da candidatura pelo Partido Missão, presidenciável apresentou o “Livro Amarelo” como uma doutrina para redefinir o país e buscou se diferenciar tanto do PT quanto do bolsonarismo",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T23:28:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "38887ba4c74a9275",
+    "manchete": "Pentacampeão, Kléberson passa por cateterismo após sentir dores no peito nos EUA",
+    "url": "https://www.infomoney.com.br/esportes/pentacampeao-kleberson-passa-por-cateterismo-apos-sentir-dores-no-peito-nos-eua/",
+    "resumo": "O próprio ex-jogador revelou a situação neste sábado, por meio das redes sociais",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T23:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e2c8d7bf833b8dbc",
+    "manchete": "Flávio Bolsonaro chama Lula de 'projeto de ditador' e diz que vai 'demiti-lo'",
+    "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-chama-lula-de-projeto-de-ditador-e-diz-que-vai-demiti-lo/",
+    "resumo": "\"O governo atual endividou o povo brasileiro\", disse Flávio",
+    "fonte": "InfoMoney",
+    "data": "2026-08-01T22:59:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "7ccb674d06623a7e",
     "manchete": "Coamo avança sobre (mais) ativos da Belagrícola e assume unidades em cinco municípios do Paraná",
     "url": "https://agfeed.com.br/negocios/coamo-avanca-sobre-mais-ativos-da-belagricola-e-assume-unidades-em-cinco-municipios-do-parana",
@@ -11488,293 +11708,5 @@
     ],
     "relevante": true,
     "importancia": 4
-  },
-  {
-    "id": "cef578a3e5cdbeda",
-    "manchete": "FMC capta US$ 400 milhões com novo sócio e encerra avaliação de “opções estratégicas”",
-    "url": "https://agfeed.com.br/negocios/fmc-capta-us-400-milhoes-com-novo-socio-e-encerra-avaliacao-de-opcoes-estrategicas",
-    "resumo": "FMC encerra busca por alternativas estratégicas após captar US$ 400 milhões e ganhar novo sócio para reduzir dívidas",
-    "fonte": "AgFeed",
-    "data": "2026-07-06T12:47:43.425Z",
-    "tags_tema": [
-      "Private Equity",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "FMC"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "1b9bdbbd8e25f8e0",
-    "manchete": "Picanha sem desmatamento? China testa “selo verde” do Imaflora para carne bovina",
-    "url": "https://agfeed.com.br/esg/picanha-sem-desmatamento-china-testa-selo-verde-do-imaflora-para-carne-bovina",
-    "resumo": "Projeto de instituto brasileiro está em fase de testes na China e \"selo verde\" poderá chegar às gôndolas do país no início de 2027",
-    "fonte": "NeoFeed",
-    "data": "2026-07-06T12:47:29.947Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Imaflora"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "1163103a54a54c0c",
-    "manchete": "Bancos assumem protagonismo em meio à fuga dos fundos de crédito privado",
-    "url": "https://neofeed.com.br/negocios/bancos-assumem-protagonismo-em-meio-a-fuga-dos-fundos-de-credito-privado/",
-    "resumo": "Com resgate de fundos de crédito, volume de emissões cai 57,6% no segundo trimestre e 82,4% das ofertas são incorporadas por bancos",
-    "fonte": "NeoFeed",
-    "data": "2026-07-06T12:47:29.946Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bfd03c96448560d7",
-    "manchete": "No boom dos ETFs, a Investo salta de R$ 2 bilhões para mais de R$ 10 bilhões em 18 meses",
-    "url": "https://neofeed.com.br/videos/cafe-investidor/no-boom-dos-etfs-a-investo-salta-de-r-2-bilhoes-para-mais-de-r-10-bilhoes-em-18-meses/",
-    "resumo": "Cauê Mançanares, fundador e CEO da Investo, explica por que os fundos de índice estão dobrando o patrimônio sob gestão no Brasil",
-    "fonte": "NeoFeed",
-    "data": "2026-07-06T12:47:29.946Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Investo"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6f447fb31a7a7216",
-    "manchete": "Ação da easyJet dispara com oferta de aquisição de US$ 7,3 bilhões",
-    "url": "https://www.infomoney.com.br/mercados/acao-da-easyjet-dispara-com-oferta-de-aquisicao-de-us-73-bilhoes/",
-    "resumo": "A easyJet informou no ⁠domingo ‌que estava disposta a aceitar a oferta ⁠melhorada da empresa de investimentos norte-americana Castlelake, de 6,90 libras por ação",
-    "fonte": "InfoMoney",
-    "data": "2026-07-06T12:14:38.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "easyJet",
-      "Castlelake"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "39020a376b658f11",
-    "manchete": "Dividendos em alta, empresa saindo da bolsa e recuperações extrajudiciais são destaques nesta segunda-feira (6)",
-    "url": "https://www.moneytimes.com.br/dividendos-em-alta-empresa-saindo-da-bolsa-e-recuperacoes-extrajudiciais-sao-destaques-desta-segunda-6-ceci/",
-    "resumo": "As recomendações e pagamentos de dividendos para esta semana, a possível saída da Helbor (HBOR3) da Bolsa e o avanço de recuperações extrajudiciais no Brasil são alguns dos destaques corporativos desta segunda-feira (6). Confira o Radar do Mercado Alupar (ALUP11), B3 (B3SA3), Totvs (TOTS3) e mais 6 empresas pagam…",
-    "fonte": "Money Times",
-    "data": "2026-07-06T12:04:41.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Helbor",
-      "Alupar",
-      "B3",
-      "Totvs"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "caf2c0916d17749c",
-    "manchete": "Azul (AZUL3) leva ações para a NYSE e busca de maior visibilidade entre investidores; veja",
-    "url": "https://www.moneytimes.com.br/azul-azul3-leva-acoes-para-a-nyse-em-busca-de-maior-visibilidade-entre-investidores-lmrs/",
-    "resumo": "A Azul (AZUL3) informou ao mercado nesta segunda-feira (6) que as American Depositary Shares (ADSs), representantes de duas ações ordinárias da companhia, tiveram a listagem aprovada na Bolsa de Valores de Nova York (NYSE). Com a aprovação, a companhia irá cancelar voluntariamente sua listagem na NYSE American. A…",
-    "fonte": "Money Times",
-    "data": "2026-07-06T12:02:52.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Azul"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "084ea8456be8b752",
-    "manchete": "Petrobras (PETR4) representa 65% do lucro das estatais federais, mas é hora de investir na companhia?",
-    "url": "https://www.moneytimes.com.br/petrobras-petr4-representa-65-do-lucro-das-estatais-federais-mas-e-hora-de-investir-na-companhia-lbrdbb090/",
-    "resumo": "A Petrobras (PETR4) foi o principal destaque nos lucros de R$ 169,4 bilhões apurados pelas estatais federais em 2025. Sozinha, a empresa contribuiu com R$ 110,6 bilhões, cerca de 65% do total. Juntas, as 44 estatais viram seus resultados subirem 45,4% na comparação com o ano anterior, de acordo com os dados divulgados…",
-    "fonte": "Money Times",
-    "data": "2026-07-06T12:00:00.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Petrobras"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "e79fa28b94bd7639",
-    "manchete": "Recuperações extrajudiciais avançam no Brasil com pressão de juros altos",
-    "url": "https://www.moneytimes.com.br/recuperacoes-extrajudiciais-avancam-no-brasil-com-pressao-de-juros-altos/",
-    "resumo": "O pedido de recuperação extrajudicial da Raízen (RAIZ4), com dívidas de R$ 65,1 bilhões, mexeu com o mercado em 2026. Mas a gigante de açúcar e etanol está longe de ser um caso isolado. Após anos de juros punitivos, entre os mais altos do mundo, um número crescente de empresas brasileiras está buscando negociar com…",
-    "fonte": "Money Times",
-    "data": "2026-07-06T11:50:38.000Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Raízen"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b1cb8fc10f3747f7",
-    "manchete": "A miragem do faturamento na Era da IA",
-    "url": "https://startupi.com.br/a-miragem-do-faturamento-na-era-da-ia/",
-    "resumo": "Startupi A miragem do faturamento na Era da IA Por que celebrar receitas recordes sem calcular a conta do servidor é um convite ao desastre financeiro. O post A miragem do faturamento na Era da IA aparece primeiro em Startupi e foi escrito por Ricardo Azevedo",
-    "fonte": "Startupi",
-    "data": "2026-07-06T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "4786dea87c1c91f3",
-    "manchete": "Como o valuation da SpaceX virou o teste definitivo entre técnica e emoção?",
-    "url": "https://startupi.com.br/como-o-valuation-da-spacex-virou-o-teste-definitivo-entre-tecnica-e-emocao/",
-    "resumo": "Startupi Como o valuation da SpaceX virou o teste definitivo entre técnica e emoção? O hiato de US$ 470 bilhões entre a precificação de mercado e os fundamentos da companhia expõe os limites das narrativas no ecossistema de venture capital. O post Como o valuation da SpaceX virou o teste definitivo entre técnica e…",
-    "fonte": "Startupi",
-    "data": "2026-07-06T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [
-      "SpaceX"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "fd443303d6fd804d",
-    "manchete": "Maior gestora global gira radar para a América Latina e sinaliza novo teto no topo do ciclo de IA",
-    "url": "https://startupi.com.br/maior-gestora-global-gira-radar-para-a-america-latina-e-sinaliza-novo-teto-no-topo-do-ciclo-de-ia/",
-    "resumo": "Startupi Maior gestora global gira radar para a América Latina e sinaliza novo teto no topo do ciclo de IA BlackRock reduz exposição a semicondutores na Ásia e busca abrigo nos juros reais e nos ativos analógicos da América Latina, o que pode redesenhar o custo de capital para empresas brasileiras. O post Maior…",
-    "fonte": "Startupi",
-    "data": "2026-07-06T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [
-      "BlackRock"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "e0885e7ce372dd0f",
-    "manchete": "Como o Brasil quer conquistar o bilionário mercado espacial com lançamentos em Alcântara",
-    "url": "https://www.moneytimes.com.br/como-o-brasil-quer-conquistar-o-bilionario-mercado-espacial-com-lancamentos-em-alcantara/",
-    "resumo": "O Brasil está tentando abocanhar uma fatia do mercado espacial, que movimenta bilhões ao redor do mundo e tende a crescer mais nos próximos anos, puxado por SpaceX, Blue Origins e dezenas de outras empresas menores, mas relevantes. Neste momento, há cerca de 20 contratos em negociação entre o governo federal e…",
-    "fonte": "Money Times",
-    "data": "2026-07-05T12:19:05.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "f94066999a8d3b2d",
-    "manchete": "As empresas aprenderam a contratar; o desafio agora é fazer os talentos ficarem",
-    "url": "https://www.infomoney.com.br/carreira/as-empresas-aprenderam-a-contratar-o-desafio-agora-e-fazer-as-pessoas-ficarem/",
-    "resumo": "Mobilidade profissional cresce, permanência diminui e empresas descobrem que um bom processo seletivo já não basta para reter talentos",
-    "fonte": "InfoMoney",
-    "data": "2026-07-05T11:06:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "856a32504e334ba4",
-    "manchete": "Setor imobiliário vê 2026 forte, mas já trata 2027 com mais cautela",
-    "url": "https://www.infomoney.com.br/business/setor-imobiliario-ve-2026-forte-mas-ja-trata-2027-com-mais-cautela/",
-    "resumo": "Em painel no Construsummit, representantes da Caixa, CBIC, ABECIP e ABRAMAT projetam novo ciclo de crescimento, mas alertam para riscos ligados à Selic, ao funding, à mão de obra e à tributação",
-    "fonte": "InfoMoney",
-    "data": "2026-07-05T08:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Caixa",
-      "CBIC",
-      "ABECIP",
-      "ABRAMAT"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "2d8c12cbd3901026",
-    "manchete": "Influenciadores viram sócios de empresas em novo modelo de negócios",
-    "url": "https://www.infomoney.com.br/minhas-financas/influenciadores-viram-socios-de-empresas-em-novo-modelo-de-negocios/",
-    "resumo": "Estratégia de media for equity substitui parte dos cachês por participação acionária e avança com a creator economy no Brasil",
-    "fonte": "InfoMoney",
-    "data": "2026-07-05T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "ab7c4b97c83772f1",
-    "manchete": "ARTIGO: A fragmentação da autoridade e o novo desafio reputacional no topo das corporações",
-    "url": "https://neofeed.com.br/insiders/artigo-a-fragmentacao-da-autoridade-e-o-novo-desafio-reputacional-no-topo-das-corporacoes/",
-    "resumo": "Com a influência distribuída entre mídia tradicional e ecossistemas digitais especializados, empresas precisam rever como constroem credibilidade junto aos tomadores de decisão",
-    "fonte": "NeoFeed",
-    "data": "2026-07-04T22:09:33.354Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "203d0c2041737e0c",
-    "manchete": "A conta fechou: como servir comida de graça fez um restaurante crescer e lucrar",
-    "url": "https://neofeed.com.br/finde/a-conta-fechou-como-servir-comida-de-graca-fez-um-restaurante-crescer-e-lucrar/",
-    "resumo": "Dylan Alverson conta como um ato de resistência ao governo americano transformou o Post Modern Times no negócio mais bem-sucedido de sua carreira",
-    "fonte": "NeoFeed",
-    "data": "2026-07-04T22:09:33.353Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Post Modern Times"
-    ],
-    "relevante": true,
-    "importancia": 2
   }
 ]
