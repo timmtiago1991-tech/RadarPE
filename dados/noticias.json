@@ -1,5 +1,428 @@
 [
   {
+    "id": "cb64d92dd9aec325",
+    "manchete": "Bayer supera expectativas no trimestre com força da divisão agrícola Bayer supera expectativas no trimestre com força da divisão agrícola",
+    "url": "https://agfeed.com.br/negocios/bayer-supera-expectativas-no-trimestre-com-forca-da-divisao-agricola",
+    "resumo": "Bayer supera projeções com força da divisão agrícola, alta em sementes de soja e retomada do dicamba nos EUA",
+    "fonte": "AgFeed",
+    "data": "2026-08-04T12:20:29.971Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "40b4d2044dddac5a",
+    "manchete": "A silenciosa expansão da Alvorada para se tornar a maior rede de insumos agropecuários do País",
+    "url": "https://agfeed.com.br/negocios/a-silenciosa-expansao-da-alvorada-para-se-tornar-a-maior-rede-de-insumos-agropecuarios-do-pais",
+    "resumo": "Alvorada acelera expansão com apoio da Kinea, mira 100 filiais e se consolida como maior rede de insumos agropecuários do Brasil",
+    "fonte": "AgFeed",
+    "data": "2026-08-04T12:20:29.970Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bd4462f14da58999",
+    "manchete": "Fintech Kesh capta R$ 550 milhões para escalar tese de \"cashback de juros\"",
+    "url": "https://neofeed.com.br/startups/fintech-kesh-capta-r-550-milhoes-para-escalar-tese-de-cashback-de-juros/",
+    "resumo": "Liderada pelo Grupo Leste, a rodada com equity e FIDC traz sócios da Across Capital e BR Angels para dar \"carimbo institucional\" à empresa",
+    "fonte": "NeoFeed",
+    "data": "2026-08-04T12:20:19.184Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7452d89fc8a1fce1",
+    "manchete": "\"É a maior distorção que já vimos no mercado de crédito”, diz Ulisses Nehmi, da Sparta",
+    "url": "https://neofeed.com.br/negocios/e-a-maior-distorcao-que-ja-vimos-no-mercado-de-credito-diz-ulisses-nehmi-da-sparta/",
+    "resumo": "CEO de uma das principais gestoras de crédito privado do país afirma nunca ter visto uma relação de risco-retorno pior que a atual",
+    "fonte": "NeoFeed",
+    "data": "2026-08-04T12:20:19.184Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "861c6fb0b93b2460",
+    "manchete": "A (interesseira) manobra dos EUA para ajudar o Japão a reverter a queda do iene",
+    "url": "https://neofeed.com.br/economia/a-interesseira-manobra-dos-eua-para-ajudar-o-japao-a-reverter-a-queda-do-iene/",
+    "resumo": "Temor de o BC japonês vender títulos do Tesouro dos EUA para fortalecer moeda leva Casa Branca a comprar bilhões de ienes",
+    "fonte": "NeoFeed",
+    "data": "2026-08-04T12:20:19.184Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "21aaea0735ad029e",
+    "manchete": "CEO da Multiplan diz que insegurança pesa mais que a inflação e tira até 20% das vendas à noite",
+    "url": "https://neofeed.com.br/negocios/ceo-da-multiplan-diz-que-inseguranca-pesa-mais-que-a-inflacao-e-tira-ate-20-das-vendas-a-noite/",
+    "resumo": "Em entrevista ao NeoFeed, Eduardo Peres afirma que o combate ao crime precisa ser a prioridade do debate eleitoral",
+    "fonte": "NeoFeed",
+    "data": "2026-08-04T12:20:19.183Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c585c44bdf1f0e9a",
+    "manchete": "Um senhor seed money de US$ 85 milhões para popularizar o wealth management",
+    "url": "https://neofeed.com.br/startups/um-senhor-seed-money-de-us-85-milhoes-para-popularizar-o-wealth-management/",
+    "resumo": "No maior cheque \"seed money\" da América Latina, a startup Decade quer levar a IA para o wealth management",
+    "fonte": "NeoFeed",
+    "data": "2026-08-04T12:20:19.183Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ce26af4860038c80",
+    "manchete": "Ricardo Salles condena tarifaço de Trump, critica Forças Armadas e diz que saneamento é a real pauta ambiental",
+    "url": "https://neofeed.com.br/videos/eleicoes-2026/ricardo-salles-condena-tarifaco-de-trump-critica-forcas-armadas-e-diz-que-saneamento-e-a-real-pauta-ambiental/",
+    "resumo": "Ao programa Eleições 2026, Ricardo Salles, candidato ao Senado em São Paulo pelo Novo, afirma que a falta de diálogo com Washington empurra o Brasil para a dependência da China e defende tolerância zero contra o crime organizado",
+    "fonte": "NeoFeed",
+    "data": "2026-08-04T12:20:19.183Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d8a3ce120d754fdf",
+    "manchete": "Ex-chefe de gabinete de Lula admite empréstimo de lobista ligada ao Careca do INSS",
+    "url": "https://www.infomoney.com.br/politica/ex-chefe-de-gabinete-de-lula-admite-emprestimo-de-lobista-ligada-ao-careca-do-inss/",
+    "resumo": "Marco Aurélio Santana Ribeiro afirma que recebeu recursos de Roberta Luchsinger em operação pessoal já quitada",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:18:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "06d53a18614d6972",
+    "manchete": "Trump critica lucros de petroleiras com a guerra que ele próprio iniciou",
+    "url": "https://www.infomoney.com.br/mundo/trump-critica-lucros-de-petroleiras-com-a-guerra-que-ele-proprio-iniciou/",
+    "resumo": "Presidente diz que Exxon e Chevron 'estão ganhando dinheiro demais' e solicita que 'devolvam parte à população' dos EUA para compensar ganhos com alta do barril no mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:18:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e32c311443440551",
+    "manchete": "Ibovespa Futuro sobe com temporada de resultados e dados em foco",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-com-temporada-de-resultados-e-dados-em-foco/",
+    "resumo": "No exterior, as ações avançavam, mas a alta dos preços do petróleo evidenciava o ceticismo quanto a uma resolução do conflito no Oriente Médio",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:16:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dcb6417b6dbcec90",
+    "manchete": "Ibovespa futuro sobe aos 179 mil pontos com produção industrial e exterior; dólar cai a R$ 5,07",
+    "url": "https://www.moneytimes.com.br/ibovespa-futuro-4-8-26-apsa/",
+    "resumo": "O Ibovespa futuro (INDFUT) subiu 0,34%, aos 179.255 pontos após a abertura, às 9h (horário de Brasília), com o dado mais fraco do que o esperado pelo mercado da produção industrial de junho, enquanto as bolsas no exterior operam positivas. Já o dólar à vista abriu em queda ante o real, destoando do desempenho da…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T12:16:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e2896c632d41e4d6",
+    "manchete": "Prejuízo da Eve recua 47,1% no 2º trimestre na comparação anual",
+    "url": "https://www.moneytimes.com.br/prejuizo-da-eve-recua-471-no-2o-trimestre-na-comparacao-anual-lmrs/",
+    "resumo": "A Eve, subsidiária da Embraer (EMBJ3), encerrou o segundo trimestre de 2026 com prejuízo líquido de US$ 34,2 milhões ante perdas de US$ 64,7 milhões no mesmo período de 2025. A empresa atribuiu a redução principalmente a menores despesas de pesquisa e desenvolvimento (R&#38;D), que somaram US$ 28,9 milhões no período,…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T12:15:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "618c8304c41bdd96",
+    "manchete": "XP avança para 4º lugar em ranking das melhores casas de research do Brasil",
+    "url": "https://www.infomoney.com.br/business/xp-avanca-para-4o-lugar-em-ranking-das-melhores-casas-de-research-do-brasil/",
+    "resumo": "Instituição aparece entre as líderes e se destaca em diferentes categorias do ranking internacional",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:15:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "41b322338071dcc6",
+    "manchete": "Produção industrial no Brasil cai 1,8% em junho e frustra projeções do mercado",
+    "url": "https://www.infomoney.com.br/economia/producao-industrial-no-brasil-cai-18-em-junho-e-frustra-projecoes-do-mercado/",
+    "resumo": "Pesquisa Reuters apontava recuo de 0,8% na variação mensal",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:14:15.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1d86fb836fda772",
+    "manchete": "Passageiros relatam frustração em meio à greve na CPTM",
+    "url": "https://www.infomoney.com.br/brasil/passageiros-relatam-frustracao-em-meio-a-greve-na-cptm/",
+    "resumo": "Passageiros reclamam de atendimento parcial e tumulto em estações em meio à greve",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:11:03.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b32e2e6dad63400b",
+    "manchete": "Smart Fit (SMFT3) conclui aquisição da rede de academias Evolve; veja detalhes da operação",
+    "url": "https://www.moneytimes.com.br/smart-fit-smft3-conclui-aquisicao-da-rede-de-academias-evolve-veja-detalhes-da-operacao-lmrs/",
+    "resumo": "A Smart Fit (SMFT3) anunciou ao mercado nesta terça-feira (4) que concluiu na véspera a aquisição do controle da rede de academias Evolve. A operação ocorreu mediante a aquisição de ações ordinárias representativas de 60% do capital social total da empresa. O contrato, celebrado em 1º de dezembro de 2025, foi aditado…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T12:10:01.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "85070014e4a627b0",
+    "manchete": "Fertilizantes: preço da ureia nos portos brasileiros subiu 19% em 5 semanas",
+    "url": "https://www.infomoney.com.br/esportes/fertilizantes-preco-da-ureia-nos-portos-brasileiros-subiu-19-em-5-semanas/",
+    "resumo": "Além do período crucial de preparação para a próxima safra brasileira, o que aumenta a demanda por nitrogenados, a Índia lançou uma nova licitação de compra nos últimos dias, mantendo o mercado em alta",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:09:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "07000b849c4f0ff8",
+    "manchete": "Subsidiária da Petrobras (PETR4) aprova concurso público; salários iniciais podem chegar a R$ 15 mil e inscrições abrem neste mês",
+    "url": "https://www.moneytimes.com.br/subsidiaria-petrobras-petr4-concurso-publico-salarios-iniciais-r-15-mil-mlem/",
+    "resumo": "Subsidiária de transporte e armazenamento da Petrobras (PETR4), a Transpetro anunciou a aprovação da abertura de concurso público para contratações nos quadros de terra e de mar. Entre os quatro editais, estarão disponíveis 281 vagas imediatas com salários iniciais de até R$ 15 mil — fora os (muitos) benefícios. As…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T12:08:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3fbeb775b79922c8",
+    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04082026/",
+    "resumo": "Índices futuros dos EUA avançam com valorização de ações de tecnologia",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:06:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "62c1a3e8d4e18b01",
+    "manchete": "MPE pede ao TRE-SP que negue registro da candidatura de Ricardo Salles ao Senado",
+    "url": "https://www.infomoney.com.br/politica/mpe-pede-ao-tre-sp-que-negue-registro-da-candidatura-de-ricardo-salles-ao-senado/",
+    "resumo": "Procuradoria acusa ex-ministro de ter entregue documentos com informações incompletas sobre processos judiciais que poderiam indeferir sua candidatura",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T12:03:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05a65582f8772f5a",
+    "manchete": "Ex-Nubank levanta ‘seed’ histórico: Decade vai gerir finanças pessoais com AI",
+    "url": "https://braziljournal.com/ex-nubank-levanta-seed-historico-decade-vai-gerir-financas-pessoais-com-ai/",
+    "resumo": "A Decade – fundada no ano passado pelo ex-CTO do Nubank, Vitor Olivier – acaba de levantar a maior rodada seed da história da América Latina, colocando US$ 85 milhões no caixa para construir uma plataforma de AI que ajude os brasileiros na gestão de suas finanças e investimentos. A captação, de cerca de R$ [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-04T12:00:24.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "30b94dfeb12d9e94",
+    "manchete": "Sobe ou desce? Esses 2 fatores podem afetar a recuperação das criptomoedas; entenda",
+    "url": "https://www.moneytimes.com.br/sobe-ou-desce-esses-2-fatores-podem-afetar-a-recuperacao-das-criptomoedas-entenda-lbrdjm024/",
+    "resumo": "O bitcoin, principal criptomoeda do mercado, melhora perspectivas de curto prazo, mas dois fatores podem movimentar o setor nos próximos meses",
+    "fonte": "Money Times",
+    "data": "2026-08-04T12:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "01343d0d595d0588",
+    "manchete": "Lula se apropria de pautas eleitorais em tramitação avançada, mostra levantamento",
+    "url": "https://www.infomoney.com.br/politica/lula-se-apropria-de-pautas-eleitorais-em-tramitacao-avancada-mostra-levantamento/",
+    "resumo": "Planalto aposta em agendas previamente lideradas por parlamentares ao apresentar iniciativas legislativas sobre temas com fim da escala 6x1 e PL Antifacção",
+    "fonte": "InfoMoney",
+    "data": "2026-08-04T11:58:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d00d345dbf5dd12b",
+    "manchete": "Irã pede controle das entradas no Estreito de Ormuz e supervisão das saídas, diz fonte",
+    "url": "https://www.moneytimes.com.br/ira-pede-controle-das-entradas-no-estreito-de-ormuz-e-supervisao-das-saidas-diz-fonte/",
+    "resumo": "O Irã deseja ter controle sobre o tráfego marítimo de entrada pelo Estreito de Ormuz e visibilidade sobre o tráfego de saída, com a capacidade de intervir se necessário, de acordo com um plano que está sendo discutido com Omã para reabrir a via navegável estratégica, informou uma fonte iraniana de alto escalão à…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T11:40:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "986bca0dec1deec8",
+    "manchete": "Fundo imobiliário desaba mais de 40% após cortar dividendos e revisar projeções; entenda o que aconteceu",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-desaba-mais-de-40-apos-cortar-dividendos-e-revisar-projecoes-entenda-o-que-aconteceu-igdl/",
+    "resumo": "As cotas do fundo imobiliário Mérito Desenvolvimento I (MFII11) despencaram na segunda-feira (3) e encerraram o pregão com queda superior a 41%, após o veículo reduzir a projeção de dividendos e revisar para baixo as estimativas de geração de caixa. Em relatório gerencial divulgado na noite de sexta-feira (31), o FII…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T11:37:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "88f0762db3f607ba",
+    "manchete": "IPCA+ 8,4%: BB seleciona 5 títulos de crédito privado para agosto; confira",
+    "url": "https://www.moneytimes.com.br/ipca-84-bb-seleciona-5-titulos-de-credito-privado-para-agosto-confira-jcav/",
+    "resumo": "O BB Investimentos selecionou cinco títulos de crédito privado incentivados para agosto, todos indexados ao IPCA, com vencimentos entre 2036 e 2040. A lista reúne papéis de empresas dos setores de energia elétrica, transporte e logística e distribuição de combustíveis, com ratings elevados, entre brAAA e AA+(bra).…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T11:17:19.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1cb45b3a2a0936f3",
+    "manchete": "CPF irregular coloca em risco emissão e renovação da CNH; veja como regularizar a situação",
+    "url": "https://www.moneytimes.com.br/cnh-cpf-receita-federal-bloqueio-pendencia-rsgp/",
+    "resumo": "Quem tenta renovar ou emitir a Carteira Nacional de Habilitação (CNH) em meio a pendências com a Receita Federal corre o risco de ver o processo logo na etapa inicial de atendimento. Os Departamentos Estaduais de Trânsito (Detrans) passaram a cruzar informações em tempo real com a Receita Federal e suspendem o…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T11:16:32.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "442bb80b1e73ac1f",
+    "manchete": "Fundo imobiliário amplia contrato com M. Dias Branco e reduz vacância do portfólio; IFIX recua",
+    "url": "https://www.moneytimes.com.br/fundo-imobiliario-amplia-contrato-com-m-dias-branco-e-reduz-vacancia-do-portfolio-ifix-recua-igdl/",
+    "resumo": "O fundo imobiliário Bresco Logística (BRCO11) anunciou, por meio de fato relevante, a ampliação do contrato de locação com a M. Dias Branco (MDIA3) para o empreendimento \"Bresco Canoas\", um condomínio logístico localizado no Rio Grande do Sul. Segundo o comunicado divulgado ao mercado, a fabricante de produtos…",
+    "fonte": "Money Times",
+    "data": "2026-08-04T11:06:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "16414b2cf34890e8",
+    "manchete": "Aneel discute esticar concessão da Engie; Copel e AXIA se opõem",
+    "url": "https://braziljournal.com/aneel-discute-esticar-concessao-da-engie-copel-e-axia-se-opoem/",
+    "resumo": "A Agência Nacional de Energia Elétrica deve colocar em votação ainda este mês uma proposta que permitiria à Engie prorrogar o contrato de concessão de uma de suas hidrelétricas em troca de investimentos na instalação de duas turbinas adicionais. Se aprovada na diretoria da agência, a regulamentação mudaria paradigmas…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-04T09:50:23.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "49e97e0ab4da4d8d",
+    "manchete": "RIW, um barco de inovação num oceano de problemas (e oportunidades)",
+    "url": "https://startupi.com.br/riw-um-barco-de-inovacao-num-oceano-de-problemas-e-oportunidades/",
+    "resumo": "Startupi RIW, um barco de inovação num oceano de problemas (e oportunidades) Rio Innovation Week começa na Cidade Maravilhosa reunindo inovadores e investidores em meio ao cenário de uma das mais caóticas metrópoles brasileiras. O post RIW, um barco de inovação num oceano de problemas (e oportunidades) aparece…",
+    "fonte": "Startupi",
+    "data": "2026-08-04T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "57b0584d16f07466",
+    "manchete": "Na Rio Innovation Week, tecnologia vira agenda de negócios com painéis sobre IA, tokenização e cibersegurança",
+    "url": "https://startupi.com.br/na-rio-innovation-week-tecnologia-vira-agenda-de-negocios-com-paineis-sobre-ia-tokenizacao-e-ciberseguranca/",
+    "resumo": "Startupi Na Rio Innovation Week, tecnologia vira agenda de negócios com painéis sobre IA, tokenização e cibersegurança Evento reúne esta semana no Píer Mauá um grande número de palestras e atividades para aproximar empresas, startups, investidores e comunidade técnica em torno de temas que já determinam decisões…",
+    "fonte": "Startupi",
+    "data": "2026-08-04T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "afe347b4c6c9ef9e",
+    "manchete": "Pague Menos tem maior margem EBITDA da história com ganhos de eficiência",
+    "url": "https://braziljournal.com/pague-menos-tem-maior-margem-ebitda-da-historia-com-ganhos-de-eficiencia/",
+    "resumo": "A Pague Menos reportou um segundo trimestre com crescimento da receita abaixo do esperado – mas compensou com cortes de custos que levaram à maior margem EBITDA da história da companhia. A rede de drogarias com sede em Fortaleza aumentou as vendas em 9,3% na comparação anual para R$ 4,3 bilhões, com o same-store sales…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-03T23:39:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "c0ecf0bce3007f43",
     "manchete": "Recuperações judiciais crescem 71% e crise chega aos pequenos produtores Levantamento mostra que produtores rurais respondem por três em cada quatro recuperações judiciais do setor. Soja lidera os casos e inadimplência começa a contaminar a cadeia do agronegócio.",
     "url": "https://www.cnnbrasil.com.br/agro/recuperacoes-judiciais-crescem-71-e-crise-chega-aos-pequenos-produtores/",
@@ -10822,545 +11245,5 @@
     ],
     "relevante": true,
     "importancia": 3
-  },
-  {
-    "id": "e030d45c0dfb41f2",
-    "manchete": "JHSF (JHSF3) conclui compra do Enjoy Punta del Este; complexo terá hotel Fasano, shopping e residenciais",
-    "url": "https://www.moneytimes.com.br/jhsf-jhsf3-conclui-compra-do-enjoy-punta-del-este-complexo-tera-hotel-fasano-shopping-e-residenciais-igdl/",
-    "resumo": "A JHSF Península, companhia que faz parte do grupo que controla a JHSF Participações (JHSF3), concluiu a aquisição da totalidade do capital social da Baluma S.A, empresa uruguaia proprietária do complexo Enjoy Punta del Este, localizado em frente à Playa Mansa, uma das regiões mais valorizadas da cidade. Com o…",
-    "fonte": "Money Times",
-    "data": "2026-07-13T12:23:26.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "JHSF Participações",
-      "JHSF Península",
-      "Baluma S.A",
-      "Enjoy Punta del Este",
-      "Fasano"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "b1992bdff271896f",
-    "manchete": "Temporada do 2T pode reforçar aposta em Bolsa brasileira barata, aponta Bradesco BBI",
-    "url": "https://www.infomoney.com.br/mercados/temporada-resultados-2t26-pode-reforcar-aposta-em-bolsa-brasileira-barata-aponta-bradesco-bbi/",
-    "resumo": "Banco mantém Brasil como principal escolha na América Latina e vê combinação de lucros em alta, valuations descontados e expectativa de cortes de juros como suporte para as ações no segundo semestre",
-    "fonte": "InfoMoney",
-    "data": "2026-07-13T11:56:11.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Bradesco"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "47e4b0f21d8a8396",
-    "manchete": "Fundo imobiliário que suspendeu dividendos anuncia renúncia de administradora; IFIX sobe em julho",
-    "url": "https://www.moneytimes.com.br/fundo-imobiliario-que-suspendeu-dividendos-anuncia-renuncia-de-administradora-ifix-sobe-em-julho-igdl/",
-    "resumo": "O fundo imobiliário Cartesia Recebíveis (CACR11) anunciou, por meio de fato relevante, que a BRL Trust Distribuidora de Títulos e Valores Mobiliários renunciou ao cargo de sua administradora. Segundo o comunicado divulgado ao mercado, a Cartesia Investimentos, gestora do veículo, foi notificada sobre a decisão no…",
-    "fonte": "Money Times",
-    "data": "2026-07-13T11:02:54.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Cartesia Recebíveis",
-      "BRL Trust",
-      "Cartesia Investimentos"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "89c98362a7887caf",
-    "manchete": "Com Brasil na dianteira, Citi dobra aposta na América Latina e renova visão sobre risco na região",
-    "url": "https://startupi.com.br/com-brasil-na-dianteira-citi-dobra-aposta-na-america-latina-e-renova-visao-sobre-risco-na-regiao/",
-    "resumo": "Startupi Com Brasil na dianteira, Citi dobra aposta na América Latina e renova visão sobre risco na região Após saída do varejo, Citigroup direcionou desinvestimentos para a operação institucional, consolidando o Brasil como o epicentro de uma aposta bilionária focada em commodities, crédito estruturado e na esperada…",
-    "fonte": "Startupi",
-    "data": "2026-07-13T08:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Citigroup"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "b8f14094ef50af60",
-    "manchete": "Dinheiro na mesa, mas cadê o equity? A armadilha oculta nos US$ 3 bilhões das startups latino-americanas",
-    "url": "https://startupi.com.br/dinheiro-na-mesa-mas-cade-o-equity-a-armadilha-oculta-nos-us-3-bilhoes-das-startups-latino-americanas/",
-    "resumo": "Startupi Dinheiro na mesa, mas cadê o equity? A armadilha oculta nos US$ 3 bilhões das startups latino-americanas Volume de investimentos cresceu, impulsionado por captações via dívida e fundos de crédito, enquanto o investidor tradicional parece seduzido pelo avanço vertiginoso da inteligência artificial O post…",
-    "fonte": "Startupi",
-    "data": "2026-07-13T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "84fc078a8c8c91e7",
-    "manchete": "Rivais querem comprar a Enel São Paulo. Falta combinar com os italianos",
-    "url": "https://braziljournal.com/rivais-querem-comprar-a-enel-sao-paulo-falta-combinar-com-os-italianos/",
-    "resumo": "Com o avanço de um processo que pode resultar na revogação do contrato de distribuição de energia da Enel São Paulo, alguns grupos já têm avaliado uma potencial aquisição da concessão da empresa. A Equatorial Energia, a Neoenergia, da espanhola Iberdrola, e a CPFL, da chinesa State Grid, estão entre os players que…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-12T23:41:14.000Z",
-    "tags_tema": [
-      "M&A",
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Enel São Paulo",
-      "Equatorial Energia",
-      "Neoenergia",
-      "CPFL",
-      "Iberdrola"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "4ac9060efd18ff92",
-    "manchete": "Os personagens por trás dos grandes escândalos financeiros que abalaram mercados",
-    "url": "https://neofeed.com.br/finde/os-homens-por-tras-dos-grandes-escandalos-financeiros-que-abalaram-mercados/",
-    "resumo": "Inovar, enriquecer ou conquistar prestígio — todos tinham a ambição de ir além, sempre mais longe. Do pioneirismo do Barão de Mauá ao golpe bilionário de Daniel Vorcaro, passando por Naji Nahas, Bernie Madoff, Eike Batista, Elizabeth Holmes e Sam Bankman-Fried: suas trajetórias revelam como a ousadia e o excesso de…",
-    "fonte": "NeoFeed",
-    "data": "2026-07-12T22:05:45.589Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Barão de Mauá",
-      "Naji Nahas",
-      "Bernie Madoff",
-      "Eike Batista",
-      "Elizabeth Holmes"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "c159ee8acecd41b9",
-    "manchete": "Duplicata escritural, que pode \"destravar\" R$ 11 tri, ainda engatinha entre empresas",
-    "url": "https://www.infomoney.com.br/economia/duplicata-escritural-que-pode-destravar-r-11-tri-ainda-engatinha-entre-empresas/",
-    "resumo": "Tema tem disputado a atenção com pautas consideradas mais imediatas, sobretudo a transição da reforma tributária",
-    "fonte": "InfoMoney",
-    "data": "2026-07-12T20:27:47.000Z",
-    "tags_tema": [
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "b38558012a130cf0",
-    "manchete": "Economist vê riscos à supremacia financeira dos EUA e destaca papel do Pix no debate",
-    "url": "https://www.infomoney.com.br/economia/economist-ve-riscos-a-supremacia-financeira-dos-eua-e-destaca-papel-do-pix-no-debate/",
-    "resumo": "Revista britânica afirma que pressão dos EUA sobre sistema brasileiro reflete fragmentação da infraestrutura global de pagamentos e avanço de alternativas nacionais ao domínio de Visa, Mastercard e do dólar",
-    "fonte": "InfoMoney",
-    "data": "2026-07-12T19:47:44.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Visa",
-      "Mastercard"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "630309fcec1aa8d4",
-    "manchete": "Projeto de deputado após fracasso do Brasil na Copa, desempenho do bitcoin, Wall Street e mais: o que bombou na semana",
-    "url": "https://www.moneytimes.com.br/projeto-de-deputado-apos-fracasso-do-brasil-na-copa-desempenho-do-bitcoin-wall-street-e-mais-o-que-bombou-na-semana-lmrs/",
-    "resumo": "O projeto de lei do deputado Luiz Carlos Hauly (Podemos-PR), após o fracasso da Seleção Brasileira na Copa do Mundo, e o avanço do bitcoin em 11 de junho estão entre os assuntos que ganharam destaque entre os leitores. Entre os temas mais lidos aqui no Money Times, estão também o desempenho de Wall Street [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-07-12T12:02:15.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "7a964b519999f111",
-    "manchete": "Irã anuncia novo fechamento do Estreito de Ormuz e diz ter atingido embarcação na rota",
-    "url": "https://www.moneytimes.com.br/ira-anuncia-novo-fechamento-do-estreito-de-ormuz-e-diz-ter-atingido-embarcacao-na-rota-lmrs/",
-    "resumo": "A Marinha da Guarda Revolucionária do Irã (IRGC, na sigla em inglês) anunciou no sábado (11), um novo fechamento do Estreito de Ormuz por tempo indeterminado e afirmou ter atingido uma embarcação que tentou cruzar a rota marítima sem autorização. A medida amplia a tensão com os Estados Unidos e volta a restringir o…",
-    "fonte": "Money Times",
-    "data": "2026-07-12T11:15:12.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4853c34434736799",
-    "manchete": "Fraude, ganância e carisma: livro revisita personagens das grandes crises financeiras",
-    "url": "https://www.infomoney.com.br/mercados/fraude-ganancia-e-carisma-livro-revisita-personagens-das-grandes-crises-financeiras/",
-    "resumo": "\"Aventureiros e Larápios\" conta a história de fraudadores, vítimas, autoengano e por que nenhum sistema de controle consegue eliminar totalmente novas fraudes",
-    "fonte": "InfoMoney",
-    "data": "2026-07-12T08:00:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "5e8d0b8978dde879",
-    "manchete": "O restaurante Cantaloup estreia em Lisboa e dá início à expansão internacional",
-    "url": "https://neofeed.com.br/finde/o-restaurante-cantaloup-estreia-em-lisboa-e-da-inicio-a-expansao-internacional/",
-    "resumo": "Ao inaugurar sua primeira unidade fora do Brasil, Daniel Sahagoff celebra os 30 anos do Cantaloup e já planeja avançar para a Espanha",
-    "fonte": "NeoFeed",
-    "data": "2026-07-11T22:04:59.072Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Cantaloup"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "9e98bd38b6245c3f",
-    "manchete": "AGU rejeita argumentos da Enel e processo para cassar concessão em SP deve continuar",
-    "url": "https://www.infomoney.com.br/brasil/agu-rejeita-argumentos-da-enel-e-processo-para-cassar-concessao-em-sp-deve-continuar/",
-    "resumo": "Enel apontou erro no método usado pela Aneel para medir o restabelecimento de energia após os apagões de 2025, mas AGU diz que metodologia aplicada é válida",
-    "fonte": "InfoMoney",
-    "data": "2026-07-11T19:21:35.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Enel"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4ea88cf60c7ac1cb",
-    "manchete": "Suno adquire 4,6% das ações da Gafisa (GFSA3); objetivo é 'estritamente de investimento'",
-    "url": "https://www.moneytimes.com.br/suno-adquire-46-das-acoes-da-gafisa-gfsa3-objetivo-e-estritamente-de-investimento-lils/",
-    "resumo": "A Gafisa (GFSA3) informou que a gestora Suno passou a deter 4,6% do capital social da companhia, o que corresponde a 7.235.506 ações ordinárias. Segundo o comunicado, a Suno informou à Gafisa que o objetivo da participação societária é \"estritamente de investimento, não objetivando alteração do controle acionário ou…",
-    "fonte": "Money Times",
-    "data": "2026-07-11T15:00:56.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "Suno",
-      "Gafisa"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "4340e144f5a1afd7",
-    "manchete": "Oi (OIBR3) assina venda de unidade de telefonia para Método Telecomunicações",
-    "url": "https://www.moneytimes.com.br/oi-oibr3-assina-venda-de-unidade-de-telefonia-para-metodo-lils/",
-    "resumo": "A Oi (OIBR3), em recuperação judicial, formalizou a venda da unidade de serviços telefônicos para a Método Telecomunicações e Comércio. Em fato relevante à Comissão de Valores Mobiliários (CVM) divulgado na manhã deste sábado (11), a operadora informou que celebrou um contrato nesta sexta-feira (10) com a vencedora do…",
-    "fonte": "Money Times",
-    "data": "2026-07-11T14:41:13.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Oi",
-      "Método Telecomunicações"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "1f741191a023e743",
-    "manchete": "Essas 5 ações são ‘vencedoras’ na bolsa brasileira para investidores que desejam enfrentar ciclo inflacionário; confira análise",
-    "url": "https://www.moneytimes.com.br/5-acoes-vencedoras-na-bolsa-para-investidores-que-desejam-enfrentar-ciclo-inflacionario-lbrdaz254/",
-    "resumo": "Mesmo com economia brasileira sob pressão em 2026, segundo semestre do ano se inicia com janela de oportunidade em ativos de qualidade e descontados",
-    "fonte": "Money Times",
-    "data": "2026-07-11T13:00:00.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "5ee012019b827ff2",
-    "manchete": "Basf formaliza nova empresa para divisão agro",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/basf-formaliza-nova-empresa-para-divisao-agro",
-    "resumo": "Companhia avança, também no Brasil, em plano de criar uma estrutura independente para o setor, visando um IPO em 2027",
-    "fonte": "AgFeed",
-    "data": "2026-07-11T11:27:03.844Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Basf"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ae545781886ef8dc",
-    "manchete": "Mudança de rota: EasyJet recua de proposta da Castlelake e aceita oferta de US$ 7,6 bi da Apollo",
-    "url": "https://neofeed.com.br/negocios/mudanca-de-rota-easyjet-recua-de-proposta-da-castlelake-e-aceita-oferta-de-us-76-bi-da-apollo/",
-    "resumo": "Companhia de aviação de baixo custo chega a acordo com a Apollo, cuja proposta foi superior à da Castlelake, feita há quatro dias. Mercado reage com otimismo e ações da empresa sobem quase 15% na Bolsa de Londres",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T22:14:26.968Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "EasyJet",
-      "Apollo",
-      "Castlelake"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ffbcbf88e0cd2e07",
-    "manchete": "Nubank recebe autorização para operar como banco no México e prevê investimentos de US$ 4,2 bilhões",
-    "url": "https://neofeed.com.br/negocios/nubank-recebe-autorizacao-para-operar-como-banco-no-mexico-e-preve-investimentos-de-us-42-bilhoes/",
-    "resumo": "A consolidação de operação mexicana, que atingiu o breakeven no primeiro trimestre, representa a etapa mais recente de internacionalização do Nubank, que tem os Estados Unidos como principal alvo",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T22:14:26.967Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [
-      "Nubank"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8e89124d5801b24a",
-    "manchete": "Indústria vê Petrobras adotar “tática Estreito de Ormuz” em disputa por gás natural",
-    "url": "https://neofeed.com.br/economia/industria-ve-petrobras-usando-tatica-estreito-de-ormuz-em-disputa-por-gas-natural/",
-    "resumo": "ANP decide abrir consulta pública sobre acesso ao escoamento e processamento de gás natural, cuja infraestrutura é controlada pela estatal",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T22:14:26.966Z",
-    "tags_tema": [
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Petrobras",
-      "ANP"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2dcc56e060eaa073",
-    "manchete": "Excluídos da mesa, credores minoritários da Braskem querem entrar na conversa e avaliam ir à CVM",
-    "url": "https://neofeed.com.br/negocios/excluidos-da-mesa-credores-minoritarios-da-braskem-querem-entrar-na-conversa-e-avaliam-ir-a-cvm/",
-    "resumo": "Escritório de advocacia prepara pedido de ingresso na Câmara Wind e questiona OPA com pagamento em debêntures de empresa da Novonor em RJ",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T22:14:26.965Z",
-    "tags_tema": [
-      "M&A",
-      "Dívida/Debêntures",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Braskem",
-      "Novonor",
-      "CVM"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "febf08d9f31f0a9b",
-    "manchete": "Setor de biodiesel vai pressionar Lula por aumento de mistura do diesel (e vem aí o B25!)",
-    "url": "https://neofeed.com.br/poder/setor-de-biodiesel-vai-pressionar-lula-por-aumento-de-mistura-do-diesel-e-vem-ai-o-b25/",
-    "resumo": "Setor de biocombustíveis pressiona governo para acelerar testes de biodiesel B-20 e B-25, visando aumentar mistura no diesel",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T22:14:26.965Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "1d393369f1dbdb38",
-    "manchete": "Santander (SANB11) aprova R$ 2 bilhões em JCP; veja quem tem direito",
-    "url": "https://www.moneytimes.com.br/santander-sanb11-aprova-r-2-bilhoes-em-jcp-veja-quem-tem-direito-pads/",
-    "resumo": "O conselho de administração do Santander (SANB11) aprovou nesta sexta-feira (10) a distribuição de R$ 2 bilhões em juros sobre o capital próprio (JCP), conforme fato relevante divulgado na CVM. O montante bruto corresponde a R$ 0,25461 por ação ordinária, R$ 0,28007 por ação preferencial e R$ 0,53469 por unit. Após a…",
-    "fonte": "Money Times",
-    "data": "2026-07-10T21:57:47.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Santander"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "9b0e6bd25e4291a6",
-    "manchete": "Mitre (MTRE3) vende R$ 198 milhões no 2º tri, queda de 31,9% no ano",
-    "url": "https://www.moneytimes.com.br/mitre-mtre3-vende-r-198-milhoes-no-2o-tri-queda-de-319-no-ano-vtra/",
-    "resumo": "A Mitre Realty (MTRE3) registrou vendas líquidas de R$ 198,3 milhões no segundo trimestre de 2026, queda de 31,9% em relação ao mesmo período do ano passado. No acumulado do primeiro semestre, as vendas líquidas somaram R$ 527 milhões, recuo de 14,4% na comparação anual. Os dados fazem parte da prévia operacional…",
-    "fonte": "Money Times",
-    "data": "2026-07-10T21:29:54.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Mitre Realty"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "9bcae328e5daee8d",
-    "manchete": "Tráfego diminui no Estreito de Ormuz à medida que tensões com Irã se intensificam",
-    "url": "https://www.infomoney.com.br/mundo/trafego-diminui-no-estreito-de-ormuz-a-medida-que-tensoes-com-ira-se-intensificam/",
-    "resumo": "Empresas de navegação e governos estão monitorando o Estreito de Ormuz após os ataques iranianos desta semana a navios comerciais e os ataques retaliatórios dos EUA contra o Irã",
-    "fonte": "InfoMoney",
-    "data": "2026-07-10T20:59:02.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "bc183053aa7c722a",
-    "manchete": "A segunda encarnação da Nokia",
-    "url": "https://braziljournal.com/a-segunda-encarnacao-da-nokia/",
-    "resumo": "O tempo em que a Nokia era sinônimo de aparelhos celulares passou, mas a empresa encontrou uma nova vocação como fornecedora de soluções para data centers de AI – e sua ação explodiu. A Nokia produz parte do hardware e do software utilizados nestes data centers, ajudando a entregar os dados presentes nos servidores…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-10T19:13:19.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b6212253007670ca",
-    "manchete": "Acabou o diesel russo (e seus descontos); Brasil agora importa mais dos EUA",
-    "url": "https://braziljournal.com/acabou-o-diesel-russo-e-seus-descontos-brasil-agora-importa-mais-dos-eua/",
-    "resumo": "A Rússia suspendeu temporariamente suas exportações de diesel, após ataques da Ucrânia a refinarias e à infraestrutura energética do país que causaram escassez do produto no mercado interno. A medida do Governo Vladimir Putin, a princípio válida até 31 de julho, deve ter alguma repercussão no Brasil, que desde 2023 se…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-10T17:35:24.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "282ddad54d09df94",
-    "manchete": "Nova NR-1 exige controle de riscos psicossociais, mas 82% dos RHs não estão preparados",
-    "url": "https://startupi.com.br/nova-nr-1-exige-controle-de-riscos-psicossociais-mas-82-dos-rhs-nao-estao-preparados/",
-    "resumo": "Startupi Nova NR-1 exige controle de riscos psicossociais, mas 82% dos RHs não estão preparados A entrada em vigor das novas exigências da Norma Regulamentadora nº 1 (NR-1), que passou a incluir os riscos psicossociais no Gerenciamento de Riscos Ocupacionais (GRO), colocou um desafio urgente na agenda das empresas…",
-    "fonte": "Startupi",
-    "data": "2026-07-10T14:37:26.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "0e99dc959d472399",
-    "manchete": "Núclea anuncia acordo para aquisição da Data Rudder",
-    "url": "https://startupi.com.br/nuclea-anuncia-acordo-para-aquisicao-da-data-rudder/",
-    "resumo": "Startupi Núclea anuncia acordo para aquisição da Data Rudder Núclea anunciou um acordo para adquirir 100% da Data Rudder, empresa especializada em soluções para prevenção a crimes financeiros. A conclusão da operação ainda depende da aprovação do Banco Central. Segundo a empresa, a aquisição faz parte da estratégia de…",
-    "fonte": "Startupi",
-    "data": "2026-07-10T14:33:50.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Núclea",
-      "Data Rudder"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "588f0eb812907e30",
-    "manchete": "Uma nova Basf dentro da Basf: empresa formaliza \"separação\" de divisão agro no Brasil",
-    "url": "https://agfeed.com.br/negocios/uma-nova-basf-dentro-da-basf-empresa-formaliza-separacao-de-divisao-agro-no-brasil",
-    "resumo": "Basf separa oficialmente divisão agrícola no Brasil e avança na estratégia para IPO da Basf Agricultural Solutions em 2027",
-    "fonte": "AgFeed",
-    "data": "2026-07-10T12:38:24.171Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Basf",
-      "Basf Agricultural Solutions"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "b44262bccfe48b1c",
-    "manchete": "Depois de pescar R$ 2,5 bi \"dentro de casa\", Porto Serviço sai em busca de mais R$ 4,5 bi",
-    "url": "https://neofeed.com.br/negocios/depois-de-pescar-r-25-bi-dentro-de-casa-porto-servico-sai-em-busca-de-mais-r-45-bi/",
-    "resumo": "A empresa está investindo em parcerias com condomínios e shoppings para reduzir o custo de aquisição de clientes e ganhar escala fora do ecossistema da Porto",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T12:38:17.410Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Porto Serviço"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "e15aa2690fdd9836",
-    "manchete": "Lojas Renner põe a Re, sua agente de IA, para dar dicas de estilo e vender mais",
-    "url": "https://neofeed.com.br/videos/revolucao-ia/lojas-renner-poe-a-re-sua-agente-de-ia-para-dar-dicas-de-estilo-e-vender-mais/",
-    "resumo": "Em entrevista ao Revolução IA, o CDO da Renner revela como a nova agente de inteligência artificial faz parte da estratégia para competir com Shein e Shopee. A varejista afirma que a receita gerada por recomendações de IA dobrou em um ano e que o provador virtual tem conversão duas vezes maior.",
-    "fonte": "NeoFeed",
-    "data": "2026-07-10T12:38:17.410Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Lojas Renner"
-    ],
-    "relevante": true,
-    "importancia": 2
   }
 ]
