@@ -1,5 +1,428 @@
 [
   {
+    "id": "03b5474ad62853af",
+    "manchete": "Justiça homologa plano de recuperação extrajudicial e Raízen inicia nova fase de sua reestruturação",
+    "url": "https://agfeed.com.br/negocios/justica-homologa-plano-de-recuperacao-extrajudicial-e-raizen-inicia-nova-fase-de-sua-reestruturacao",
+    "resumo": "Raízen tem plano de recuperação homologado, avança na reestruturação de R$ 61,4 bi e inicia cisão dos negócios",
+    "fonte": "AgFeed",
+    "data": "2026-08-07T11:09:04.264Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "792cdef55f8a0623",
+    "manchete": "O fim da terra fácil",
+    "url": "https://agfeed.com.br/campo-das-ideias/agtech-report/o-fim-da-terra-facil",
+    "resumo": "A corrida de 50 anos do Brasil para abrir novas fronteiras agrícolas pode estar chegando ao fim",
+    "fonte": "AgFeed",
+    "data": "2026-08-07T11:09:04.264Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "19eeea097f0259a3",
+    "manchete": "Bunge eleva projeção de lucro para 2026 após trimestre forte com processamento de soja e \"efeito Viterra\"",
+    "url": "https://agfeed.com.br/negocios/bunge-eleva-projecao-de-lucro-para-2026-apos-trimestre-forte-com-processamento-de-soja-e-efeito-viterra",
+    "resumo": "Lucro líquido da Bunge subiu 91,5% no 2º trimestre, para US$ 678 milhões, enquanto a receita cresce 88,2%, para US$ 24 bilhões",
+    "fonte": "AgFeed",
+    "data": "2026-08-07T11:09:04.264Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "27a5bcb2bfcbf55b",
+    "manchete": "Lucro da AGCO despenca no trimestre, com América Latina e Brasil com destaques negativos no balanço",
+    "url": "https://agfeed.com.br/negocios/lucro-da-agco-despenca-no-trimestre-com-america-latina-e-brasil-com-destaques-negativos-no-balanco",
+    "resumo": "Foi mais um trimestre de condições “mais fracas do que o esperado”, segundo definiu o CEO da AGCO, Eric Hansotia, no release de resultados do segundo trimestre de 2026, divulgado na manhã desta quinta-feira, 30 de julho, pela companhia fabricante das marcas de máquinas agrícolas Massey Verguson, Valtra e Fendt. A…",
+    "fonte": "AgFeed",
+    "data": "2026-08-07T11:09:04.264Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d331bd088228c90d",
+    "manchete": "Vinícola Garibaldi “brinda” safra cheia e amplia lançamentos para crescer 10% em 2026",
+    "url": "https://agfeed.com.br/negocios/vinicola-garibaldi-brinda-safra-cheia-e-amplia-lancamentos-para-crescer-10-em-2026",
+    "resumo": "Cooperativa de vitivinicultores aposta em novos rótulos e embalagens menores para ampliar vendas e alcançar faturamento de R$ 350 milhões",
+    "fonte": "AgFeed",
+    "data": "2026-08-07T11:09:04.257Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a881e026b1612095",
+    "manchete": "Na Porto, a diversificação do negócio garante o lucro",
+    "url": "https://neofeed.com.br/negocios/na-porto-a-diversificacao-do-negocio-garante-o-lucro/",
+    "resumo": "O bom desempenho nas verticais de seguros, saúde e serviços sustentou o resultado recorrente de R$ 889 milhões do grupo no segundo trimestre",
+    "fonte": "NeoFeed",
+    "data": "2026-08-07T11:08:57.934Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "24940f9148ff51ea",
+    "manchete": "JBS atrai US$ 2,5 bilhões de fundo soberano da Indonésia em aposta no Sudeste Asiático",
+    "url": "https://neofeed.com.br/negocios/jbs-atrai-us-25-bilhoes-de-fundo-soberano-da-indonesia-em-aposta-no-sudeste-asiatico/",
+    "resumo": "O Danantara Investment Management, braço de investimentos do fundo soberano da Indonésia, vai adquirir participação de 25% nas operações da JBS na Austrália e na Nova Zelândia",
+    "fonte": "NeoFeed",
+    "data": "2026-08-07T11:08:57.933Z",
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "387703c28c3517c7",
+    "manchete": "No Brasil, Mercado Pago ganha margem, fatura US$ 2,2 bilhões e passa a Caixa em cartões",
+    "url": "https://neofeed.com.br/negocios/no-brasil-mercado-pago-ganha-margem-fatura-us-22-bilhoes-e-passa-a-caixa-em-cartoes/",
+    "resumo": "Mercado Pago revela ao NeoFeed dados exclusivos sobre operação brasileira, que se descola das pressões de rentabilidade do Mercado Livre",
+    "fonte": "NeoFeed",
+    "data": "2026-08-07T11:08:57.932Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ac50d7fecb628220",
+    "manchete": "Arábia Saudita prevê ataque iminente em 2 frentes por aliados do Irã, diz autoridade",
+    "url": "https://www.infomoney.com.br/mundo/arabia-saudita-preve-ataque-iminente-em-2-frentes-por-aliados-do-ira-diz-autoridade/",
+    "resumo": "O raro alerta ressalta como o reino do Golfo tem se tornado cada vez mais alvo do conflito regional ​nas últimas semanas",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T11:05:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bfcc5c763fa63df6",
+    "manchete": "Intervenção do Japão no iene bate recorde diário em abril enquanto pressão persiste",
+    "url": "https://www.infomoney.com.br/mercados/intervencao-do-japao-no-iene-bate-recorde-diario-em-abril-enquanto-pressao-persiste/",
+    "resumo": "Os participantes do mercado permanecem em alerta máximo para novas intervenções, já que o iene ‌volta a cair para além de 158 por dólar",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T11:03:59.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "808da3f35dd43c5a",
+    "manchete": "Porto (PSSA3) lucra R$ 879,4 milhões no 2º tri, alta anual de 0,2%",
+    "url": "https://www.infomoney.com.br/mercados/porto-pssa3-resultados-segundo-trimestre-2026/",
+    "resumo": "O lucro operacional somou R$ 1,09 bilhão no trimestre, queda de 5,3% em relação ao 2T25",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T11:00:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b41929a8a9ffd0b1",
+    "manchete": "Classe C usa crédito para comprar comida no fim do mês, aponta levantamento",
+    "url": "https://www.infomoney.com.br/minhas-financas/classe-c-usa-credito-para-comprar-comida-no-fim-do-mes-aponta-levantamento/",
+    "resumo": "Com renda cada vez mais comprometida por dívidas, famílias reduzem consumo no meio do mês e recorrem ao Pix no crédito para despesas básicas, diz estudo",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T11:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1d52ec9e84fe504d",
+    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-07082026/",
+    "resumo": "Índices futuros dos EUA avançam antes de dados do payroll",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T10:59:16.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ec8af80201220110",
+    "manchete": "Mitre Realty (MTRE3): Lucro líquido sobe 45,5% no 2T26",
+    "url": "https://www.moneytimes.com.br/mitre-realty-mtre3-lucro-liquido-sobe-455-no-2t26-igdl/",
+    "resumo": "A Mitre Realty (MTRE3) registrou lucro líquido de R$ 15,1 milhões no segundo trimestre de 2026 (2T26), 45,5% acima do resultado obtido um ano antes, segundo balanço divulgado na noite de quinta-feira (6). A construtora teve crescimento de 5,5% na receita operacional líquida ante o mesmo período do ano anterior, para…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:49:28.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7b5d60939b304be7",
+    "manchete": "Petrobras: balanço forte e dividendos no topo das projeções; mais está por vir no 3T?",
+    "url": "https://www.infomoney.com.br/mercados/petrobras-petr4-balanco-forte-e-dividendos-no-topo-das-projecoes-mais-esta-por-vir-no-3t/",
+    "resumo": "Analistas seguem construtivos com a tese, embora apontem riscos ligados ao petróleo e ao cenário político",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T10:49:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e9558463d8e0b2ef",
+    "manchete": "Small cap da B3 anuncia R$ 13,9 milhões em dividendos; veja datas e valor por ação",
+    "url": "https://www.moneytimes.com.br/small-cap-da-b3-anuncia-r-139-milhoes-em-dividendos-veja-datas-e-valor-por-acao-igdl/",
+    "resumo": "Uma das small caps negociadas na bolsa de valores, a Log Commercial (LOGG3) informou que seu conselho de administração aprovou o pagamento de R$ 13,9 milhões em dividendos intermediários aos acionistas, com base no saldo de reserva de lucros apurado no segundo trimestre de 2026 (2T26). Em comunicado divulgado ao…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:47:21.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fd540945e7082786",
+    "manchete": "Lucro da Log cai 32,6% no 2º tri",
+    "url": "https://www.infomoney.com.br/mercados/log-cp-logg3-resultados-segundo-trimestre-2026/",
+    "resumo": "A receita líquida ficou ⁠em ​R$66 ​milhões, crescendo 7,3% no ano",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T10:44:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0bc4c1bac6184d65",
+    "manchete": "Bom dia, bitcoin (BTC): Criptomoeda sustenta os US$ 64 mil antes do payroll; veja o que mexe com os preços nesta sexta-feira (7)",
+    "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-preco-hoje-rens-070826/",
+    "resumo": "Obitcoin (BTC) é negociado na casa dos US$ 64 mil, com uma leve alta de pouco menos de 1% nas últimas 24h. O mercado global de criptomoedas avança majoritariamente na manhã de hoje, antes da divulgação do payroll, o relatório de empregos mais importante dos Estados Unidos. No mercado tradicional, as bolsas asiáticas…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:41:03.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "da34e47253efc770",
+    "manchete": "Pague Menos vai emitir R$ 350 milhões em debêntures em 9ª emissão",
+    "url": "https://www.infomoney.com.br/mercados/pague-menos-vai-emitir-r-350-milhoes-em-debentures-em-9a-emissao/",
+    "resumo": "Empresa irá ⁠emitir ​debêntures ​simples em série ⁠única ​no dia 25 ​de agosto destinadas ​a ⁠investidores profissionais",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T10:40:22.000Z",
+    "tags_tema": [
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6ebdb73ea7fff057",
+    "manchete": "Lucro líquido da Mitre Realty sobe 45,5% no 2º tri",
+    "url": "https://www.infomoney.com.br/mercados/mitre-mtre3-resultados-segundo-trimestre-2026/",
+    "resumo": "A margem bruta no período ⁠foi ‌de 32%, ante os ⁠25,5% do segundo trimestre de 2025",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T10:37:56.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f10c189986abf10b",
+    "manchete": "Log (LOGG3) lucra R$ 58,7 milhões no 2T26, queda anual de 32,6%; veja os números da companhia",
+    "url": "https://www.moneytimes.com.br/log-logg3-lucra-r-587-milhoes-no-2t26-queda-anual-de-326-veja-os-numeros-da-companhia-igdl/",
+    "resumo": "A Log Commercial (LOGG3) teve lucro líquido de R$ 58,7 milhões no segundo trimestre de 2026 (2T26), queda de 32,6% em relação ao mesmo período de 2025, segundo balanço divulgado nessa quinta-feira (6). A companhia, que desenvolve, aluga e administra galpões logísticos, teve lucro antes de juros, impostos, depreciação…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:32:53.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "134e3f4894ae0f8b",
+    "manchete": "Petrobras (PETR4): ADRs da estatal avançam em Nova York com lucro acima do esperado e dividendos",
+    "url": "https://www.moneytimes.com.br/petrobras-petr4-adrs-da-estatal-avancam-em-nova-york-com-lucro-acima-do-esperado-e-dividendos/",
+    "resumo": "As American Depositary Receipts (ADRs) da Petrobras (PETR4) operam em alta no pré-market da Bolsa de Nova York nesta sexta-feira (7), à medida que investidores repercutem os resultados da estatal referentes ao segundo trimestre de 2026 (2T26). Por volta das 7h20, as ADRs que representam as ações ordinárias da…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:26:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fdd7af56d68e0589",
+    "manchete": "6 mineiros faturam prêmios de mais de R$ 2 milhões na Quina e na Lotofácil; Mega-Sena acumula pelo 12º sorteio seguido",
+    "url": "https://www.moneytimes.com.br/seis-mineiros-faturam-premios-dois-milhoes-quina-lotofacil-mega-sena-acumula-loterias-rsgp/",
+    "resumo": "A \"máquina de milionários\" das loterias da Caixa funcionou a pleno vapor na noite de quinta-feira (6). Um bolão com cinco participantes na Quina e uma aposta simples na Lotofácil resultaram em seis prêmios milionários. Todos os sortudos são de Minas Gerais. Enquanto isso, a Mega-Sena acumulou pelo 12º sorteio seguido.…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:17:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "116a5e010e405000",
+    "manchete": "Minidólar (WDOU26): tensão externa e Payroll elevam risco de volatilidade",
+    "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-07082026/",
+    "resumo": "Saiba o que esperar para o minidólar nesta sexta (07)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-07T10:11:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "de93d16ac33caebf",
+    "manchete": "Mercado repercute dividendo bilionário da Petrobras; Ibovespa em dólar cai hoje (7)",
+    "url": "https://www.moneytimes.com.br/mercado-repercute-dividendo-bilionario-da-petrobras-ibovespa-em-dolar-cai-hoje-7/",
+    "resumo": "O mercado repercute nesta sexta-feira (7) os resultados da Petrobras (PETR3; PETR4) referentes ao segundo trimestre de 2026 (2T26), além do anúncio de proventos divulgado na véspera. No período, a estatal registrou lucro líquido de R$ 52,4 bilhões, acima da expectativa do mercado, que projetava ganho de R$ 50,8…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:04:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f5748e2342c130d6",
+    "manchete": "Nas máximas: o que a disparada dos Treasuries indica sobre a credibilidade do Fed — e por que ela não explica tudo",
+    "url": "https://www.moneytimes.com.br/nas-maximas-o-que-a-disparada-dos-treasuries-revela-sobre-a-credibilidade-do-fed-e-por-que-ela-nao-explica-tudo-lils/",
+    "resumo": "Os primeiros passos de Kevin Warsh no comando do Federal Reserve (Fed, Banco Central dos EUA) trouxeram mais dúvidas do que respostas para o mercado. A combinação entre uma decisão de juros marcada pela maior dissidência em quase dez anos e a falta de sinalizações sobre o futuro da política monetária provocou uma…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T10:00:00.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "26aa5453f27d2695",
+    "manchete": "A resiliência do peronismo e a ruptura de Milei: um livro que explica a Argentina",
+    "url": "https://braziljournal.com/a-resiliencia-do-peronismo-e-a-ruptura-de-milei-um-livro-que-explica-a-argentina/",
+    "resumo": "Em sua campanha à Presidência, uma das promessas mais barulhentas de Javier Milei foi a de extinguir o Banco Central da Argentina. Milei não levou isso adiante, mas acabou de apresentar um projeto que, se aprovado, vai impedir que o BC financie “de forma direta ou indireta o Fisco” – fechando uma histórica fonte de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-07T09:50:37.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1e5245afdd4c2d4f",
+    "manchete": "Com a Apple no horizonte, Samsung se arma para a “guerra dos dobráveis”",
+    "url": "https://braziljournal.com/com-a-apple-no-horizonte-samsung-se-arma-para-a-guerra-dos-dobraveis/",
+    "resumo": "Os celulares dobráveis estão se tornando a nova trincheira de disputa entre as fabricantes de smartphones. Com a iminência da Apple lançar seu primeiro modelo dobrável este ano, a expectativa do mercado é que este segmento – que estreou há oito anos e representa apenas 1,6% do total de aparelhos – comece a ganhar mais…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-07T09:50:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1fd53ccb5cf0ef3f",
+    "manchete": "Grupo Panvel (PNVL3) tem alta de quase 40% no lucro do 2º trimestre",
+    "url": "https://www.moneytimes.com.br/grupo-panvel-pnvl3-tem-alta-de-quase-40-no-lucro-do-2o-trimestre-fets/",
+    "resumo": "O Grupo Panvel (PNVL3) teve lucro líquido ajustado de R$ 38,9 milhões no segundo trimestre de 2026, o que representa um avanço de 39,1% na comparação com o mesmo período de 2025, segundo balanço publicado nesta quinta-feira (6). A rede de varejo farmacêutico disse em comunicado que o resultado foi sustentado \"pela…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T09:47:13.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "280817a885003339",
+    "manchete": "Lucro da Alpargatas (ALPA4) quase dobra no 2º trimestre a chega a R$ 170 milhões",
+    "url": "https://www.moneytimes.com.br/lucro-da-alpargatas-alpa4-quase-dobra-no-2o-trimestre-a-chega-a-r-170-milhoes-fets/",
+    "resumo": "A Alpargatas (ALPA4), dona da Havaianas, anunciou nesta quinta-feira (7) lucro líquido de R$ 170 milhões no segundo trimestre de 2026, alta de 95,1% na comparação com o registrado no mesmo período de 2025, segundo balanço divulgado nesta quinta-feira (6). A dona da marca Havaianas apurou resultado operacional medido…",
+    "fonte": "Money Times",
+    "data": "2026-08-07T09:37:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "14391a7d385c22f9",
+    "manchete": "Brasil entrega R$ 62 bilhões para bets em 2025 enquanto economia fraqueja",
+    "url": "https://startupi.com.br/brasil-entrega-r-62-bilhoes-para-bets-em-2025-enquanto-economia-fraqueja/",
+    "resumo": "Startupi Brasil entrega R$ 62 bilhões para bets em 2025 enquanto economia fraqueja Mais do que um rombo orçamentário, o avanço desenfreado das bets impõe uma grave crise de saúde mental e social ao país. O post Brasil entrega R$ 62 bilhões para bets em 2025 enquanto economia fraqueja aparece primeiro em Startupi e foi…",
+    "fonte": "Startupi",
+    "data": "2026-08-07T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e4e125ee52919585",
+    "manchete": "Como Interpretar o Balanço Entre a Frágil Economia do Brasil e o Forte Lucro Recorrente de Bilhões do Itaú",
+    "url": "https://startupi.com.br/como-interpretar-o-balanco-entre-a-fragil-economia-do-brasil-e-o-forte-lucro-recorrente-de-bilhoes-do-itau/",
+    "resumo": "Startupi Como Interpretar o Balanço Entre a Frágil Economia do Brasil e o Forte Lucro Recorrente de Bilhões do Itaú Em um cenário de crescimento aquém do potencial, maior banco privado do país mostra que a lógica dos ganhos não depende da euforia econômica. O post Como Interpretar o Balanço Entre a Frágil Economia do…",
+    "fonte": "Startupi",
+    "data": "2026-08-07T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "edec64f7036afeff",
+    "manchete": "O céu é o limite para o Nubank? Ele acredita que sim",
+    "url": "https://startupi.com.br/o-ceu-e-o-limite-para-o-nubank-ele-acredita-que-sim/",
+    "resumo": "Startupi O céu é o limite para o Nubank? Ele acredita que sim Executivos do banco apresentaram possibilidades de triplicar o tamanho do negócio no Brasil, além de avaliarem que a operação no México pode se tornar tão grande quanto a brasileira nos próximos anos. O post O céu é o limite para o Nubank? Ele acredita que…",
+    "fonte": "Startupi",
+    "data": "2026-08-07T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "eb041e32a15dca32",
     "manchete": "Em nova fase e com novo sócio, FMC supera estimativa de lucro, mesmo com recuo de 17% na receita",
     "url": "https://agfeed.com.br/negocios/em-nova-fase-e-com-novo-socio-fmc-supera-estimativa-de-lucro-mesmo-com-recuo-de-17-na-receita",
@@ -5705,30 +6128,6 @@
     "importancia": 3
   },
   {
-    "id": "7a586343148027c7",
-    "manchete": "ARTIGO - Cruzamento industrial aumenta competitividade da pecuária brasileira",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-cruzamento-industrial-aumenta-competitividade-da-pecuaria-brasileira",
-    "resumo": "Cruzamento industrial conta hoje com genética mais avançada, melhor manejo e mercado disposto a remunerar bem animais com maior qualidade",
-    "fonte": "AgFeed",
-    "data": "2026-07-30T22:17:42.604Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fdf61d08251374a8",
-    "manchete": "Com “brisa de otimismo”, mercado de fertilizantes reage, mas ainda corre contra o tempo",
-    "url": "https://agfeed.com.br/negocios/com-brisa-de-otimismo-mercado-de-fertilizantes-reage-mas-ainda-corre-contra-o-tempo",
-    "resumo": "As duas últimas semanas foram marcadas por um “sopro de otimismo” no mercado de fertilizantes no Brasil, com o maior nível de comercialização dos últimos doze meses. A definição é de Eduardo Monteiro, country manager da multinacional americana Mosaic no País. Segundo ele, as indústrias do setor venderam cerca de 2…",
-    "fonte": "AgFeed",
-    "data": "2026-07-30T22:17:42.604Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "4876eafa9f74511b",
     "manchete": "Puxada pelo \"tropeço\" da Prevent Sênior, MedSênior quer dobrar de tamanho",
     "url": "https://neofeed.com.br/negocios/puxada-pelo-tropeco-da-prevent-senior-medsenior-quer-dobrar-de-tamanho/",
@@ -10188,510 +10587,5 @@
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
-  },
-  {
-    "id": "509b225fb54eed8b",
-    "manchete": "Por que a nova era das startups está excluindo os jovens talentos?",
-    "url": "https://startupi.com.br/por-que-a-nova-era-das-startups-esta-excluindo-os-jovens-talentos/",
-    "resumo": "Startupi Por que a nova era das startups está excluindo os jovens talentos? Boom da inteligência artificial e alta de valuations no venture capital estão reduzindo vagas e o acesso de jovens a ações em startups. O post Por que a nova era das startups está excluindo os jovens talentos? aparece primeiro em Startupi e…",
-    "fonte": "Startupi",
-    "data": "2026-07-22T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "00a378fca0130882",
-    "manchete": "Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras Da fazenda à Faria Lima - e vice-versa: com produtores à frente, Planalto Capital aposta em tese de terras",
-    "url": "https://agfeed.com.br/financas/da-fazenda-a-faria-lima-e-vice-versa-com-produtores-a-frente-planalto-capital-aposta-em-tese-de-terras",
-    "resumo": "Quando o pecuarista Braz Neto decidiu criar a gestora Planalto Capital há 10 anos, a ideia era diversificar os investimentos de sua família para além do agronegócio. Até meados do ano passado, a atuação da casa estava dedicada à antecipar recebíveis para empresas de logística, mas nessa trajetória, e com novos sócios…",
-    "fonte": "AgFeed",
-    "data": "2026-07-21T22:11:35.117Z",
-    "tags_tema": [
-      "Private Equity",
-      "Fundraising"
-    ],
-    "tags_empresa": [
-      "Planalto Capital"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "db9aa579bd8f1f20",
-    "manchete": "Bilionário britânico avança sobre Hugo Boss e supera fronteira que torna OPA obrigatória",
-    "url": "https://neofeed.com.br/negocios/bilionario-britanico-avanca-sobre-hugo-boss-e-supera-fronteira-que-torna-opa-obrigatoria/",
-    "resumo": "A Hugo Boss recebeu em junho uma oferta pública de aquisição da Fraser Group, que foi rejeitada por unanimidade por conselheiros da companhia alemã de moda",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T22:11:18.312Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Hugo Boss",
-      "Fraser Group"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "e1c5c189fc9078fb",
-    "manchete": "São Paulo deve ter maior onda de novos escritórios em uma década (mas isso não vai afetar a vacância)",
-    "url": "https://neofeed.com.br/negocios/sao-paulo-deve-ter-maior-onda-de-novos-escritorios-em-uma-decada-mas-isso-nao-vai-afetar-a-vacancia/",
-    "resumo": "Consultoria RealtyCorp projeta que volume de entregas no 2º semestre pode ser o maior em mais de uma década, graças a mercado aquecido",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T22:11:18.311Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "RealtyCorp"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "f70e375f570c5aaa",
-    "manchete": "No BRB, fantasma do risco financeiro volta a assombrar",
-    "url": "https://neofeed.com.br/poder/no-brb-fantasma-do-risco-financeiro-volta-a-assombrar/",
-    "resumo": "O BRB enfrenta riscos financeiros e incertezas após o cancelamento da venda de ativos do Banco Master, dificultando sua recuperação.",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T22:11:18.311Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "BRB",
-      "Banco Master"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "6d5efd26fefb0adc",
-    "manchete": "99Food quebra o silêncio sobre a reabertura de processo no Cade",
-    "url": "https://neofeed.com.br/negocios/99food-quebra-o-silencio-sobre-a-reabertura-de-processo-no-cade/",
-    "resumo": "Durante início da operação da plataforma em Santos, executivo da 99Food rebate argumentos da rival Keeta e diz que empresa age dentro da lei. Companhia diz que restaurantes precisam ser ouvidos pelo Cade",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T22:11:18.310Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "99Food",
-      "Keeta"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "b2b4d6bff730f819",
-    "manchete": "Leilão de saneamento em Rondônia testa o mercado (e a Aegea)",
-    "url": "https://braziljournal.com/leilao-de-saneamento-em-rondonia-testa-o-mercado-e-a-aegea/",
-    "resumo": "O próximo leilão de saneamento no País, agendado para 29 de setembro, está sendo visto no mercado como um importante termômetro para medir o apetite dos investidores em meio a um novo momento do setor. O Governo de Rondônia oferecerá a concessão por 35 anos dos serviços de água e esgoto em 40 municípios, incluindo…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-21T22:01:36.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Aegea"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1349fbe4c9dbd710",
-    "manchete": "Vale produz 84,3 mi toneladas de minério de ferro, maior volume para um 2T desde 2018",
-    "url": "https://www.infomoney.com.br/mercados/vale-vale3-dados-producao-vendas-segundo-trimestre-2026/",
-    "resumo": "As vendas de minério de ferro somaram 79,7 Mt entre abril e junho, crescimento de 3,1% em relação ao segundo trimestre de 2025",
-    "fonte": "InfoMoney",
-    "data": "2026-07-21T21:58:58.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Vale"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "e5ccaee5bc63e39a",
-    "manchete": "Vale (VALE3) amplia produção e vendas no 2T26, com melhor desempenho para o período desde 2018 no minério de ferro",
-    "url": "https://www.moneytimes.com.br/vale-vale3-amplia-producao-e-vendas-no-2o-trimestre-com-melhor-desempenho-para-o-periodo-desde-2018-no-minerio-de-ferro/",
-    "resumo": "A Vale (VALE3) confirmou a esperada recuperação operacional no segundo trimestre de 2026 e registrou aumento da produção e das vendas em seus principais segmentos de negócios. No minério de ferro, a companhia alcançou seu melhor desempenho para um segundo trimestre desde 2018, enquanto cobre e níquel também…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T21:58:39.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Vale"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "d6d8fe16038e0ac3",
-    "manchete": "A vantagem tributária que ajuda a explicar o avanço dos ETFs de renda fixa no Brasil",
-    "url": "https://www.infomoney.com.br/onde-investir/a-vantagem-tributaria-que-ajuda-a-explicar-o-avanco-dos-etfs-de-renda-fixa-no-brasil/",
-    "resumo": "O tamanho do avanço impressiona. Hoje há cerca de R$ 58 bilhões a R$ 59 bilhões nesses produtos",
-    "fonte": "InfoMoney",
-    "data": "2026-07-21T21:46:55.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "a22c3b24d793a808",
-    "manchete": "Fictor: Gestora ligada a Vorcaro administrou fundos criados em outubro e liquidados menos de 2 meses depois",
-    "url": "https://www.moneytimes.com.br/gestora-ligada-a-fundos-de-primo-de-vorcaro-e-a-tanure-administrou-fundos-da-fictor-criados-em-outubro-e-liquidados-tres-meses-depois-vtra/",
-    "resumo": "A LAD Capital, gestora que apareceu como prestadora de serviços a estruturas ligadas ao primo de Daniel Vorcaro, Felipe Cançado Vorcaro, administrou dois fundos da Fictor Asset que foram criados em outubro do ano passado e liquidados antes do fim de 2025, com entrega imediata de ativos a um cotista único, não…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T21:00:06.000Z",
-    "tags_tema": [
-      "Private Equity",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "LAD Capital",
-      "Fictor Asset"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "732973ebab6a972c",
-    "manchete": "Etanol perde força e açúcar ganha espaço na safra 2026/27, aponta XP; mas há uma ameaça no radar",
-    "url": "https://www.moneytimes.com.br/etanol-perde-forca-e-acucar-ganha-espaco-na-safra-2026-27-aponta-xp-mas-ha-uma-ameaca-no-radar-garg/",
-    "resumo": "A safra 2026/2027 de cana-de-açúcar deve marcar o retorno de um cenário mais favorável para o setor sucroenergético. Com uma oferta maior de matéria-prima e um mercado de etanol ainda pressionado, as usinas tendem a destinar uma fatia maior da produção ao açúcar, avalia a XP Investimentos. Os analistas, porém, fazem…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T20:15:45.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "XP Investimentos"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "75f6a48248c91d4d",
-    "manchete": "Nubank anuncia aquisição do Banco Porto Real para incorporar licença bancária",
-    "url": "https://startupi.com.br/nubank-anuncia-aquisicao-do-banco-porto-real-para-incorporar-licenca-bancaria/",
-    "resumo": "Startupi Nubank anuncia aquisição do Banco Porto Real para incorporar licença bancária O Nubank anunciou um acordo para a aquisição do Banco Porto Real de Investimentos S.A., instituição fundada em 1992 em Porto Real (RJ) e voltada à concessão de crédito para clientes de atacado. A operação será submetida à aprovação…",
-    "fonte": "Startupi",
-    "data": "2026-07-21T13:40:45.000Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "Nubank",
-      "Banco Porto Real"
-    ],
-    "relevante": true,
-    "importancia": 5
-  },
-  {
-    "id": "9e94e068466a3faa",
-    "manchete": "Na incorporação pela Sabesp, quanto vale uma ação da EMAE?",
-    "url": "https://braziljournal.com/na-incorporacao-pela-sabesp-quanto-vale-uma-acao-da-emae/",
-    "resumo": "Uma acionista minoritária da EMAE está questionando na CVM a incorporação da companhia pela Sabesp, alegando que o rito não seguiu todas as regras exigidas pelo órgão regulador. Julia Otero, que tem 6% do capital da EMAE e cerca de 14% das ações preferenciais, entrou na quarta-feira passada com a petição. Ela está…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-21T13:05:37.000Z",
-    "tags_tema": [
-      "M&A",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Sabesp",
-      "EMAE"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "cda1620ec1f7d64c",
-    "manchete": "Raízen vende mais uma usina",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/raizen-vende-mais-uma-usina",
-    "resumo": "Adecoagro compra unidade no MS por R$ 760 milhões, que vão ajudar a honrar compromissos da recuperação extrajudicial",
-    "fonte": "AgFeed",
-    "data": "2026-07-21T12:02:19.984Z",
-    "tags_tema": [
-      "M&A",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Raízen",
-      "Adecoagro"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "edab5ca24cd5f252",
-    "manchete": "TRXF11 desembolsa R$ 1,4 bilhão para entrar na “Faria Lima” do e-commerce",
-    "url": "https://neofeed.com.br/negocios/trxf11-desembolsa-r-14-bilhao-para-entrar-na-faria-lima-do-e-commerce/",
-    "resumo": "O fundo imobiliário TRXF11 voltou ao mercado e anuncia a maior transação da sua história menos de um mês após comprar o Hotel Emiliano Rio, em Copacabana",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T12:02:09.304Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [
-      "TRXF11"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "ccc00ec5593f62da",
-    "manchete": "“Jabuti” do setor elétrico ameaça travar usinas renováveis e elevar custos em R$ 500 milhões ao ano",
-    "url": "https://neofeed.com.br/economia/jabuti-do-setor-eletrico-ameaca-travar-usinas-renovaveis-e-elevar-custos-em-r-500-milhoes-ao-ano/",
-    "resumo": "Estudo da Aurora aponta alta de 12% no corte de geração renovável centralizada com contratação de 2,5 GW de térmicas a gás incluída em PL",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T12:02:09.304Z",
-    "tags_tema": [
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Aurora"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "2e58b01484a1af54",
-    "manchete": "Nubank compra banco para não perder o \"bank\"",
-    "url": "https://neofeed.com.br/negocios/nubank-compra-banco-para-nao-perder-o-bank/",
-    "resumo": "Operação do Nubank visa obtenção de licença bancária no Brasil para atender nova exigência do Banco Central para uso de denominação “banco” no País",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T12:02:09.303Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Nubank"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "84664298e2cbbb16",
-    "manchete": "Stone quer ir além da maquininha e define sua nova avenida de crescimento: virar banco",
-    "url": "https://neofeed.com.br/negocios/stone-quer-ir-alem-da-maquininha-e-define-sua-nova-avenida-de-crescimento-virar-banco/",
-    "resumo": "A empresa amplia serviços financeiros e aguarda o aval do Banco Central para formalizar a transição para o modelo bancário",
-    "fonte": "NeoFeed",
-    "data": "2026-07-21T12:02:09.302Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Stone"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ca68e66bc4648beb",
-    "manchete": "Vale: Ollie abre vantagem na eleição para chairman",
-    "url": "https://braziljournal.com/vale-ollie-abre-vantagem-na-eleicao-para-chairman/",
-    "resumo": "A Vale divulgou agora há pouco o boletim de votos à distância para a assembleia que elegerá amanhã o novo chairman da companhia, mostrando uma largada favorável ao candidato apoiado por sua maior acionista, a Previ. Manuel Lino Silva de Sousa Oliveira, o “Ollie”, que ocupa hoje a posição de lead independent director…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-21T11:46:30.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Vale"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0a0ff758d6cd4b35",
-    "manchete": "T4F (SHOW3) atinge quórum em OPA e avança para fechamento de capital",
-    "url": "https://www.infomoney.com.br/mercados/t4f-show3-atinge-quorum-em-opa-e-avanca-para-fechamento-de-capital/",
-    "resumo": "O preço pago na OPA foi de R$ 6,02 por ação",
-    "fonte": "InfoMoney",
-    "data": "2026-07-21T11:45:05.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais",
-      "M&A"
-    ],
-    "tags_empresa": [
-      "T4F"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "30e9d10aee86acce",
-    "manchete": "Bitcoin (BTC) avança para US$ 66 mil com fluxo de ETFs e alívio nos mercados; veja cotações das criptomoedas hoje (21)",
-    "url": "https://www.moneytimes.com.br/bitcoin-btc-dispara-para-us-66-mil-com-fluxo-de-etfs-e-alivio-nos-mercados-veja-cotacoes-das-criptomoedas-hoje-21-igdl/",
-    "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 66 mil nesta terça-feira (21), com alta de cerca de 3,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra ganhos de 5,7%, enquanto, em um mês, apresenta valorização próxima de 3%. De uma maneira…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T11:44:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e2e12aa9bd4b92e8",
-    "manchete": "T4F (SHOW3) dá adeus à B3; veja o que fazer se você não vendeu suas ações na OPA",
-    "url": "https://www.moneytimes.com.br/t4f-show3-da-adeus-a-b3-veja-o-que-fazer-se-voce-nao-vendeu-suas-acoes-na-opa-lmrs/",
-    "resumo": "A T4F (SHOW3) realizou na segunda-feira (20) o leilão da oferta pública de aquisição de ações (OPA) para cancelar seu registro de companhia aberta e se despedir da bolsa brasileira. Conforme o detalhamento do resultado do leilão, o acionista controlador Fernando Luiz Alterio levou a maior parte: 1.946.835 ações…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T11:40:51.000Z",
-    "tags_tema": [
-      "M&A",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "T4F"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "7d6b9e8cefd2c6d4",
-    "manchete": "Trump prepara nova rodada de tarifas, diz jornal",
-    "url": "https://www.moneytimes.com.br/trump-prepara-nova-rodada-de-tarifas-diz-jornal/",
-    "resumo": "O governo dos Estados Unidos estuda impor novas tarifas a dezenas de países ainda nesta semana, em um movimento para substituir a tarifa global temporária de 10% sobre importações, cuja validade expira na próxima sexta-feira (24). As informações foram publicadas pelo Financial Times e repercutidas pela Reuters.…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T11:38:20.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "d819c08c4ed5f6ca",
-    "manchete": "Cogna (COGN3) elege Guilherme Mélega como membro da Diretoria Estatutária",
-    "url": "https://www.infomoney.com.br/mercados/cogna-cogn3-elege-guilherme-melega-como-membro-da-diretoria-estatutaria/",
-    "resumo": "Anteriormente, ele atuou como Diretor Presidente da Vasta Platform Limited",
-    "fonte": "InfoMoney",
-    "data": "2026-07-21T11:36:58.000Z",
-    "tags_tema": [],
-    "tags_empresa": [
-      "Cogna"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "3bdfaa18e5c9de1d",
-    "manchete": "Fundo imobiliário de shopping anuncia 12ª emissão de cotas; IFIX interrompe sequência de alta",
-    "url": "https://www.moneytimes.com.br/fundo-imobiliario-de-shopping-anuncia-12a-emissao-de-cotas-ifix-interrompe-sequencia-de-alta-igdl/",
-    "resumo": "O fundo imobiliário Hedge Brasil Shopping (HGBS11) aprovou a realização da sua 12ª emissão de cotas, em uma operação que pode movimentar quase R$ 300 milhões, mostra fato relevante divulgado ao mercado. Segundo o documento, serão emitidos, inicialmente, 12 milhões de novos papéis, ao preço de R$ 20,30 cada,…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T10:51:15.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Hedge Brasil Shopping"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "f417e03a9e70cdc1",
-    "manchete": "Vale (VALE3) divulga produção na véspera de decisão sobre comando da empresa; Ibovespa em dólar sobe hoje (21)",
-    "url": "https://www.moneytimes.com.br/vale-vale3-divulga-producao-na-vespera-de-decisao-sobre-comando-da-empresa-ibovespa-em-dolar-sobe-hoje-21/",
-    "resumo": "As atenções do mercado estão voltadas para a Vale (VALE3), que divulga, após o fechamento do mercado, seu relatório de produção e vendas referente ao segundo trimestre de 2026. Os dados operacionais são aguardados pelos investidores em meio às expectativas sobre o desempenho da companhia em um cenário ainda marcado…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T10:15:34.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Vale"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8c5cd5808956993e",
-    "manchete": "Vale (VALE3): Produção deve reagir no 2T26, mas custos devem ser \"pedra no sapato\"",
-    "url": "https://www.moneytimes.com.br/vale-vale3-producao-deve-reagir-no-2t26-mas-custos-devem-ser-pedra-no-sapato-vtra/",
-    "resumo": "A Vale (VALE3) deve apresentar uma forte recuperação na produção de minério de ferro no segundo trimestre de 2026, beneficiada pela melhora sazonal das condições climáticas e pelo avanço de projetos de expansão. O movimento, porém, deve vir acompanhado de custos mais elevados, apontam Santander e Genial Investimentos.…",
-    "fonte": "Money Times",
-    "data": "2026-07-21T10:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Vale"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b05266ce5c7f5575",
-    "manchete": "Acreditação na saúde digital: novo padrão busca integrar tecnologia e qualidade assistencial",
-    "url": "https://startupi.com.br/acreditacao-na-saude-digital-novo-padrao-busca-integrar-tecnologia-e-qualidade-assistencial/",
-    "resumo": "Startupi Acreditação na saúde digital: novo padrão busca integrar tecnologia e qualidade assistencial Iniciativa lançada durante encontro do Instituto Coalizão Saúde, em São Paulo, estabelece diretrizes para a governança de dados e interoperabilidade no setor de saúde brasileiro. O post Acreditação na saúde digital:…",
-    "fonte": "Startupi",
-    "data": "2026-07-21T08:00:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Instituto Coalizão Saúde"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "9539445ede01be8e",
-    "manchete": "Nubank encontra um banco para chamar de seu",
-    "url": "https://braziljournal.com/nubank-encontra-um-banco-para-chamar-de-seu/",
-    "resumo": "Agora é oficial: Nubank. O banco de David Vélez anunciou a compra de 100% do Banco Porto Real de Investimentos, uma instituição financeira carioca da família Tarquínio Monteiro da Costa. O valor da transação não foi divulgado, e o fechamento ainda depende da aprovação do BC. Com a compra, o Nubank passará a ter uma…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-20T23:39:48.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Nubank",
-      "Banco Porto Real de Investimentos"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "48cf8a53365837b1",
-    "manchete": "A estratégia da JiveMauá em rodovias e infra",
-    "url": "https://braziljournal.com/a-estrategia-da-jivemaua-em-rodovias-e-infra/",
-    "resumo": "A JiveMauá acaba de assumir o controle da Rota Verde, em Goiás, estreando seus investimentos em equity no setor de infraestrutura depois de converter em participação acionária uma dívida da antiga concessionária da rodovia, a Azevedo &#38; Travassos. A gestora tinha exposição anterior em infra por meio de fundos de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-20T22:52:42.000Z",
-    "tags_tema": [
-      "Private Equity",
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "JiveMauá",
-      "Rota Verde",
-      "Azevedo & Travassos"
-    ],
-    "relevante": true,
-    "importancia": 4
   }
 ]
