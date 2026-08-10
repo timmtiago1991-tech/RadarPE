@@ -1,5 +1,429 @@
 [
   {
+    "id": "8e535190dcc275ca",
+    "manchete": "Justiça de SP autoriza penhora de parte da produção do Grupo Itajobi Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
+    "url": "https://www.cnnbrasil.com.br/agro/justica-de-sp-autoriza-penhora-de-parte-da-producao-do-grupo-itajobi/",
+    "resumo": "Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T11:27:48.560Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "49ff0918f992a0d7",
+    "manchete": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
+    "url": "https://www.cnnbrasil.com.br/agro/grupo-maringa-investe-r-120-milhoes-em-geracao-de-energia-com-biomassa/",
+    "resumo": "Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T11:27:48.560Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9c2607d226c9ecf9",
+    "manchete": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
+    "url": "https://agfeed.com.br/negocios/icl-de-fertilizantes-investe-r-90-milhoes-no-ano-e-abre-novo-centro-logistico-em-goias",
+    "resumo": "Apesar do momento desafiador para a indústria de adubos, ICL registrou lucro e agora aporta R$ 35 milhões na fábrica de Suzano (SP)",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T11:27:48.556Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "febb2b47be4934c4",
+    "manchete": "O número mais importante da Smart Fit já não é o de academias",
+    "url": "https://neofeed.com.br/videos/numeros-falam/o-numero-mais-importante-da-smart-fit-ja-nao-e-o-de-academias/",
+    "resumo": "Com 2,3 milhões de usuários e crescimento de 70%, TotalPass ganha peso dentro do grupo de fitness e bem-estar e acirra disputa com a Wellhub",
+    "fonte": "NeoFeed",
+    "data": "2026-08-10T11:27:43.372Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9a8427e87a8af48e",
+    "manchete": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras",
+    "url": "https://neofeed.com.br/economia/anac-planeja-leilao-do-santos-dumont-para-2027-e-preve-regras-para-atrair-aereas-estrangeiras/",
+    "resumo": "Tiago Faierstein, presidente da Anac, deu detalhes sobre as mudanças normativas para reduzir processos judiciais contra empresas aéreas",
+    "fonte": "NeoFeed",
+    "data": "2026-08-10T11:27:43.371Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "520971c163ed98f9",
+    "manchete": "Empresas chinesas listadas reportam milhões em reembolsos dos EUA por tarifas",
+    "url": "https://www.infomoney.com.br/economia/empresas-listadas-chinesas-reportam-milhoes-em-reembolsos-dos-eua-por-tarifas/",
+    "resumo": "Os reembolsos ocorrem após a Suprema Corte dos EUA ter decidido, em 20 de fevereiro, que as políticas tarifárias do presidente Donald Trump sob a Lei de Poderes Econômicos de Emergência Internacional são inconstitucionais",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T11:23:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "96d60c35d3246d27",
+    "manchete": "Rio Innovation Week reúne 200 mil pessoas e transforma Píer Mauá em espaço para tecnologia, negócios e ciência",
+    "url": "https://startupi.com.br/rio-innovation-week-reune-200-mil-pessoas/",
+    "resumo": "Startupi Rio Innovation Week reúne 200 mil pessoas e transforma Píer Mauá em espaço para tecnologia, negócios e ciência O Rio Innovation Week 2026 reuniu cerca de 200 mil pessoas entre 4 e 7 de agosto, no Píer Mauá, no Rio de Janeiro. Em sua sexta edição, o evento contou com 3.200 palestrantes de 22 países, 30…",
+    "fonte": "Startupi",
+    "data": "2026-08-10T11:22:49.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c9a7554d61f3b455",
+    "manchete": "Cenário: Ibovespa perde força e acende alerta de queda; Wall Street renova recordes",
+    "url": "https://www.infomoney.com.br/mercados/cenario-ibovespa-perde-forca-e-acende-alerta-de-queda-wall-street-renova-recordes/",
+    "resumo": "Dólar futuro segue sem direção definida, Nasdaq se aproxima do recorde e Bitcoin tenta reagir abaixo dos US$ 70 mil",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T11:20:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3f3b4935ab9e8484",
+    "manchete": "Lucro da Embraer (EMBJ3) cresce para R$ 1,11 bilhão no 2T26; veja os números",
+    "url": "https://www.moneytimes.com.br/lucro-da-embraer-embj3-cresce-para-r-111-bilhao-no-2t26-veja-os-numeros-lmrs/",
+    "resumo": "A Embraer (EMBJ3) divulgou lucro líquido de ajustado de R$ 1,11 bilhão referente ao segundo trimestre de 2026 (2T26), um crescimento sobre os R$ 890,3 milhões registrados no mesmo período do ano anterior, mostra relatório de resultados divulgado nesta segunda-feira (10). O lucro líquido ajustado é uma medida não-GAAP,…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T11:13:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "39b74d4089e4746d",
+    "manchete": "Fleury (FLRY3) entra em sobrecompra após balanço; Marcopolo (POMO4) segue fragilizada",
+    "url": "https://www.infomoney.com.br/mercados/fleury-flry3-entra-em-sobrecompra-apos-balanco-marcopolo-pomo4-segue-fragilizada/",
+    "resumo": "Indicador da análise técnica, IFR aponta euforia em um papel e sinaliza possível oportunidade de entrada em outro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T11:10:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8319ae731ce8f2a4",
+    "manchete": "RecargaPay amplia atuação em produtos financeiros e aposta em crédito para atender 14 milhões de clientes",
+    "url": "https://startupi.com.br/recargapay-amplia-atuacao/",
+    "resumo": "Startupi RecargaPay amplia atuação em produtos financeiros e aposta em crédito para atender 14 milhões de clientes A RecargaPay está ampliando sua atuação no mercado de produtos financeiros, com foco nas verticais de cartões, empréstimos pessoais, crédito consignado e demais operações de crédito. A estratégia combina…",
+    "fonte": "Startupi",
+    "data": "2026-08-10T11:09:52.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9f0a7224f16b67bd",
+    "manchete": "Dividendos: 133 FIIs pagam até R$ 32 por cota nesta semana; IFIX acumula queda em agosto",
+    "url": "https://www.moneytimes.com.br/dividendos-133-fiis-pagam-ate-r-32-por-cota-nesta-semana-ifix-acumula-queda-em-agosto-igdl/",
+    "resumo": "Ao menos 133 fundos imobiliários vão distribuir rendimentos na forma de dividendos e amortizações nesta semana, com valores que chegam até R$ 32 por cota, segundo dados da plataforma Funds Explorer. Grande parte desses FIIs teve como “data-com” 31 de julho, ou seja, os cotistas que mantiveram posição até esse dia…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T11:02:16.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4aa6af7bf671b57b",
+    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10082026/",
+    "resumo": "Índices futuros dos EUA operam mistos com petróleo estável e foco na inflação",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T11:00:50.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a72154295c80261d",
+    "manchete": "Temporada de balanços: Marcopolo (POMO4) fraca, Itaú (ITUB4) e Meta (META) se destacam; veja recomendações da semana no Money Picks",
+    "url": "https://www.moneytimes.com.br/descubra-os-sinais-que-movimentam-marcopolo-pomo4-itau-itub4-e-mais-veja-recomendacoes-no-money-picks-jvka/",
+    "resumo": "Esta semana no Money Picks, programa do Money Times no YouTube, as recomendações de ações passam pela temporada de balanços do segundo trimestre de 2026. Os resultados trouxeram sinais diferentes para o mercado: enquanto Marcopolo (POMO4) e Bradesco Saúde (SAUD3) acenderam alertas entre analistas, Itaú (ITUB4) e Meta…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T11:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d4a44f267076e89",
+    "manchete": "Embraer, Lavvi, JBS, Iguatemi, Tegma e mais ações para acompanhar hoje",
+    "url": "https://www.infomoney.com.br/mercados/embraer-lavvi-jbs-iguatemi-tegma-e-mais-acoes-para-acompanhar-hoje/",
+    "resumo": "Veja os principais destaques do noticiário corporativo nesta segunda-feira (10)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T10:59:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a0668a3d28be1ace",
+    "manchete": "Novo CEO e R$ 75 mi em investimentos: o plano do Hot Beach para faturar R$ 750 mi",
+    "url": "https://www.infomoney.com.br/business/novo-ceo-e-r-75-mi-em-investimentos-o-plano-do-hot-beach-para-faturar-r-750-mi/",
+    "resumo": "Sergio Ney passa bastão para Moisés Mouta, ex-CEO global da Sodexo; grupo investirá R$ 75 mi neste ano e R$ 255 mi até 2031 em expansão de parque, hotelaria e multipropriedade",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T10:55:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ec962999564644a4",
+    "manchete": "Iguatemi (IGTI11) vende participação em 5 ativos por R$ 876 milhões",
+    "url": "https://www.infomoney.com.br/mercados/iguatemi-igti11-vende-participacao-em-5-ativos-por-r-876-milhoes/",
+    "resumo": "Operação tem um cap rate médio de 7,3%",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T10:52:18.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1a95aed81b784fa1",
+    "manchete": "Michelle Bolsonaro acompanha debate de Celina Leão ao lado de Damares e Bia Kicis",
+    "url": "https://www.moneytimes.com.br/michelle-bolsonaro-assiste-debate-de-celina-ao-lado-de-damares-e-bia-kicis-gaep/",
+    "resumo": "A ex-primeira-dama Michelle Bolsonaro acompanhou, na noite deste domingo (9), o debate entre os candidatos ao governo do Distrito Federal ao lado da senadora Damares Alves (Republicanos-DF) e da deputada Bia Kicis (PL). A governadora Celina Leão (PP), que disputa a reeleição, participou do confronto promovido pela…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T10:51:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d06fa6e0e2407916",
+    "manchete": "Bom dia, bitcoin (BTC): Criptomoeda testa os US$ 65 mil após dado de emprego nos EUA; o que mexe com o mercado nesta semana?",
+    "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-100826/",
+    "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 64,9 mil, na tentativa de testar o teto psicológico de preços em US$ 65 mil nesta segunda-feira (10). O mercado global de criptomoedas oscila na manhã de hoje, na ausência de catalisadores mais fortes de preço. No mercado tradicional, as bolsas asiáticas fecharam em alta. Na…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T10:49:07.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3a46742a1a0747ae",
+    "manchete": "Lavvi (LAVV3) aprova recompra de até 7,4 milhões de ações",
+    "url": "https://www.infomoney.com.br/mercados/lavvi-lavv3-aprova-recompra-de-ate-74-milhoes-de-acoes/",
+    "resumo": "O programa terá início nesta segunda-feira e se estenderá até 10 de fevereiro de 2028",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T10:44:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6b88985744ebeeb",
+    "manchete": "Minidólar (WDOU26): Focus e tensão no Oriente Médio ficam no radar",
+    "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-10082026/",
+    "resumo": "Saiba o que esperar para o minidólar nesta segunda (10)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T10:15:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b734ab871c3bb4ca",
+    "manchete": "Bolsas da Europa operam de lado com petróleo sustentado por incertezas sobre Ormuz",
+    "url": "https://www.moneytimes.com.br/bolsas-da-europa-operam-de-lado-com-petroleo-sustentado-por-incertezas-sobre-ormuz/",
+    "resumo": "As bolsas europeias operam perto da estabilidade na manhã desta segunda-feira (10), à medida que dúvidas sobre a reabertura do Estreito de Ormuz sustentam os preços do petróleo. Por volta das 6h (de Brasília), o índice pan-europeu Stoxx 600 tinha baixa marginal de 0,02%, a 660,13 pontos. Na semana passada, o Stoxx 600…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T10:12:44.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5cace16893659157",
+    "manchete": "Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar",
+    "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-10082026/",
+    "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (10 de agosto)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T10:11:00.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b53640301576228e",
+    "manchete": "Mercado monitora negociação sobre Ormuz; Ibovespa em dólar sobe hoje (10)",
+    "url": "https://www.moneytimes.com.br/mercado-monitora-negociacao-sobre-ormuz-ibovespa-em-dolar-sobe-hoje-10/",
+    "resumo": "Os mercados iniciam a semana com o petróleo próximo da estabilidade, enquanto investidores seguem atentos às negociações envolvendo o Estreito de Ormuz. No domingo (9), o governo do Irã afirmou que um acordo com Omã sobre o trânsito na passagem marítima está na fase final de negociação. Ainda assim, Teerã reforçou que…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T10:01:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "67cba09a637bbbdd",
+    "manchete": "Para o Fed de St. Louis, AI não garante inflação menor, e o Fed precisa apertar",
+    "url": "https://braziljournal.com/para-o-fed-de-st-louis-ai-nao-garante-inflacao-menor-e-o-fed-precisa-apertar/",
+    "resumo": "Kevin Warsh, o novo chairman do Federal Reserve, se alinha aos economistas que veem a inteligência artificial como um potente e rápido choque na produtividade – exercendo uma força desinflacionária que permitirá juros mais baixos. Mas a visão está longe de ser um consenso dentro do próprio Fed – e uma das principais…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-10T09:50:26.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b5d7eaca11e0228c",
+    "manchete": "Os planos da Ecopetrol para a Brava e para o Brasil",
+    "url": "https://braziljournal.com/os-planos-da-ecopetrol-para-a-brava-e-para-o-brasil/",
+    "resumo": "Depois de comprar o controle da Brava Energia, a Ecopetrol pretende usar o Brasil como sua principal plataforma de crescimento internacional. Não é o primeiro negócio da estatal colombiana no País. O grupo tem participação no projeto de Orca, no pré-sal (antes conhecido como Gato do Mato), operado pela Shell, e em…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-10T09:50:11.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cee347e0c5d21227",
+    "manchete": "OPINIÃO. A AI está vivendo 1997",
+    "url": "https://braziljournal.com/opiniao-a-ai-esta-vivendo-1997/",
+    "resumo": "Em algum momento dos anos 90, as empresas começaram a perceber que precisavam “estar na internet”. Na prática, isso significava criar um site institucional – pouco mais do que um folder digitalizado, com a missão da empresa e um telefone de contato. Não importava se aquilo mudava uma etapa relevante do negócio ou…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-10T09:50:04.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ac2ccdd9c046754a",
+    "manchete": "BTG Pactual/Nexus: Lula descola de Flávio Bolsonaro, mas empate técnico permanece no segundo turno",
+    "url": "https://www.moneytimes.com.br/btg-pactual-nexus-lula-descola-de-flavio-bolsonaro-mas-ambos-mantem-empate-tecnico-no-segundo-turno/",
+    "resumo": "Na nona pesquisa BTG Pactual/Nexus para a eleição presidencial 2026, divulgada nesta segunda-feira (10), o presidente Luiz Inácio Lula da Silva (PT) obteve 47% e Flávio Bolsonaro (PL-RJ) 44% das intenções de voto em um eventual segundo turno. Lula cresceu 1 ponto porcentual ante os 46% obtidos no levantamento passado,…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T09:45:37.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9d71699a773d4d90",
+    "manchete": "Agenda econômica desta segunda (10): Relatório Focus deve mostrar impacto do corte da Selic; veja horário de divulgação",
+    "url": "https://www.moneytimes.com.br/agenda-economica-desta-segunda-10-relatorio-focus-deve-mostrar-impacto-do-corte-da-selic-veja-horario-de-divulgacao-jvka/",
+    "resumo": "A divulgação do Relatório Focus pelo Banco Central do Brasil (BC) é o destaque da agenda econômica desta segunda-feira (10), às 8h25. O documento deve mostrar como o mercado incorporou a última decisão do Comitê de Política Monetária (Copom), que reduziu a taxa básica de juros, a Selic, em 0,25 ponto percentual, para…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T09:15:00.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1f18b16e272a6e3d",
+    "manchete": "Bolsas da Ásia fecham em alta liderada por Japão, após ganhos em NY",
+    "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-alta-liderada-por-japao-apos-ganhos-em-ny-fets/",
+    "resumo": "As bolsas asiáticas fecharam em alta nesta segunda-feira (10) com o Japão liderando os ganhos após o desempenho positivo de Wall Street no fim da semana passada. Em Tóquio, o índice Nikkei subiu 2,08%, para 66.970,22 pontos, impulsionado por ações de tecnologia. A fabricante de equipamentos para semicondutores Tokyo…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T09:10:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b9959b6fe13f1023",
+    "manchete": "SP2B: Faça o que eu digo, não faça o que eu faço",
+    "url": "https://startupi.com.br/sp2b-faca-o-que-eu-digo-nao-faca-o-que-eu-faco/",
+    "resumo": "Startupi SP2B: Faça o que eu digo, não faça o que eu faço Evento estréia na capital paulista em busca de discutir e promover a inovação, mas esqueceu de ela mesma inovar. O post SP2B: Faça o que eu digo, não faça o que eu faço aparece primeiro em Startupi e foi escrito por Ricardo Azevedo",
+    "fonte": "Startupi",
+    "data": "2026-08-10T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc781f6f880a1dc4",
+    "manchete": "Qual o impacto esperado pelo Governo com a nova chamada para inovação verde no Brasil",
+    "url": "https://startupi.com.br/qual-o-impacto-esperado-pelo-governo-com-a-nova-chamada-para-inovacao-verde-no-brasil/",
+    "resumo": "Startupi Qual o impacto esperado pelo Governo com a nova chamada para inovação verde no Brasil Ministério da Fazenda anuncia novo leilão do Eco Invest Brasil, buscando ampliar escopo de cadeias produtivas estratégicas. Startupi analisa o alcance do financiamento público a startups e pequenas empresas de base…",
+    "fonte": "Startupi",
+    "data": "2026-08-10T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c3b4f306a9dfe7cb",
+    "manchete": "OpenAI sobe barreira para enfrentar um novo inimigo: ela mesma",
+    "url": "https://startupi.com.br/openai-sobe-barreira-para-enfrentar-um-novo-inimigo-ela-mesma/",
+    "resumo": "Startupi OpenAI sobe barreira para enfrentar um novo inimigo: ela mesma Empresa anunciou risco crítico de ameaça cibernética em seu novo modelo e informou que suspendeu seu desenvolvimento, reforçando questões no mercado sobre riscos e limites da IA nos tempos digitais atuais. O post OpenAI sobe barreira para…",
+    "fonte": "Startupi",
+    "data": "2026-08-10T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "25af704f891a7d24",
     "manchete": "Megacooperativa japonesa Zen-Noh compra 30% do Grupo Cereal e reforça presença no agro brasileiro",
     "url": "https://agfeed.com.br/negocios/megacooperativa-japonsesa-zen-noh-compra-30-do-grupo-cereal-e-reforca-presenca-no-agro-brasileiro",
@@ -9723,490 +10147,5 @@
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
-  },
-  {
-    "id": "fcefdde04067ae50",
-    "manchete": "Genial/Quaest: Raquel Lyra tem 45% e João Campos, 39% na disputa em Pernambuco",
-    "url": "https://www.infomoney.com.br/politica/genial-quaest-raquel-lyra-tem-45-e-joao-campos-39-na-disputa-em-pernambuco/",
-    "resumo": "No primeiro turno, Raquel registrou 43% de intenção de voto",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T11:59:20.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1d085e3dfae6f4de",
-    "manchete": "Fundação Cobra Coral suspende “assistência climática” à Argentina após falas de Milei",
-    "url": "https://www.infomoney.com.br/mundo/fundacao-cobra-coral-suspende-assistencia-climatica-a-argentina-apos-falas-de-milei/",
-    "resumo": "Grupo diz que interromperá atuação no país vizinho até que presidente argentino apresente pedido formal de desculpas pelas declarações feitas no Brasil",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T11:58:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fbcd2a1eabf00217",
-    "manchete": "Genial/Quaest: Cleitinho segue na liderança nos cenários de 1º e 2º turnos em MG",
-    "url": "https://www.infomoney.com.br/politica/genial-quaest-cleitinho-segue-na-lideranca-nos-cenarios-de-1o-e-2o-turnos-em-mg/",
-    "resumo": "Senador lidera as intenções de voto em todos os cenários e venceria Patrus Ananias, candidato do PT, por 46% a 31%",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T11:56:24.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b76bda6423a1058c",
-    "manchete": "WEG tem mais uma elevação de recomendação: Goldman faz \"upgrade\", mas mantém cautela",
-    "url": "https://www.infomoney.com.br/mercados/weg-wege3-tem-mais-uma-elevacao-de-recomendacao-goldman-faz-upgrade-mas-mantem-cautela/",
-    "resumo": "O Goldman Sachs elevou sua recomendação para as ações da WEG, mas de venda para neutra",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T11:56:19.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9b4ab9ac7bedee96",
-    "manchete": "Raquel Lyra tem 45% e João Campos, 39% ao governo de Pernambuco; Lula lidera para presidente, aponta Genial/Quaest",
-    "url": "https://www.moneytimes.com.br/raquel-lyra-tem-45-e-joao-campos-39-na-disputa-em-pernambuco-aponta-genial-quaest-gaep/",
-    "resumo": "Pesquisa Genial/Quaest sobre o cenário eleitoral em Pernambuco divulgada nesta terça-feira (28) aponta que a governadora Raquel Lyra (PSD) ultrapassou as intenções de voto do ex-prefeito do Recife João Campos (PSB) no segundo turno. Raquel está numericamente à frente de Campos em um cenário de empate técnico no limite…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T11:53:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2c48e0ef4fbf9ccc",
-    "manchete": "TIM (TIMS3) fará aportes de até R$ 670 milhões em duas subsidiárias; veja detalhes",
-    "url": "https://www.moneytimes.com.br/tim-tims3-fara-aportes-de-ate-r-670-milhoes-em-duas-subsidiarias-veja-detalhes-lmrs/",
-    "resumo": "O conselho de administração da TIM Brasil (TIMS3) aprovou aportes de capital nas subsidiárias I-Systems e V8 Tech de até R$ 600 milhões e até R$ 70 milhões, respectivamente, mediante a integralização de capital, mostra comunicado enviado ao mercado na noite de segunda-feira (27). O montante total do aporte sairá do…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T11:53:05.000Z",
-    "tags_tema": [
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "79405db811e950f9",
-    "manchete": "Vídeo com IA de Bolsonaro se torna primeiro teste das regras do TSE sobre tecnologia",
-    "url": "https://www.infomoney.com.br/politica/video-com-ia-de-bolsonaro-se-torna-primeiro-teste-das-regras-do-tse-sobre-tecnologia/",
-    "resumo": "Parte da Corte vê possível tentativa de burlar restrições impostas pelo STF, enquanto outra avalia que eventual irregularidade dependerá do uso da ferramenta para enganar o eleitor",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T11:52:51.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ab8724295d720de4",
-    "manchete": "Omã propõe gestão conjunta do Estreito de Ormuz com taxas voluntárias ao Irã",
-    "url": "https://www.moneytimes.com.br/oma-apresentou-ao-ira-mecanismo-regional-para-estreito-de-ormuz-diz-fonte/",
-    "resumo": "Omã apresentou ao Irã uma proposta para a criação de um mecanismo regional conjunto para a gestão do Estreito de Ormuz, com taxas voluntárias, informou uma fonte do Golfo Pérsico à Reuters nesta terça-feira. De acordo com a proposta de Omã, que conta com apoio regional e foi apresentada a autoridades iranianas no fim…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T11:46:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9a67528d7015c5f4",
-    "manchete": "Sabesp (SBSP3) e EMAE (EMAE3) mantêm assembleias sobre incorporação apesar de pedido à CVM e ação judicial",
-    "url": "https://www.moneytimes.com.br/sabesp-e-emae-mantem-assembleias-sobre-incorporacao-apesar-de-pedido-a-cvm-e-acao-judicial/",
-    "resumo": "A Sabesp (SBSP3) e a EMAE (EMAE3) informaram, nesta segunda-feira (27), que seguem mantidas as assembleias gerais extraordinárias marcadas para 30 de julho, que irão deliberar sobre a incorporação das ações da EMAE pela companhia de saneamento, apesar de um pedido de adiamento protocolado na Comissão de Valores…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T11:43:56.000Z",
-    "tags_tema": [
-      "M&A",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bb0378339b2673b4",
-    "manchete": "Genial/Quaest: Cleitinho lidera nos dois turnos ao governo em Minas Gerais; Lula e Flávio Bolsonaro empatam para presidente",
-    "url": "https://www.moneytimes.com.br/cleitinho-segue-na-lideranca-nos-cenarios-de-1o-e-2o-turnos-em-mg-aponta-genial-quaest-gaep/",
-    "resumo": "Pesquisa Genial/Quaest sobre o cenário eleitoral de Minas Gerais aponta o senador Cleitinho Azevedo (Republicanos) na liderança dos cenários de primeiro e de segundo turno na corrida pelo governo estadual nas eleições 2026. O senador lidera as intenções de voto em todos os cenários de primeiro turno, com entre 34% e…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T11:35:14.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e013abe1bdefd036",
-    "manchete": "EUA avançam em testes de microrreator nuclear: “cabe num caminhão”",
-    "url": "https://braziljournal.com/eua-avancam-em-testes-de-microrreator-nuclear-cabe-num-caminhao/",
-    "resumo": "Reatores atômicos que caberão na caçamba de um caminhão e poderão gerar energia em qualquer lugar. A ambiciosa promessa da nova geração de equipamentos nucleares está mais perto de sair do papel nos Estados Unidos. O Presidente Trump cercou-se de auxiliares e empresários do setor na Casa Branca na semana passada para…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-28T09:50:33.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bae5c4c45f965754",
-    "manchete": "Projetos de ferrovias poderão gerar receita imobiliária, diz ministro",
-    "url": "https://braziljournal.com/projetos-de-ferrovias-poderao-gerar-receita-imobiliaria-diz-ministro/",
-    "resumo": "O Governo está propondo para os leilões de ferrovias uma modelagem que permitirá aos operadores explorar diversas receitas alternativas, inclusive com ativos imobiliários, a exemplo do que ocorre nos Estados Unidos e na Europa. Esta novidade é uma das estratégias de Brasília para atrair investidores para os projetos,…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-28T09:50:22.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ae613e16bf60b104",
-    "manchete": "Contra curtailment e estagnação, geradores eólicos investem nos ventos do Sul",
-    "url": "https://braziljournal.com/contra-curtailment-e-estagnacao-geradores-eolicos-investem-nos-ventos-do-sul/",
-    "resumo": "Em um momento em que a indústria de energia eólica vive uma quase total paralisação no Brasil, a Statkraft acaba de anunciar um projeto que tem sido visto por técnicos como um sinal dos novos tempos no setor. O grupo norueguês vai investir mais de R$ 1 bilhão para construir um parque com 280 megawatts [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-28T09:50:01.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "902141eb68a852fc",
-    "manchete": "Crédito Sobre Rodas: A Hora de Bancarizar e Proteger a Base da Economia de Plataforma",
-    "url": "https://startupi.com.br/credito-sobre-rodas-a-hora-de-bancarizar-e-proteger-a-base-da-economia-de-plataforma/",
-    "resumo": "Startupi Crédito Sobre Rodas: A Hora de Bancarizar e Proteger a Base da Economia de Plataforma A formalização e o acesso ao crédito para entregadores não são apenas uma pauta de inclusão social, mas o alicerce indispensável para a sustentabilidade de toda a cadeia logística nacional. O post Crédito Sobre Rodas: A Hora…",
-    "fonte": "Startupi",
-    "data": "2026-07-28T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "40527bc9a139f82d",
-    "manchete": "Por uma nova IA, como startups brasileiras estão construindo posição no segmento mais atraente da tecnologia global",
-    "url": "https://startupi.com.br/por-uma-nova-ia-como-startups-brasileiras-miram-uma-nova-posicao-no-segmento-mais-atraente-da-tecnologia-global/",
-    "resumo": "Startupi Por uma nova IA, como startups brasileiras estão construindo posição no segmento mais atraente da tecnologia global Com ecossistema projetado em 25 mil empresas e juros no maior patamar em duas décadas, investidores apostam em inteligência artificial de nicho para agronegócio, saúde e logística. O post Por…",
-    "fonte": "Startupi",
-    "data": "2026-07-28T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46ac9882b5c0bb48",
-    "manchete": "AVIN explica por que corrida da IA pode impulsionar WEG",
-    "url": "https://neofeed.com.br/janela-de-mercado/avin-capital-ve-weg-como-vendedora-de-picaretas-da-corrida-da-ia/",
-    "resumo": "Avin vê potencial de alta de quase 40% para as ações da WEG, impulsionadas pela expansão de data centers, redes elétricas e inteligência artificial.",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T22:16:31.164Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "WEG",
-      "Avin"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "e76d730412a975ba",
-    "manchete": "Na reta final, governo tenta destravar concessão da Hidrovia do Paraguai",
-    "url": "https://neofeed.com.br/poder/na-reta-final-governo-tenta-destravar-concessao-da-hidrovia-do-paraguai/",
-    "resumo": "Brasil planeja enviar projeto ao Congresso antes das eleições para ratificar a Hidrovia do Paraguai, enquanto negociações com Paraguai e Bolívia avançam",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T22:16:31.163Z",
-    "tags_tema": [
-      "Regulação",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4a97188d83d0f495",
-    "manchete": "ARTIGO: Como a Lei das S.A. e a Lei de Arbitragem ajudam a construir o mercado brasileiro",
-    "url": "https://neofeed.com.br/insiders/artigo-como-a-lei-das-s-a-e-a-lei-de-arbitragem-ajudam-a-construir-o-mercado-brasileiro/",
-    "resumo": "As leis das S.A. e de Arbitragem no Brasil reduziram o risco jurídico e impulsionaram o mercado de capitais. Agora, a evolução será crucial para enfrentar desafios como a tokenização de ativos e a IA",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T22:16:31.163Z",
-    "tags_tema": [
-      "Regulação",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "91d95f6e431d362a",
-    "manchete": "Na Embraer, BTG, XP e Citi ajustam plano de voo após recorde nos pedidos de aviões militares",
-    "url": "https://neofeed.com.br/negocios/na-embraer-btg-xp-e-citi-ajustam-plano-de-voo-apos-recorde-nos-pedidos-de-avioes-militares/",
-    "resumo": "Embraer registra backlog de US$ 34,5 bilhões no segundo trimestre, alta de 16%. Destaque foi a encomenda de 10 KC-390 para os Emirados Árabes Unidos",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T22:16:31.163Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [
-      "Embraer",
-      "BTG Pactual",
-      "XP",
-      "Citibank"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "ab977b2881534730",
-    "manchete": "Apps de entrega e e-commerce aceleram carteiras de FIDCs e superam R$ 25 bi em concessão de crédito",
-    "url": "https://neofeed.com.br/negocios/apps-de-entrega-e-e-commerce-aceleram-carteiras-de-fidcs-e-superam-r-25-bi-em-concessao-de-credito/",
-    "resumo": "m FIDCs, veículos ligados à Shopee tiveram maior crescimento no primeiro semestre, enquanto estruturas da 99 apresentam maior alta de inadimplência",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T22:16:31.163Z",
-    "tags_tema": [
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [
-      "Shopee",
-      "99"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "04b47d513bfcea94",
-    "manchete": "TIM (TIMS3): lucro líquido cresce 6,2% no 2º trimestre e vai a R$ 1,036 bilhão",
-    "url": "https://www.infomoney.com.br/mercados/tim-tims3-resultados-segundo-trimestre-2026/",
-    "resumo": "O destaque do período foi o avanço da clientela de banda larga e a incorporação integral da empresa de tecnologia recém-adquirida V8 Tech",
-    "fonte": "InfoMoney",
-    "data": "2026-07-27T22:13:52.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "TIM",
-      "V8 Tech"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f4775022d4632ce3",
-    "manchete": "Em recuperação judicial, Toky (TOKY3) aprova grupamento de ações na proporção de 20 para 1",
-    "url": "https://www.moneytimes.com.br/em-recuperacao-judicial-toky-toky3-aprova-grupamento-de-acoes-na-proporcao-de-20-para-1-vtra/",
-    "resumo": "A Toky (TOKY3), dona da Tok&#38;Stok e da Mobly, informou nesta segunda-feira (27) que seus acionistas aprovaram, em assembleia geral extraordinária, o grupamento da totalidade das ações ordinárias da companhia na proporção de 20 para 1. Assim, cada conjunto de 20 ações será convertido em uma única ação. Segundo a…",
-    "fonte": "Money Times",
-    "data": "2026-07-27T22:03:34.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Toky",
-      "Tok&Stok",
-      "Mobly"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fea4d1ddf3249b3f",
-    "manchete": "TIM (TIMS3) lucra R$ 1,04 bilhão no 2º trimestre, alta de 6,2%",
-    "url": "https://www.moneytimes.com.br/tim-tims3-lucra-r-104-bilhao-no-2o-trimestre-alta-de-62-vtra/",
-    "resumo": "O lucro líquido normalizado da TIM (TIMS3) somou R$ 1,03 bilhão no segundo trimestre de 2026, alta de 6,2% em relação ao mesmo período do ano anterior. A receita líquida avançou 5,5%, para R$ 6,965 bilhões, enquanto o Ebitda normalizado cresceu 7%, para R$ 3,586 bilhões. Na avaliação da companhia, o desempenho foi…",
-    "fonte": "Money Times",
-    "data": "2026-07-27T21:39:39.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "TIM"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "aa2b0b6287d5f53c",
-    "manchete": "Mercado de capitais registra volume recorde no 1º semestre de 2026, diz Anbima",
-    "url": "https://www.moneytimes.com.br/mercado-de-capitais-registra-volume-recorde-no-1o-semestre-de-2026-diz-anbima/",
-    "resumo": "O mercado de capitais brasileiro movimentou R$ 361,8 bilhões em ofertas no primeiro semestre de 2026, o maior volume já registrado para o período na série histórica da Anbima (Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais), iniciada em 2012. Segundo dados da Anbima, o montante representa…",
-    "fonte": "Money Times",
-    "data": "2026-07-27T21:10:54.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Anbima"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e3669e0cc1291b8c",
-    "manchete": "Calendário de obrigatoriedade de documentos da Reforma Tributária sai até julho",
-    "url": "https://www.infomoney.com.br/economia/calendario-de-obrigatoriedade-de-documentos-da-reforma-tributaria-sai-ate-julho/",
-    "resumo": "São os documentos fiscais eletrônicos com destaque da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS)",
-    "fonte": "InfoMoney",
-    "data": "2026-07-27T20:56:48.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "d6356eccfb042856",
-    "manchete": "Startups: tarifas pesam sobre vendas e afetam resultados da Shein às vésperas de IPO",
-    "url": "https://www.infomoney.com.br/business/ipo-da-shein-tarifas-pesam-sobre-vendas-nos-eua-e-afetam-resultados/",
-    "resumo": "Empresa apresentou prejuízo líquido de US$ 99 milhões no primeiro trimestre de 2026 e valuation pode não chegar a US$ 50 bi",
-    "fonte": "InfoMoney",
-    "data": "2026-07-27T20:46:24.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "Shein"
-    ],
-    "relevante": true,
-    "importancia": 4
-  },
-  {
-    "id": "84e0abdeac1ca9b0",
-    "manchete": "B3 faz mudança em 101 BDRs e reduz preço de entrada para investidores",
-    "url": "https://www.moneytimes.com.br/b3-faz-mudanca-em-101-bdrs-e-reduz-preco-de-entrada-para-investidores/",
-    "resumo": "A B3 (B3SA3) iniciou nesta segunda-feira (27) o ajuste de paridade de 101 BDRs de empresas estrangeiras para reduzir o preço unitário dos recibos e facilitar o acesso de investidores pessoa física a ativos internacionais. A expectativa é que parte dos BDRs passe a ser negociada na faixa entre R$ 50 e R$ 100 por…",
-    "fonte": "Money Times",
-    "data": "2026-07-27T20:02:48.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "B3"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "59ed9c2c4610f045",
-    "manchete": "A Núclea movimenta R$ 18 trilhões por ano e descobriu que seu maior ativo não eram as transações",
-    "url": "https://neofeed.com.br/videos/numeros-falam/a-nuclea-movimenta-r-18-trilhoes-por-ano-e-descobriu-que-seu-maior-ativo-nao-eram-as-transacoes/",
-    "resumo": "A Núclea é a empresa de infraestrutura por trás de boletos, cartões e transferências bancárias está usando a mesma estrutura para criar novos negócios",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T13:22:44.769Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Núclea"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "e215cd261c1cceef",
-    "manchete": "\"Cabo eleitoral\" que ninguém quer, El Niño escancara os gargalos de infraestrutura do Brasil",
-    "url": "https://neofeed.com.br/economia/cabo-eleitoral-que-ninguem-quer-el-nino-escancara-os-gargalos-de-infraestrutura-do-brasil/",
-    "resumo": "Brasil entra no “Super El Niño” gastando três vezes mais com reação do que com prevenção e com perdas anuais de R$ 19,5 bilhões",
-    "fonte": "NeoFeed",
-    "data": "2026-07-27T13:22:44.768Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "3244d988c9e207a5",
-    "manchete": "WEG recebe dupla elevação para compra com \"nova fase de crescimento\"; ações saltam",
-    "url": "https://www.infomoney.com.br/mercados/weg-wege3-recebe-dupla-elevacao-para-compra-jpmorgan-e-bbi-veem-nova-fase-de-crescimento-desempenho-acoes/",
-    "resumo": "Bradesco BBI elevou a recomendação para outperform e fixou preço-alvo de R$ 60, enquanto JPMorgan passou a indicar compra com alvo de R$ 56; bancos veem forte aceleração do crescimento a partir de 2027",
-    "fonte": "InfoMoney",
-    "data": "2026-07-27T13:17:00.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "WEG",
-      "Bradesco BBI",
-      "JPMorgan"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "91e6dfdbef715787",
-    "manchete": "Morgan Stanley rebaixa BB Seguridade, Caixa Seguridade e Porto Seguro; ações caem",
-    "url": "https://www.infomoney.com.br/mercados/morgan-stanley-rebaixa-bb-seguridade-caixa-seguridade-e-porto-seguro-desempenho-acoes/",
-    "resumo": "Banco mantém uma visão cautelosa para o crescimento dos lucros, diante da desaceleração da atividade econômica e da perspectiva de juros elevados por um período prolongado",
-    "fonte": "InfoMoney",
-    "data": "2026-07-27T13:12:38.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [
-      "Morgan Stanley",
-      "BB Seguridade",
-      "Caixa Seguridade",
-      "Porto Seguro"
-    ],
-    "relevante": true,
-    "importancia": 2
-  },
-  {
-    "id": "b335683425a60359",
-    "manchete": "CSN Mineração (CMIN3) amplia programa de recompra de ações",
-    "url": "https://www.moneytimes.com.br/csn-mineracao-cmin3-amplia-programa-de-recompra-de-acoes-lmrs/",
-    "resumo": "A CSN Mineração (CMIN3) informou ao mercado que seu conselho de administração aprovou um aditamento ao programa de recompra de ações da companhia aprovado em maio deste ano, para incluir um adicional de até 50 milhões ações ordinárias sobre o montante aprovado originalmente. Com o acréscimo o programa prevê a…",
-    "fonte": "Money Times",
-    "data": "2026-07-27T13:03:32.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [
-      "CSN Mineração"
-    ],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9f61c8cf7daa4069",
-    "manchete": "Mais uma mudança na Vale (VALE3): Marcelo Gasparino renuncia ao conselho da mineradora",
-    "url": "https://www.moneytimes.com.br/marcelo-gasparino-renuncia-ao-conselho-da-vale/",
-    "resumo": "O conselheiro da Vale (VALE3) Marcelo Gasparino disse nesta segunda-feira (27) que submeteu uma carta de renúncia ao cargo no colegiado da mineradora, o desdobramento mais recente de tensões de governança que levaram à eleição de um novo presidente do conselho na semana passada. O conselho da Vale já havia decidido…",
-    "fonte": "Money Times",
-    "data": "2026-07-27T12:59:59.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [
-      "Vale"
-    ],
-    "relevante": true,
-    "importancia": 2
   }
 ]
