@@ -1,5 +1,367 @@
 [
   {
+    "id": "825dcb98d7f87772",
+    "manchete": "O MegaFiagro do Itaú",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-megafiagro-do-itau",
+    "resumo": "Por que o banco lançou o maior fundo voltado ao financiamento do agronegócio do País",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T21:56:01.655Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7b114950c3c0ad21",
+    "manchete": "Farmtech aposta no WhatsApp para destravar a \"última milha\" do crédito agro",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/farmtech-aposta-no-whatsapp-para-destravar-a-ultima-milha-do-credito-agro",
+    "resumo": "Farmtech lança no Congresso Andav ferramenta que digitaliza a etapa final da contratação do crédito após o fechamento da venda",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T21:56:01.653Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fd016a0a1437f401",
+    "manchete": "Governo federal prepara conjunto de medidas para mitigar impactos do El Niño Governo federal prepara conjunto de medidas para mitigar impactos do El Niño",
+    "url": "https://agfeed.com.br/economia/governo-federal-prepara-conjunto-de-medidas-para-mitigar-impactos-do-el-nino",
+    "resumo": "Ministério da Agricultura integra grupo de 24 pastas que prepara ações para reduzir efeitos do fenômeno sobre produtores rurais",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T21:56:01.653Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a2467dc4815bfdea",
+    "manchete": "ARTIGO - E32 é aposta correta do Brasil para reduzir o peso fiscal da gasolina importada ARTIGO - E32 é aposta correta do Brasil para reduzir o peso fiscal da gasolina importada",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-e32-e-aposta-correta-do-brasil-para-reduzir-o-peso-fiscal-da-gasolina-importada",
+    "resumo": "Poucas políticas públicas conseguem, com um simples ajuste regulatório, atacar simultaneamente inflação, conta externa e transição energética",
+    "fonte": "AgFeed",
+    "data": "2026-08-10T21:56:01.653Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f335fe407dd2a58",
+    "manchete": "A \"velha economia\" espelha o boom de lucros da IA para além das big techs",
+    "url": "https://neofeed.com.br/inovacao/a-velha-economia-espelha-o-boom-de-lucros-da-ia-para-alem-das-big-techs/",
+    "resumo": "Levantamento do Deutsche Bank com resultados globais e as teleconferências de mais de 300 empresas mostra uma expansão que alcança bancos, indústria, energia, logística e consumo. Lucros globais crescem 39%",
+    "fonte": "NeoFeed",
+    "data": "2026-08-10T21:55:56.818Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "14e3eb517b05d9ec",
+    "manchete": "Em nova ofensiva, Mark Zuckerberg volta a disparar contra os modelos fechados de IA",
+    "url": "https://neofeed.com.br/inovacao/em-nova-ofensiva-mark-zuckerberg-volta-a-disparar-contra-os-modelos-fechados-de-ia/",
+    "resumo": "Em manifesto de 6,5 mil palavras, o cofundador e CEO da Meta alerta para os riscos da concentração da inteligência artificial e critica o controle da tecnologia por poucas empresas e governos",
+    "fonte": "NeoFeed",
+    "data": "2026-08-10T21:55:56.818Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "06837be519ac1dfe",
+    "manchete": "O próximo negócio de US$ 500 bilhões da Nvidia é financiar quem compra Nvidia",
+    "url": "https://neofeed.com.br/negocios/o-proximo-negocio-de-us-500-bilhoes-da-nvidia-e-financiar-quem-compra-nvidia/",
+    "resumo": "Ideia da Nvidia é financiar tanto a expansão própria como parceiros de IA que usam seus chips para montar data centers",
+    "fonte": "NeoFeed",
+    "data": "2026-08-10T21:55:56.817Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4c8aa9d50dfe7bd2",
+    "manchete": "Zuckerberg defende IA para todos e diz que invenção, não automação, será legado",
+    "url": "https://www.infomoney.com.br/business/zuckerberg-defende-ia-para-todos-e-diz-que-invencao-nao-automacao-sera-legado/",
+    "resumo": "Em ensaio de 14 páginas intitulado \"O futuro é para todos\", CEO da Meta diz que IA ajudará na descoberta de novos medicamentos e no aprimoramento de negócios",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:55:24.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6409bc7480708373",
+    "manchete": "Itaúsa (ITSA4) define data para R$ 2,8 bilhões em juros sobre o capital próprio",
+    "url": "https://www.moneytimes.com.br/itausa-itsa4-define-data-para-r-28-bilhoes-em-juros-sobre-o-capital-proprio-rnda/",
+    "resumo": "A Itaúsa (ITSA4) bateu o martelo e pagará em 28 de agosto, R$ 2,8 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta segunda-feira (10). O montante diz respeito a dois pagamentos: Está marcado para esta segunda a divulgação de resultados.",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:45:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "508a56bf4a252e86",
+    "manchete": "Bolsas da Europa fecham sem direção única com incerteza sobre negociações para Ormuz",
+    "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-sem-direcao-unica-com-incerteza-sobre-negociacoes-para-ormuz/",
+    "resumo": "Bolsas foram afetadas pela indefinição nas negociações para uma eventual reabertura do Estreito de Ormuz",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:42:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1e60342f67db7123",
+    "manchete": "Grupo SBF (SBFG3): mesmo sem o hexa, dona da Centauro celebra impulso da Copa do Mundo e lucra 63% a mais no 2T26",
+    "url": "https://www.moneytimes.com.br/grupo-sbf-sbfg3-mesmo-sem-o-hexa-dona-da-centauro-celebra-impulso-da-copa-do-mundo-e-lucra-63-a-mais-no-2t26/",
+    "resumo": "O Grupo SBF (SBFG3), dono da Centauro e responsável pela operação da Nike no Brasil por meio da Fisia, registrou lucro líquido ajustado de R$ 141,9 milhões no segundo trimestre de 2026, alta de 62,7% em relação ao mesmo período do ano passado. A companhia atribui parte importante do desempenho à Copa do Mundo de…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:42:16.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "988e07dfc86eb344",
+    "manchete": "Brasil oferece apoio à Colômbia após terremoto; não há brasileiros entre vítimas",
+    "url": "https://www.infomoney.com.br/politica/brasil-oferece-apoio-a-colombia-apos-terremoto-nao-ha-brasileiros-entre-vitimas/",
+    "resumo": "Por meio de sua conta no X, o presidente Luiz Inácio Lula da Silva afirmou que recebeu a notícia do terremoto com preocupação",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:41:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0facf2d83df7a861",
+    "manchete": "Polícia de SP indicia dois representantes do Goldman Sachs em caso Oncoclínicas",
+    "url": "https://www.infomoney.com.br/mercados/policia-de-sp-indicia-dois-representantes-do-goldman-sachs-em-caso-oncoclinicas/",
+    "resumo": "Representantes ⁠do Goldman Sachs e da Oncoclínicas não puderam comentar o assunto de imediato. Procurada, a Latache, maior acionista da Oncoclínicas, não comentou",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:31:52.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b351d1788c385113",
+    "manchete": "Movida (MOVI3) prevê salto no lucro do 3T26",
+    "url": "https://www.moneytimes.com.br/movida-movi3-preve-salto-no-lucro-do-3t26-pads/",
+    "resumo": "A Movida (MOVI3) anunciou nesta segunda-feira que espera lucro líquido de entre R$130 milhões e R$150 milhões para o terceiro trimestre, o dobro do resultado de R$70 milhões obtido no mesmo período de 2025. A companhia de aluguel de carros controlada pela holding Simpar afirmou ainda que para os primeiros nove meses…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:31:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7eed96f9856be3ff",
+    "manchete": "Embraer (EMBJ3) dispara após balanço e supera R$ 100 com resultado acima do esperado",
+    "url": "https://www.infomoney.com.br/mercados/embraer-embj3-analise-resultados-segundo-trimestre-2026/",
+    "resumo": "Fabricante de aeronaves divulgou resultados positivos e elevou projeções para o ano",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:29:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2a07d015866102f6",
+    "manchete": "Colômbia declara 'estado de emergência' após terremoto com mais de 100 mortos",
+    "url": "https://www.infomoney.com.br/mundo/colombia-declara-estado-de-emergencia-apos-terremoto-com-mais-de-100-mortos/",
+    "resumo": "Epicentro foi em San José del Palmar, em Chocó, região de difícil acesso. Tremor foi sentido em Equador e Panamá. Brasil, México e EUA ofereceram ajuda ao governo colombiano",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:26:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "34bd63b1dfe26bd3",
+    "manchete": "Brasileirão terá 10 mudanças na arbitragem a partir da 23ª rodada; veja novas regras",
+    "url": "https://www.infomoney.com.br/esportes/brasileirao-tera-10-mudancas-na-arbitragem-a-partir-da-23a-rodada-veja-novas-regras/",
+    "resumo": "Entre as novidades estão a \"Lei Vini Jr.\" (vermelho para quem tapar a boca em discussões), limite de 8 segundos para goleiros e 5 segundos para laterais e tiros de meta",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:23:20.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d1e80eb15117806d",
+    "manchete": "JBS tem prejuízo de US$ 102 milhões no 2º trimestre, mas tem receita recorde",
+    "url": "https://www.infomoney.com.br/mercados/jbs-jbss32-resultados-segundo-trimestre-2026/",
+    "resumo": "A receita líquida foi recorde de US$ 23,9 bilhões, o que representa crescimento de 14% na comparação com o mesmo período de 2025",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:21:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "61f08daf15dd84f0",
+    "manchete": "Nvidia se une a gigantes de Wall Street para investir US$ 500 bi em infra de IA",
+    "url": "https://www.infomoney.com.br/business/nvidia-se-une-a-gigantes-de-wall-street-para-investir-us-500-bi-em-infra-de-ia/",
+    "resumo": "Coalizão com Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs e KKR vai criar pools de capital para clientes da fabricante de chips",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:15:44.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c1f6a34f70be0053",
+    "manchete": "Juros futuros sobem na esteira dos Treasuries antes de IPCA e ata do Copom",
+    "url": "https://www.moneytimes.com.br/juros-futuros-10-8-26-lils/",
+    "resumo": "A curva de juros brasileira abriu nesta segunda-feira (10) na esteira da alta dos rendimentos dos títulos do Tesouro dos EUA, os Treasuries, em meio à retomada da tensão entre Estados Unidos e Irã sobre o Estreito de Ormuz. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo,…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:14:12.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b33f36bb0df46bb9",
+    "manchete": "PicPay (PICS) tem novo CFO; veja quem assume",
+    "url": "https://www.moneytimes.com.br/picpay-pics-tem-novo-cfo-veja-quem-assume/",
+    "resumo": "O PicPay (PICS) trocou seu diretor financeiro (CFO), com a entrada de André Cazotto no lugar de Rodrigo Couto, que atuará como assessor especial da companhia até o final de 2026 para garantir uma transição tranquila, mostra documento desta segunda-feira (10). Como CFO, Cazotto, que antes ocupava a diretoria de…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:13:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8cf0d5d201e7f1a9",
+    "manchete": "Polícia de SP indicia dois representantes do Goldman Sachs em caso Oncoclínicas",
+    "url": "https://www.moneytimes.com.br/policia-de-sp-indicia-dois-representantes-do-goldman-sachs-em-caso-oncoclinicas-lils/",
+    "resumo": "A Polícia Civil de São Paulo indiciou dois representantes do Goldman Sachs em um caso em que acionistas minoritários da Oncoclínicas (ONCO3) cobram uma realização de oferta pública por ações da empresa, segundo despacho da autoridade policial visto nesta segunda-feira pela Reuters. Segundo a polícia, os dois…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:07:51.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "12475fb99b0f1f8f",
+    "manchete": "Conheça os 10 cargos do setor de tecnologia com salários de até R$ 53 mil por mês",
+    "url": "https://www.infomoney.com.br/carreira/perfil-mais-procurado-setor-tecnologia-trabalho/",
+    "resumo": "A inteligência artificial não é a competência mais requisitada, mas é essencial para quem deseja ganhar mais",
+    "fonte": "InfoMoney",
+    "data": "2026-08-10T21:07:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bcc7a3e309bb6c45",
+    "manchete": "JBS (JBSS32) registra prejuízo de US$ 102 milhões no 2T26",
+    "url": "https://www.moneytimes.com.br/jbs-jbss32-registra-prejuizo-de-us-102-milhoes-no-2t26-pads/",
+    "resumo": "A JBS (JBSS32) reportou um prejuízo de US$ 102 milhões no segundo trimestre de 2026 (2T26), contra um lucro de US$ 528 milhões no mesmo trimestre do ano passado. O Ebitda ajustado (IRFS) saiu de US$ 1,754 bilhão para US$ 1,429 bilhão no mesmo comparativo. Em comunicado, a JBS destacou sua receita líquida, que atingiu…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T21:02:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "290472a2d016716a",
+    "manchete": "Grãos ficam voláteis em Chicago antes de relatórios do USDA",
+    "url": "https://www.moneytimes.com.br/graos-ficam-volateis-em-chicago-antes-de-relatorios-do-usda-pads/",
+    "resumo": "Os contrados futuros de grãos negociados na bolsa de Chicago tiveram uma sessão nesta segunda-feira (10) de altas e baixas, à medida que os operadores ajustavam suas posições antes do tão aguardado relatório de oferta e demanda do Departamento de Agricultura dos Estados Unidos (USDA), previsto para quarta-feira, no…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T20:49:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb1fc174516e3205",
+    "manchete": "Plano &#038; Plano (PLPL3) informa que Cyrela (CYRE3) está de saída do Conselho de Administração da companhia",
+    "url": "https://www.moneytimes.com.br/plano-plano-informa-que-cyrela-esta-de-saida-do-conselho-de-administracao-da-companhia/",
+    "resumo": "A Plano &#38; Plano (PLPL3) divulgou nesta segunda-feira, 10, um novo acordo de acionistas, com a previsão da saída da Cyrela Brazil Realty do Conselho de Administração da companhia. O novo acordo envolve os fundadores da Plano &#38; Plano, os empresários Rodrigo Luna (22,8% de participação) e Rodrigo Von Uhlendorff…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T20:46:44.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "add27af055cd1983",
+    "manchete": "Fordlândia: como Henry Ford tentou fundar um parque industrial no meio da Amazônia",
+    "url": "https://www.moneytimes.com.br/fordlandia-a-cidade-de-henry-ford/",
+    "resumo": "Um sonho americano instalado no coração da floresta amazônica por aquele que é conhecido mundialmente como um dos pioneiros da indústria automobilística: Henry Ford. Foi o que aconteceu no Brasil, em 1927. No município de Aveiro, no Pará, o distrito de Fordlândia nasceu às margens do Rio Tapajós como um projeto…",
+    "fonte": "Money Times",
+    "data": "2026-08-10T20:35:18.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "17b8f33e0e79908f",
+    "manchete": "Venda de remédios nos marketplaces fica mais perto. Qual o impacto nas farmácias?",
+    "url": "https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/",
+    "resumo": "A Anvisa revogou hoje todas as resoluções e medidas provisórias que proibiam a venda de medicamentos pela Shoppe, Rappi, iFood, Mercado Livre e Americanas – um movimento que torna cada vez mais próxima a liberação definitiva deste tipo de venda pelos marketplaces. A revogação vem na esteira da lei 15.357, de março…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-10T20:20:56.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9410df4e9bd5dc52",
+    "manchete": "A próxima vantagem competitiva da IA será lembrar, não responder",
+    "url": "https://startupi.com.br/a-proxima-vantagem-competitiva-da-ia-sera-lembrar-nao-responder/",
+    "resumo": "Startupi A próxima vantagem competitiva da IA será lembrar, não responder * Por Mario Marchetti A inteligência artificial entrou definitivamente na rotina das empresas. Em pouco tempo, deixou de ser uma tecnologia experimental para a sumir um papel central nas operações, atendimento, produtividade e tomada de decisão.…",
+    "fonte": "Startupi",
+    "data": "2026-08-10T12:05:44.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "8e535190dcc275ca",
     "manchete": "Justiça de SP autoriza penhora de parte da produção do Grupo Itajobi Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
     "url": "https://www.cnnbrasil.com.br/agro/justica-de-sp-autoriza-penhora-de-parte-da-producao-do-grupo-itajobi/",
@@ -7152,18 +7514,6 @@
     "importancia": 3
   },
   {
-    "id": "26d70e201b336e02",
-    "manchete": "João Augusto Pascoalino",
-    "url": "https://agfeed.com.br/author/joao-augusto-pascoalino/",
-    "resumo": "A próxima revolução do agro não será medida em toneladas, mas em decisões",
-    "fonte": "AgFeed",
-    "data": "2026-07-31T22:14:43.460Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "0fe59f64023d78ad",
     "manchete": "O gênio de Wall Street que caiu antes da IA explodir",
     "url": "https://neofeed.com.br/negocios/o-genio-de-wall-street-que-caiu-antes-da-ia-explodir/",
@@ -7589,20 +7939,6 @@
     "resumo": "Startupi Cadastro inteligente: por que o onboarding financeiro precisa evoluir além da selfie * Por Lígia Lopes A biometria facial se consolidou como símbolo da digitalização do sistema financeiro brasileiro. A abertura de contas ficou mais rápida, a experiência do usuário melhorou e as exigências de identificação…",
     "fonte": "Startupi",
     "data": "2026-07-31T13:34:27.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "051c839a0ff4ad37",
-    "manchete": "Bioengenharia, IA e R$ 18 milhões: a fórmula de uma startup para \"reprogramar\" o mercado de bioinsumos",
-    "url": "https://agfeed.com.br/agtech/bioengenharia-ia-e-r-18-milhoes-a-formula-de-uma-startup-para-reprogramar-o-mercado-de-bioinsumos",
-    "resumo": "Terra Genomics capta R$ 18 milhões para desenvolver microrganismos editados com IA e mira transformar o mercado de bioinsumos.",
-    "fonte": "AgFeed",
-    "data": "2026-07-31T12:19:13.070Z",
     "tags_tema": [
       "Venture Capital"
     ],
@@ -9778,371 +10114,6 @@
     "resumo": "A Visa (VISA34) registrou lucro de US$ 5,6 bilhões, ou US$ 2,97 por ação, no trimestre encerrado em 30 de junho, em um aumento de 7% em relação ao lucro de um ano antes, avanço que foi de 10% por ação no período. Analistas consultados pela FactSet esperavam lucro maior, de US$ 3,23 por ação. [&#8230;]",
     "fonte": "Money Times",
     "data": "2026-07-28T21:21:13.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6a25cf96efcbba35",
-    "manchete": "Relação de juros e Bolsa dos EUA foi alterada drasticamente pela IA, dizem gestores",
-    "url": "https://www.infomoney.com.br/onde-investir/relacao-de-juros-e-bolsa-dos-eua-foi-alterada-drasticamente-pela-ia-dizem-gestores/",
-    "resumo": "Especialistas avaliam que a corrida pela inteligência artificial sustenta a economia americana e mantém os juros elevados, mas cria desafios para mercados menos expostos à tecnologia",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T21:17:04.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "03a38fdb4f41e19d",
-    "manchete": "Crédito imobiliário cresce 23% no semestre enquanto Abecip revê previsões para 2026",
-    "url": "https://www.infomoney.com.br/minhas-financas/credito-imobiliario-cresce-23-no-semestre-enquanto-abecip-reve-previsoes-para-2026/",
-    "resumo": "As operações financiadas por meio do FGTS são as principais responsáveis pela revisão das projeções para 2026",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T21:02:38.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4c2260b8ec596bb7",
-    "manchete": "Santander (SANB11) apagado? Veja o tamanho do lucro da próxima quarta-feira (29)",
-    "url": "https://www.moneytimes.com.br/santander-sanb11-apagado-veja-o-que-tamanho-do-lucro-do-resultado-da-proxima-quarta-feira-28-rnda/",
-    "resumo": "O Santander (SANB11) divulgará seus números sem muito entusiasmo de analistas. Depois de um primeiro trimestre já apagado, com piora do ROE (retorno sobre o patrimônio líquido) e inadimplência, parte de analistas espera um 'passo para trás' no lucro. Inclusive, já há um bom indicativo disso: o Grupo Santander Espanha…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T20:58:29.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b35d22496400aac4",
-    "manchete": "TIM e Vivo: por que as ações fecharam em forte queda de 6% após balanços do 2T?",
-    "url": "https://www.infomoney.com.br/mercados/tim-e-vivo-por-que-as-acoes-sao-destaque-de-queda-do-ibovespa-apos-o-balanco-do-2t/",
-    "resumo": "Ações registraram queda em um dia positivo do mercado",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T20:56:47.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4e6688c59316e6c9",
-    "manchete": "Ibovespa: surpresa com IPCA-15 faz índice subir 0,70%; mercado vê alívio, não vitória",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-surpresa-com-ipca-15-faz-indice-subir-1-mercado-ve-alivio-nao-vitoria/",
-    "resumo": "Prévia da inflação sobe apenas 0,06% em julho, derruba os juros futuros e aumenta o apetite por risco na Bolsa, embora analistas alertem para riscos externos e impactos das tarifas dos EUA",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T20:53:10.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dfe300f3ce92703e",
-    "manchete": "Ibovespa fecha novamente em alta, com impulso do IPCA-15, bancos e Petrobras",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-28072026/",
-    "resumo": "Índices nos EUA terminam mistos, com ações de chips; Dow Jones fica positivo",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T20:52:21.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c95553bb26b52b3a",
-    "manchete": "Shein divulga investigação nos EUA e traz alerta em processo de IPO em Hong Kong",
-    "url": "https://www.infomoney.com.br/mercados/shein-divulga-investigacao-nos-eua-e-traz-alerta-em-processo-de-ipo-em-hong-kong/",
-    "resumo": "Shein divulga investigação da FTC e aponta possibilidade de pagamentos significativos",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T20:49:18.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8324da1076cbb385",
-    "manchete": "Ibovespa avança com expectativa de corte na Selic após IPCA-15; dólar sobe a R$ 5,12",
-    "url": "https://www.moneytimes.com.br/ibovespa-28-7-26-apsa/",
-    "resumo": "O Ibovespa (IBOV) avançou com o dado mais fraco da prévia da inflação reforçando a leitura de que o Banco Central deve cortar os juros na reunião de agosto sobre política monetária. Nesta terça-feira (28), o principal índice da bolsa brasileira terminou as negociações com alta de 0,70%, aos 176.564,75 pontos. Já o…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T20:23:40.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8f896ce493a07e1d",
-    "manchete": "Taxas dos DIs têm queda firme com IPCA-15 abaixo do esperado",
-    "url": "https://www.moneytimes.com.br/taxas-dos-dis-tem-queda-firme-com-ipca-15-abaixo-do-esperado-lils/",
-    "resumo": "As taxas dos Depósitos Interfinanceiros (DIs) registraram queda firme nesta terça-feira (28), impulsionadas pelos dados de inflação do IPCA-15, que vieram abaixo das estimativas do mercado, e com a ajuda adicional das perdas do petróleo no exterior. No fim da tarde, a taxa do Depósito Interfinanceiro (DI) para janeiro…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T20:21:17.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "eaf007bb0c27cb1d",
-    "manchete": "Sem Cleitinho, bloco sem candidato 'lidera' em Minas Gerais",
-    "url": "https://www.moneytimes.com.br/sem-cleitinho-bloco-de-indecisos-brancos-e-nulos-lidera-em-minas-gerais-gaep/",
-    "resumo": "Líder nos dois turnos na corrida eleitoral em Minas Gerais, senador Cleitinho Azevedo (Republicanos) tem dado sinais de que não disputará as eleições 2026 no Estado. Aliados foram informados que ele pode desistir da eventual candidatura, cenário que ganhou força após a morte do seu irmão, Matheus Azevedo, de leucemia,…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T20:19:10.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e0b6abd5d7f0076f",
-    "manchete": "Dólar avança R$ 5,12 à espera de Fed e com baixa do petróleo",
-    "url": "https://www.moneytimes.com.br/dolar-28-7-26-apsa/",
-    "resumo": "O dólar à vista ganhou força ante o real à espera da decisão de política monetária do Federal Reserve (Fed, o banco central dos Estados Unidos) amanhã e da nova sessão de perdas do petróleo. Nesta terça-feira (28), o dólar à vista terminou as negociações a R$ 5,1223, em alta de 0,20%. O dólar destoou [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-07-28T20:05:09.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fa3be1dbbcd678a6",
-    "manchete": "Wall Street tem tom misto de olho em Oriente Médio e à espera de Fed",
-    "url": "https://www.moneytimes.com.br/wall-street-28-7-26-lils/",
-    "resumo": "Os índices de Wall Street tiveram mais uma sessão volátil e encerraram o pregão sem direção única em reação a balanços corporativos, queda dos preços do petróleo pelo terceiro dia consecutivo e otimismo de avanço nas negociações de paz no Oriente Médio e reabertura do Estreito de Ormuz. O 'sell-off' em ações de…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T20:02:47.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b5cbb27118a00fe5",
-    "manchete": "O impacto de Revenue Intelligence no valuation de startups",
-    "url": "https://startupi.com.br/o-impacto-de-revenue-intelligence-no-valuation-de-startups/",
-    "resumo": "Startupi O impacto de Revenue Intelligence no valuation de startups * Por Thais Sterenberg Quando um investidor senta para avaliar uma startup, ele não olha apenas para o produto ou para o potencial de mercado. Ele tenta entender se a empresa sabe o que está acontecendo dentro dela, se consegue prever o que vem pela…",
-    "fonte": "Startupi",
-    "data": "2026-07-28T13:12:16.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fea7f0cae628fb5c",
-    "manchete": "R$ 1 trilhão em FIDCs: o que explica a expansão em meio à queda da Selic?",
-    "url": "https://startupi.com.br/r-1-trilhao-em-fidcs-o-que-explica-a-expansao-em-meio-a-queda-da-selic/",
-    "resumo": "Startupi R$ 1 trilhão em FIDCs: o que explica a expansão em meio à queda da Selic? A leitura mais comum sobre os Fundos de Investimento em Direitos Creditórios (FIDCs) os trata como um produto de juro alto: enquanto a Selic aperta e o banco recua, o crédito estruturado avança. O problema dessa leitura é que ela não…",
-    "fonte": "Startupi",
-    "data": "2026-07-28T12:32:25.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6e0178f21e6474e4",
-    "manchete": "A carta que incendiou Paris: Bernard Arnault nega \"fissura\" na família e ataca o Le Monde, de seu genro",
-    "url": "https://neofeed.com.br/negocios/a-carta-que-incendiou-paris-bernard-arnault-nega-fissura-na-familia-e-ataca-o-le-monde-de-seu-genro/",
-    "resumo": "Bernard Arnault responde, em longa carta publicada na plataforma X, série de reportagens do jornal francês, que tem Xavier Niel como principal acionista. O pano de fundo da crise está na escolha de seu sucessor",
-    "fonte": "NeoFeed",
-    "data": "2026-07-28T12:15:43.117Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3a4b8cd19c5c46e7",
-    "manchete": "Nvidia investe US$ 5 bilhões na empresa de IA que ninguém sabe o que faz",
-    "url": "https://neofeed.com.br/startups/nvidia-investe-us-5-bilhoes-na-empresa-de-ia-que-ninguem-sabe-o-que-faz/",
-    "resumo": "Criada por um ex-OpenAI, a Safe Superintelligence diz ter encontrado um caminho alternativo ao das inteligências artificiais atuais. Mesmo sem ter provas, startup atrai investidores e vale US$ 32 bilhões",
-    "fonte": "NeoFeed",
-    "data": "2026-07-28T12:15:43.117Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2e990bf4df8416ed",
-    "manchete": "Na tempestade perfeita do Tesouro Nacional, emissões de NTN‑Bs caem ao menor nível em 20 anos",
-    "url": "https://neofeed.com.br/economia/na-tempestade-perfeita-do-tesouro-nacional-emissoes-de-ntn-bs-caem-ao-menor-nivel-em-20-anos/",
-    "resumo": "Os fatores que derrubaram a demanda por títulos atrelados à inflação vão além dos riscos fiscais e incluem a saturação das carteiras de fundos de pensão",
-    "fonte": "NeoFeed",
-    "data": "2026-07-28T12:15:43.116Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b379a0defb460269",
-    "manchete": "Real Time Big Data: Eduardo Paes lidera ao governo do Rio de Janeiro; Lula e Flávio Bolsonaro empatam para presidente",
-    "url": "https://www.moneytimes.com.br/real-time-big-data-eduardo-paes-lidera-ao-governo-do-rio-de-janeiro-lula-e-flavio-bolsonaro-empatam-para-presidente-gaep/",
-    "resumo": "O ex-prefeito Eduardo Paes lidera a disputa ao governo do Rio de Janeiro, segundo pesquisa Real Time Big Data divulgada nesta terça-feira (28). Ele tem entre 37% das intenções de voto no primeiro turno e é seguido pelo deputado estadual Douglas Ruas (PL), com 16% e pelo ex-governador Anthony Garotinho (Republicanos),…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T12:13:39.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "483bd1d35039c766",
-    "manchete": "Ibovespa Futuro sobe 1% com prévia da inflação abaixo do previsto e balanços no radar",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-1-com-previa-da-inflacao-abaixo-do-previsto-e-balancos-no-radar/",
-    "resumo": "Prévia da inflação sobe 0,06% em julho, abaixo do esperado pelo mercado",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T12:13:17.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "15c802bfadb2d466",
-    "manchete": "Minério cai pela 3ª sessão seguida, impactado por manutenções nas siderúrgicas",
-    "url": "https://www.infomoney.com.br/mercados/minerio-cai-pela-3a-sessao-seguida-impactado-por-manutencoes-nas-siderurgicas/",
-    "resumo": "Por outro lado, uma retração nos embarques globais de minério limitou as perdas",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T12:13:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b5ea022e1c558138",
-    "manchete": "Ibovespa futuro avança aos 178 mil pontos com IPCA-15 abaixo do esperado; dólar sobe a R$ 5,11",
-    "url": "https://www.moneytimes.com.br/ibovespa-futuro-28-7-26-apsa/",
-    "resumo": "O Ibovespa futuro (WINQ26) subiu 0,21%, aos 177.105 pontos após a abertura, às 9h (horário de Brasília), de olho na prévia da inflação de julho. Com o dado abaixo do esperado, o índice alcançou os 178.790 pontos, com avanço de 1,11%. Já o dólar à vista abriu em alta ante o real, em linha com [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-07-28T12:12:34.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e0e85973ff562136",
-    "manchete": "Renda fixa impulsiona boom de ETFs; veja os fundos novos que lideram em captação, com Bradesco e BTG na ponta",
-    "url": "https://www.moneytimes.com.br/renda-fixa-impulsiona-boom-de-etfs-veja-os-fundos-novos-que-lideram-em-captacao-com-bradesco-e-btg-na-ponta/",
-    "resumo": "Os ETFs, principal aposta do mercado financeiro para ano, seguem em forte expansão. Depois de terem encerrado 2025 com uma captação líquida recorde de R$ 23,1 bilhões, os fundos de índice já atraíram outros R$ 32,4 bilhões somente entre janeiro e junho deste ano, superando todo o fluxo registrado no ano passado,…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T12:11:35.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c3d20c106637a307",
-    "manchete": "Barra para Fed subir juros nesta semana segue alta &#8211; mesmo que mercados vejam chance",
-    "url": "https://www.infomoney.com.br/economia/barra-para-fed-subir-juros-nesta-semana-segue-alta-mesmo-que-mercados-vejam-chance/",
-    "resumo": "O banco central dos EUA vem mantendo sua taxa básica de juros na faixa de 3,50% a 3,75% desde dezembro",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T12:11:05.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e54e2c27c4cc85b5",
-    "manchete": "IPCA-15: Prévia da inflação avança 0,06% em julho, abaixo das expectativas; em 12 meses, fica em 4,52%",
-    "url": "https://www.moneytimes.com.br/ipca-15-previa-da-inflacao-avanca-006-em-julho-abaixo-das-expectativas-em-12-meses-fica-em-452/",
-    "resumo": "A prévia da inflação, o Índice Nacional de Preços ao Consumidor Amplo (IPCA-15), avançou 0,06% em julho, segundo dado divulgado pelo IBGE nesta terça-feira (28), e fechou o período de 12 meses com alta acumulada de 4,52%. O número desacelerou na comparação mensal, após alta de 0,41% em junho, mas acelerou no acumulado…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T12:04:46.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b5731beddc698bb2",
-    "manchete": "Governo de SP adia início do pedágio free-flow nas rodovias Anchieta e Imigrantes",
-    "url": "https://www.infomoney.com.br/brasil/governo-de-sp-adia-inicio-do-pedagio-free-flow-nas-rodovias-anchieta-e-imigrantes/",
-    "resumo": "Até o início do novo sistema, permanece a cobrança atual de R$ 40,60",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T12:04:33.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d8f7320590299505",
-    "manchete": "IPCA-15: prévia da inflação sobe 0,06% em julho, abaixo do esperado pelo mercado",
-    "url": "https://www.infomoney.com.br/economia/ipca-15-previa-inflacao-ibge-julho-2026/",
-    "resumo": "Expectativas em pesquisa da Reuters de altas de 0,20% no mês e de 4,67% em 12 meses",
-    "fonte": "InfoMoney",
-    "data": "2026-07-28T12:01:25.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2386499a1f25ebd1",
-    "manchete": "Bitcoin (BTC) perde força antes da decisão do Fed e com saídas de ETFs; veja cotações das criptomoedas hoje (28)",
-    "url": "https://www.moneytimes.com.br/bitcoin-btc-perde-forca-antes-da-decisao-do-fed-e-com-saidas-de-etfs-veja-cotacoes-das-criptomoedas-hoje-28-igdl/",
-    "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 63,4 mil nesta terça-feira (28), com queda de 2,7% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra perda de aproximadamente 4,3%, enquanto, em um mês, sustenta valorização perto de 5,4%. De…",
-    "fonte": "Money Times",
-    "data": "2026-07-28T11:59:27.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
