@@ -1,5 +1,383 @@
 [
   {
+    "id": "17add76fda04c2b9",
+    "manchete": "Área tratada cresce menos nas lavouras",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/area-tratada-cresce-menos-nas-lavouras",
+    "resumo": "Dados do Sindiveg mostram que há 5% mais áreas tratadas com defensivos, mas ritmo do avanço é mais lento que no ano passado",
+    "fonte": "AgFeed",
+    "data": "2026-08-13T11:12:05.475Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "740467054afd8536",
+    "manchete": "A nova escalada das RJs no agro",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-nova-escalada-das-rjs-no-agro",
+    "resumo": "Puxado pelos produtores PJ, número de pedidos volta a subir no primeiro trimestre do ano, segundo levantamento da Serasa Experian",
+    "fonte": "AgFeed",
+    "data": "2026-08-13T11:12:05.475Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "251711647057fe00",
+    "manchete": "Com produtividade recorde, SLC impulsiona lucro e projeta 2026/2027 ainda melhor Com produtividade recorde, SLC impulsiona lucro e projeta 2026/2027 ainda melhor",
+    "url": "https://agfeed.com.br/negocios/com-produtividade-recorde-slc-impulsiona-lucro-e-projeta-2026-2027-ainda-melhor",
+    "resumo": "SLC Agrícola eleva lucro com produtividade recorde em soja e algodão e projeta margens ainda melhores na safra 2026/2027",
+    "fonte": "AgFeed",
+    "data": "2026-08-13T11:12:05.474Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0f0f380d0afe6ca0",
+    "manchete": "Minerva “sacrifica” caixa no trimestre em estratégia para formar estoques e ganhar mais no fim do ano Minerva “sacrifica” caixa no trimestre em estratégia para formar estoques e ganhar mais no fim do ano",
+    "url": "https://agfeed.com.br/negocios/minerva-sacrifica-caixa-no-trimestre-em-estrategia-para-formar-estoques-e-ganhar-mais-no-fim-do-ano",
+    "resumo": "Minerva amplia estoques, sacrifica caixa e aposta em margens melhores no 2º semestre com foco em China e Estados Unidos",
+    "fonte": "AgFeed",
+    "data": "2026-08-13T11:12:05.474Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1069cf6050c7075",
+    "manchete": "Fortgreen enxerga primeiro R$ 1 bilhão em meio ao aperto do crédito no agro",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/fortgreen-enxerga-primeiro-r-1-bilhao-em-meio-ao-aperto-do-credito-no-agro",
+    "resumo": "Controlada pela irlandesa Origin Enterprises, Fortgreen espera crescer cerca de 10% na safra 2026/2027, enquanto mantém foco em rentabilidade",
+    "fonte": "AgFeed",
+    "data": "2026-08-13T11:12:05.473Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c15f9f604d013ebd",
+    "manchete": "Stellantis traça plano para se manter na \"pole position\" na América do Sul",
+    "url": "https://neofeed.com.br/videos/call-de-negocios/stellantis-traca-plano-para-se-manter-na-pole-position-na-america-do-sul/",
+    "resumo": "Antonio Filosa, CEO global da Stellantis detalha as metas para a região, os investimentos no Brasil e o desafio de consolidar a recuperação da montadora",
+    "fonte": "NeoFeed",
+    "data": "2026-08-13T11:11:58.806Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6459f328418f2e6d",
+    "manchete": "Com R$ 6 bilhões no wealth, BR Partners está em busca de \"cabeças de dono\"",
+    "url": "https://neofeed.com.br/videos/com-r-6-bilhoes-no-wealth-br-partners-esta-em-busca-de-cabecas-de-dono/",
+    "resumo": "BR Partners chega a R$ 6 bilhões no wealth, busca profissionais para ganhar escala e prevê consolidação no mercado de gestão de fortunas.",
+    "fonte": "NeoFeed",
+    "data": "2026-08-13T11:11:58.806Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d48df5104a0c7def",
+    "manchete": "“A CLT é venerada pela esquerda”: Romeu Zema defende trabalho por hora e nova onda de flexibilização",
+    "url": "https://neofeed.com.br/videos/eleicoes-2026/a-clt-e-venerada-pela-esquerda-romeu-zema-defende-trabalho-por-hora-e-nova-onda-de-flexibilizacao/",
+    "resumo": "No programa Eleições 2026, Romeu Zema, candidato à presidência pelo Novo, se apresenta como um CEO e diz que fará o \"turnaround\" do País",
+    "fonte": "NeoFeed",
+    "data": "2026-08-13T11:11:58.805Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2ac735e31d61efab",
+    "manchete": "Beacon, o family office para fundadores de startups, incorpora gestora e mira R$ 1 bilhão",
+    "url": "https://neofeed.com.br/startups/beacon-o-family-office-para-fundadores-de-startups-incorpora-gestora-e-mira-r-1-bilhao/",
+    "resumo": "A incorporação da 314 Capital, fundada por Natan Epstein, amplia a capacidade da Beacon de operar no mercado regulado de gestão de recursos",
+    "fonte": "NeoFeed",
+    "data": "2026-08-13T11:11:58.805Z",
+    "tags_tema": [
+      "M&A",
+      "Venture Capital",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d77eab585cd55139",
+    "manchete": "Zema diz que obrigará 'homens saudáveis com idade de trabalhar' a aceitar emprego",
+    "url": "https://www.infomoney.com.br/politica/zema-diz-que-obrigara-homens-saudaveis-com-idade-de-trabalhar-a-aceitar-emprego/",
+    "resumo": "O candidato, então, garante que manterá o programa Bolsa Família",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T11:07:51.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2c602f7e33abb2ca",
+    "manchete": "Banco do Brasil: lucro supera projeções, mas por que mercado não se animou com 2T?",
+    "url": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-lucro-supera-projecoes-mas-por-que-mercado-nao-se-animou-com-resultados-2t26-desempenho-acoes/",
+    "resumo": "Lucro ajustado de R$ 3,9 bilhões superou as estimativas, mas avanço da inadimplência em pessoas físicas e pressão sobre o capital mantiveram tom cauteloso entre analistas",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T11:07:07.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2d691141a768af73",
+    "manchete": "Minério de ferro oscila pouco com redução de perdas das siderúrgicas e fretes firmes",
+    "url": "https://www.moneytimes.com.br/minerio-de-ferro-oscila-pouco-com-reducao-de-perdas-das-siderurgicas-e-fretes-firmes/",
+    "resumo": "Os futuros de minério de ferro foram negociados dentro de uma faixa estreita nesta quinta-feira (13), com a redução das perdas das siderúrgicas e os custos de frete firmes sendo contrabalançados pela queda nas exportações de aço da China. O contrato de minério de ferro para janeiro mais negociado na Bolsa de…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T11:05:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fd1c07a87e61ee5c",
+    "manchete": "Caiado diz que currículo de Flávio Bolsonaro é a certidão de nascimento",
+    "url": "https://www.infomoney.com.br/politica/caiado-diz-que-curriculo-de-flavio-bolsonaro-e-a-certidao-de-nascimento/",
+    "resumo": "Nas últimas semanas, Ronaldo Caiado tem endurecido as críticas à família Bolsonaro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T11:05:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5918c0ea2f9e5038",
+    "manchete": "Minério de ferro oscila pouco com redução de perdas das siderúrgicas e fretes firmes",
+    "url": "https://www.infomoney.com.br/mercados/minerio-de-ferro-oscila-pouco-com-reducao-de-perdas-das-siderurgicas-e-fretes-firmes/",
+    "resumo": "O ‌contrato de minério de ferro para janeiro mais negociado na Bolsa de Commodities de Dalian (DCE) da China encerrou o pregão diurno com queda de 0,21%",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T11:04:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5d58db2706049008",
+    "manchete": "CSN tem prejuízo líquido de R$ 773 milhões no 2T, 495% maior que o de um ano atrás",
+    "url": "https://www.infomoney.com.br/mercados/csn-csna3-resultados-segundo-trimestre-2026/",
+    "resumo": "No período atual, o Ebitda ajustado fechou em R$ 2,77 bilhões, alta de 4,9% na comparação anual",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T11:02:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "22899196eba43749",
+    "manchete": "Plano&#038;Plano (PLPL3) lucra R$ 67,3 milhões no 2T26, queda anual de 34,5%",
+    "url": "https://www.moneytimes.com.br/planoplano-plpl3-lucra-r-673-milhoes-no-2t26-queda-anual-de-345-igdl/",
+    "resumo": "A Plano&#38;Plano (PLPL3) registrou lucro líquido de R$ 67,3 milhões no segundo trimestre de 2026 (2T26), queda de 34,5% em relação ao apurado no mesmo intervalo de 2025, mas 44,1% acima do 1T26. Segundo balanço divulgado ao mercado, a receita líquida da construtora somou R$ 914,8 milhões entre abril e junho, alta de…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T11:01:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ff41eef9b826a879",
+    "manchete": "CSN (CSNA3) tem prejuízo líquido de R$ 773 milhões no 2º trimestre, 495% maior que o de um ano atrás",
+    "url": "https://www.moneytimes.com.br/csn-csna3-tem-prejuizo-liquido-de-r-773-milhoes-no-2o-trimestre-495-maior-que-o-de-um-ano-atras-lmrs/",
+    "resumo": "A CSN (CSNA3) registrou prejuízo líquido de R$ 773 milhões no segundo trimestre de 2026, aumentando as perdas em 494,6% ante os R$ 130 milhões apurados entre abril e junho de 2025. De acordo com a companhia, o resultado representa uma piora quando comparado com o trimestre anterior, como consequência das maiores…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T11:00:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "64a9ddafe5359ba1",
+    "manchete": "ETFs de renda fixa: Uma estratégia para dar mais eficiência ao caixa da sua carteira",
+    "url": "https://www.moneytimes.com.br/etfs-de-renda-fixa-uma-estrategia-para-dar-mais-eficiencia-ao-caixa-da-sua-carteira-lbrdgm079/",
+    "resumo": "Conheça as vantagens dos ETFs de renda fixa que vão além da liquidez e da diversificação.",
+    "fonte": "Money Times",
+    "data": "2026-08-13T11:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d00edf7679ab88a2",
+    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13082026/",
+    "resumo": "Índices futuros dos EUA avançam com queda do petróleo e à espera de mais dados de inflação",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T10:58:53.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f7ef544319d2997f",
+    "manchete": "T4F, Grupo Multi, Vittia, Kepler Weber e mais: confira mais balanços do 2º trimestre",
+    "url": "https://www.infomoney.com.br/mercados/t4f-grupo-multi-vittia-kepler-weber-e-mais-confira-mais-balancos-segundo-trimestre-2026/",
+    "resumo": "Log-in, Metal Leve e outras empresas soltaram seus números",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T10:57:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "294bd8bf3fe7db95",
+    "manchete": "Quanto o Tesouro IPCA+ rende se a inflação surpreender? Veja simulação",
+    "url": "https://www.infomoney.com.br/onde-investir/quanto-o-tesouro-ipca-rende-se-a-inflacao-surpreender-veja-simulacao/",
+    "resumo": "Simulação com cinco níveis de IPCA mostra que o valor de resgate varia 34%, enquanto o poder de compra final fica praticamente igual",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T10:50:12.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ba9fc7e81ef3abb5",
+    "manchete": "PGR pede que STF mantenha proibição de visitas de Flávio a Jair Bolsonaro",
+    "url": "https://www.moneytimes.com.br/pgr-pede-que-stf-mantenha-proibicao-de-visitas-de-flavio-a-jair-bolsonaro/",
+    "resumo": "O procurador-geral da República, Paulo Gonet, recomendou nesta quarta-feira (12) que o Supremo Tribunal Federal (STF) mantenha as decisões que restringiram as visitas familiares a Jair Bolsonaro durante o cumprimento de sua prisão domiciliar. Em 13 de julho, o ministro Alexandre de Moraes suspendeu por 90 dias as…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T10:44:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cf7afb957aec49dd",
+    "manchete": "Aposta de Uberaba (MG) ganha R$ 6,6 milhões na Lotofácil 3760; Dia de Sorte 1270 premia 11 pessoas em 2 bilhetes",
+    "url": "https://www.moneytimes.com.br/aposta-uberaba-mg-ganha-seis-milhoes-lotofacil-3760-dia-de-sorte-1270-premia-11-pessoas-dois-bilhetes-loterias-rsgp/",
+    "resumo": "Uma aposta de Minas Gerais faturou sozinha o prêmio principal do concurso 3760 da Lotofácil. Os números sorteados ontem foram os seguintes: 02, 04, 05, 08, 09, 10, 11, 13, 14, 16, 19, 21, 22, 24 e 25. O bilhete premiado foi registrado por meio dos canais eletrônicos das loterias da Caixa Econômica Federal. De [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-13T10:28:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "656253d3f91adba7",
+    "manchete": "Lucro da CSN Mineração sobe para R$ 219,4 mi no 2° tri",
+    "url": "https://www.infomoney.com.br/mercados/csn-mineracao-cmin3-resultados-segundo-trimestre-2026/",
+    "resumo": "O resultado operacional medido pelo lucro antes ⁠de ‌juros, impostos, depreciação e ⁠amortização (Ebitda) ajustado recuou cerca de 20% ano a ano",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T10:28:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d7416cb0b0a2a194",
+    "manchete": "MRV&#038;Co (MRVE3): Prejuízo líquido consolidado é de R$ 626,3 milhões no 2T26, perda 22,7% menor",
+    "url": "https://www.moneytimes.com.br/mrvco-mrve3-prejuizo-liquido-consolidado-e-de-r-6263-milhoes-no-2t26-perda-227-menor-igdl/",
+    "resumo": "A MRV&#38;Co (MRVE3), conglomerado de empresas imobiliárias com MRV, Urba, Luggo e Resia, teve prejuízo líquido consolidado de R$ 626,3 milhões no segundo trimestre de 2026 (2T26). O resultado representa uma perda 22,7% menor na comparação com igual período de 2025. O que mais pesou no balanço foi a já esperada baixa…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T10:28:55.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cdba1632e2db9152",
+    "manchete": "Alguns investimentos esperam a definição das eleições, diz presidente da Stellantis",
+    "url": "https://www.moneytimes.com.br/alguns-investimentos-esperam-a-definicao-das-eleicoes-diz-presidente-da-stellantis/",
+    "resumo": "A Stellantis, dona de marcas como Fiat, Jeep, Citroën e Peugeot, aguarda definições sobre eleições, reforma tributária e regras de importação para decidir quais tecnologias receberão mais investimentos no Brasil. As possibilidades no radar vão da retomada de modelos movidos exclusivamente a etanol aos carros…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T10:27:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5ff15aa2b385407e",
+    "manchete": "Google eleva preços de novos smartphones com avanço da escassez de memórias",
+    "url": "https://www.moneytimes.com.br/google-oficializa-aumento-de-precos-em-novos-smartphones-diante-de-escassez-de-memorias/",
+    "resumo": "O Google oficializou na quarta-feira (12) a sua mais nova geração de smartphones Pixel 11 a um preço US$ 100 mais caro, citando uma escassez \"sem precedentes\" de chips de memória. Os novos aparelhos têm preços a partir de US$ 899 nos Estados Unidos e começam a ser vendidos a partir do dia 20 de [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-13T10:18:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b856cf06ea5bc543",
+    "manchete": "Minidólar (WDOU26): inflação ao produtor e risco local guiam o dia",
+    "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-13082026/",
+    "resumo": "Saiba o que esperar para o minidólar nesta quinta (13)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-13T10:15:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "32011a8199a53462",
+    "manchete": "Bolsas da Europa sobem majoritariamente com balanços, dados e petróleo em queda",
+    "url": "https://www.moneytimes.com.br/bolsas-da-europa-sobem-majoritariamente-com-balancos-dados-e-petroleo-em-queda/",
+    "resumo": "As bolsas europeias operam majoritariamente em alta na manhã desta quinta-feira (13), enquanto investidores digerem balanços corporativos e dados econômicos. A queda do petróleo, após os ganhos recentes em meio às tensões entre EUA e Irã, também está no radar. Por volta das 6h45 (de Brasília), o índice pan-europeu…",
+    "fonte": "Money Times",
+    "data": "2026-08-13T10:13:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1f20a1b00bd22cc9",
+    "manchete": "A Jeep está sofrendo (muito) com as chinesas. A Stellantis acha que já chega",
+    "url": "https://braziljournal.com/a-jeep-esta-sofrendo-muito-com-as-chinesas-a-stellantis-acha-que-ja-chega/",
+    "resumo": "A Jeep ajudou a inaugurar a era dos SUVs no Brasil – mas aí, chegaram as chinesas. O resultado foi uma perda de share brutal da marca da Stellantis. De 2022 para cá, os veículos da Jeep saíram de uma participação de cerca de 20% nos SUVs para algo perto de 10%. “A Jeep talvez [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-13T04:39:52.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "78a42aa2931a4bb9",
     "manchete": "Angola é nova fronteira para a expansão do agronegócio brasileiro Em Luanda, 30 empresários brasileiros buscam novos negócios após o tarifaço dos EUA; aposta é transformar aproximação com a África em investimentos, produção local e exportação de tecnologia",
     "url": "https://www.cnnbrasil.com.br/agro/angola-e-nova-fronteira-para-a-expansao-do-agronegocio-brasileiro/?hidemenu=true&darkmode=false",
@@ -7268,86 +7646,6 @@
     "importancia": 3
   },
   {
-    "id": "c0ecf0bce3007f43",
-    "manchete": "Recuperações judiciais crescem 71% e crise chega aos pequenos produtores Levantamento mostra que produtores rurais respondem por três em cada quatro recuperações judiciais do setor. Soja lidera os casos e inadimplência começa a contaminar a cadeia do agronegócio.",
-    "url": "https://www.cnnbrasil.com.br/agro/recuperacoes-judiciais-crescem-71-e-crise-chega-aos-pequenos-produtores/",
-    "resumo": "Levantamento mostra que produtores rurais respondem por três em cada quatro recuperações judiciais do setor. Soja lidera os casos e inadimplência começa a contaminar a cadeia do agronegócio.",
-    "fonte": "AgFeed",
-    "data": "2026-08-03T22:16:34.311Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2dab752d1db2cdaa",
-    "manchete": "China amplia ofensiva em tratores e pressiona indústria brasileira Levantamento mostra que produtores rurais respondem por três em cada quatro recuperações judiciais do setor. Soja lidera os casos e inadimplência começa a contaminar a cadeia do agronegócio.",
-    "url": "https://www.cnnbrasil.com.br/agro/china-amplia-ofensiva-em-tratores-e-pressiona-industria-brasileira/",
-    "resumo": "Levantamento mostra que produtores rurais respondem por três em cada quatro recuperações judiciais do setor. Soja lidera os casos e inadimplência começa a contaminar a cadeia do agronegócio.",
-    "fonte": "AgFeed",
-    "data": "2026-08-03T22:16:34.311Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e13827606efa5298",
-    "manchete": "O custo Brasil no balanço da CNHi",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-custo-brasil-no-balanco-da-cnhi",
-    "resumo": "Com menos encomendas e mais inadimplência, País impacta negativamente nos resultados da multinacional de máquinas agrícolas",
-    "fonte": "AgFeed",
-    "data": "2026-08-03T22:16:34.309Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "eccbb748980c8a3c",
-    "manchete": "ARTIGO - Brasil que ensina e aprende: a força da inovação compartilhada no campo ARTIGO - Brasil que ensina e aprende: a força da inovação compartilhada no campo",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-brasil-que-ensina-e-aprende-a-forca-da-inovacao-compartilhada-no-campo",
-    "resumo": "Há um conhecimento acumulado aqui, que não existe em nenhum outro lugar do mundo. O amor pela terra é, sim, um ativo competitivo",
-    "fonte": "AgFeed",
-    "data": "2026-08-03T22:16:34.307Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c26c6ab1bb0fb43a",
-    "manchete": "Ihara vê vendas estáveis, mas carteira futura menor em safra marcada por cautela e compras \"picadas\"",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/ihara-ve-vendas-estaveis-mas-carteira-futura-menor-em-safra-marcada-por-cautela-e-compras-picadas",
-    "resumo": "Companhia afirma que produtores seguem investindo em tecnologia, mas adiam decisões, fracionam compras e reduzem a exposição ao crédito",
-    "fonte": "AgFeed",
-    "data": "2026-08-03T22:16:34.306Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46f34ec6ca1e6dd3",
-    "manchete": "Com crédito caro e juros altos, Embracon avança na expansão dos consórcios para máquinas agrícolas Com crédito caro e juros altos, Embracon avança na expansão dos consórcios para máquinas agrícolas",
-    "url": "https://agfeed.com.br/negocios/com-credito-caro-e-juros-altos-embracon-avanca-na-expansao-dos-consorcios-para-maquinas-agricolas",
-    "resumo": "Após 1º trimestre com alta de mais de 40% em comercialização de consórcios de máquinas, Embracon projeta forte crescimento da modalidade",
-    "fonte": "AgFeed",
-    "data": "2026-08-03T22:16:34.306Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "866724e44b2492a5",
     "manchete": "A febre do consignado privado: R$ 100 bilhões depois, a disputa entre bancos e fintechs está só começando",
     "url": "https://neofeed.com.br/negocios/a-febre-do-consignado-privado-r-100-bilhoes-depois-a-disputa-entre-bancos-e-fintechs-esta-so-comecando/",
@@ -9800,301 +10098,6 @@
     "tags_tema": [
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c01c15753e1dc8d0",
-    "manchete": "Startups de agtech e cleantech trocam equity por dívida para financiar expansão em alta dos juros",
-    "url": "https://startupi.com.br/startups-de-agtech-e-cleantech-trocam-equity-por-divida-para-financiar-expansao-em-alta-dos-juros/",
-    "resumo": "Startupi Startups de agtech e cleantech trocam equity por dívida para financiar expansão em alta dos juros CRIs, debêntures incentivadas e FIDC ganham espaço em operações de growth, com captações estruturadas para infraestrutura, capital de giro e projetos de longo prazo. O post Startups de agtech e cleantech trocam…",
-    "fonte": "Startupi",
-    "data": "2026-07-31T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4876eafa9f74511b",
-    "manchete": "Puxada pelo \"tropeço\" da Prevent Sênior, MedSênior quer dobrar de tamanho",
-    "url": "https://neofeed.com.br/negocios/puxada-pelo-tropeco-da-prevent-senior-medsenior-quer-dobrar-de-tamanho/",
-    "resumo": "Operadora de saúde capixaba MedSênior tem se beneficiado da ampliação da faixa etária de atendimento da Prevent Sênior. Hoje com 310 mil vidas, a MedSênior quer chegar a 700 mil até 2030",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.872Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "56c9e67f29ef55bd",
-    "manchete": "A maior derrota da Adidas na Copa aconteceu depois do apito final",
-    "url": "https://neofeed.com.br/negocios/a-maior-derrota-da-adidas-na-copa-aconteceu-depois-do-apito-final/",
-    "resumo": "A ação da marca esportiva alemã Adidas registra a maior queda intraday desde o IPO em 1995. Sobrou até para a chuteira rosa",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.871Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "da0beca6fbb0f9d5",
-    "manchete": "\"No Ironman e nos negócios, você não controla as variáveis\", diz Ana Oliva, do grupo Astra",
-    "url": "https://neofeed.com.br/bravamente/no-ironman-e-nos-negocios-voce-nao-controla-as-variaveis-diz-ana-oliva-do-grupo-astra/",
-    "resumo": "A presidente do conselho do grupo Astra, fabricante brasileira de materiais para construção, fala sobre resiliência",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.871Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d7ee44af95b4fb1b",
-    "manchete": "O reforço de R$ 10 bilhões no colchão de capital do Bradesco",
-    "url": "https://neofeed.com.br/negocios/o-reforco-de-r-10-bilhoes-no-colchao-de-capital-do-bradesco/",
-    "resumo": "Controladores do Bradesco se comprometem em aportar até R$ 8 bilhões e banco vai antecipar R$ 6,5 bilhões em JCP, num momento de deterioração da economia",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.871Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4103e2ccdd39e88b",
-    "manchete": "ETFs alavancados estouram \"bolha\" de ações de IA (na Coreia do Sul)",
-    "url": "https://neofeed.com.br/negocios/etfs-alavancados-estouram-bolha-de-acoes-de-ia-na-coreia-do-sul/",
-    "resumo": "Queda de 16% em dois dias da Bolsa de Seul expõe expectativas irreais com IA e alavancagem excessiva",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.871Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "88373274b6af203d",
-    "manchete": "Negociação para reverter novo tarifaço de Trump terá que esperar eleições no Brasil (e também nos EUA)",
-    "url": "https://neofeed.com.br/poder/negociacao-para-reverter-novo-tarifaco-de-trump-tera-que-esperar-eleicoes-no-brasil-e-tambem-nos-eua/",
-    "resumo": "O Brasil tentará negociar a redução das tarifas impostas pelos EUA antes das eleições de outubro, mas o governo americano não deve ceder antes disso. O xadrez político vai influenciar a mesa de negociação",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.870Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c726d92bfaad5ad9",
-    "manchete": "O resultado da Ambev deixou um gosto de \"quero mais\" para o mercado",
-    "url": "https://neofeed.com.br/negocios/o-resultado-da-ambev-deixou-um-gosto-de-quero-mais-para-o-mercado/",
-    "resumo": "A Ambev reportou um crescimento de 5% nos volumes de cervejas no Brasil, um \"Efeito Copa\" aquém do esperado pelos investidores e analistas",
-    "fonte": "NeoFeed",
-    "data": "2026-07-30T22:17:30.870Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a029e9a0b7634dab",
-    "manchete": "EcoRodovias tem lucro líquido recorrente de R$ 52,9 mi no 2º tri, queda de 74%",
-    "url": "https://www.infomoney.com.br/mercados/ecorodovias-ecor3-resultados-segundo-trimestre-2026/",
-    "resumo": "Já a receita líquida ajustada registrou alta de 1%, atingindo R$ 1,836 bilhão",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T22:10:25.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "23909a2b347efcce",
-    "manchete": "Vale (VALE3) tem lucro 43% menor no 2T26 e revisa guidance de custos do minério",
-    "url": "https://www.moneytimes.com.br/vale-vale3-tem-lucro-43-menor-no-2t26-e-revisa-guidance-de-custos-do-minerio-vtra/",
-    "resumo": "A Vale (VALE3) registrou lucro líquido de R$ 6,847 bilhões no segundo trimestre de 2026 (2T26), queda de 43,3% em relação aos R$ 12,081 bilhões apurados no mesmo período do ano passado. O resultado veio acompanhado de um Ebitda (Lucro Antes dos Juros, Impostos, Depreciação e Amortização, na sigla em inglês) ajustado…",
-    "fonte": "Money Times",
-    "data": "2026-07-30T22:05:57.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "97da10d2ed2cc34e",
-    "manchete": "Adeus, Santander Brasil (SANB11)? Matriz espanhola propõe troca de ações por BDRs; prêmio é de 15%",
-    "url": "https://www.moneytimes.com.br/adeus-santander-sanb11-brasil-matriz-espanhola-propoe-troca-de-acoes-por-bdrs-premio-e-de-15/",
-    "resumo": "O que mercado especulava, aconteceu: o Santander Espanha propôs trocar as ações do banco listadas aqui no Brasil (SANB11) por BDRs da matriz espanhola, mostra documento enviado ao mercado nesta quinta-feira (30). Segundo o documento, a relação de troca proposta representa prêmio de 15%:. Mais informações em breve",
-    "fonte": "Money Times",
-    "data": "2026-07-30T22:01:54.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bd7a93ed35d1f5e6",
-    "manchete": "EXCLUSIVO: Erai Maggi lidera grupo do agro em negociação com presidente da Bolívia",
-    "url": "https://www.infomoney.com.br/business/exclusivo-erai-maggi-lidera-grupo-do-agro-em-negociacao-com-presidente-da-bolivia/",
-    "resumo": "Delegação de mais de 20 jatos executivos encontra Rodrigo Paz Pereira e ministros nesta sexta-feira na cidade boliviana de San Ignacio de Velasco; na mesa, uma rodovia de 129 km que pode redesenhar a logística de grãos da América do Sul",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T22:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f9cd2f38a201c5e5",
-    "manchete": "Vale (VALE3) elege vice-presidente do conselho e novo diretor independente",
-    "url": "https://www.moneytimes.com.br/vale-vale3-elege-vice-presidente-do-conselho-e-novo-diretor-independente/",
-    "resumo": "A Vale (VALE3) informou nesta quinta-feira (30) alterações na composição do Conselho de Administração, com efeitos a partir de 1º de agosto de 2026 até o fim do mandato atual. O conselheiro independente Reinaldo Duarte Castanheira Filho foi eleito vice-presidente do Conselho de Administração. Já o conselheiro…",
-    "fonte": "Money Times",
-    "data": "2026-07-30T21:59:21.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "260a106dd8bc8631",
-    "manchete": "Vale (VALE3) tem lucro líquido de US$ 1,37 bi no 2T26, queda anual de 35%",
-    "url": "https://www.infomoney.com.br/mercados/vale-vale3-resultados-segundo-trimestre-2026/",
-    "resumo": "A mineradora divulgou seus resultados na noite desta quinta",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:55:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4a4e8f360414b8af",
-    "manchete": "Vale (VALE3) aprova JCP e dividendos de R$ 2,03 por ação e anuncia recompra de até 100 milhões de papéis",
-    "url": "https://www.moneytimes.com.br/vale-vale3-aprova-jcp-e-dividendos-de-r-203-por-acao-e-anuncia-recompra-de-ate-100-milhoes-de-papeis/",
-    "resumo": "A Vale (VALE3) aprovou nesta quinta-feira (30) o pagamento de R$ 2,03 por ação em juros sobre capital próprio (JCP) e dividendos aos acionistas. Na mesma reunião, o conselho de administração também autorizou um novo programa de recompra de até 100 milhões de ações ordinárias, reforçando a política de retorno de…",
-    "fonte": "Money Times",
-    "data": "2026-07-30T21:51:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e083556b17f5241a",
-    "manchete": "Santander anuncia OPA de permuta por Santander Brasil em operação de até R$ 6,4 bi",
-    "url": "https://www.infomoney.com.br/mercados/santander-anuncia-opa-de-permuta-por-acoes-santander-brasil-em-operacao-de-ate-r-64-bi/",
-    "resumo": "Segundo o Santander, a transação faz parte da estratégia de simplificação societária e alocação de capital do grupo",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:50:45.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d0e86959de04800b",
-    "manchete": "Vale (VALE3) aprova pagamento de cerca de R$ 2 por ação em proventos e recompra",
-    "url": "https://www.infomoney.com.br/mercados/vale-vale3-proventos-segundo-trimestre-2026/",
-    "resumo": "O anúncio aconteceu com a divulgação dos resultados",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:50:17.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "837ca0b1aa7249e7",
-    "manchete": "Arena São Paulo: veja o que se sabe sobre nova casa de shows que custará R$ 1,5 bi",
-    "url": "https://www.infomoney.com.br/consumo/arena-sao-paulo-maior-casa-shows-fechada-america-sul/",
-    "resumo": "O projeto será realizado no complexo Cidade Center Norte",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:42:10.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "446ac1fdd9714bbf",
-    "manchete": "Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha",
-    "url": "https://www.infomoney.com.br/politica/mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha/",
-    "resumo": "Defesa de Lulinha diz que recebeu 'com tranquilidade' a informação e afirma que o filho do presidente não obteve nenhum pagamento por negócios de empresários com o governo Lula",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:36:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5c570ac39aaf65c4",
-    "manchete": "EcoRodovias (ECOR3) tem queda de 95% no lucro no 2T26, para R$ 9,9 milhões",
-    "url": "https://www.moneytimes.com.br/ecorodovias-ecor3-tem-queda-de-95-no-lucro-no-2t26-para-r-99-milhoes-vtra/",
-    "resumo": "A EcoRodovias (ECOR3) registrou lucro líquido consolidado de R$ 9,9 milhões no segundo trimestre de 2026 (2T26), queda de 95% em relação aos R$ 199,3 milhões apurados no mesmo período do ano passado. Já o lucro líquido recorrente, atribuído aos acionistas controladores e ajustado por efeitos extraordinários, somou R$…",
-    "fonte": "Money Times",
-    "data": "2026-07-30T21:34:52.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ce23442c6a834559",
-    "manchete": "Esse \"jatinho\" do emir do Catar é capaz de fechar um aeroporto após o pouso; conheça",
-    "url": "https://www.infomoney.com.br/consumo/jatinho-capaz-fechar-aeroporto-pouso/",
-    "resumo": "Uma aeronave do tamanho de um avião comercial é usado de jato particular",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ff998412f850ea53",
-    "manchete": "Justiça homologa recuperação da Raízen; “precedente histórico”",
-    "url": "https://braziljournal.com/justica-homologa-recuperacao-da-raizen-precedente-historico/",
-    "resumo": "A Raízen acaba de obter homologação do Tribunal de Justiça do Estado de São Paulo para seu plano de recuperação extrajudicial, o maior já visto no País. A companhia controlada pelos grupos Cosan e Shell disse ter obtido apoio de 81,6% dos credores às condições propostas. A Raízen listou no plano um passivo total de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-07-30T21:21:57.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0a5d46890c55ef88",
-    "manchete": "Multiplan (MULT3) tem lucro de R$ 427,4 milhões no 2º trimestre, alta de 61,7%",
-    "url": "https://www.moneytimes.com.br/multiplan-mult3-tem-lucro-de-r-4274-milhoes-no-2o-trimestre-alta-de-617-vtra/",
-    "resumo": "A Multiplan (MULT3) encerrou o segundo trimestre de 2026 com lucro líquido de R$ 427,4 milhões, avanço de 61,7% em relação ao mesmo período do ano passado, impulsionado pelo crescimento operacional dos shopping centers e pelo reconhecimento de cerca de R$ 253 milhões em créditos tributários de PIS/Cofins. A receita…",
-    "fonte": "Money Times",
-    "data": "2026-07-30T21:18:27.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5b9b167177d43929",
-    "manchete": "Multiplan (MULT3) lucra 61,7% mais no 2º tri, a R$ 427 milhões, e supera projeções",
-    "url": "https://www.infomoney.com.br/mercados/multiplan-mult3-resultados-segundo-trimestre-2026/",
-    "resumo": "A empresa teve ⁠receita líquida ​de 846,8 milhões de abril ao final de ​junho, 22% acima do faturamento de um ​ano antes ⁠e também acima da previsão média ⁠dos analistas",
-    "fonte": "InfoMoney",
-    "data": "2026-07-30T21:15:57.000Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
