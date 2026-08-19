@@ -1,5 +1,421 @@
 [
   {
+    "id": "f765f712d9606b91",
+    "manchete": "Lar projeta faturamento acima de R$ 24 bilhões em 2026, apesar da pressão sobre proteínas",
+    "url": "https://agfeed.com.br/negocios/lar-projeta-faturamento-acima-de-r-24-bilhoes-em-2026-apesar-da-pressao-sobre-proteinas",
+    "resumo": "Cooperativa paranaense espera alta abaixo de dois dígitos em receita, com grãos puxando os resultados do segundo semestre",
+    "fonte": "AgFeed",
+    "data": "2026-08-19T10:47:50.871Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b76ad92a5db6eeee",
+    "manchete": "JBS fecha joint-venture de até US$ 5 bi para investir no mercado do sudeste asiático",
+    "url": "https://agfeed.com.br/negocios/jbs-fecha-joint-venture-de-ate-us-5-bi-para-investir-no-mercado-do-sudeste-asiatico",
+    "resumo": "JBS fecha joint venture de até US$ 5 bi com fundo da Indonésia para expandir negócios no Sudeste Asiático e mercado global de proteínas",
+    "fonte": "AgFeed",
+    "data": "2026-08-19T10:47:50.871Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d5d3efc438963f33",
+    "manchete": "Bolívia atrai brasileiros e gera fundo de R$ 100 milhões na Riza",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/bolivia-atrai-brasileiros-e-gera-fundo-de-r-100-milhoes-na-riza",
+    "resumo": "Gestora faz movimento para compra e desenvolvimento de 22 mil hectares em região boliviana que já atraiu Eraí Maggi",
+    "fonte": "AgFeed",
+    "data": "2026-08-19T10:47:50.867Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4e82102a6494ea06",
+    "manchete": "Mesmo com safra difícil (e lenta), Syngenta Seeds vê espaço para ganhar mercado",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/mesmo-com-safra-dificil-e-lenta-syngenta-seeds-ve-espaco-para-ganhar-mercado",
+    "resumo": "Após reorganização que mudou lideranças, Syngenta Seeds quer ampliar participação mesmo com área de soja praticamente estável",
+    "fonte": "AgFeed",
+    "data": "2026-08-19T10:47:50.864Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5ecb57ea12c95ca3",
+    "manchete": "Com parecer de ex-STF, julgamento no Cade sobre Keeta e 99Food pode redefinir o setor de delivery",
+    "url": "https://neofeed.com.br/poder/com-parecer-de-ex-stf-julgamento-no-cade-sobre-keeta-e-99food-pode-redefinir-o-setor-de-delivery/",
+    "resumo": "Processo analisa a legalidade de “cláusulas de banimento” com grandes redes de restaurantes e deve criar precedentes para todo o ecossistema",
+    "fonte": "NeoFeed",
+    "data": "2026-08-19T10:47:45.182Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1e8c5cc598a8555",
+    "manchete": "A Flash \"não precisava de dinheiro\", mas acaba de levantar R$ 150 milhões",
+    "url": "https://neofeed.com.br/startups/a-flash-nao-precisava-de-dinheiro-mas-acaba-de-levantar-r-150-milhoes/",
+    "resumo": "Sem necessidade imediata de recursos, startup fecha aporte com a Battery e o investidor Kevin Efrusy para acelerar o desenvolvimento de produtos",
+    "fonte": "NeoFeed",
+    "data": "2026-08-19T10:47:45.181Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c67ebd33bdc32c46",
+    "manchete": "Petróleo e inteligência artificial derrubam mercados antes da ata do Fed; Ibovespa em dólar cai nesta quarta-feira (19)",
+    "url": "https://www.moneytimes.com.br/petroleo-e-inteligencia-artificial-derrubam-mercados-antes-da-ata-do-fed-ibovespa-em-dolar-cai-nesta-quarta-feira-19-rens/",
+    "resumo": "Os mercados internacionais operam majoritariamente no vermelho nesta quarta-feira (19). O recuo de ações relacionadas a teses de inteligência artificial (IA) e o avanço dos preços do petróleo por mais um dia formam a “tempestade perfeita” da aversão ao risco para os investidores. Lá fora, a queda das gigantes do setor…",
+    "fonte": "Money Times",
+    "data": "2026-08-19T10:42:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "55debe8f4ff52667",
+    "manchete": "Cosan (CSAN3) prepara saída da NYSE; veja quando ADRs deixam de ser negociados",
+    "url": "https://www.infomoney.com.br/mercados/cosan-csan3-prepara-saida-da-nyse-veja-quando-adrs-deixam-de-ser-negociados/",
+    "resumo": "Movimento faz parte do objetivo de simplificação e otimização da estrutura de capital da Cosan",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:34:42.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e23732ee37f304e2",
+    "manchete": "IPTU por tamanho ou por preço do imóvel: entenda o que muda com decisão do STF",
+    "url": "https://www.infomoney.com.br/minhas-financas/iptu-por-tamanho-ou-por-preco-do-imovel-entenda-o-que-muda-com-decisao-do-stf/",
+    "resumo": "Segundo a Corte, é permitida a progressividade de acordo com o valor do bem",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:24:32.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "57d1a3ba00a2f8aa",
+    "manchete": "Demitidos da Casas Bahia podem receber menos do que têm direito; entenda",
+    "url": "https://www.infomoney.com.br/minhas-financas/demitidos-da-casas-bahia-podem-receber-menos-do-que-tem-direito-entenda/",
+    "resumo": "Verbas garantidas pela CLT entram em fila de credores e podem ser pagas com desconto e parceladas. Sindicato negocia para que tudo seja depositado de uma vez",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:18:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ffb4d2efa565c31e",
+    "manchete": "PEC do fim da escala 6&#215;1 avança no Senado",
+    "url": "https://www.infomoney.com.br/politica/pec-do-fim-da-escala-6x1-avanca-no-senado/",
+    "resumo": "Propostas estavam paradas há meses na mesa do presidente do Senado",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:14:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "373b20ada5665a3a",
+    "manchete": "Minidólar (WDOU26) hoje: veja suportes e resistências antes da ata do Fed",
+    "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-19082026/",
+    "resumo": "Saiba o que esperar para o minidólar nesta quarta (19)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:11:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6e34cd1ecd2062b5",
+    "manchete": "Aposta simples e bolão ganham a Lotofácil 3765; Mega-Sena acumula",
+    "url": "https://www.moneytimes.com.br/aposta-simples-bolao-ganham-lotofacil-3765-mega-sena-acumula-loterias-resultados-rsgp/",
+    "resumo": "Duas apostas cravaram em cheio as dezenas válidas pelo concurso 3765 da Lotofácil. Os números sorteados na noite de terça-feira (18) foram os seguintes: 01, 05, 06, 10, 11, 12, 13, 15, 16, 17, 19, 21, 22, 24 e 25. Cada um dos bilhetes premiados dará acesso a R$ 1.988.778,54. No entanto, a divisão dos [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-19T10:09:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7b49b332351cfad9",
+    "manchete": "Mini-índice (WINV26): confira os principais pontos para operar nesta quarta",
+    "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winv26-19082026/",
+    "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (19 de agosto)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:07:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d5cb3cc8c026f72",
+    "manchete": "Day Trade hoje (19): Ibovespa amplia sequência de quedas; veja a análise",
+    "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-19082026/",
+    "resumo": "Confira os pontos de suporte e resistência do mini-índice e minidólar",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:04:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "228ec1d59e0c52a5",
+    "manchete": "As ações e os setores que foram destaques &#8211; positivos e negativos &#8211; no 2T, segundo XP",
+    "url": "https://www.infomoney.com.br/mercados/as-acoes-e-os-setores-que-foram-destaques-positivos-e-negativos-no-2t-segundo-xp/",
+    "resumo": "Na avaliação da XP, o setor de óleo, gás e petroquímicos foi o grande destaque positivo do trimestre",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T10:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4141bc9fb9753642",
+    "manchete": "BrasilAgro (AGRO3) está ‘sempre pronta’ para compra imperdível — e não conta com fazenda ‘not for sale’",
+    "url": "https://www.moneytimes.com.br/brasilagro-agro3-esta-sempre-pronta-para-compra-imperdivel-e-nao-conta-com-fazenda-not-for-sale-pads/",
+    "resumo": "Para uma empresa que ganha dinheiro comprando, desenvolvendo e negociando propriedades rurais, não há ativos intocáveis nem oportunidades excepcionais que possam ser ignoradas. É assim que a BrasilAgro (AGRO3) encara seu portfólio. Em entrevista ao Money Times, o CEO André Guillaumon afirmou que a companhia está…",
+    "fonte": "Money Times",
+    "data": "2026-08-19T10:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3e0ab6625c497783",
+    "manchete": "Plataforma de gestão do trabalho Flash capta R$150 mi",
+    "url": "https://www.infomoney.com.br/mercados/plataforma-de-gestao-do-trabalho-flash-capta-r150-mi/",
+    "resumo": "O ​aporte na rodada Série D foi liderado pelos investidores Battery ​Ventures e Kevin Efrusy",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T09:54:38.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ae2362a93ba2588e",
+    "manchete": "Bolsas da Europa recuam com incerteza no Oriente Médio e ata do Fed no radar",
+    "url": "https://www.moneytimes.com.br/bolsas-da-europa-recuam-com-incerteza-no-oriente-medio-e-ata-do-fed-no-radar-rens/",
+    "resumo": "As bolsas europeias recuam majoritariamente na manhã desta quarta-feira, enquanto o petróleo segue em alta em meio às incertezas do conflito no Oriente Médio e investidores aguardam a ata da reunião de política monetária de julho do Federal Reserve (Fed). Por volta das 6h20 (de Brasília), o índice pan-europeu Stoxx…",
+    "fonte": "Money Times",
+    "data": "2026-08-19T09:50:24.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "deb2d5002be0f8e7",
+    "manchete": "Bolsas da Ásia fecham em baixa após perdas em Wall Street; Kospi despenca 5,8%",
+    "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-apos-perdas-em-wall-street-kospi-despenca-58-rens/",
+    "resumo": "As bolsas asiáticas fecharam majoritariamente em baixa nesta quarta-feira, após Wall Street recuar pelo terceiro pregão seguido ontem, em meio a uma nova onda de aversão a ações ligadas à inteligência artificial. O índice sul-coreano Kospi liderou as perdas, com queda de 5,80%, para 6.471,17 pontos. As duas maiores…",
+    "fonte": "Money Times",
+    "data": "2026-08-19T09:46:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68569fe926453525",
+    "manchete": "Grupo Multi anuncia provisão de R$ 20 mi para perdas com Casas Bahia",
+    "url": "https://www.infomoney.com.br/mercados/grupo-multi-anuncia-provisao-de-r-20-mi-para-perdas-com-casas-bahia/",
+    "resumo": "Grupo Multi justificou esta medida em ⁠razão ‌do pedido de recuperação judicial ⁠apresentado pelo Grupo Casas Bahia na segunda-feira",
+    "fonte": "InfoMoney",
+    "data": "2026-08-19T09:41:48.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a7effd315de70a2e",
+    "manchete": "Agenda: Ata do Fomc detalha manutenção de juros norte-americanos; veja indicadores econômicos desta quarta (19)",
+    "url": "https://www.moneytimes.com.br/agenda-ata-do-fomc-detalha-manutencao-de-juros-norte-americanos-pela-5o-vez-seguida-e-mais-veja-indicadores-e-horarios-jvka/",
+    "resumo": "Nesta quarta-feira (19), os investidores acompanham a ata do Comitê Federal de Mercado Aberto (Fomc), que traz um detalhamento da mais recente reunião de política monetária dos Estados Unidos. No início do mês, o Federal Reserve manteve a taxa de juros na faixa de 3,50% a 3,75% ao ano pela quinta reunião seguida. A…",
+    "fonte": "Money Times",
+    "data": "2026-08-19T09:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8d05f0ca4e385983",
+    "manchete": "Tempo real: Ibovespa acompanha inflação na Europa e ata do Fed",
+    "url": "https://www.moneytimes.com.br/tempo-real-ibovespa-hoje-mercado-ao-vivo-19-08-2026-jals-lils-apsa/",
+    "resumo": "Resumo: O Ibovespa (IBOV) opera atento aos índices de inflação no Reino Unido e na zona do euro, ao discurso da presidente do Banco Central Europeu, Christine Lagarde, e à divulgação da ata da última reunião do Federal Reserve. A balança comercial do Japão também está no radar dos investidores. Destaques: Confira os…",
+    "fonte": "Money Times",
+    "data": "2026-08-19T09:00:00.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a969f6480736e153",
+    "manchete": "A paixão pela ignorância e o irremediável besteirol das celebridades",
+    "url": "https://startupi.com.br/a-paixao-pela-ggnorancia-e-o-irremediavel-besteirol-das-celebridades/",
+    "resumo": "Startupi A paixão pela ignorância e o irremediável besteirol das celebridades Padrão de redes sociais e veículos de imprensa de simplificação extrema de assuntos complexos gera desinformação e superficialidade em debates que deveriam ser cruciais para a população. O post A paixão pela ignorância e o irremediável…",
+    "fonte": "Startupi",
+    "data": "2026-08-19T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1dc4b0264f822d1a",
+    "manchete": "O que a falta de temas como inovação e transformação digital em planos de governo dizem sobre o futuro do Brasil",
+    "url": "https://startupi.com.br/o-que-a-falta-de-temas-como-inovacao-e-transformacao-digital-em-planos-de-governo-dizem-sobre-o-futuro-do-brasil/",
+    "resumo": "Startupi O que a falta de temas como inovação e transformação digital em planos de governo dizem sobre o futuro do Brasil Programas presidenciais apresentados até agora tratam tecnologia de forma pontual, sem metas para transformar empresas, serviços públicos e a segurança nacional. O post O que a falta de temas como…",
+    "fonte": "Startupi",
+    "data": "2026-08-19T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fbe8848abea60e1d",
+    "manchete": "A era da seleção radical: por que disciplina financeira agora vale mais que crescimento acelerado",
+    "url": "https://startupi.com.br/a-era-da-selecao-radical-por-que-disciplina-financeira-agora-vale-mais-que-crescimento-acelerado/",
+    "resumo": "Startupi A era da seleção radical: por que disciplina financeira agora vale mais que crescimento acelerado Em 2026, investidores estão mais seletivos, e founders que dominam unit economics, governança e IA aplicada ganham vantagem na captação O post A era da seleção radical: por que disciplina financeira agora vale…",
+    "fonte": "Startupi",
+    "data": "2026-08-19T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d740c70aa06bdf32",
+    "manchete": "A Pilgrim’s está em seu pior momento. Os Batista querem comprar os minoritários",
+    "url": "https://braziljournal.com/a-pilgrims-esta-em-seu-pior-momento-os-batista-querem-comprar-os-minoritarios/",
+    "resumo": "A JBS voltou a ciscar no mesmo terreno: quer (de novo) fechar o capital da Pilgrim’s Pride, a produtora de frango que ela controla nos EUA. Após tentar comprar a participação dos minoritários e ouvir um “não” em 2021, a companhia dos Batista voltou à mesa – desta vez oferecendo cerca de US$ 1,2 bilhão [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-19T03:40:59.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8df79f0318af1d10",
+    "manchete": "A visão do Tesouro sobre a rolagem da dívida, o arcabouço fiscal e os papéis incentivados",
+    "url": "https://braziljournal.com/a-visao-do-tesouro-sobre-a-rolagem-da-divida-o-arcabouco-fiscal-e-os-papeis-incentivados/",
+    "resumo": "Não existe a menor possibilidade de haver alguma forma de calote da dívida pública – e quem especula sobre esse risco não sabe do que está falando. Esta é a resposta do secretário do Tesouro sobre o assunto durante uma entrevista de quase uma hora com o Brazil Journal. “A chance de existir um calote [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-19T03:40:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c4b3a3e2f58c2b0d",
+    "manchete": "BYD passa a vender kits de energia solar em suas concessionárias",
+    "url": "https://braziljournal.com/byd-passa-a-vender-kits-de-energia-solar-em-suas-concessionarias/",
+    "resumo": "A BYD vai usar sua rede de concessionárias de veículos elétricos para vender kits de geração de energia solar para residências, entrando em um novo nicho bilionário e com imenso potencial de expansão. O grupo chinês, que há pouco assumiu a liderança no varejo de carros do País, produz placas fotovoltaicas em uma…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-19T03:40:40.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "41261b12a85576cd",
+    "manchete": "Soja amplia ganhos em meio a dúvidas sobre safra nos EUA",
+    "url": "https://www.moneytimes.com.br/soja-amplia-ganhos-em-meio-a-duvidas-sobre-safra-nos-eua-pads/",
+    "resumo": "Os contratos futuros de soja negociados na bolsa de Chicago tiveram leve alta nesta terça-feira, à medida que boletins meteorológicos e dados sobre a safra levantaram preocupações quanto às perspectivas da colheita deste ano no Meio-Oeste dos EUA, segundo analistas. Os preços do petróleo em alta e uma onda de demanda…",
+    "fonte": "Money Times",
+    "data": "2026-08-18T22:12:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6047410c031ecb02",
+    "manchete": "LWSA (LWSA3) atualiza valor de dividendos; confira",
+    "url": "https://www.moneytimes.com.br/lwsa-lwsa3-atualiza-valor-de-dividendos-confira/",
+    "resumo": "A LWSA (LWSA3), em comunicado ao mercado na Comissão de Valores Mobiliários (CVM), informa que, em razão da alteração na quantidade de ações mantidas em tesouraria, a quantidade de ações com direito ao recebimento de dividendos passou a ser de R$ 548 milhões ações ordinárias. Com isso, o valor do dividendo anunciado…",
+    "fonte": "Money Times",
+    "data": "2026-08-18T21:49:08.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "964f147a6b97b7f4",
+    "manchete": "A virada de chave do açúcar em agosto: Índia pode voltar às compras e mercado já olha para déficit em 2026/27",
+    "url": "https://www.moneytimes.com.br/a-virada-de-chave-do-acucar-em-agosto-india-pode-voltar-as-compras-e-mercado-ja-olha-para-deficit-em-2026-27-pads/",
+    "resumo": "O mercado de açúcar parece ter virado a chave em agosto. Depois de meses pressionados, os contratos futuros da commodity engataram uma forte recuperação nas últimas semanas, com o açúcar bruto negociado em Nova York saindo da região dos 15 centavos de dólar por libra-peso para perto de 17,50 cents/lb. Para Marcelo Di…",
+    "fonte": "Money Times",
+    "data": "2026-08-18T21:48:40.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "ff3b6c83f9f5b4eb",
     "manchete": "ARTIGO - Biodiesel: eficiência no campo fortalece uma cadeia estratégica para a transição energética",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-biodiesel-eficiencia-no-campo-fortalece-uma-cadeia-estrategica-para-a-transicao-energetica",
@@ -6853,42 +7269,6 @@
     "importancia": 3
   },
   {
-    "id": "8e535190dcc275ca",
-    "manchete": "Justiça de SP autoriza penhora de parte da produção do Grupo Itajobi Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
-    "url": "https://www.cnnbrasil.com.br/agro/justica-de-sp-autoriza-penhora-de-parte-da-producao-do-grupo-itajobi/",
-    "resumo": "Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
-    "fonte": "AgFeed",
-    "data": "2026-08-10T11:27:48.560Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "49ff0918f992a0d7",
-    "manchete": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
-    "url": "https://www.cnnbrasil.com.br/agro/grupo-maringa-investe-r-120-milhoes-em-geracao-de-energia-com-biomassa/",
-    "resumo": "Medida atende pedido da VA&E Trading em meio à negociação de dívida de R$ 3,7 bilhões da companhia com 4 mil credores",
-    "fonte": "AgFeed",
-    "data": "2026-08-10T11:27:48.560Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9c2607d226c9ecf9",
-    "manchete": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
-    "url": "https://agfeed.com.br/negocios/icl-de-fertilizantes-investe-r-90-milhoes-no-ano-e-abre-novo-centro-logistico-em-goias",
-    "resumo": "Apesar do momento desafiador para a indústria de adubos, ICL registrou lucro e agora aporta R$ 35 milhões na fábrica de Suzano (SP)",
-    "fonte": "AgFeed",
-    "data": "2026-08-10T11:27:48.556Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "febb2b47be4934c4",
     "manchete": "O número mais importante da Smart Fit já não é o de academias",
     "url": "https://neofeed.com.br/videos/numeros-falam/o-numero-mais-importante-da-smart-fit-ja-nao-e-o-de-academias/",
@@ -7271,20 +7651,6 @@
     "data": "2026-08-10T08:00:00.000Z",
     "tags_tema": [
       "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "25af704f891a7d24",
-    "manchete": "Megacooperativa japonesa Zen-Noh compra 30% do Grupo Cereal e reforça presença no agro brasileiro",
-    "url": "https://agfeed.com.br/negocios/megacooperativa-japonsesa-zen-noh-compra-30-do-grupo-cereal-e-reforca-presenca-no-agro-brasileiro",
-    "resumo": "Braço brasileiro de federação de cooperativas japonesas adquire fatia minoritária da empresa de Goiás e preserva gestão de família fundadora",
-    "fonte": "AgFeed",
-    "data": "2026-08-09T21:45:44.320Z",
-    "tags_tema": [
-      "M&A"
     ],
     "tags_empresa": [],
     "relevante": true,
@@ -9760,365 +10126,6 @@
     "data": "2026-08-05T22:19:18.173Z",
     "tags_tema": [
       "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "10fbb3d1ab1b7255",
-    "manchete": "Brasil avança, mas resultado ainda não anima a Gerdau",
-    "url": "https://neofeed.com.br/negocios/brasil-avanca-mas-resultado-ainda-nao-anima-a-gerdau/",
-    "resumo": "Ebitda da operação brasileira cresce 22% em relação ao trimestre anterior, contra alta de 15,4% da divisão americana. Mas, segundo Gustavo Werneck, ainda não dá para falar em retomada, já que a margem ainda está baixa",
-    "fonte": "NeoFeed",
-    "data": "2026-08-05T22:19:18.172Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6296e53e4f719bac",
-    "manchete": "No Google, mais uma dança das cadeiras no time de inteligência artificial",
-    "url": "https://neofeed.com.br/inovacao/no-google-mais-uma-danca-das-cadeiras-no-time-de-inteligencia-artificial/",
-    "resumo": "Enquanto Demis Hassabis muda de cargo na DeepMind, veteramos como o cientista-chefe Jeff Dean deixam o Google para fundar a startup Discovery Loop em meio à disputa com a OpenAI e a Anthropic",
-    "fonte": "NeoFeed",
-    "data": "2026-08-05T22:19:18.172Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "73c2dc2c26f8d0ed",
-    "manchete": "Inter lucra R$ 421 milhões e bate consenso",
-    "url": "https://neofeed.com.br/negocios/inter-lucra-r-421-milhoes-e-bate-consenso/",
-    "resumo": "Esse é o décimo terceiro trimestre consecutivo de crescimento do lucro do Inter. Margem financeira supera os 10% pela primeira vez",
-    "fonte": "NeoFeed",
-    "data": "2026-08-05T22:19:18.171Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2fd1ff872cad8600",
-    "manchete": "Riachuelo ignora juro alto e liga o motor da expansão",
-    "url": "https://neofeed.com.br/negocios/riachuelo-ignora-juro-alto-e-liga-o-motor-da-expansao/",
-    "resumo": "Riachuelo anuncia abertura de 14 lojas e reforma de outras sete. O CEO André Farber explica a transformação",
-    "fonte": "NeoFeed",
-    "data": "2026-08-05T22:19:18.171Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f29b433e1d6cefc9",
-    "manchete": "Relação Brasil-Argentina em “marcha lenta” ameaça o coração do comércio bilateral",
-    "url": "https://neofeed.com.br/economia/relacao-brasil-argentina-em-marcha-lenta-ameaca-o-coracao-do-comercio-bilateral/",
-    "resumo": "Com cadeias integradas e sob ameaça chinesa, setor automotivo é o primeiro na linha de impacto caso a crise diplomática avance para o comércio",
-    "fonte": "NeoFeed",
-    "data": "2026-08-05T22:19:18.170Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3087dabf9656967d",
-    "manchete": "Smart Fit (SMFT3) tem alta de 8% no lucro recorrente do 2º tri, para R$ 204 milhões",
-    "url": "https://www.infomoney.com.br/mercados/smart-fit-smft3-resultados-segundo-trimestre-2026/",
-    "resumo": "A receita saltou 22%, a R$ 2,18 bilhões, enquanto o número de academias subiu 19%, para 2.170, das quais 1.746 unidades próprias",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T22:13:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a7543c6f4923d3d",
-    "manchete": "Itaúsa (ITSA4) investe R$ 732 milhões na Aegea e aumenta participação para 14,01%",
-    "url": "https://www.moneytimes.com.br/itausa-itsa4-investe-r-732-milhoes-na-aegea-e-aumenta-participacao-para-1401-vtra/",
-    "resumo": "A Itaúsa (ITSA4) investiu aproximadamente R$ 732 milhões no aumento de capital da Aegea Saneamento e elevou sua participação na companhia de 13,27% para 14,01% do capital total. A operação envolveu a subscrição, pela holding, de 13.231.706 novas ações ordinárias da empresa de saneamento, ao preço de R$ 55,29 por…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T22:13:08.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "841c5c3e76dae625",
-    "manchete": "EWZ sobe após corte da Selic em dia de volatilidade nos mercados acionários",
-    "url": "https://www.moneytimes.com.br/ewz-sobe-apos-corte-da-selic-em-dia-de-volatilidade-nos-mercados-acionarios-lils/",
-    "resumo": "O iShares MSCI Brazil (EWZ), que é um fundo de índice (ETF, na sigla em inglês) negociado na Bolsa de Nova York (NYSE) que replica o desempenho do mercado acionário brasileiro &#8212; e que também opera influenciado por fatores externos &#8211;, subia 0,30%, a US$ 36,22, por volta das 19h (horário de Brasília) desta…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T22:08:44.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "589499883d09f7f3",
-    "manchete": "Engie Brasil (EGIE3) tem lucro ajustado de R$ 694 milhões no 2º trimestre",
-    "url": "https://www.moneytimes.com.br/engie-brasil-egie3-tem-lucro-ajustado-de-r-694-milhoes-no-2o-trimestre/",
-    "resumo": "A Engie Brasil Energia (EGIE3) registrou um lucro líquido ajustado de R$ 694 milhões no segundo trimestre, aumento de 23% frente ao registrado um ano antes, com contribuições positivas dos segmentos de geração, venda de energia e transmissão, segundo balanço divulgado nesta quarta-feira. O lucro líquido da companhia,…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T22:07:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3fc7d861609fb34c",
-    "manchete": "SmartFit (SMFT3) tem alta de 8% no lucro recorrente do 2º trimestre",
-    "url": "https://www.moneytimes.com.br/smartfit-tem-alta-de-8-no-lucro-recorrente-do-2o-tri/",
-    "resumo": "A rede de academias de ginástica SmartFit (SMFT3) teve lucro líquido recorrente R$ 204 milhões no segundo trimestre, alta de 8% sobre o mesmo período do ano passado, segundo balanço publicado nesta quarta-feira. A companhia teve um resultado operacional medido pelo lucro antes de juros, impostos, depreciação e…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T22:04:06.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "805496f175045237",
-    "manchete": "Copel vê lucro subir no 2T, com ganhos na comercialização e distribuição de energia",
-    "url": "https://www.infomoney.com.br/mercados/copel-cple3-resultados-segundo-trimestre-2026/",
-    "resumo": "Lucro foi a R$ 1,05 bilhão, alta de 82,6% frente ao registrado um ano antes, impulsionado pelo desempenho positivo dos negócios de comercialização e distribuição de energia",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T22:03:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bbb2725d20ff880c",
-    "manchete": "Selic a 14%: 4 pontos para entender por que o Copom reduziu os juros em 0,25 p.p.",
-    "url": "https://www.moneytimes.com.br/selic-4-pontos-agosto-2026-lils/",
-    "resumo": "O Comitê de Política Monetária (Copom) cortou a taxa Selic em 0,25 ponto percentual, de 14,25% para 14% ao ano nesta quarta-feira (5). Essa foi a quarta flexibilização dos juros e, mais uma vez, a decisão foi unânime. O corte também veio em linha com o esperado pelo mercado. Na última atualização, com data de [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-08-05T22:02:33.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "afc4015ed02c05f9",
-    "manchete": "Onde assistir Fortaleza x Palmeiras?",
-    "url": "https://www.infomoney.com.br/esportes/onde-assistir-fortaleza-palmeiras/",
-    "resumo": "No jogo de ida das oitavas de final, o Palmeiras venceu por 3 a 0 jogando em casa",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T22:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "71de2c35b3b2e8ad",
-    "manchete": "Lucro da Totvs (TOTS3) sobe 17,4% no 2º tri, a R$ 240 milhões",
-    "url": "https://www.infomoney.com.br/mercados/totvs-tots3-resultados-segundo-trimestre-2026/",
-    "resumo": "Receita líquida de R$ 1,92 bilhão, ​alta ⁠de 36,1% em relação ⁠ao segundo trimestre de 2026",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:59:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3f497c7058661bd2",
-    "manchete": "Copel (CPLE6) tem alta do lucro no 2º trimeste, para R$ 1,05 bilhão",
-    "url": "https://www.moneytimes.com.br/copel-tem-alta-do-lucro-no-2o-tri-com-ganhos-na-comercializacao-e-distribuicao-de-energia-vtra/",
-    "resumo": "A Copel (CPLE6) registrou lucro líquido de R$1,05 bilhão no segundo trimestre, alta de 82,6% frente ao registrado um ano antes, impulsionado pelo desempenho positivo dos negócios de comercialização e distribuição de energia, de acordo com balanço divulgado nesta quarta-feira. O lucro recorrente, que exclui o efeito da…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T21:59:06.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "879e56ae77695277",
-    "manchete": "Riachuelo tem recorde no EBITDA e lucro. Agora vem a expansão",
-    "url": "https://braziljournal.com/riachuelo-tem-recorde-no-ebitda-e-lucro-agora-vem-a-expansao/",
-    "resumo": "A Lojas Riachuelo reportou um segundo tri que superou as projeções do sellside e trouxe com uma série de recordes históricos. O resultado também marcou um ponto de inflexão na estratégia da companhia, que a partir do segundo semestre vai entrar em ‘modus’ expansão – voltando a abrir lojas num ritmo acelerado depois de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-05T21:58:49.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7a7bd9c70cddf8cd",
-    "manchete": "Aura Minerals (AURA33) anuncia dividendos de US$ 60,4 milhões; veja valor por BDR",
-    "url": "https://www.moneytimes.com.br/aura-minerals-aura33-anuncia-dividendos-de-us-604-milhoes-veja-valor-por-bdr-pads/",
-    "resumo": "A Aura Minerals (AURA33) aprovou o pagamento de dividendos de US$ 0,72 por ação ordinária, equivalente a US$ 0,24 por BDR, com base nos resultados do segundo trimestre de 2026. O montante total da distribuição será de aproximadamente US$ 60,4 milhões, acima do mínimo previsto na política de dividendos da companhia.…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T21:58:12.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9a7f06d4d678d9b1",
-    "manchete": "Engie Brasil (EGIE3) tem lucro ajustado de R$ 694 mi no 2ºtri, alta anual de 23%",
-    "url": "https://www.infomoney.com.br/mercados/engie-brasil-egie3-resultados-segundo-trimestre-2026/",
-    "resumo": "Lucro líquido da companhia, sem ajustes, somou R$ 1,96 bilhão no período",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:54:52.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c093cf0d104488d6",
-    "manchete": "Brava (BRAV3) tem lucro líquido de R$ 871 mi no 2º tri, queda anual de 17%",
-    "url": "https://www.infomoney.com.br/mercados/brava-brav3-resultados-segundo-trimestre-2026/",
-    "resumo": "Ebitda ajustado somou R$1,774 bilhão entre abril e junho, alta de 33% na comparação anual",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "95997472d22a2a24",
-    "manchete": "PRIO bate recordes com petróleo em alta. E os dividendos?",
-    "url": "https://braziljournal.com/prio-bate-recordes-com-petroleo-em-alta-e-os-dividendos/",
-    "resumo": "A PRIO teve um segundo tri de recordes, apoiada pelos preços altos do petróleo e avanços na produção – em resultados que ampliaram a já elevada expectativa do mercado por uma política de remuneração aos acionistas prometida pela companhia alguns meses atrás. Na teleconferência de resultados desta quarta-feira, a…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-05T21:46:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f66147ddbd7f2553",
-    "manchete": "Corte da Selic faz Brasil cair uma posição e leva país ao 2º maior juro real do mundo",
-    "url": "https://www.infomoney.com.br/economia/ranking-juros-reais-agosto-2026/",
-    "resumo": "Brasil tem juro real de 9,33% com Selic em 14%; ranking considera as 40 maiores economias do mundo e é liderado pela Rússia",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:45:34.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7ef7e9668c571f19",
-    "manchete": "O que mudou no comunicado do Copom que reduziu a Selic para 14%? Veja a comparação",
-    "url": "https://www.moneytimes.com.br/comunicado-comparado-copom-agosto-2026-lils/",
-    "resumo": "O Comitê de Política Monetária (Copom) cortou a Selic de 14,25% para 14% ao ano nesta quarta-feira (5). Essa foi a quarta redução consecutiva do Banco Central, em linha com o esperado pelo mercado. A decisão do colegiado foi unânime. \"O Copom decidiu reduzir a taxa básica de juros para 14,00% a.a., e entende que…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T21:43:38.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c53381c5e1693c90",
-    "manchete": "Copom reduz a Selic para 14% ao ano; confira",
-    "url": "https://www.moneytimes.com.br/copom-reduz-a-selic-para-14-ao-ano-confira/",
-    "resumo": "O Comitê de Política Monetária (Copom) informou que reduziu a taxa Selic para 14% na reunião desta quarta-feira (5). A decisão foi unânime. O mercado já apostava em um corte de 0,25 ponto percentual com um ambiente levemente mais favorável para inflação, mas mantendo o tom cauteloso em meio a elevada incerteza no…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T21:38:56.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "94b2d6872390e0e1",
-    "manchete": "BC corta Selic em 0,25 ponto, a 14% ao ano, e deixa próximos passos em aberto",
-    "url": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-05082026/",
-    "resumo": "Foi a quarta queda seguida da taxa, em uma decisão em linha com o esperado pelo mercado",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:34:16.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a13ab6ab06faa90d",
-    "manchete": "Brava (BRAV3) tem lucro líquido de R$ 871 milhões no 2T26",
-    "url": "https://www.moneytimes.com.br/brava-brav3-tem-lucro-liquido-de-r-871-milhoes-no-2t26-pads/",
-    "resumo": "A Brava Energia (BRAV3) teve lucro líquido de R$871 milhões no segundo trimestre, queda de 17% na comparação com o mesmo período do ano passado, em resultado marcado por recordes de receita e Ebitda ajustado, apoiados por maior preço de venda do petróleo, avanço operacional e melhora no desempenho comercial, informou…",
-    "fonte": "Money Times",
-    "data": "2026-08-05T21:33:51.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d108dd511a00150a",
-    "manchete": "Iochpe-Maxion (MYPK3) tem lucro de R$ 87 mi no 2º tri",
-    "url": "https://www.infomoney.com.br/mercados/iochpe-maxion-mypk3-resultados-segundo-trimestre-2026/",
-    "resumo": "Companhia apurou resultado operacional medido pelo Ebitda de R$417,5 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:33:41.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5b41316971d53eb3",
-    "manchete": "Auren reduz prejuízo no 2T e tem mais ganhos de modulação com hidrelétricas e eólicas",
-    "url": "https://www.infomoney.com.br/mercados/auren-aure3-resultados-segundo-trimestre-2026/",
-    "resumo": "A geradora de energia controlada por Votorantim e CPP Investments divulgou nesta quarta-feira um prejuízo líquido de R$379,1 milhões entre abril e junho",
-    "fonte": "InfoMoney",
-    "data": "2026-08-05T21:25:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4d947e66f160896f",
-    "manchete": "As mudanças no time de AI do Google que pressionaram a ação",
-    "url": "https://braziljournal.com/as-mudancas-no-time-de-ai-do-google-que-pressionaram-a-acao/",
-    "resumo": "A Alphabet, dona do Google, é considerada uma das Big Techs mais bem-posicionadas na revolução da AI – mas a ação caiu 4% hoje depois que alguns dos principais veteranos que lideravam seu laboratório de AI deixaram a companhia. O cientista-chefe Jeff Dean, com 27 anos de Google, agora vai montar sua própria startup de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-05T21:13:48.000Z",
-    "tags_tema": [
-      "Venture Capital"
     ],
     "tags_empresa": [],
     "relevante": true,
