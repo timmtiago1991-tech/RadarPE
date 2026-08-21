@@ -1,5 +1,534 @@
 [
   {
+    "id": "0f0f380d0afe6ca0",
+    "manchete": "Minerva “sacrifica” caixa no trimestre em estratégia para formar estoques e ganhar mais no fim do ano",
+    "url": "https://agfeed.com.br/negocios/minerva-sacrifica-caixa-no-trimestre-em-estrategia-para-formar-estoques-e-ganhar-mais-no-fim-do-ano",
+    "resumo": "Minerva amplia estoques, sacrifica caixa e aposta em margens melhores no 2º semestre com foco em China e Estados Unidos",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.957Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1069cf6050c7075",
+    "manchete": "Fortgreen enxerga primeiro R$ 1 bilhão em meio ao aperto do crédito no agro",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/fortgreen-enxerga-primeiro-r-1-bilhao-em-meio-ao-aperto-do-credito-no-agro",
+    "resumo": "Controlada pela irlandesa Origin Enterprises, Fortgreen espera crescer cerca de 10% na safra 2026/2027, enquanto mantém foco em rentabilidade",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.956Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "251711647057fe00",
+    "manchete": "Com produtividade recorde, SLC impulsiona lucro e projeta 2026/2027 ainda melhor",
+    "url": "https://agfeed.com.br/negocios/com-produtividade-recorde-slc-impulsiona-lucro-e-projeta-2026-2027-ainda-melhor",
+    "resumo": "SLC Agrícola eleva lucro com produtividade recorde em soja e algodão e projeta margens ainda melhores na safra 2026/2027",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.956Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d82e6ee0d909829f",
+    "manchete": "National Beef mantém margem positiva em meio à crise do gado nos EUA Desempenho ganha importância em um mercado marcado pela menor oferta de gado e consequente pressão sobre as margens dos frigoríficos americanos",
+    "url": "https://www.cnnbrasil.com.br/agro/national-beef-mantem-margem-positiva-em-meio-a-crise-do-gado-nos-eua/",
+    "resumo": "Desempenho ganha importância em um mercado marcado pela menor oferta de gado e consequente pressão sobre as margens dos frigoríficos americanos",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.955Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fdb1c5e33d421898",
+    "manchete": "Como o Itaú vai irrigar o agro com um \"MegaFiagro\" de quase R$ 5 bilhões",
+    "url": "https://agfeed.com.br/financas/como-o-itau-vai-irrigar-o-agro-com-um-megafiagro-de-quase-r-5-bilhoes",
+    "resumo": "Replicando estratégia já utilizada em fundos de infraestrutura, Itaú vai encarteirar Fiagro com ativos originados no seu próprio ecossistema",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.955Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e9140f561dfb2f72",
+    "manchete": "O que os presidenciáveis propõem para o agro? Conheça as propostas Produção de fertilizantes, infraestrutura e tecnologia para o agro são alguns dos temas nas propostas dos presidenciáveis",
+    "url": "https://www.cnnbrasil.com.br/agro/o-que-os-presidenciaveis-propoem-para-o-agro-conheca-as-propostas/",
+    "resumo": "Produção de fertilizantes, infraestrutura e tecnologia para o agro são alguns dos temas nas propostas dos presidenciáveis",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.954Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "53bef7f54465195c",
+    "manchete": "\"Na conta do produtor e do distribuidor, o fertilizante ainda é o grande gargalo\" \"Na conta do produtor e do distribuidor, o fertilizante ainda é o grande gargalo\"",
+    "url": "https://agfeed.com.br/videos/speedcast/andav-2026/na-conta-do-produtor-e-do-distribuidor-o-fertilizante-ainda-e-o-grande-gargalo",
+    "resumo": "Diretor comercial da AgriConnection, Evaldo Carvalho, analisa a montanha russa dos preços dos insumos agrícolas",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.950Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d71e211f73537540",
+    "manchete": "Come-se menos no mundo. Alguém no agro já fez essa conta? Come-se menos no mundo. Alguém no agro já fez essa conta?",
+    "url": "https://agfeed.com.br/campo-das-ideias/agroambiental/come-se-menos-no-mundo-alguem-no-agro-ja-fez-essa-conta",
+    "resumo": "Diante de tantas transformações ocorrendo no mundo, a cadeia do algodão nacional já fez o que o resto do agro vai ter de fazer",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.950Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b92ad0714623f50d",
+    "manchete": "Ponte entre a pesquisa e o mercado, Fundepag amplia atuação para além do agro",
+    "url": "https://agfeed.com.br/negocios/ponte-entre-a-pesquisa-e-o-mercado-fundepag-amplia-atuacao-para-alem-do-agro",
+    "resumo": "Com atuação em mais de 15 instituições de pesquisa, fundação de apoio à pesquisa do agro amplia projetos para áreas como meio ambiente e clima",
+    "fonte": "AgFeed",
+    "data": "2026-08-21T21:36:30.949Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0be4a3e7c1f1cf43",
+    "manchete": "Samsung abre o cofre e devolve até US$ 80 bilhões aos acionistas em meio ao boom de IA",
+    "url": "https://neofeed.com.br/negocios/samsung-abre-o-cofre-e-devolve-ate-us-80-bilhoes-aos-acionistas-em-meio-ao-boom-de-ia/",
+    "resumo": "Anúncio de distribuição, que será feita por meio de dividendos e recompra de ações, é o maior já anunciado pela empresa sul-coreana",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.564Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "043edfb485062cc9",
+    "manchete": "EXCLUSIVO: Turbi negocia aporte e tem duas propostas na mesa para captar até R$ 300 milhões",
+    "url": "https://neofeed.com.br/negocios/exclusivo-turbi-negocia-aporte-e-tem-duas-propostas-na-mesa-para-captar-ate-r-300-milhoes/",
+    "resumo": "A plataforma de locação de veículos e venda de seminovos estava próxima de fechar uma rodada com um fundo global. Mas, nas últimas semanas, um grupo de investidores na China também entrou nesse páreo",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.564Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb0e644dfdc0a23d",
+    "manchete": "O discreto investidor que fez carreira na Petrobras, está em 4 conselhos e tem mais de R$ 100 mi na bolsa",
+    "url": "https://neofeed.com.br/negocios/o-discreto-investidor-que-fez-carreira-na-petrobras-esta-em-4-conselhos-e-tem-mais-de-r-100-mi-na-bolsa/",
+    "resumo": "Conheça a história de Francisco Aguiar, que montou uma fortuna silenciosa combinando engenharia financeira e ativismo em conselhos",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.563Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f59fce71394c2c6",
+    "manchete": "O plano de fuga de Ray Dalio contra a crise da dívida nos Estados Unidos",
+    "url": "https://neofeed.com.br/economia/o-plano-de-fuga-de-ray-dalio-contra-a-crise-da-divida-nos-estados-unidos/",
+    "resumo": "Fundador da Bridgewater orienta o mercado a reduzir a exposição em renda fixa e buscar proteção no ouro e no bitcoin",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.563Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c58625abe11d59e7",
+    "manchete": "Nova York desbanca o Vale do Silício e se torna a “capital” dos talentos de tecnologia",
+    "url": "https://neofeed.com.br/inovacao/nova-york-desbanca-o-vale-do-silicio-e-se-torna-a-capital-dos-talentos-de-tecnologia/",
+    "resumo": "Estudo do CBRE Group mostra que a Big Apple superou São Francisco pela primeira vez em 13 anos como maior polo de profissionais do setor, impulsionada por contratações em Wall Street e pelo avanço da inteligência artificial",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.563Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "edf3aa9685f3a1ef",
+    "manchete": "Com voos mais caros, aéreas brasileiras driblam a turbulência do petróleo (mas não a da rentabilidade)",
+    "url": "https://neofeed.com.br/negocios/com-voos-mais-caros-aereas-brasileiras-driblam-a-turbulencia-do-petroleo-mas-nao-a-da-rentabilidade/",
+    "resumo": "Balanços de Azul, Latam e Abra, controlador de Gol e Avianca, mostram que receitas foram sustentadas por reajustes de preços no segundo trimestre",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.562Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "da71d22cfdeaa86c",
+    "manchete": "Estrangeiro foge da Bolsa e agrava crise por juro alto e quebradeira de empresas",
+    "url": "https://neofeed.com.br/experts/estrangeiro-foge-da-bolsa-e-agrava-crise-por-juro-alto-e-quebradeira-de-empresas/",
+    "resumo": "Com a perda de R$ 53,7 bilhões na B3, a saída de dólares encerra o charme do “Brasil barato” e deixa o varejo sufocado por juros nas alturas",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.562Z",
+    "tags_tema": [
+      "Economia Real",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "316487b02a9c22fb",
+    "manchete": "Os EUA \"descobrem\" o déficit fiscal e a dívida pública elevada: bem-vindos ao Brasil",
+    "url": "https://neofeed.com.br/economia/os-eua-descobrem-o-deficit-fiscal-e-a-divida-publica-elevada-bem-vindos-ao-brasil/",
+    "resumo": "Economistas e agentes do mercado financeiro dos EUA se espantam com a escalada da dívida, o salto dos juros e a necessidade de conter gastos",
+    "fonte": "NeoFeed",
+    "data": "2026-08-21T21:36:24.561Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e5bbc3a800c5e8b1",
+    "manchete": "TRXF11 compra 70% de parque logístico da LOG (LOGG3) por R$ 210 milhões; veja detalhes",
+    "url": "https://www.moneytimes.com.br/trxf11-compra-70-de-parque-logistico-da-log-logg3-por-r-210-milhoes-pads/",
+    "resumo": "A Log Commercial (LOGG3) aprovou a venda de uma participação de 70% no parque logístico LOG Recife II para o TRX Real Estate Fundo de Investimento Imobiliário (TRXF11) por R$ 210 milhões, segundo ata de reunião do conselho de administração. A operação envolve o empreendimento localizado em Jaboatão dos Guararapes…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:33:05.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5d624da91a46c52f",
+    "manchete": "Casas Bahia (BHIA3): Ministro nega haver crise no varejo e culpa juros altos e e-commerce por dificuldades",
+    "url": "https://www.moneytimes.com.br/durigan-crescimento-das-vendas-no-varejo-acompanhou-o-crescimento-do-pib-brasileiro/",
+    "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que não há que se falar em uma crise no setor varejista brasileiro e frisou que as dificuldades passam pelo nível da taxa de juros no País. Ele destacou que o crescimento das vendas no varejo acompanhou o crescimento do PIB e lembrou que as vendas do setor [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:26:45.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "84507ebf1e9279fb",
+    "manchete": "Suprema Corte libera Trump para manter obra de salão bilionário na Casa Branca",
+    "url": "https://www.infomoney.com.br/mundo/suprema-corte-libera-trump-para-manter-obra-de-salao-bilionario-na-casa-branca/",
+    "resumo": "Presidente da Corte, John Roberts, suspendeu decisão que obrigaria a paralisação do projeto, contestado por avançar sem autorização explícita do Congresso",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T21:22:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1008328d893d3a6d",
+    "manchete": "Juros futuros perdem força na contramão dos Treasuries",
+    "url": "https://www.moneytimes.com.br/juros-futuros-perdem-forca-na-contramao-dos-treasuries/",
+    "resumo": "A curva de juros futuros recuou em todos os vencimentos nesta sexta-feira (21), destoando do movimento observado nos títulos do Tesouro norte-americano, os Treasuries, que seguiram na trajetória ascendente. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo, encerrou a…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:17:59.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b379496ba15a7ed9",
+    "manchete": "O que Lula e Trump conversaram, o que ficou de fora e qual estratégia do governo",
+    "url": "https://www.moneytimes.com.br/o-que-lula-e-trump-conversaram-o-que-ficou-de-fora-e-qual-estrategia-do-governo/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva telefonou para o presidente dos Estados Unidos, Donald Trump, nesta sexta-feira, 21, como parte de uma estratégia do governo brasileiro que pode neutralizar adversários na administração americana. Lula buscou assuntos de convergência, fez elogios às interações prévias entre eles,…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:13:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e75c688b3ca9bca9",
+    "manchete": "PECs da escala 6&#215;1 e da Segurança são despachadas para CCJ do Senado e têm relatores definidos",
+    "url": "https://www.moneytimes.com.br/pec-da-escala-6x1-e-pec-da-seguranca-sao-oficialmente-despachadas-para-ccj-do-senado-gaep/",
+    "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), despachou oficialmente para a Comissão de Constituição e Justiça (CCJ) a Proposta de Emenda à Constituição (PEC) que dá fim à escala 6&#215;1 de trabalho e a PEC que amplia poderes da União na segurança pública. O andamento da tramitação foi confirmado pelo portal do…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:12:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "83d4b32ee342d8a0",
+    "manchete": "Durigan diz que governo não discute desvincular reajuste de aposentadorias da regra do mínimo",
+    "url": "https://www.moneytimes.com.br/durigan-diz-que-governo-nao-discute-desvincular-reajuste-de-aposentadorias-da-regra-do-minimo/",
+    "resumo": "O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira que o governo não está tratando da possibilidade de desvincular aposentadorias e benefícios do INSS da regra do reajuste do salário mínimo. Em entrevista à GloboNews, ele afirmou que mantém reuniões constantes com economistas de diferentes campos de…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:01:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3dd7d0e3cb673b4e",
+    "manchete": "Moraes autoriza que Jair Bolsonaro volte a receber visitas de Jair Renan e Carlos Bolsonaro",
+    "url": "https://www.moneytimes.com.br/moraes-autoriza-que-jair-bolsonaro-volte-a-receber-visitas-de-jair-renan-e-carlos-bolsonaro-gaep/",
+    "resumo": "O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, autorizou, nesta sexta-feira (21) a retomada das visitas de Jair Renan (PL) e Carlos Bolsonaro (PL) ao ex-presidente Jair Bolsonaro. O direito havia sido previamente suspenso no dia 17 de agosto por causa do descumprimento de medida cautelar imposta…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:01:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6758e2896605f3ce",
+    "manchete": "Bolsas de NY fecham em alta e reduzem perdas da semana ditada pelos Treasuries",
+    "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-e-reduzem-perdas-da-semana-ditada-pelos-treasuries/",
+    "resumo": "Na semana, o Dow Jones caiu 1,97%, o S&#038;P 500 perdeu 0,64% e o Nasdaq cedeu 0,69%",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T21:01:19.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6a1bb80a9af472f5",
+    "manchete": "Ibovespa sobe 1,85%, apoiado por bancos; na semana, alta é de 2,45%",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-abertura-fechamento-21082026/",
+    "resumo": "A performance na bolsa paulista encontrava respaldo no viés positivo em Wall Street, onde o S&#038;P 500 subia 0,32%",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T21:00:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "41fbfa844ea17a34",
+    "manchete": "Açúcar volta a se aproximar das máximas de mais de um ano",
+    "url": "https://www.moneytimes.com.br/acucar-volta-a-se-aproximar-das-maximas-de-mais-de-um-ano-pads/",
+    "resumo": "Os contratos futuros de açúcar na ICE voltaram a se aproximar, nesta sexta-feira (21), das máximas de mais de um ano registradas na sessão anterior, à medida que os investidores continuavam a precificar a notícia de que a Índia, segunda maior produtora, permitirá importações de açúcar isentas de impostos. O açúcar…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:00:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a2a76502848c1430",
+    "manchete": "Semana de arrancada para o agro na Bolsa: 6 ações sobem mais de 15%; veja os destaques",
+    "url": "https://www.moneytimes.com.br/semana-de-arrancada-para-o-agro-na-bolsa-6-acoes-sobem-mais-de-15-veja-os-destaques-pads/",
+    "resumo": "As ações ligadas ao agronegócio tiveram uma semana de fortes movimentos na Bolsa brasileira, com seis dos 11 papéis acompanhados pelo Agro Times acumulando valorização superior a 15%. O grande destaque ficou com a São Martinho (SMTO3), que avançou 24,64% na semana. Na sequência aparecem MBRF (MBRF3), com alta de…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T20:58:06.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9744ed36e6b4c942",
+    "manchete": "ANS suspede bloqueio de reajustes e cancelamentos de contratos pela Hapvida",
+    "url": "https://www.infomoney.com.br/business/ans-suspede-bloqueio-de-reajustes-e-cancelamentos-de-contratos-pela-hapvida/",
+    "resumo": "ANS suspede bloqueio de reajustes e cancelamentos de contratos pela Hapvida",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T20:56:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b9a437015f53cd4c",
+    "manchete": "Dividendos: Allos (ALOS3) atualiza valor para setembro após mudança de ações em tesouraria",
+    "url": "https://www.moneytimes.com.br/dividendos-allos-alos3-atualiza-valor-para-setembro-apos-mudanca-de-acoes-em-tesouraria/",
+    "resumo": "A Allos (ALOS3) confirmou nesta sexta-feira (21) o valor final dos dividendos intermediários que serão pagos aos acionistas em setembro. O provento será de R$ 0,291917618 bruto por ação, com pagamento previsto para 2 de setembro de 2026. O valor foi atualizado após uma mudança na quantidade de ações da companhia…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T20:51:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6816be2eec887dff",
+    "manchete": "Ibovespa fecha com forte alta, com exterior, Lula e Trump; dólar cai a R$ 5,14",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-21082026/",
+    "resumo": "Índices nos EUA terminaram positivos, mas semana fecha no vermelho",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T20:35:25.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3a64eec0a54ca5c0",
+    "manchete": "Petrobras inicia negociações para quatro blocos marítimos na Bacia de Keta, em Gana",
+    "url": "https://www.infomoney.com.br/business/petrobras-inicia-negociacoes-para-quatro-blocos-maritimos-na-bacia-de-keta-em-gana/",
+    "resumo": "Empresa planeja fazer do continente africano sua principal região de exploração fora do Brasil",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T20:27:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4b9114a56891877e",
+    "manchete": "Dólar hoje cai 1%, a R$ 5,14, com ajuda do exterior e eleições",
+    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21082026/",
+    "resumo": "Na semana, o dólar acumulou 1,53% de queda contra o real",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T20:19:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1b867f12999de13f",
+    "manchete": "Taxas dos DIs descolam do exterior e fecham em queda com eleições no radar",
+    "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-descolam-do-exterior-e-fecham-em-queda-com-eleicoes-no-radar/",
+    "resumo": "Perspectiva de uma disputa presidencial mais acirrada entre os principais candidatos é bem-vista pelo mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T20:14:53.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "09a18068b21e0bf5",
+    "manchete": "Petróleo sobe com ameaça de Trump de impor sanções aos parceiros do Irã",
+    "url": "https://www.infomoney.com.br/mercados/petroleo-sobe-com-ameaca-de-trump-de-impor-sancoes-aos-parceiros-do-ira/",
+    "resumo": "Brent registrou alta de 6,39%, enquanto ⁠o ‌WTI subiu 5,66% nesta semana",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T20:05:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f973ff2157ca685",
+    "manchete": "Lula chama Motta e Alcolumbre para reunião sobre votação da MP da taxa das blusinhas",
+    "url": "https://www.infomoney.com.br/politica/lula-chama-motta-e-alcolumbre-para-reuniao-sobre-votacao-da-mp-da-taxa-das-blusinhas/",
+    "resumo": "Texto que acabou com cobrança de 20% sobre compras internacionais perde validade no dia 8 de setembro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-21T19:37:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1d4b3d7fec22d7d5",
+    "manchete": "Mais uma: fabricante de pás eólicas Aeris pede cautelar contra credores",
+    "url": "https://braziljournal.com/mais-uma-fabricante-de-pas-eolicas-aeris-pede-cautelar-contra-credores/",
+    "resumo": "A fabricante de pás de energia eólica Aeris entrou com uma medida cautelar pedindo proteção contra execuções de dívidas, ao mesmo tempo em que iniciou discussões com credores para tentar uma nova reestruturação de seus passivos. A companhia controlada pela família Negrão, dona do Laboratório Medley, tinha um…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-21T19:18:18.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3a9562b72a193def",
+    "manchete": "Emergentes recebem fluxo pela 6ª semana — mas o Brasil ficou fora",
+    "url": "https://braziljournal.com/emergentes-recebem-fluxo-pela-6a-semana-mas-o-brasil-ficou-fora/",
+    "resumo": "Em contraste com o que se vê na bolsa brasileira, os mercados de ações de países emergentes receberam investimentos estrangeiros pela sexta semana seguida. A captação líquida dos fundos de ações de emergentes foi de US$ 1,2 bilhão entre 13 e 19 de agosto, segundo um relatório do JP Morgan que saiu hoje. Em quatro…",
+    "fonte": "Brazil Journal",
+    "data": "2026-08-21T19:13:12.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e22705c9f1713588",
+    "manchete": "O que empresas maduras podem aprender com startups",
+    "url": "https://startupi.com.br/o-que-empresas-maduras-podem-aprender-com-startups/",
+    "resumo": "Startupi O que empresas maduras podem aprender com startups * Por Luciane Calabria Conhecidas pelo caráter inovador e pela capacidade de corrigir rapidamente a rota e assumir riscos, as startups têm muito a ensinar às empresas maduras que buscam diferenciação e originalidade. Em momentos de mudanças tecnológicas…",
+    "fonte": "Startupi",
+    "data": "2026-08-21T12:15:37.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4f5e2e995df075f7",
+    "manchete": "Prime Video anuncia planos de investir mais de US$ 2 bilhões na América Latina",
+    "url": "https://startupi.com.br/prime-video-anuncia-planos-de-investir-mais-de-us-2-bilhoes-na-america-latina/",
+    "resumo": "Startupi Prime Video anuncia planos de investir mais de US$ 2 bilhões na América Latina O Prime Video acaba de anunciar planos de investir mais de US$ 2 bilhões na América Latina entre 2027 e 2030, um investimento inédito para produções originais locais, aquisição de conteúdo produzido localmente e direitos de…",
+    "fonte": "Startupi",
+    "data": "2026-08-21T12:03:31.000Z",
+    "tags_tema": [
+      "M&A",
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bdcf3e963d186d18",
+    "manchete": "Os desafios de infraestrutura para sustentar a revolução da IA",
+    "url": "https://startupi.com.br/os-desafios-de-infraestrutura-para-sustentar-a-revolucao-da-ia/",
+    "resumo": "Startupi Os desafios de infraestrutura para sustentar a revolução da IA * Por Flávio Guimarães Muito se fala sobre inteligência artificial como uma revolução de software e dados, mas menos se fala sobre o que torna tudo isso possível na prática: a infraestrutura física que conecta, transporta e processa os dados em…",
+    "fonte": "Startupi",
+    "data": "2026-08-21T11:55:34.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "7e75a205fd862854",
     "manchete": "Agroindústria vira protagonista, mas não evita piora de números da Kepler Weber",
     "url": "https://agfeed.com.br/negocios/agroindustria-vira-protagonista-mas-nao-evita-piora-de-numeros-da-kepler-weber",
@@ -6151,104 +6680,6 @@
     "importancia": 3
   },
   {
-    "id": "c26c6ab1bb0fb43a",
-    "manchete": "Ihara vê vendas estáveis, mas carteira futura menor em safra marcada por cautela e compras \"picadas\"",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/grand-slam-do-agro-coopercitrus-expo/ihara-ve-vendas-estaveis-mas-carteira-futura-menor-em-safra-marcada-por-cautela-e-compras-picadas",
-    "resumo": "Companhia afirma que produtores seguem investindo em tecnologia, mas adiam decisões, fracionam compras e reduzem a exposição ao crédito",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.647Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ee701c57eb38108a",
-    "manchete": "Análise: STF valida Moratória da Soja, mas mantém punições Por seis votos a três, ministros declararam o acordo constitucional, mas permitiram que estados retirem benefícios fiscais das empresas participantes",
-    "url": "https://www.cnnbrasil.com.br/agro/analise-stf-valida-moratoria-da-soja-mas-mantem-punicoes/",
-    "resumo": "Por seis votos a três, ministros declararam o acordo constitucional, mas permitiram que estados retirem benefícios fiscais das empresas participantes",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.645Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2187e172afc3904b",
-    "manchete": "Raízen Energia pede conversão de registro na CVM em meio à reestruturação Por seis votos a três, ministros declararam o acordo constitucional, mas permitiram que estados retirem benefícios fiscais das empresas participantes",
-    "url": "https://www.cnnbrasil.com.br/agro/raizen-energia-pede-conversao-de-registro-na-cvm-em-meio-a-reestruturacao/",
-    "resumo": "Por seis votos a três, ministros declararam o acordo constitucional, mas permitiram que estados retirem benefícios fiscais das empresas participantes",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.645Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "27b9824c38677f64",
-    "manchete": "O ritmo mais lento da distribuição de insumos",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-ritmo-mais-lento-da-distribuicao-de-insumos",
-    "resumo": "Pesquisa divulgada pela Andav mostra crescimento tímido do setor e entidade projeta ainda menos velocidade este ano",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.643Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e24f1768e70445ee",
-    "manchete": "O \"sacrifício\" estratégico da Minerva",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-sacrificio-estrategico-da-minerva",
-    "resumo": "Companhia privilegiou formação de estoques para ganhar mais no fim do ano e viu lucro cair no segundo semestre",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.643Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0b291d792f41d7ae",
-    "manchete": "Setor de distribuição de insumos fatura mais, mas ritmo desacelera, mostra levantamento",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/setor-de-distribuicao-de-insumos-fatura-mais-mas-ritmo-desacelera-mostra-levantamento",
-    "resumo": "Pesquisa da Andav mostra desaceleração no faturamento dos distribuidores em 2025, enquanto o setor projeta crescimento mais moderado",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.641Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "55f18fa12ba01e5d",
-    "manchete": "Rumo consegue impulsionar volume transportado e coloca lucratividade nos trilhos Rumo consegue impulsionar volume transportado e coloca lucratividade nos trilhos",
-    "url": "https://agfeed.com.br/negocios/rumo-consegue-impulsionar-volume-transportado-e-coloca-lucratividade-nos-trilhos",
-    "resumo": "Rumo amplia transporte de cargas, sustenta lucro no 2º trimestre e reforça foco em geração de caixa para impulsionar crescimento",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.641Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cae0d85fa47c285f",
-    "manchete": "\"Nós queremos ser a melhor companhia em resultado. Ser a maior pode ser uma consequência\" \"Nós queremos ser a melhor companhia em resultado. Ser a maior pode ser uma consequência\"",
-    "url": "https://agfeed.com.br/videos/speedcast/andav-2026/nos-queremos-ser-a-melhor-companhia-em-resultado-ser-a-maior-pode-ser-uma-consequencia",
-    "resumo": "Flavio Mata, CEO da AgriConnection, fala em entrevista ao SpeedCast Andav 2026 sobre as transformações do setor de distribuição de insumos",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T22:00:10.641Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "7967d37f2425d408",
     "manchete": "O megateste do boom da IA: Anthropic mira valuation de US$ 2 trilhões em IPO que pode superar o da SpaceX",
     "url": "https://neofeed.com.br/inovacao/o-megateste-do-boom-da-ia-anthropic-mira-valuation-de-us-2-trilhoes-em-ipo-que-pode-superar-o-da-spacex/",
@@ -6641,18 +7072,6 @@
       "M&A",
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "17add76fda04c2b9",
-    "manchete": "Área tratada cresce menos nas lavouras",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/area-tratada-cresce-menos-nas-lavouras",
-    "resumo": "Dados do Sindiveg mostram que há 5% mais áreas tratadas com defensivos, mas ritmo do avanço é mais lento que no ano passado",
-    "fonte": "AgFeed",
-    "data": "2026-08-13T11:12:05.475Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9730,417 +10149,6 @@
     "resumo": "Chamada de Bordeaux da China, a província chinesa Ningxia transformou terras degradadas em uma região vinícola reconhecida internacionalmente",
     "fonte": "NeoFeed",
     "data": "2026-08-08T21:43:53.342Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2d7eb9da3b6cfbd8",
-    "manchete": "Novelas em ritmo do TikTok: microdramas, microtransações e um possível macroproblema?",
-    "url": "https://neofeed.com.br/finde/novelas-em-ritmo-do-tiktok-microdramas-microtransacoes-e-um-possivel-macroproblema/",
-    "resumo": "Pesquisa da Mintech mostra que as novelas verticais já estão entre os aplicativos mais baixados do Brasil. Por trás das \"novelinhas\", um mercado bilionário monetiza a curiosidade e acende o alerta para o risco da dependência",
-    "fonte": "NeoFeed",
-    "data": "2026-08-08T21:43:53.341Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "03f51a49d9ce2040",
-    "manchete": "Ataque com explosivos é registrado um dia após a posse do novo presidente da Colômbia",
-    "url": "https://www.infomoney.com.br/mundo/ataque-com-explosivos-e-registrado-um-dia-apos-a-posse-do-novo-presidente-da-colombia/",
-    "resumo": "A informação foi divulgada pelo exército colombiano neste sábado, 8",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T21:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "62f348b3b6d428a3",
-    "manchete": "Irã: Estreito de Ormuz não será aberto até que os EUA 'corrijam' seu comportamento",
-    "url": "https://www.infomoney.com.br/mundo/ira-estreito-de-ormuz-nao-sera-aberto-ate-que-os-eua-corrijam-seu-comportamento/",
-    "resumo": "A emissora estatal do Irã publicou a declaração do secretário do conselho, Mohammad Bagher Zolghadr, que também é comandante da Guarda Revolucionária",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T20:45:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "35fbf4475d650a47",
-    "manchete": "João Fonseca x Ben Shelton: onde assistir o Masters de Montreal?",
-    "url": "https://www.infomoney.com.br/esportes/joao-fonseca-x-ben-shelton-onde-assistir-o-masters-de-montreal/",
-    "resumo": "O jogo será a segunda vez que Fonseca e Shelton se enfrentarão. No primeiro jogo, o americano levou a melhor",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T20:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6c2a40b47e2b6db3",
-    "manchete": "Quatro morrem em queda de helicóptero na Vista Chinesa, no Rio",
-    "url": "https://www.infomoney.com.br/brasil/quatro-morrem-em-queda-de-helicoptero-na-vista-chinesa-no-rio/",
-    "resumo": "Entre as vítimas está um piloto com 20 anos de experiência; três passageiras seriam turistas colombianas que visitavam a cidade",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T20:08:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "aa99148ffa1fe4e5",
-    "manchete": "45 anos de Federer: o hábito alimentar que ele repetiu por 20 anos",
-    "url": "https://www.infomoney.com.br/esportes/45-anos-de-federer-o-habito-alimentar-que-ele-repetiu-por-20-anos/",
-    "resumo": "Referência na modalidade, o tenista nascido na Basileia chegou no topo sendo muito disciplinado e sua alimentação não foge disso",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T20:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4fa63b63a0dd4a90",
-    "manchete": "Turquia sugere que Rússia e Ucrânia suspendam ataques no Mar Negro, diz ministro",
-    "url": "https://www.infomoney.com.br/mercados/turquia-sugere-que-russia-e-ucrania-suspendam-ataques-no-mar-negro-diz-ministro/",
-    "resumo": "Para ministro, pacto de defesa entre Turquia, Paquistão e Arábia Saudita é tecnicamente igual a artigo da Otan",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T19:51:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "beaafa6e9407e2a2",
-    "manchete": "Fed quer estimular inovação nos bancos, mas alerta para riscos da IA",
-    "url": "https://www.infomoney.com.br/mercados/fed-quer-estimular-inovacao-nos-bancos-mas-alerta-para-riscos-da-ia/",
-    "resumo": "Michelle Bowman afirma que novas tecnologias podem ajudar bancos comunitários, mas exigem controles contra fraudes e outras vulnerabilidades",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T19:34:19.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bff7dd1e0312d4e4",
-    "manchete": "Lula admite baixa adesão ao Move Brasil e critica bancos por travas no crédito",
-    "url": "https://www.infomoney.com.br/politica/lula-admite-baixa-adesao-ao-move-brasil-e-critica-bancos-por-travas-no-credito/",
-    "resumo": "Presidente diz que exigências para liberação de crédito dificultam financiamento de veículos a motoristas e entregadores de aplicativo",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T19:13:23.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7a938e3b7db480d8",
-    "manchete": "Netflix e caiaques bancados pelo plano de saúde? Entenda a polêmica nos EUA",
-    "url": "https://www.infomoney.com.br/business/netflix-e-caiaques-bancados-pelo-plano-de-saude-entenda-a-polemica-nos-eua/",
-    "resumo": "Medicare Advantage, modalidade de plano vendida por seguradoras privadas, vem causando controvérsias nos EUA",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T19:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c0be32bef4ca26a1",
-    "manchete": "Lula declara R$ 4,7 milhões em patrimônio ao TSE, valor 35% menor em relação a 2022",
-    "url": "https://www.infomoney.com.br/politica/lula-declara-r-47-milhoes-em-patrimonio-ao-tse-valor-35-menor-em-relacao-a-2022/",
-    "resumo": "Maior parte do patrimônio declarado por Lula em 2026 está concentrada em planos de previdência privada, que somam R$ 3,3 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T18:47:58.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8e052720b561c754",
-    "manchete": "OPINIÃO. Quem manda na economia?",
-    "url": "https://braziljournal.com/opiniao-quem-manda-na-economia/",
-    "resumo": "No dia 14 de julho, o Senado aprovou por 73 a 1 uma PEC que cria uma aposentadoria especial para agentes comunitários de saúde – R$ 27 bilhões em dez anos – sem indicar de onde sai o dinheiro. A Fazenda passou meses implorando para que a matéria não fosse pautada e ameaçou ir ao [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-08T15:49:54.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5a914f79efeb820d",
-    "manchete": "Depois de perder a cabeça por seis horas— by Pedro Vinicio",
-    "url": "https://braziljournal.com/depois-de-perder-a-cabeca-por-seis-horas-by-pedro-vinicio/",
-    "resumo": "Ver o último.",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-08T15:00:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "88955cef41383c27",
-    "manchete": "Dos R$ 17,4 bilhões em dividendos da Petrobras (PETR4) a calote em fundo imobiliário; confira as mais lidas da semana",
-    "url": "https://www.moneytimes.com.br/dos-r-174-bilhoes-em-dividendos-da-petrobras-petr4-a-calote-em-fundo-imobiliario-veja-as-mais-lidas-da-semana-igdl/",
-    "resumo": "Da mensalidade que Luciano Huck e Angélica vão pagar pela faculdade do filho à recuperação judicial de um grupo do agronegócio com 25 fazendas e R$ 53 milhões em dívidas, a semana reuniu histórias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam destaque a Petrobras…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T14:36:56.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f110f60263c41904",
-    "manchete": "Berkshire Hathaway, de Warren Buffett, dobra lucro no 2T26, a US$ 25,6 bilhões",
-    "url": "https://www.moneytimes.com.br/berkshire-hathaway-de-warren-buffett-dobra-lucro-no-2t26-a-us-256-bilhoes-igdl/",
-    "resumo": "A Berkshire Hathaway, holding de empresas e investimentos de Warren Buffett, registrou lucro líquido de US$ 25,667 bilhões no segundo trimestre de 2026 (2T26), praticamente dobrando o resultado de US$ 12,370 bilhões em igual período de 2025. No primeiro semestre do ano, o lucro bateu nos US$ 35,77 bilhões, com…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T13:48:51.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a2e4b4039da2d7cf",
-    "manchete": "Bitcoin (BTC) fica perto de US$ 65 mil após payroll; veja cotação das principais criptomoedas neste sábado (8)",
-    "url": "https://www.moneytimes.com.br/bitcoin-btc-fica-perto-de-us-65-mil-apos-payroll-veja-cotacao-das-principais-criptomoedas-neste-sabado-8-igdl/",
-    "resumo": "O bitcoin (BTC) é negociado na faixa dos US$ 64,9 mil neste sábado (8), com leve queda de 0,1% nas últimas 24 horas, segundo dados da plataforma Coingecko. No acumulado de sete dias, a maior criptomoeda do mundo registra ganhos de aproximadamente 3,1%, enquanto, em um mês, a valorização chega a cerca de 3,6%. De…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T13:31:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4155ff4097037f2b",
-    "manchete": "A gente ainda confunde chefe duro com líder forte",
-    "url": "https://www.moneytimes.com.br/a-gente-ainda-confunde-chefe-duro-com-lider-forte-ceci/",
-    "resumo": "Tem uma cena que se repete em toda mesa de bar de gente que trabalha em empresa: alguém conta, meio orgulhoso, meio traumatizado, do chefe que \"não passava a mão na cabeça de ninguém\". Fala isso como quem descreve um personagem de filme de guerra. E os outros da mesa concordam com a cabeça, como [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-08-08T13:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3c883a0428f698a3",
-    "manchete": "Olá, Eli Lilly (LILY34): Por que fabricante do Mounjaro é uma das novas recomendações da carteira de ações internacionais da Empiricus",
-    "url": "https://www.moneytimes.com.br/ola-eli-lilly-lily34-por-que-fabricante-do-mounjaro-e-uma-das-novas-recomendacoes-da-carteira-de-acoes-internacionais-da-empiricus-lbrdjm025/",
-    "resumo": "Além desta, analista apresenta outras 11 ações de diversos setores da economia para buscar as melhores oportunidades no mercado internacional",
-    "fonte": "Money Times",
-    "data": "2026-08-08T13:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "efe1771a450aa987",
-    "manchete": "Fundos imobiliários (FIIs) para agosto: Veja os 9 mais recomendados pelos analistas",
-    "url": "https://www.moneytimes.com.br/fiis-para-agosto-veja-os-9-mais-recomendados-pelos-analistas-igdl/",
-    "resumo": "Kinea Rendimentos (KNCR11), gerido pela Kinea Investimentos, é o fundo imobiliário (FII) mais indicado pelos analistas para agosto, mostrou um levantamento realizado pelo Money Times. De 11 carteiras recomendadas de bancos, corretoras e casas de análise acompanhadas pela reportagem, o veículo apareceu em sete, seguido…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T13:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "595615fb1c02da98",
-    "manchete": "Julho estanca fuga de estrangeiros do Brasil; o que pode jogar 'água no chope', segundo especialistas",
-    "url": "https://www.moneytimes.com.br/julho-estanca-fuga-de-estrangeiros-do-brasil-o-que-pode-jogar-agua-no-chope-segundo-especialistas-igdl/",
-    "resumo": "O mês de julho foi marcado pela interrupção de dois meses seguidos de saída substancial de capital estrangeiro da B3. A bolsa de valores brasileira fechou o mês passado com entrada de R$ 2,558 bilhões, elevando o saldo do ano para R$ 36,406 bilhões. O montante é ainda 81% superior ao de igual período do [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-08-08T12:57:34.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "251fec182f4c1de2",
-    "manchete": "OPA não sai: Atom (ATED3) desfaz venda de controle e Valorant fica com 34,5% da companhia",
-    "url": "https://www.moneytimes.com.br/opa-nao-sai-atom-ated3-desfaz-venda-de-controle-e-valorant-fica-com-345-da-companhia-igdl/",
-    "resumo": "A Atom Educação e Editora (ATED3) anunciou, por meio de fato relevante, que desfez a venda do seu controle para a Valorant Capital, após a compradora não cumprir o prazo legal para realizar a oferta pública de aquisição de ações (OPA). Segundo o comunicado divulgado ao mercado, a alienação para a Valorant havia sido…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T12:30:21.000Z",
-    "tags_tema": [
-      "M&A",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1653bec554c950a6",
-    "manchete": "Eleições 2026: Entenda o cálculo que fixa de 8 a 70 o tamanho da bancada na Câmara e qual a diferença para o Senado",
-    "url": "https://www.moneytimes.com.br/eleicoes-2026-entenda-o-calculo-que-fixa-de-8-a-70-o-tamanho-da-bancada-na-camara-e-qual-a-diferenca-para-o-senado-gaep/",
-    "resumo": "As urnas decidirão os que governarão o País a partir de 2027, mas a distribuição de forças no Poder Legislativo brasileiro segue um desenho matemático rigoroso estabelecido muito antes da apuração, em 4 de outubro, das eleições 2026. Regulada pela Constituição de 1988 e por uma legislação complementar, a divisão da…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T12:30:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e025455f06d8cb95",
-    "manchete": "‘Odisseia’ para investidores: o que os mitos gregos ensinam sobre as tempestades do mercado",
-    "url": "https://www.moneytimes.com.br/odisseia-para-investidores-mitos-gregos-ensinam-sobre-tempestades-mercado-rsgp/",
-    "resumo": "Toda jornada parece guardar algo de Odisseia. De tão importante, a história virou sinônimo de desafios, reviravoltas e superações — algo que, em certa medida, também se parece com a busca de prosperidade de todo investidor. A obra atribuída a Homero atravessou 3 mil anos narrando a trajetória de Ulisses entre…",
-    "fonte": "Money Times",
-    "data": "2026-08-08T12:26:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "47d77e273fe24ea6",
-    "manchete": "Smart Fit: Para CEO, o mercado puniu o Brasil e ignorou a força do ecossistema",
-    "url": "https://www.infomoney.com.br/business/smart-fit-para-ceo-o-mercado-puniu-o-brasil-e-ignorou-a-forca-do-ecossistema/",
-    "resumo": "Em entrevista ao InfoMoney, CEO defende que a diversificação geográfica e o sucesso do Total Pass provam que a tese de ecossistema é vencedora, apesar da volatilidade no segmento de academias local",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T10:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d53d48bd35f8829a",
-    "manchete": "Sem futurologia: projeções longas perdem espaço no mercado com avanço da tecnologia",
-    "url": "https://www.infomoney.com.br/onde-investir/sem-futurologia-projecoes-longas-perdem-espaco-no-mercado-com-avanco-da-tecnologia/",
-    "resumo": "Em episódio do Stock Pickers, gestor de investimentos critica modelos de 10 anos e defende focar no futuro visível para evitar erros na alocação de capital",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T10:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f5d53e3e9707ecde",
-    "manchete": "Canetas emagrecedoras ainda estão fora do SUS; queda de preços pode mudar o jogo?",
-    "url": "https://www.infomoney.com.br/minhas-financas/canetas-emagrecedoras-ainda-estao-fora-do-sus-queda-de-precos-pode-mudar-o-jogo/",
-    "resumo": "Decisão da Justiça reforça que medicamentos não incorporados ao rol de sistema público dificilmente são concedidos",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T10:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "50927cedb30c8f0f",
-    "manchete": "Todo mundo usa IA para buscar emprego. O diferencial agora é outro",
-    "url": "https://www.infomoney.com.br/carreira/como-usar-ia-para-procurar-emprego/",
-    "resumo": "Especialista explica seis formas de usar a tecnologia de maneira estratégica muito além de revisar o currículo.",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T10:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7e897fa1aa4ce0bc",
-    "manchete": "Por que os preços dos carros elétricos chineses são tão competitivos?",
-    "url": "https://www.infomoney.com.br/business/por-que-os-precos-dos-carros-eletricos-chineses-sao-mais-competitivos/",
-    "resumo": "Em 2026, até julho, foram emplacados 116.235 automóveis elétricos no Brasil, três vezes mais que os 37.509 carros vendidos nos mesmos sete meses do ano passado",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T10:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c921689abf07d924",
-    "manchete": "O 'fim do mundo' não terá explosões: como a Física prevê o colapso do Universo",
-    "url": "https://www.infomoney.com.br/mundo/o-fim-do-mundo-nao-tera-explosoes-como-a-fisica-preve-o-colapso-do-universo/",
-    "resumo": "Físico Brian Greene usou os 102 andares do Empire State para explicar a cronologia do colapso cósmico: estamos no 10º andar; no 38º, os prótons se desintegram; no 100º, até buracos negros viram \"sopa fria\"",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T09:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "107ae87d51f758c8",
-    "manchete": "Melhor investimento de renda fixa entrega 1,47% em julho; pior rende 0,85%",
-    "url": "https://www.infomoney.com.br/onde-investir/melhor-investimento-de-renda-fixa-entrega-147-em-julho-pior-rende-085/",
-    "resumo": "Para agosto, é melhorar procurar “ajuste fino” do que promover “mudança radical\", diz especialista",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T09:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fa9f488105d16db1",
-    "manchete": "BofA gasta US$ 250 mi por ano com GLP-1 para seus funcionários: \"Grande impacto\"",
-    "url": "https://www.infomoney.com.br/business/global/bofa-gasta-us-250-mi-por-ano-com-glp-1-para-seus-funcionarios-grande-impacto/",
-    "resumo": "CEO Brian Moynihan diz que investimento reduz problemas cardíacos e melhora qualidade de vida; valor faz parte de pacote anual de US$ 2 bi em saúde",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "51d179d5e18f5c10",
-    "manchete": "Veja os fundos imobiliários que rendem mais que a nova Selic de 14%",
-    "url": "https://www.infomoney.com.br/onde-investir/veja-os-fundos-imobiliarios-que-rendem-mais-que-a-nova-selic-de-14/",
-    "resumo": "Queda das cotas no início do mês tende a aumentar o retorno em dividendos para os investidores, que precisam analisar qualidade das carteiras e dos gestores",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T08:00:00.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "02e8a8a4e4120d7c",
-    "manchete": "EUA reduzem cota de açúcar do Brasil e condicionam reversão a acordo comercial",
-    "url": "https://www.infomoney.com.br/mercados/eua-reduzem-cota-de-acucar-do-brasil-e-condicionam-reversao-a-acordo-comercial/",
-    "resumo": "Corte retira 55,9 mil toneladas do limite com tarifa menor; Washington sinaliza que poderá devolver o espaço caso Brasília faça propostas aceitas pelo governo americano",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T02:10:18.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
