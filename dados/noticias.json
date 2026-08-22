@@ -1,5 +1,260 @@
 [
   {
+    "id": "0b291d792f41d7ae",
+    "manchete": "Setor de distribuição de insumos fatura mais, mas ritmo desacelera, mostra levantamento",
+    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/setor-de-distribuicao-de-insumos-fatura-mais-mas-ritmo-desacelera-mostra-levantamento",
+    "resumo": "Pesquisa da Andav mostra desaceleração no faturamento dos distribuidores em 2025, enquanto o setor projeta crescimento mais moderado",
+    "fonte": "AgFeed",
+    "data": "2026-08-22T10:42:37.417Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "55f18fa12ba01e5d",
+    "manchete": "Rumo consegue impulsionar volume transportado e coloca lucratividade nos trilhos",
+    "url": "https://agfeed.com.br/negocios/rumo-consegue-impulsionar-volume-transportado-e-coloca-lucratividade-nos-trilhos",
+    "resumo": "Rumo amplia transporte de cargas, sustenta lucro no 2º trimestre e reforça foco em geração de caixa para impulsionar crescimento",
+    "fonte": "AgFeed",
+    "data": "2026-08-22T10:42:37.417Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fbd0706a957f56ee",
+    "manchete": "Acelen liga os motores",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/acelen-liga-os-motores",
+    "resumo": "Companhia controlada pelo Mubadala avança no projeto de US$ 3 bi para produção de biocombustíveis a partir de macaúba na Bahia",
+    "fonte": "AgFeed",
+    "data": "2026-08-22T10:42:37.413Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bb7db0a9d43c8be3",
+    "manchete": "Grandes frigoríficos passam no teste do TAC da Carne",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/grandes-frigorificos-passam-no-teste-do-tac-da-carne",
+    "resumo": "Com índices de conformidade de até 100%, Minerva, MBRF, Frigol e JBS mostram avanços na produção na Amazônia",
+    "fonte": "AgFeed",
+    "data": "2026-08-22T10:42:37.412Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cae0d85fa47c285f",
+    "manchete": "\"Nós queremos ser a melhor companhia em resultado. Ser a maior pode ser uma consequência\"",
+    "url": "https://agfeed.com.br/videos/speedcast/andav-2026/nos-queremos-ser-a-melhor-companhia-em-resultado-ser-a-maior-pode-ser-uma-consequencia",
+    "resumo": "Flavio Mata, CEO da AgriConnection, fala em entrevista ao SpeedCast Andav 2026 sobre as transformações do setor de distribuição de insumos",
+    "fonte": "AgFeed",
+    "data": "2026-08-22T10:42:37.411Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "60e9db6dcc15b5f4",
+    "manchete": "Volatilidade dos FIIs, alívio no IPCA e arcabouço fiscal; veja destaques da semana",
+    "url": "https://www.infomoney.com.br/onde-investir/volatilidade-dos-fiis-alivio-no-ipca-e-arcabouco-fiscal-veja-destaques-da-semana/",
+    "resumo": "Finalização da temporada de balanços do 2T26 se mostra insatisfatória; cenário macroeconômico ainda é incerto, mesmo com alívio na inflação",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T10:38:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3cda63b6331946e4",
+    "manchete": "A Evertec acelerou em aquisições no Brasil nos últimos anos. Para onde crescer agora?",
+    "url": "https://www.infomoney.com.br/business/a-evertec-acelerou-em-aquisicoes-no-brasil-nos-ultimos-anos-para-onde-crescer-agora/",
+    "resumo": "Em três anos, empresa gastou R$ 4 bilhões na compra de novas companhias no país e viu país se tornar segundo maior mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T10:30:00.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0a2fb5751aa4ae2b",
+    "manchete": "Shein foi a grande aposta do fast fashion. Agora, luta para escrever novo capítulo",
+    "url": "https://www.infomoney.com.br/business/global/shein-foi-a-grande-aposta-do-fast-fashion-agora-luta-para-escrever-novo-capitulo/",
+    "resumo": "Sob pressão nos Estados Unidos e na Europa, a Shein enfrenta dificuldades para encontrar novas formas de crescer antes de sua tão adiada oferta pública inicial de ações (IPO)",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T08:00:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2615d675b2e90978",
+    "manchete": "Sentimento de empresários e investidores cai para patamar de pessimismo extremo",
+    "url": "https://www.infomoney.com.br/mercados/sentimento-de-empresarios-e-investidores-vai-ao-fundo-do-poco-aponta-xp/",
+    "resumo": "Conferência da XP no Rio reuniu 106 empresas e cerca de 500 investidores, e expôs preocupação generalizada com desaceleração da atividade, endividamento e avanço da inadimplência",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T08:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f05be8cdeb11445d",
+    "manchete": "Lotofácil da Independência: veja quanto prêmio de R$ 300 milhões pode render por mês",
+    "url": "https://www.infomoney.com.br/onde-investir/lotofacil-da-independencia-quanto-premio-pode-render-por-mes/",
+    "resumo": "Simulação com o prêmio estimado do concurso de 15 de setembro mostra diferença de quase R$ 870 mil mensais entre a melhor e a pior aplicação, mas alocar a bolada esbarra em limites do Tesouro Direto e do FGC",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b802787c901338c4",
+    "manchete": "Marçal pode “bagunçar” eleição, mas não ameaça Lula x Flávio, diz analista",
+    "url": "https://www.infomoney.com.br/politica/marcal-pode-baguncar-eleicao-mas-nao-ameaca-lula-x-flavio-diz-analista/",
+    "resumo": "Paulo Gama vê capacidade de mobilização e alcance digital no candidato, mas avalia que voto de oposição está mais consolidado em torno de Flávio Bolsonaro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "53b126e508d07a11",
+    "manchete": "Como é o modelo de Bukele de combate ao crime que inspira a direita no Brasil?",
+    "url": "https://www.infomoney.com.br/mundo/como-e-o-modelo-de-combate-ao-crime-de-bukele-que-inspira-a-direta-no-brasil/",
+    "resumo": "País da América Central está sob regime de exceção desde março de 2022, com policiamento ostensivo e tolerância zero com o crime; taxa de homicídios é uma das mais baixas do mundo, mas há críticas de violações de direitos",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "65def5e94774ec66",
+    "manchete": "A estratégia da NB Steak para atrair 20% mais clientes vendendo 'menos'",
+    "url": "https://www.infomoney.com.br/business/a-estrategia-da-nb-steak-para-atrair-20-mais-clientes-vendendo-menos/",
+    "resumo": "Rede criada por Arri Coser lança Menu Essencial, com porções menores e preço mais acessível, para acompanhar novos hábitos de consumo",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T08:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "01f4dfa2a71ae203",
+    "manchete": "Datafolha: 2º turno, Lula vence Caiado por 47% a 40%, Zema por 48% a 38%",
+    "url": "https://www.infomoney.com.br/politica/datafolha-2o-turno-lula-vence-caiado-por-47-a-40-zema-por-48-a-38/",
+    "resumo": "Lula também derrota Renan por 47% a 37% em um possível 2º turno",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T00:23:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e1c79aaf23ebaed0",
+    "manchete": "Lotofácil hoje, concurso 3768: Confira o resultado sorteado nesta sexta-feira (21)",
+    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3768-confira-o-resultado-sorteado-nesta-sexta-feira-21/",
+    "resumo": "O prêmio estimado para este concurso era de cerca de R$ 2 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-08-22T00:07:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "274e75b88b45e081",
+    "manchete": "Suzano (SUZB3) muda alto escalão após saída de três vice-presidentes; veja nova estrutura",
+    "url": "https://www.moneytimes.com.br/suzano-suzb3-muda-alto-escalao-apos-saida-de-tres-vice-presidentes-veja-nova-estrutura-pads/",
+    "resumo": "A Suzano (SUZB3) anunciou mudanças em seu alto escalão após a saída de três vice-presidentes e uma reorganização das atribuições de sua diretoria executiva. As alterações foram aprovadas pelo conselho de administração em reunião realizada em 12 de agosto, segundo ata divulgada pela companhia nesta sexta-feira (21).…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T22:20:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fb6ec1f2fbbc5c99",
+    "manchete": "Datafolha/RJ: No 1º turno, Paes lidera com 41%; Ruas tem 19% e Garotinho, 9%",
+    "url": "https://www.moneytimes.com.br/datafolha-rj-no-1o-turno-paes-lidera-com-41-ruas-tem-19-e-garotinho-9/",
+    "resumo": "O ex-prefeito do Rio de Janeiro Eduardo Paes (PSD) lidera a disputa pelo governo fluminense com 41% das intenções de voto, segundo pesquisa Datafolha divulgada nesta sexta-feira, 21. O presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), Douglas Ruas (PL), aparece em segundo lugar, com 19%, seguido pelo…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T22:18:10.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fbfe7473e7d5b414",
+    "manchete": "Eneva (ENEV3) antecipa até R$ 3 bilhões em recebíveis para financiar novos projetos",
+    "url": "https://www.moneytimes.com.br/eneva-enev3-antecipa-ate-r-3-bilhoes-em-recebiveis-para-financiar-novos-projetos-pads/",
+    "resumo": "A Eneva (ENEV3) concluiu, nesta sexta-feira (21), uma operação de cessão com antecipação de recebíveis de até R$ 3 bilhões referentes à receita fixa da Usina Termelétrica (UTE) Porto de Sergipe I. Segundo fato relevante divulgado pela companhia, a operação envolve uma parcela dos direitos creditórios dos Contratos de…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T22:07:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "11ebccaa0654d56b",
+    "manchete": "Lula e Flávio Bolsonaro empatam em pesquisa Datafolha",
+    "url": "https://www.moneytimes.com.br/pesquisa-datafolha-21-de-agosto-gaep/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) aparece com 47% das intenções de voto em um eventual segundo turno contra o senador Flávio Bolsonaro (PL-RJ), que registra 43%, segundo pesquisa Datafolha, em parceria com o Grupo Globo, divulgada nesta sexta-feira (21). Em relação ao levantamento anterior, divulgado em 24…",
+    "fonte": "Money Times",
+    "data": "2026-08-21T22:02:21.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e463759fdc0843ae",
+    "manchete": "Repaginada: Fictor Alimentos muda de nome e ticker na B3 após recuperação judicial; veja como fica",
+    "url": "https://www.moneytimes.com.br/repaginada-fictor-alimentos-muda-de-nome-e-ticker-na-b3-apos-recuperacao-judicial-veja-como-fica/",
+    "resumo": "A Fictor Alimentos, companhia que entrou na B3 por meio de um IPO reverso e está em recuperação judicial, vai deixar de usar o nome Fictor Alimentos e o ticker FICT3. A partir de 31 de agosto, as ações passarão a ser negociadas sob o código FASA3, com o nome de pregão “FASA”. A mudança [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-21T21:50:21.000Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "0f0f380d0afe6ca0",
     "manchete": "Minerva “sacrifica” caixa no trimestre em estratégia para formar estoques e ganhar mais no fim do ano",
     "url": "https://agfeed.com.br/negocios/minerva-sacrifica-caixa-no-trimestre-em-estrategia-para-formar-estoques-e-ganhar-mais-no-fim-do-ano",
@@ -5824,30 +6079,6 @@
     "importancia": 3
   },
   {
-    "id": "875a8266246570d3",
-    "manchete": "Octaciano Neto e Amanda Coura",
-    "url": "https://agfeed.com.br/author/octaciano-neto-e-amanda-coura/",
-    "resumo": "Se continuarmos descrevendo o setor apenas a partir de suas dificuldade, dificilmente conquistaremos os investidores que poderão ampliar o financiamento do agro",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T21:37:41.330Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f8f7a99225a0419c",
-    "manchete": "Raízen vai bem no posto, mas ainda foi pouco. CEO avisa: margem \"excepcional\" não deve se repetir",
-    "url": "https://agfeed.com.br/negocios/raizen-vai-bem-no-posto-mas-ainda-foi-pouco-ceo-avisa-margem-excepcional-nao-deve-se-repetir",
-    "resumo": "Raízen dobra Ebitda com distribuição de combustíveis, mas alerta que margem recorde não deve se repetir nos próximos trimestres",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T21:37:41.329Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "b3cb37efc5bbe5c0",
     "manchete": "Apple e Alibaba se unem em IA e \"desafiam\" tensão entre EUA e China",
     "url": "https://neofeed.com.br/inovacao/apple-e-alibaba-se-unem-em-ia-e-desafiam-tensao-entre-eua-e-china/",
@@ -6207,66 +6438,6 @@
     "tags_tema": [
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "40b4d2044dddac5a",
-    "manchete": "A silenciosa expansão da Alvorada para se tornar a maior rede de insumos agropecuários do País",
-    "url": "https://agfeed.com.br/negocios/a-silenciosa-expansao-da-alvorada-para-se-tornar-a-maior-rede-de-insumos-agropecuarios-do-pais",
-    "resumo": "Alvorada acelera expansão com apoio da Kinea, mira 100 filiais e se consolida como maior rede de insumos agropecuários do Brasil",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T11:09:28.985Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "26e759b0d2840f6f",
-    "manchete": "Grande nos bastidores, chinesa Fuhua mira expansão no Brasil para ser vista pelos produtores rurais",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/grande-nos-bastidores-chinesa-fuhua-mira-expansao-no-brasil-para-ser-vista-pelos-produtores-rurais",
-    "resumo": "Com operação ainda enxuta no País, chinesa Fuhua projeta crescer 15% em 2026, ampliar portfólio e ampliar escopo de clientes",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T11:09:28.977Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2bfb90edfdfedb6e",
-    "manchete": "3tentos vê rentabilidade cair e balanço confirma \"susto\" que derrubou valor das ações 3tentos vê rentabilidade cair e balanço confirma \"susto\" que derrubou valor das ações",
-    "url": "https://agfeed.com.br/negocios/3tentos-ve-rentabilidade-cair-e-balanco-confirma-susto-que-derrubou-valor-das-acoes",
-    "resumo": "3tentos vê lucro despencar no 2º trimestre com pressão nas margens da soja e biodiesel, mas mantém aposta em recuperação no semestre",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T11:09:28.977Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "876d44b393020799",
-    "manchete": "Fertilizantes Heringer consegue diminuir custos com menor volume, mas ainda tem prejuízo Fertilizantes Heringer consegue diminuir custos com menor volume, mas ainda tem prejuízo",
-    "url": "https://agfeed.com.br/negocios/fertilizantes-heringer-consegue-diminuir-custos-com-menor-volume-mas-ainda-tem-prejuizo",
-    "resumo": "Fertilizantes Heringer vê vendas despencarem 63% no 2º trimestre e amplia prejuízo com alta das despesas financeiras",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T11:09:28.977Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "41d90d7513ff71e7",
-    "manchete": "Com aumento nos custos e efeitos do câmbio, MBRF lucra menos no trimestre Com aumento nos custos e efeitos do câmbio, MBRF lucra menos no trimestre",
-    "url": "https://agfeed.com.br/negocios/com-aumento-nos-custos-e-efeitos-do-cambio-mbrf-lucra-menos-no-trimestre",
-    "resumo": "MBRF tem queda de 26% no lucro no 2º trimestre, pressionada por custos e câmbio, apesar do avanço das exportações de proteína",
-    "fonte": "AgFeed",
-    "data": "2026-08-14T11:09:28.977Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9989,166 +10160,6 @@
     "resumo": "O ano era 2003 e estávamos na VIII Reunião Ministerial da ALCA, a Área de Livre Comércio das Américas. Era novembro. O Governo Lula ainda não havia completado seu primeiro ano, mas já dava demonstrações do que seria. A reunião se deu no Hotel Intercontinental, cercado por policiais e segurança máxima em função das…",
     "fonte": "Brazil Journal",
     "data": "2026-08-09T09:50:33.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d3b1c993270ab6ff",
-    "manchete": "EDITORIAL. Ninguém cuida do circo",
-    "url": "https://braziljournal.com/editorial-ninguem-cuida-do-circo/",
-    "resumo": "A palhaçada em que se transformou a definição de uma candidatura ao Governo de Minas – obliterando o que restava da credibilidade do partido e do pré-candidato envolvidos – é apenas a ilustração mais crua da decadência da política brasileira e de uma sociedade cada vez mais indiferente ao futuro do País. Minas – que…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-09T09:50:04.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bfb5a4a710d885f7",
-    "manchete": "A China está atropelando o Ocidente. Este livro mostra os riscos para o Brasil",
-    "url": "https://braziljournal.com/a-china-esta-atropelando-o-ocidente-este-livro-mostra-os-riscos-para-o-brasil/",
-    "resumo": "O relógio passa das três da manhã e o barulho não para. Marteladas, caminhões, serras, britadeiras. É 2011, e no 37º andar de um prédio em Zhongguancun, um bairro que viraria o Vale do Silício de Pequim, um jovem brasileiro tenta dormir e não consegue. Dias depois, entra em um canteiro de obras na própria [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-09T09:50:04.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f28156b53f3cff25",
-    "manchete": "Gás do Povo libera botijão grátis amanhã; confira quem tem direito em agosto",
-    "url": "https://www.moneytimes.com.br/gas-do-povo-botijao-recarga-programa-social-liberado-amanha-isca/",
-    "resumo": "Será liberada amanhã a recarga gratuita de botijão de gás de cozinha (GLP) do Programa Gás do Povo para famílias brasileiras de baixa renda. Em agosto, aqueles que terão direito ao benefício poderão recebê-lo a partir do dia 10 — data fixada pelo governo, independentemente de coincidir com feriados ou fins de semana —…",
-    "fonte": "Money Times",
-    "data": "2026-08-09T09:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a419adf3e34a6615",
-    "manchete": "Conheça a avó de 82 anos que recusou US$ 26 mi para fazenda não virar um data center",
-    "url": "https://www.infomoney.com.br/business/global/conheca-a-avo-de-82-anos-que-recusou-us-26-mi-para-fazenda-nao-virar-um-data-center/",
-    "resumo": "Caso é mais um capítulo da resistência rural americana à expansão da Big Tech. Em Michigan, moradores votaram contra e obra começou semanas depois",
-    "fonte": "InfoMoney",
-    "data": "2026-08-09T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7b9d979b409f95a3",
-    "manchete": "Enquanto a pressão aumenta, EUA buscam o próximo líder de Cuba",
-    "url": "https://www.infomoney.com.br/business/global/enquanto-a-pressao-aumenta-eua-buscam-o-proximo-lider-de-cuba/",
-    "resumo": "Alguns funcionários alertam que um líder ainda mais linha-dura pode surgir se o governo Trump seguir adiante com seus planos",
-    "fonte": "InfoMoney",
-    "data": "2026-08-09T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "10ad326a82890b8d",
-    "manchete": "Escolha do vice raramente muda votos, mas pode redefinir o rumo da campanha",
-    "url": "https://www.infomoney.com.br/politica/escolha-do-vice-raramente-muda-votos-mas-pode-redefinir-o-rumo-da-campanha/",
-    "resumo": "Estudo da XP aponta impacto eleitoral limitado das chapas, mas especialistas avaliam que alguns nomes podem alterar a narrativa da disputa",
-    "fonte": "InfoMoney",
-    "data": "2026-08-09T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "12c7a7725a5dd9c3",
-    "manchete": "A Embraer dos últimos dez anos: o que mudou na tese de investimento das ações?",
-    "url": "https://www.infomoney.com.br/mercados/a-embraer-dos-ultimos-dez-anos-o-que-mudou-na-tese-de-investimento-das-acoes/",
-    "resumo": "Em dez anos, companhia enfrentou diversas disrupções e expectativas acompanharam movimento",
-    "fonte": "InfoMoney",
-    "data": "2026-08-09T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c0d2aae878b22829",
-    "manchete": "Taylor Swift remove música usada em vídeo pela equipe de Trump",
-    "url": "https://www.infomoney.com.br/mundo/taylor-swift-remove-musica-usada-em-video-pela-equipe-de-trump/",
-    "resumo": "Post da equipe de Trump desagradou a cantora que pediu para que trecho de sua música fosse removida de vídeo no TikTok",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T23:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a9caaf8df197a637",
-    "manchete": "Queda de helicóptero no RJ: o que se sabe sobre as vítimas e o acidente",
-    "url": "https://www.infomoney.com.br/brasil/queda-de-helicoptero-no-rj-o-que-se-sabe-sobre-as-vitimas-e-o-acidente/",
-    "resumo": "O passeio das vítimas, que eram avó, mãe e filha, teria duração aproximada de 20 minutos e passaria pela região da Floresta da Tijuca. E o valor foi R$ 2.550",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T22:35:00.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2aa9f596b9206f81",
-    "manchete": "Lula e Flávio Bolsonaro miram voto feminino em SP; presidente critica Faria Lima",
-    "url": "https://www.infomoney.com.br/politica/lula-e-flavio-bolsonaro-miram-voto-feminino-em-sp-presidente-critica-faria-lima/",
-    "resumo": "O período oficial de campanha, quando os candidatos poderão pedir votos, começa em 16 de agosto",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T22:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6a27ff3e07bea43b",
-    "manchete": "Ala do STF vê como ‘inadmissível’ tom da manifestação de chefes da PF; entenda",
-    "url": "https://www.infomoney.com.br/politica/ala-do-stf-ve-como-inadmissivel-tom-da-manifestacao-de-chefes-da-pf-entenda/",
-    "resumo": "Avaliação é que posicionamento público dificulta tentativa de restabelecer pontes entre Andrei Rodrigues e relator do caso Master",
-    "fonte": "InfoMoney",
-    "data": "2026-08-08T22:20:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "af5bcafcadc0e04f",
-    "manchete": "Por que a indústria do cinema ainda tenta copiar a receita de \"Akira\" quase 40 anos depois",
-    "url": "https://neofeed.com.br/finde/por-que-a-industria-do-cinema-ainda-tenta-copiar-a-receita-de-akira-quase-40-anos-depois/",
-    "resumo": "Relançado em 4K no Brasil, o clássico \"Akira\" popularizou a cultura pop japonesa no Ocidente e permanece como uma das maiores referências da ficção científica, influenciando franquias como Matrix e Stranger Things",
-    "fonte": "NeoFeed",
-    "data": "2026-08-08T21:43:53.342Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "31de74af32298785",
-    "manchete": "Ningxia quer aposentar o título de “Bordeaux da China” e revelar seu próprio terroir",
-    "url": "https://neofeed.com.br/finde/ningxia-quer-aposentar-o-titulo-de-bordeaux-da-china-e-revelar-seu-proprio-terroir/",
-    "resumo": "Chamada de Bordeaux da China, a província chinesa Ningxia transformou terras degradadas em uma região vinícola reconhecida internacionalmente",
-    "fonte": "NeoFeed",
-    "data": "2026-08-08T21:43:53.342Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
