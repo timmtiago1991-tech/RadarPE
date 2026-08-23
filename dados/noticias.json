@@ -1,5 +1,329 @@
 [
   {
+    "id": "c09b228c5cfd50cb",
+    "manchete": "Boa Safra registra lucro no trimestre e anuncia carteira recorde de R$ 1,8 bi Boa Safra registra lucro no trimestre e anuncia carteira recorde de R$ 1,8 bi",
+    "url": "https://agfeed.com.br/negocios/boa-safra-registra-lucro-no-trimestre-e-anuncia-carteira-recorde-de-r-18-bi",
+    "resumo": "Diversificação de culturas, que já responde por quase 20% dos pedidos, foi destaque para carteira recorde da Boa Safra",
+    "fonte": "AgFeed",
+    "data": "2026-08-23T21:34:11.495Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8b90cdf5de25793a",
+    "manchete": "A arte dos presos políticos que a ditadura não apagou",
+    "url": "https://neofeed.com.br/finde/a-arte-dos-presos-politicos-que-a-ditadura-nao-apagou/",
+    "resumo": "Mostra na Estação Pinacoteca reúne obras produzidas no cárcere e investiga como a criação abriu espaços de liberdade, afeto e imaginação atrás das grades da repressão",
+    "fonte": "NeoFeed",
+    "data": "2026-08-23T21:34:05.445Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6a55dff11a5d81b",
+    "manchete": "No interior de São Paulo, antiga fazenda de café une refúgios de alto padrão e vinhedos privativos",
+    "url": "https://neofeed.com.br/finde/no-interior-de-sao-paulo-antiga-fazenda-de-cafe-une-refugios-de-alto-padrao-e-vinhedos-privativos/",
+    "resumo": "Com VGV de R$ 300 milhões, o projeto do Vinhas da Invernada reflete a ascensão do \"quiet luxury rural\" e consolida a tendência global dos vineyard estates no mercado imobiliário",
+    "fonte": "NeoFeed",
+    "data": "2026-08-23T21:34:05.444Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f73b261154d62eab",
+    "manchete": "Turismo de conservação pode \"selar a paz\" entre os pecuaristas e as onças no Pantanal",
+    "url": "https://neofeed.com.br/finde/turismo-de-conservacao-pode-selar-a-paz-entre-os-pecuaristas-e-as-oncas-no-pantanal/",
+    "resumo": "O turismo de conservação precisa ir além do compromisso ambiental e ser também um ativo econômico. E já há casos de sucesso",
+    "fonte": "NeoFeed",
+    "data": "2026-08-23T21:34:05.444Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c9b72e078dc8a423",
+    "manchete": "“Rio, √484/125 ÷ 25 /45² + 1”: a equação para lapidar os talentos que o Brasil ignora",
+    "url": "https://neofeed.com.br/finde/rio-%e2%88%9a484-125-%c3%b7-25-45%c2%b2-1-a-equacao-para-lapidar-os-talentos-que-o-brasil-ignora/",
+    "resumo": "Apoiada por nomes como Stone, Brookfield, Fundação Behring e Vinci Compass, o Instituto Apontar atende mil estudantes de alto QI no RJ",
+    "fonte": "NeoFeed",
+    "data": "2026-08-23T21:34:05.443Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a983241b82cae97b",
+    "manchete": "ARTIGO. “Precisamos agir agora”: o alerta urgente dos economistas de Stanford sobre a IA",
+    "url": "https://neofeed.com.br/insiders/artigo-precisamos-agir-agora-o-alerta-urgente-dos-economistas-de-stanford-sobre-a-ia/",
+    "resumo": "Carta organizada pelo laboratório de economia digital da universidade americana aponta os efeitos da tecnologia sobre o emprego e levanta uma questão para o sistema financeiro: os modelos de risco ainda preveem o futuro?",
+    "fonte": "NeoFeed",
+    "data": "2026-08-23T21:34:05.443Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f7776f9dadbca629",
+    "manchete": "Títulos longos dos EUA podem cair mais sem sinalização clara de Warsh",
+    "url": "https://www.infomoney.com.br/mercados/titulos-longos-dos-eua-podem-cair-mais-sem-sinalizacao-clara-de-warsh/",
+    "resumo": "Mercado aguarda discurso do presidente do Fed em Jackson Hole em meio à pressão sobre os Treasuries, inflação persistente e preocupações fiscais",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T21:14:57.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aa92a76ec983d838",
+    "manchete": "Por que fracassou o acordo entre EUA e Canadá? Embaixador revela bastidores",
+    "url": "https://www.infomoney.com.br/mundo/por-que-fracassou-o-acordo-entre-eua-e-canada-embaixador-revela-bastidores/",
+    "resumo": "Representante canadense diz que textos apresentados pelos EUA divergiam do que Ottawa entendia ter sido negociado; automóveis, comércio exterior e língua francesa estavam entre os impasses",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T21:02:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2d102a4fb5e3d284",
+    "manchete": "Rei da Noruega: estado de saúde do monarca mais velho da Europa piora",
+    "url": "https://www.infomoney.com.br/mundo/rei-da-noruega-estado-de-saude-do-monarca-mais-velho-da-europa-piora/",
+    "resumo": "Harald V, de 89 anos, está internado em Oslo e recebe antibióticos para tratar uma infecção bacteriana no sangue; quadro é estável",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T20:19:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f0a4c634f9df90e3",
+    "manchete": "Calendário econômico: IPCA-15, trabalho no Brasil e Jackson Hole são destaques",
+    "url": "https://www.infomoney.com.br/mercados/calendario-economico-ipca-15-trabalho-no-brasil-e-jackson-hole-sao-destaques/",
+    "resumo": "Tudo o que o investidor precisa saber antes de operar na semana",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T20:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "51c8e355faaacbd2",
+    "manchete": "Coritiba x Corinthians: Onde assistir ao Brasileirão?",
+    "url": "https://www.infomoney.com.br/esportes/coritiba-corinthians-onde-assistir-brasileirao/",
+    "resumo": "Os times estão colados na classificação do Campeonato Brasileiro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T20:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "badf7c6e8757085d",
+    "manchete": "Sob pressão dos Estados Unidos, Irã anuncia descoberta bilionária de gás natural",
+    "url": "https://www.infomoney.com.br/mundo/ira-afirma-ter-descoberto-mais-de-75-trilhoes-de-pes-cubicos-de-gas/",
+    "resumo": "Governo estima que cerca de 5,7 trilhões de pés cúbicos sejam recuperáveis; descoberta ocorre enquanto país tenta recompor capacidade de produção",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T19:54:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "da0b1d75dfbb28ac",
+    "manchete": "Chapecoense x São Paulo: Onde assistir?",
+    "url": "https://www.infomoney.com.br/esportes/chapecoense-sao-paulo-onde-assistir/",
+    "resumo": "Os times entram em campo pela 24ª rodada do Brasileirão",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T19:30:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "70eb27c78eda4888",
+    "manchete": "Meta na venda e Berkshire na compra: carteira de Trump gira até US$ 263 milhões; veja",
+    "url": "https://www.infomoney.com.br/onde-investir/meta-na-venda-e-berkshire-na-compra-carteira-de-trump-gira-ate-us-263-milhoes-veja/",
+    "resumo": "Declaração financeira revela ampla reorganização da carteira do presidente dos EUA, com movimentações entre US$ 78,1 milhões e US$ 263,1 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T19:29:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "afde5897a79af020",
+    "manchete": "Brasileirão: Onde assistir Santos x Mirassol",
+    "url": "https://www.infomoney.com.br/esportes/santos-mirassol-brasileirao-onde-assistir/",
+    "resumo": "O Peixe é o mandante do jogo de hoje",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T19:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9201036b64da91ca",
+    "manchete": "ONS aciona plano emergencial após excesso de energia no sistema elétrico; entenda",
+    "url": "https://www.infomoney.com.br/brasil/ons-aciona-plano-emergencial-apos-excesso-de-energia-no-sistema-eletrico-entenda/",
+    "resumo": "Baixo consumo no fim de semana e avanço da geração distribuída, sobretudo solar, fizeram produção superar a necessidade do sistema; é o segundo acionamento do plano em 2026",
+    "fonte": "InfoMoney",
+    "data": "2026-08-23T18:56:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b317ba15618fb6c2",
+    "manchete": "Temporada de debates entre presidenciáveis começa sem Lula e Flávio Bolsonaro; veja horário, participantes e as regras",
+    "url": "https://www.moneytimes.com.br/temporada-de-debates-entre-presidenciaveis-comeca-sem-lula-e-flavio-bolsonaro-veja-horario-participantes-e-as-regras-gaep/",
+    "resumo": "O Grupo Bandeirantes de Comunicação, como tradicionalmente faz, abre, neste domingo (23), às 20h, a temporada de debates entre candidatos a presidente da República. Seis candidatos aos principal cargo Executivo do País foram convidados, mas os favoritos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) não devem…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7943f725dfdd85eb",
+    "manchete": "Inflação, dados de emprego e Jackson Hole dividem os holofotes do mercado; confira agenda da semana",
+    "url": "https://www.moneytimes.com.br/inflacao-dados-de-emprego-e-jackson-hole-dividem-os-holofotes-do-mercado-confira-agenda-da-semana/",
+    "resumo": "A última semana de agosto será marcada por uma bateria de indicadores de inflação e mercado de trabalho no Brasil e nos Estados Unidos, além do Simpósio de Jackson Hole, que reúne autoridades dos principais bancos centrais do mundo. No cenário doméstico, a agenda começa na segunda-feira (24), com o Boletim Focus, que…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T14:50:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "795eab1878d1fd47",
+    "manchete": "Japão ficou mais barato para brasileiros? Veja quanto custa viajar e quando vale a pena ir",
+    "url": "https://www.moneytimes.com.br/japao-ficou-mais-barato-para-brasileiros-veja-quanto-custa-viajar-e-quando-vale-a-pena-ir/",
+    "resumo": "O Japão nunca recebeu tantos brasileiros quanto agora. Em 2025, foram 110,6 mil visitantes do Brasil, alta de 29% em relação ao ano anterior e mais que o dobro do número registrado em 2019, antes da pandemia. Para 2026, o interesse continua em alta: as buscas por viagens ao país feitas por brasileiros no Skyscanner…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T14:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a948ef0a4a554651",
+    "manchete": "O ajuste fiscal pode aliviar a pressão na economia brasileira, mas e se não acontecer? Confira os cenários possíveis e onde investir em cada caso",
+    "url": "https://www.moneytimes.com.br/o-ajuste-fiscal-pode-aliviar-a-pressao-na-economia-brasileira-mas-e-se-nao-acontecer-confira-os-cenarios-possiveis-e-onde-investir-em-cada-caso-lbrdjm030/",
+    "resumo": "Para os analistas da Empiricus, um ajuste fiscal consistente envolve o controle do crescimento das despesas",
+    "fonte": "Money Times",
+    "data": "2026-08-23T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1cb816478f4a01d0",
+    "manchete": "O bitcoin (BTC) no hall da fama brasileiro e outros destaques no Crypto Times",
+    "url": "https://www.moneytimes.com.br/o-bitcoin-btc-no-hall-da-fama-brasileiro-e-outros-destaques-no-crypto-times-rens/",
+    "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: Para quem está do lado…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "814cdf27e30640b4",
+    "manchete": "Presidente do Irã defende memorando dos EUA como melhor saída para impasse da guerra",
+    "url": "https://www.moneytimes.com.br/presidente-do-ira-defende-memorando-dos-eua-como-melhor-saida-para-impasse-da-guerra-lmrs/",
+    "resumo": "O presidente do Irã, Masoud Pezeshkian, defendeu o memorando de entendimento com os Estados Unidos (EUA) como a melhor saída para o impasse da guerra. Em discurso publicado pela agência estatal Irna neste domingo (23), o presidente disse que membros do Conselho Supremo de Segurança Nacional do Irã acreditavam que o…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T13:50:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ff0b98ddf3bffcce",
+    "manchete": "Bitcoin (BTC) avança 22% na semana e opera acima dos US$ 77 mil; veja os preços das criptomoedas neste domingo (23)",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-22-na-semana-e-opera-acima-dos-us-77-mil-veja-os-precos-das-criptomoedas-neste-domingo-23-lmrs/",
+    "resumo": "As maiores criptomoedas do mundo registram desempenho positivo neste domingo (23), com acúmulo de ganhos expressivos ao longo da semana. Por volta das 10h20 (horário de Brasília), o bitcoin (BTC) subia 0,39% nas últimas 24 horas, a US$ 77,458.43. Na semana, o avanço supera 22%. Já o ethereum (ETH) subia 1,43% no…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T13:37:42.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a0be1a3204357b97",
+    "manchete": "A ressaca do 2T26 e a semana de ouro das ações; os destaques do Agro Times",
+    "url": "https://www.moneytimes.com.br/a-ressaca-do-2t26-e-a-semana-de-ouro-das-acoes-os-destaques-do-agro-times-pads/",
+    "resumo": "Bom dia, investidor! Se na semana passada o gongo soou para o fim da temporada de balanços do segundo trimestre de 2026 (2T26), os últimos dias nos reservaram a ressaca daquela equação de ritmo acelerado: resultados + reação para o papel + repercute dos analistas. E se teve ressaca, peço desculpas também pela…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T13:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "31257eaaf5f65073",
+    "manchete": "O ‘oráculo do oráculo’: o estrategista que ajudou Warren Buffett a transformar a Berkshire Hathaway em um império de US$ 1 trilhão",
+    "url": "https://www.moneytimes.com.br/oraculo-do-oraculo-estrategista-ajudou-buffett-transformar-berkshire-hathaway-imperio-mlem/",
+    "resumo": "A Berkshire Hathaway é um dos maiores cases de negócios e investimentos da história, com ativos que somam mais de US$ 1,1 trilhão. À frente dessa trajetória, o rosto mais conhecido é o de Warren Buffett, que aparece nos holofotes com todo seu carisma. Chamado de “Oráculo de Omaha”, ele se tornou uma das figuras…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T13:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b018a7d0951983d3",
+    "manchete": "Genéricos e GLP-1 sustentam crescimento das farmácias, destaca o BTG; vale apostar no setor?",
+    "url": "https://www.moneytimes.com.br/genericos-e-glp-1-sustentam-crescimento-das-farmacias-btg-recomenda-aposta-no-setor-ceci/",
+    "resumo": "O BTG Pactual reafirmou sua visão construtiva para as redes de farmácias após o Sindicato da Indústria de Produtos Farmacêuticos (Sindusfarma) divulgar os dados de sell-out da indústria de julho. O levantamento aponta que as vendas consolidadas do setor cresceram 9,3% na comparação anual e se mantiveram estáveis em…",
+    "fonte": "Money Times",
+    "data": "2026-08-23T13:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "52361e8d19360370",
     "manchete": "ARTIGO - Por que o agro fala mal do agro ARTIGO - Por que o agro fala mal do agro",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-por-que-o-agro-fala-mal-do-agro",
@@ -9802,334 +10126,6 @@
     "fonte": "InfoMoney",
     "data": "2026-08-10T21:07:09.000Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bcc7a3e309bb6c45",
-    "manchete": "JBS (JBSS32) registra prejuízo de US$ 102 milhões no 2T26",
-    "url": "https://www.moneytimes.com.br/jbs-jbss32-registra-prejuizo-de-us-102-milhoes-no-2t26-pads/",
-    "resumo": "A JBS (JBSS32) reportou um prejuízo de US$ 102 milhões no segundo trimestre de 2026 (2T26), contra um lucro de US$ 528 milhões no mesmo trimestre do ano passado. O Ebitda ajustado (IRFS) saiu de US$ 1,754 bilhão para US$ 1,429 bilhão no mesmo comparativo. Em comunicado, a JBS destacou sua receita líquida, que atingiu…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T21:02:37.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "290472a2d016716a",
-    "manchete": "Grãos ficam voláteis em Chicago antes de relatórios do USDA",
-    "url": "https://www.moneytimes.com.br/graos-ficam-volateis-em-chicago-antes-de-relatorios-do-usda-pads/",
-    "resumo": "Os contrados futuros de grãos negociados na bolsa de Chicago tiveram uma sessão nesta segunda-feira (10) de altas e baixas, à medida que os operadores ajustavam suas posições antes do tão aguardado relatório de oferta e demanda do Departamento de Agricultura dos Estados Unidos (USDA), previsto para quarta-feira, no…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T20:49:43.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "eb1fc174516e3205",
-    "manchete": "Plano &#038; Plano (PLPL3) informa que Cyrela (CYRE3) está de saída do Conselho de Administração da companhia",
-    "url": "https://www.moneytimes.com.br/plano-plano-informa-que-cyrela-esta-de-saida-do-conselho-de-administracao-da-companhia/",
-    "resumo": "A Plano &#38; Plano (PLPL3) divulgou nesta segunda-feira, 10, um novo acordo de acionistas, com a previsão da saída da Cyrela Brazil Realty do Conselho de Administração da companhia. O novo acordo envolve os fundadores da Plano &#38; Plano, os empresários Rodrigo Luna (22,8% de participação) e Rodrigo Von Uhlendorff…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T20:46:44.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "add27af055cd1983",
-    "manchete": "Fordlândia: como Henry Ford tentou fundar um parque industrial no meio da Amazônia",
-    "url": "https://www.moneytimes.com.br/fordlandia-a-cidade-de-henry-ford/",
-    "resumo": "Um sonho americano instalado no coração da floresta amazônica por aquele que é conhecido mundialmente como um dos pioneiros da indústria automobilística: Henry Ford. Foi o que aconteceu no Brasil, em 1927. No município de Aveiro, no Pará, o distrito de Fordlândia nasceu às margens do Rio Tapajós como um projeto…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T20:35:18.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "17b8f33e0e79908f",
-    "manchete": "Venda de remédios nos marketplaces fica mais perto. Qual o impacto nas farmácias?",
-    "url": "https://braziljournal.com/venda-de-remedios-nos-marketplaces-fica-mais-perto-qual-o-impacto-nas-farmacias/",
-    "resumo": "A Anvisa revogou hoje todas as resoluções e medidas provisórias que proibiam a venda de medicamentos pela Shoppe, Rappi, iFood, Mercado Livre e Americanas – um movimento que torna cada vez mais próxima a liberação definitiva deste tipo de venda pelos marketplaces. A revogação vem na esteira da lei 15.357, de março…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-10T20:20:56.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9410df4e9bd5dc52",
-    "manchete": "A próxima vantagem competitiva da IA será lembrar, não responder",
-    "url": "https://startupi.com.br/a-proxima-vantagem-competitiva-da-ia-sera-lembrar-nao-responder/",
-    "resumo": "Startupi A próxima vantagem competitiva da IA será lembrar, não responder * Por Mario Marchetti A inteligência artificial entrou definitivamente na rotina das empresas. Em pouco tempo, deixou de ser uma tecnologia experimental para a sumir um papel central nas operações, atendimento, produtividade e tomada de decisão.…",
-    "fonte": "Startupi",
-    "data": "2026-08-10T12:05:44.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "febb2b47be4934c4",
-    "manchete": "O número mais importante da Smart Fit já não é o de academias",
-    "url": "https://neofeed.com.br/videos/numeros-falam/o-numero-mais-importante-da-smart-fit-ja-nao-e-o-de-academias/",
-    "resumo": "Com 2,3 milhões de usuários e crescimento de 70%, TotalPass ganha peso dentro do grupo de fitness e bem-estar e acirra disputa com a Wellhub",
-    "fonte": "NeoFeed",
-    "data": "2026-08-10T11:27:43.372Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9a8427e87a8af48e",
-    "manchete": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras",
-    "url": "https://neofeed.com.br/economia/anac-planeja-leilao-do-santos-dumont-para-2027-e-preve-regras-para-atrair-aereas-estrangeiras/",
-    "resumo": "Tiago Faierstein, presidente da Anac, deu detalhes sobre as mudanças normativas para reduzir processos judiciais contra empresas aéreas",
-    "fonte": "NeoFeed",
-    "data": "2026-08-10T11:27:43.371Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "520971c163ed98f9",
-    "manchete": "Empresas chinesas listadas reportam milhões em reembolsos dos EUA por tarifas",
-    "url": "https://www.infomoney.com.br/economia/empresas-listadas-chinesas-reportam-milhoes-em-reembolsos-dos-eua-por-tarifas/",
-    "resumo": "Os reembolsos ocorrem após a Suprema Corte dos EUA ter decidido, em 20 de fevereiro, que as políticas tarifárias do presidente Donald Trump sob a Lei de Poderes Econômicos de Emergência Internacional são inconstitucionais",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T11:23:13.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "96d60c35d3246d27",
-    "manchete": "Rio Innovation Week reúne 200 mil pessoas e transforma Píer Mauá em espaço para tecnologia, negócios e ciência",
-    "url": "https://startupi.com.br/rio-innovation-week-reune-200-mil-pessoas/",
-    "resumo": "Startupi Rio Innovation Week reúne 200 mil pessoas e transforma Píer Mauá em espaço para tecnologia, negócios e ciência O Rio Innovation Week 2026 reuniu cerca de 200 mil pessoas entre 4 e 7 de agosto, no Píer Mauá, no Rio de Janeiro. Em sua sexta edição, o evento contou com 3.200 palestrantes de 22 países, 30…",
-    "fonte": "Startupi",
-    "data": "2026-08-10T11:22:49.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c9a7554d61f3b455",
-    "manchete": "Cenário: Ibovespa perde força e acende alerta de queda; Wall Street renova recordes",
-    "url": "https://www.infomoney.com.br/mercados/cenario-ibovespa-perde-forca-e-acende-alerta-de-queda-wall-street-renova-recordes/",
-    "resumo": "Dólar futuro segue sem direção definida, Nasdaq se aproxima do recorde e Bitcoin tenta reagir abaixo dos US$ 70 mil",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T11:20:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3f3b4935ab9e8484",
-    "manchete": "Lucro da Embraer (EMBJ3) cresce para R$ 1,11 bilhão no 2T26; veja os números",
-    "url": "https://www.moneytimes.com.br/lucro-da-embraer-embj3-cresce-para-r-111-bilhao-no-2t26-veja-os-numeros-lmrs/",
-    "resumo": "A Embraer (EMBJ3) divulgou lucro líquido de ajustado de R$ 1,11 bilhão referente ao segundo trimestre de 2026 (2T26), um crescimento sobre os R$ 890,3 milhões registrados no mesmo período do ano anterior, mostra relatório de resultados divulgado nesta segunda-feira (10). O lucro líquido ajustado é uma medida não-GAAP,…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T11:13:20.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "39b74d4089e4746d",
-    "manchete": "Fleury (FLRY3) entra em sobrecompra após balanço; Marcopolo (POMO4) segue fragilizada",
-    "url": "https://www.infomoney.com.br/mercados/fleury-flry3-entra-em-sobrecompra-apos-balanco-marcopolo-pomo4-segue-fragilizada/",
-    "resumo": "Indicador da análise técnica, IFR aponta euforia em um papel e sinaliza possível oportunidade de entrada em outro",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T11:10:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8319ae731ce8f2a4",
-    "manchete": "RecargaPay amplia atuação em produtos financeiros e aposta em crédito para atender 14 milhões de clientes",
-    "url": "https://startupi.com.br/recargapay-amplia-atuacao/",
-    "resumo": "Startupi RecargaPay amplia atuação em produtos financeiros e aposta em crédito para atender 14 milhões de clientes A RecargaPay está ampliando sua atuação no mercado de produtos financeiros, com foco nas verticais de cartões, empréstimos pessoais, crédito consignado e demais operações de crédito. A estratégia combina…",
-    "fonte": "Startupi",
-    "data": "2026-08-10T11:09:52.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9f0a7224f16b67bd",
-    "manchete": "Dividendos: 133 FIIs pagam até R$ 32 por cota nesta semana; IFIX acumula queda em agosto",
-    "url": "https://www.moneytimes.com.br/dividendos-133-fiis-pagam-ate-r-32-por-cota-nesta-semana-ifix-acumula-queda-em-agosto-igdl/",
-    "resumo": "Ao menos 133 fundos imobiliários vão distribuir rendimentos na forma de dividendos e amortizações nesta semana, com valores que chegam até R$ 32 por cota, segundo dados da plataforma Funds Explorer. Grande parte desses FIIs teve como “data-com” 31 de julho, ou seja, os cotistas que mantiveram posição até esse dia…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T11:02:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4aa6af7bf671b57b",
-    "manchete": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-10082026/",
-    "resumo": "Índices futuros dos EUA operam mistos com petróleo estável e foco na inflação",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T11:00:50.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a72154295c80261d",
-    "manchete": "Temporada de balanços: Marcopolo (POMO4) fraca, Itaú (ITUB4) e Meta (META) se destacam; veja recomendações da semana no Money Picks",
-    "url": "https://www.moneytimes.com.br/descubra-os-sinais-que-movimentam-marcopolo-pomo4-itau-itub4-e-mais-veja-recomendacoes-no-money-picks-jvka/",
-    "resumo": "Esta semana no Money Picks, programa do Money Times no YouTube, as recomendações de ações passam pela temporada de balanços do segundo trimestre de 2026. Os resultados trouxeram sinais diferentes para o mercado: enquanto Marcopolo (POMO4) e Bradesco Saúde (SAUD3) acenderam alertas entre analistas, Itaú (ITUB4) e Meta…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T11:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3d4a44f267076e89",
-    "manchete": "Embraer, Lavvi, JBS, Iguatemi, Tegma e mais ações para acompanhar hoje",
-    "url": "https://www.infomoney.com.br/mercados/embraer-lavvi-jbs-iguatemi-tegma-e-mais-acoes-para-acompanhar-hoje/",
-    "resumo": "Veja os principais destaques do noticiário corporativo nesta segunda-feira (10)",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T10:59:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a0668a3d28be1ace",
-    "manchete": "Novo CEO e R$ 75 mi em investimentos: o plano do Hot Beach para faturar R$ 750 mi",
-    "url": "https://www.infomoney.com.br/business/novo-ceo-e-r-75-mi-em-investimentos-o-plano-do-hot-beach-para-faturar-r-750-mi/",
-    "resumo": "Sergio Ney passa bastão para Moisés Mouta, ex-CEO global da Sodexo; grupo investirá R$ 75 mi neste ano e R$ 255 mi até 2031 em expansão de parque, hotelaria e multipropriedade",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T10:55:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ec962999564644a4",
-    "manchete": "Iguatemi (IGTI11) vende participação em 5 ativos por R$ 876 milhões",
-    "url": "https://www.infomoney.com.br/mercados/iguatemi-igti11-vende-participacao-em-5-ativos-por-r-876-milhoes/",
-    "resumo": "Operação tem um cap rate médio de 7,3%",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T10:52:18.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a95aed81b784fa1",
-    "manchete": "Michelle Bolsonaro acompanha debate de Celina Leão ao lado de Damares e Bia Kicis",
-    "url": "https://www.moneytimes.com.br/michelle-bolsonaro-assiste-debate-de-celina-ao-lado-de-damares-e-bia-kicis-gaep/",
-    "resumo": "A ex-primeira-dama Michelle Bolsonaro acompanhou, na noite deste domingo (9), o debate entre os candidatos ao governo do Distrito Federal ao lado da senadora Damares Alves (Republicanos-DF) e da deputada Bia Kicis (PL). A governadora Celina Leão (PP), que disputa a reeleição, participou do confronto promovido pela…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T10:51:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d06fa6e0e2407916",
-    "manchete": "Bom dia, bitcoin (BTC): Criptomoeda testa os US$ 65 mil após dado de emprego nos EUA; o que mexe com o mercado nesta semana?",
-    "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-100826/",
-    "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 64,9 mil, na tentativa de testar o teto psicológico de preços em US$ 65 mil nesta segunda-feira (10). O mercado global de criptomoedas oscila na manhã de hoje, na ausência de catalisadores mais fortes de preço. No mercado tradicional, as bolsas asiáticas fecharam em alta. Na…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T10:49:07.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3a46742a1a0747ae",
-    "manchete": "Lavvi (LAVV3) aprova recompra de até 7,4 milhões de ações",
-    "url": "https://www.infomoney.com.br/mercados/lavvi-lavv3-aprova-recompra-de-ate-74-milhoes-de-acoes/",
-    "resumo": "O programa terá início nesta segunda-feira e se estenderá até 10 de fevereiro de 2028",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T10:44:09.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d6b88985744ebeeb",
-    "manchete": "Minidólar (WDOU26): Focus e tensão no Oriente Médio ficam no radar",
-    "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-10082026/",
-    "resumo": "Saiba o que esperar para o minidólar nesta segunda (10)",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T10:15:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b734ab871c3bb4ca",
-    "manchete": "Bolsas da Europa operam de lado com petróleo sustentado por incertezas sobre Ormuz",
-    "url": "https://www.moneytimes.com.br/bolsas-da-europa-operam-de-lado-com-petroleo-sustentado-por-incertezas-sobre-ormuz/",
-    "resumo": "As bolsas europeias operam perto da estabilidade na manhã desta segunda-feira (10), à medida que dúvidas sobre a reabertura do Estreito de Ormuz sustentam os preços do petróleo. Por volta das 6h (de Brasília), o índice pan-europeu Stoxx 600 tinha baixa marginal de 0,02%, a 660,13 pontos. Na semana passada, o Stoxx 600…",
-    "fonte": "Money Times",
-    "data": "2026-08-10T10:12:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5cace16893659157",
-    "manchete": "Mini-índice (WINQ26): Ata do Copom e balanços ficam no radar",
-    "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-10082026/",
-    "resumo": "Confira o que a análise técnica aponta para o mini-índice hoje (10 de agosto)",
-    "fonte": "InfoMoney",
-    "data": "2026-08-10T10:11:00.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
