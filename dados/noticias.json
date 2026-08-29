@@ -1,5 +1,316 @@
 [
   {
+    "id": "83ddb8866a4b30fc",
+    "manchete": "Acelen começa a rodar engrenagem de US$ 3 bi para transformar macaúba em biocombustível Acelen começa a rodar engrenagem de US$ 3 bi para transformar macaúba em biocombustível",
+    "url": "https://agfeed.com.br/negocios/acelen-comeca-a-rodar-engrenagem-de-us-3-bi-para-transformar-macauba-em-biocombustivel",
+    "resumo": "Os primeiros movimentos da Acelen para tirar do papel o projeto para produzir 1 bilhão de litros anuais de biocombustíveis",
+    "fonte": "AgFeed",
+    "data": "2026-08-29T15:05:49.015Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3a5275b5d46e1f82",
+    "manchete": "Cerrado Edition leva o agro do País para o maior game de agricultura do mundo",
+    "url": "https://agfeed.com.br/negocios/cerrado-edition-leva-o-agro-do-pais-para-o-maior-game-de-agricultura-do-mundo",
+    "resumo": "Cerrado Edition leva o agro brasileiro ao Farming Simulator 25, com máquinas nacionais, novas culturas e um mapa inspirado no Cerrado",
+    "fonte": "AgFeed",
+    "data": "2026-08-29T15:05:49.008Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9c0db06e1f9cad17",
+    "manchete": "Os negócios (e a biomecânica) por trás do recorde mundial de Alison dos Santos",
+    "url": "https://neofeed.com.br/finde/os-negocios-e-a-biomecanica-por-tras-do-recorde-mundial-de-alison-dos-santos/",
+    "resumo": "Alison dos Santos se consolida como um ativo estratégico no marketing esportivo global recorde mundial de 45,80 segundos nos 400m com barreiras",
+    "fonte": "NeoFeed",
+    "data": "2026-08-29T15:05:45.291Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f02df57428cb488",
+    "manchete": "Mapplethorpe, o fotógrafo da provocação em busca da beleza clássica",
+    "url": "https://neofeed.com.br/finde/mapplethorpe-o-fotografo-da-provocacao-em-busca-da-beleza-classica/",
+    "resumo": "Retrospectiva em Roma propõe uma releitura da obra do artista americano, deslocando o foco da polêmica para o rigor formal, o classicismo e a obsessão pela perfeição",
+    "fonte": "NeoFeed",
+    "data": "2026-08-29T15:05:45.291Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "225fdcd6d9c26d9f",
+    "manchete": "Trump compartilha opinião do NY Post que aponta vitória dos EUA em conflito com Teerã",
+    "url": "https://www.infomoney.com.br/mundo/trump-compartilha-opiniao-do-ny-post-que-aponta-vitoria-dos-eua-em-conflito-com-teera/",
+    "resumo": "A publicação aponta que a tentativa de Teerã de bloquear a via estratégica perdeu força e ressalta o impacto de sanções financeiras na economia iraniana",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T15:03:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "03b8c21a52d222d8",
+    "manchete": "Conheça a nova família real da Noruega após a ascensão de Haakon VIII ao trono",
+    "url": "https://www.infomoney.com.br/mundo/conheca-a-nova-familia-real-da-noruega-apos-a-ascensao-de-haakon-viii-ao-trono/",
+    "resumo": "Nova rainha da Noruega já se desculpou publicamente por ligações com Epstein e seu filho, enteado do rei Haakon VIII, foi preso por suspeita de estupro em 2024",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T14:59:16.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c90abdc147e59c89",
+    "manchete": "Bitcoin (BTC) tenta firmar alta aos US$ 77 mil após tombo com Warsh; veja preços das criptomoedas neste sábado (29)",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-tenta-firmar-alta-aos-us-77-mil-apos-tombo-com-warsh-veja-precos-das-criptomoedas-neste-sabado-29-lils/",
+    "resumo": "O bitcoin (BTC) opera em leve alta neste sábado (29), mantendo o patamar de US$ 77 mil, na tentativa de recuperar as perdas das últimas 24 horas e caminha para ganho de 1% na semana. Na véspera (28), o mercado de criptoativos reagiu negativamente às falas do presidente do Federal Reserve (Fed, o Banco Central [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-08-29T14:54:08.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "53fc31269a618dd3",
+    "manchete": "Tchau, Itaú (ITUB4): 10 ações com retornos de até 13% para investir em setembro, segundo Ágora",
+    "url": "https://www.moneytimes.com.br/tchau-itau-itub4-10-acoes-com-retornos-de-ate-13-para-investir-em-setembro-segundo-agora-lmrs/",
+    "resumo": "A Ágora Investimentos realizou um ajuste na carteira recomendada mensal de ações para o mês de setembro, excluindo Itaú (ITUB4) e dando espaço para a entrada de B3 (B3SA3). A equipe de analistas da casa pondera que a B3 combina posição quase monopolista na infraestrutura do mercado de capitais brasileiro com forte…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T14:50:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dfc5014ad2160c0f",
+    "manchete": "TSE concede liminar e suspende restrições à campanha de Anthony Garotinho no RJ",
+    "url": "https://www.infomoney.com.br/politica/tse-concede-liminar-e-suspende-restricoes-a-campanha-de-anthony-garotinho-no-rj/",
+    "resumo": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) suspendeu os repasses do fundo eleitoral à campanha de Garotinho",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T14:48:20.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "432bbb5ab33a6b4a",
+    "manchete": "Xi, Putin e Modi se encontram em reunião de cúpula com presença do Irã",
+    "url": "https://www.infomoney.com.br/mundo/xi-putin-e-modi-se-encontram-em-reuniao-de-cupula-com-presenca-do-ira/",
+    "resumo": "A reunião de cúpula ocorre em meio a um tímido degelo nas relações entre China e Índia, após anos de tensões na fronteira",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T14:41:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "08d0d6228a99113d",
+    "manchete": "Noruegueses se despedem do rei Harald V e país entra em uma nova era monárquica",
+    "url": "https://www.infomoney.com.br/mundo/noruegueses-se-despedem-do-rei-harald-v-e-pais-entra-em-uma-nova-era-monarquica/",
+    "resumo": "Um mar de flores coloridas cobriu a Slottsplassen, a praça em frente ao palácio, enquanto um fluxo constante de noruegueses passava pelo local",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T14:15:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fe0a3664bc25ca67",
+    "manchete": "Trump recorre a lei de 1930 para aplicar tarifa de 50% sobre produtos canadenses",
+    "url": "https://www.moneytimes.com.br/trump-recorre-a-lei-de-1930-para-aplicar-tarifa-de-50-sobre-produtos-canadenses/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, acionou a Seção 338 da Lei de Tarifas de 1930 para impor uma taxa de 50% sobre US$ 20 bilhões em importações do Canadá. A medida, que autoriza o presidente a impor tarifas de até 50% sobre importações de países que tenham discriminado empresas americanas, gerou uma…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T14:12:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d717e8d1950bc8dc",
+    "manchete": "Aneel mantém bandeira tarifária amarela em setembro",
+    "url": "https://www.moneytimes.com.br/aneel-mantem-bandeira-tarifaria-amarela-em-setembro/",
+    "resumo": "A bandeira tarifária para os consumidores de energia seguirá amarela em setembro, como vem sendo desde o mês de maio, segundo nota divulgada pela Agência Nacional de Energia Elétrica (Aneel) na última sexta-feira (28). De acordo com o órgão, a sinalização reflete condições \"menos favoráveis de geração de energia no…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T14:08:10.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1c459ff8c76d4986",
+    "manchete": "Variedades agrícolas resilientes à mudança do clima atenuam efeito sazonal na inflação",
+    "url": "https://www.moneytimes.com.br/variedades-agricolas-resilientes-a-mudanca-do-clima-atenuam-efeito-sazonal-na-inflacao/",
+    "resumo": "O desenvolvimento de variedades agrícolas mais resilientes às mudanças climáticas é uma realidade crescente e tem ajudado a mitigar boa parte dos efeitos da sazonalidade sobre a inflação, avalia o coordenador dos Índices de Preços da FGV IBRE, André Braz. Ele cita como exemplo a Empresa Brasileira de Pesquisa…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T14:03:59.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "03c8523a43a3c2c3",
+    "manchete": "Lula chama Flávio de 'pior dos Bolsonaros'; senador aposta em economia e família",
+    "url": "https://www.infomoney.com.br/politica/lula-chama-flavio-de-pior-dos-bolsonaros-senador-aposta-em-economia-e-familia/",
+    "resumo": "A propaganda petista reservou boa parte do programa a fazer uma desconstrução de Flávio, com quem Lula está empatado tecnicamente nas pesquisas",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T14:01:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1a22c2684e5ea0a4",
+    "manchete": "Setor aéreo: slots e mercado ainda desafiam chegada de companhias de baixo custo",
+    "url": "https://www.infomoney.com.br/economia/setor-aereo-slots-e-mercado-ainda-desafiam-chegada-de-companhias-de-baixo-custo/",
+    "resumo": "Uma das barreiras apontadas é justamente a concentração dos slots em aeroportos como os de São Paulo, Brasília e Rio de Janeiro",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T14:01:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6a0c8c3d823e0fdc",
+    "manchete": "Após fuga bilionária, estrangeiros voltam à bolsa brasileira",
+    "url": "https://www.moneytimes.com.br/apos-fuga-bilionaria-estrangeiros-voltam-ao-mercado-brasileiro-lils/",
+    "resumo": "Depois da 'debandada' bilionária nas primeiras semanas de agosto, os investidores estrangeiros voltaram a aportar recursos na bolsa brasileira. Segundo o Bank of America (BofA), os 'gringos' injetaram R$ 3,2 bilhões na última semana. A retomada do fluxo reverteu parte dos quase R$ 22 bilhões retirados em agosto no…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T13:54:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ae8669f4c66d77b3",
+    "manchete": "Quem é o 'Rei do Ovo' que entrou na lista dos 10 maiores bilionários brasileiros",
+    "url": "https://www.infomoney.com.br/business/quem-e-o-rei-do-ovo-que-entrou-na-lista-dos-10-maiores-bilionarios-brasileiros/",
+    "resumo": "Sua fortuna avançou 79,08%, de R$ 19,6 bilhões em 2025 para R$ 35,1 bilhões neste ano",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T13:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "557879575d7e7916",
+    "manchete": "Trump recorre a lei de 1930 para aplicar tarifa de 50% sobre produtos canadenses",
+    "url": "https://www.infomoney.com.br/mundo/trump-recorre-a-lei-de-1930-para-aplicar-tarifa-de-50-sobre-produtos-canadenses/",
+    "resumo": "A decisão ocorreu sob a alegação de discriminação do Canadá contra as exportações norte-americanas dos setores de laticínios, automotivo e de bebidas alcoólicas",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T13:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5c311deea1aabf86",
+    "manchete": "Do rádio à TV: como a disputa pelo voto migrou do monólogo sem cortes para as regras rígidas do cronômetro nos debates",
+    "url": "https://www.moneytimes.com.br/do-radio-a-tv-como-a-disputa-pelo-voto-migrou-do-monologo-sem-cortes-para-as-regras-rigidas-do-cronometro-nos-debates/",
+    "resumo": "A transmissão de debates eleitorais ao vivo na televisão virou rotina no calendário político. Candidatos se enfrentam sob a pressão do relógio e assessores correm nos intervalos para orientações. Essa dinâmica nos estúdios é fruto de um caminho que exigiu décadas de transformações políticas, tecnológicas e jurídicas.…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T13:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "94f35d3defba8e99",
+    "manchete": "Gaza pode deixar de existir para sempre, diz chefe do Conselho da Paz de Trump",
+    "url": "https://www.infomoney.com.br/mundo/gaza-pode-deixar-de-existir-para-sempre-diz-chefe-do-conselho-da-paz-de-trump/",
+    "resumo": "Mladenov afirmou ainda que a permanência da crise humanitária estabelece as bases para futuros desdobramentos de segurança e confrontos militares",
+    "fonte": "InfoMoney",
+    "data": "2026-08-29T13:19:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2c02658965bc733d",
+    "manchete": "Brava Energia (BRAV3) anuncia nova mudança no conselho de administração",
+    "url": "https://www.moneytimes.com.br/brava-energia-brav3-anuncia-nova-mudanca-no-conselho-de-administracao-lils/",
+    "resumo": "A Brava Energia (BRAV3) anunciou nesta sexta-feira (28) a renúncia de Julián Fernando Lemos Valero ao cargo de membro efetivo do Conselho de Administração. Segundo a companhia, a saída do executivo deve-se às mudanças administrativas em curso na Ecopetrol. \"A companhia agradece ao Sr. Julián e expressa votos de…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T12:57:42.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ef4e2e83e57cf37f",
+    "manchete": "Eleitores da Islândia votam em referendo sobre retomada de negociações para adesão à UE",
+    "url": "https://www.moneytimes.com.br/eleitores-da-islandia-votam-em-referendo-sobre-retomada-de-negociacoes-para-adesao-a-ue-lils/",
+    "resumo": "Eleitores na Islândia votam neste sábado (29) em referendo para decidir sobre a retomada das negociações de adesão do país à União Europeia (UE), paralisadas há anos. O pleito ocorre no contexto de declarações do presidente dos Estados Unidos, Donald Trump, sobre o controle da vizinha Groenlândia. A votação é…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T12:24:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3a31c2aad113ea06",
+    "manchete": "O plano de US$ 15 bilhões do Egito para reduzir a dependência de alimentos importados",
+    "url": "https://www.moneytimes.com.br/novo-projeto-egito-rio-nilo-isca/",
+    "resumo": "Um país onde 96% do território é deserto depende de alimentos importados para abastecer quase 120 milhões de pessoas. Essa é a realidade do Egito. Para mudá-la, o governo egípcio lançou um projeto de US$ 15 bilhões que promete ser a maior expansão agrícola da história do país. Batizada de Novo Delta, a iniciativa…",
+    "fonte": "Money Times",
+    "data": "2026-08-29T12:07:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dd167e1521546cec",
+    "manchete": "Num ano de nove dígitos, América Latina agora rima com mega-rodadas de captação. Os números podem provar",
+    "url": "https://startupi.com.br/num-ano-de-nove-digitos-america-latina-agora-rima-com-mega-rodadas-de-captacao-os-numeros-podem-provar/",
+    "resumo": "Startupi Num ano de nove dígitos, América Latina agora rima com mega-rodadas de captação. Os números podem provar Análise da consultoria Cuantico VP apresenta rodadas de captação latino americanas que bateram recordes em 2026, colocando a região em novo patamar de de captação de recursos e de *valuation*. O post Num…",
+    "fonte": "Startupi",
+    "data": "2026-08-29T09:30:16.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "526362bccb5a7707",
     "manchete": "Minerva enfrenta o touro dos juros",
     "url": "https://agfeed.com.br/videos/agfeed-cnn-money/minerva-enfrenta-o-touro-dos-juros",
@@ -5763,18 +6074,6 @@
     "importancia": 3
   },
   {
-    "id": "b92ad0714623f50d",
-    "manchete": "Ponte entre a pesquisa e o mercado, Fundepag amplia atuação para além do agro",
-    "url": "https://agfeed.com.br/negocios/ponte-entre-a-pesquisa-e-o-mercado-fundepag-amplia-atuacao-para-alem-do-agro",
-    "resumo": "Com atuação em mais de 15 instituições de pesquisa, fundação de apoio à pesquisa do agro amplia projetos para áreas como meio ambiente e clima",
-    "fonte": "AgFeed",
-    "data": "2026-08-21T21:36:30.949Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "0be4a3e7c1f1cf43",
     "manchete": "Samsung abre o cofre e devolve até US$ 80 bilhões aos acionistas em meio ao boom de IA",
     "url": "https://neofeed.com.br/negocios/samsung-abre-o-cofre-e-devolve-ate-us-80-bilhoes-aos-acionistas-em-meio-ao-boom-de-ia/",
@@ -6189,18 +6488,6 @@
     "tags_tema": [
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7e75a205fd862854",
-    "manchete": "Agroindústria vira protagonista, mas não evita piora de números da Kepler Weber",
-    "url": "https://agfeed.com.br/negocios/agroindustria-vira-protagonista-mas-nao-evita-piora-de-numeros-da-kepler-weber",
-    "resumo": "Kepler Weber vê lucro cair 50% no 2º trimestre, mas agroindústria ganha força e lidera estratégia de diversificação",
-    "fonte": "AgFeed",
-    "data": "2026-08-21T10:49:51.258Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9835,302 +10122,6 @@
     "tags_tema": [
       "Regulação"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "606786e7d5ddc802",
-    "manchete": "Pablo Marçal está de volta? Justiça concede liminar e influenciador protocola pedido de candidatura à Presidência",
-    "url": "https://www.moneytimes.com.br/pablo-marcal-esta-de-volta-justica-concede-liminar-e-influenciador-protocola-pedido-de-candidatura-a-presidencia-apsa/",
-    "resumo": "A Justiça Eleitoral de São Paulo concedeu liminar para o influenciador Pablo Marçal trocar de sigla e se filiar ao Partido Renovador Trabalhista Brasileiro (PRTB) neste sábado (15). A medida abriu a possibilidade para Marçal protocolar pedido de registro de candidatura à Presidência. Apesar disso, o influencer ainda…",
-    "fonte": "Money Times",
-    "data": "2026-08-16T13:31:34.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2bd9be1832fc4f22",
-    "manchete": "Aplicação da Lei de Reciprocidade contra os EUA é vista como 'eleitoreira' por empresas exportadoras",
-    "url": "https://www.moneytimes.com.br/aplicacao-da-lei-de-reciprocidade-contra-os-eua-e-vista-como-eleitoreira-por-empresas-exportadoras-apsa/",
-    "resumo": "A abertura do processo de reciprocidade contra as tarifas aplicadas pelos Estados Unidos sobre produtos brasileiros não foi bem recebida pelos setores exportadores da indústria. A leitura é de que a medida atende ao propósito do presidente Luiz Inácio Lula da Silva (PT) de fortalecer o discurso de soberania nacional,…",
-    "fonte": "Money Times",
-    "data": "2026-08-16T13:15:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "59cf060869fd78c7",
-    "manchete": "Dividendos acima de 14%: 6 ações que podem superar a Selic",
-    "url": "https://www.moneytimes.com.br/dividendos-acima-de-14-6-acoes-que-podem-superar-a-selic-ceci/",
-    "resumo": "Com a Selic ainda em patamar elevado, as ações pagadoras de dividendos voltam ao radar dos investidores em busca de retornos acima da renda fixa. Em relatório, a Rico aponta que algumas companhias da Bolsa oferecem dividend yield superior à taxa básica de juros, mas alerta que a sustentabilidade dos pagamentos é tão…",
-    "fonte": "Money Times",
-    "data": "2026-08-16T13:00:00.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0798e8a3096c1070",
-    "manchete": "Casas Bahia (BHIA3) tem prejuízo de R$ 10,1 bilhões no 2T26",
-    "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-tem-prejuizo-de-r-101-bilhoes-no-2t26-apsa-2/",
-    "resumo": "A Casas Bahia (BHIA3) reportou prejuízo líquido de R$ 10,1 bilhões no segundo trimestre de 2026 (2T26), segundo demonstrações financeiras divulgadas na madrugada de domingo (16). O valor é 18 vezes maior do que o saldo negativo de R$ 555 milhões apresentado no mesmo período do ano anterior. De acordo com a varejista,…",
-    "fonte": "Money Times",
-    "data": "2026-08-16T12:48:02.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6a704dcf860984f2",
-    "manchete": "A cidade que nasceu de uma profecia e hoje é uma das maiores metrópoles do planeta",
-    "url": "https://www.moneytimes.com.br/a-cidade-mexicana-da-profecia-isca/",
-    "resumo": "Coincidência ou não, pouca gente sabe que a metrópole mais populosa da América do Norte teria surgido a partir de uma antiga profecia, eternizada até hoje na bandeira de seu país. Considerada por muitos a cidade mais bonita do mundo em um passado cada vez mais distante, ela já superava Londres em tamanho quando ainda…",
-    "fonte": "Money Times",
-    "data": "2026-08-16T12:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b6ffc2e3095450b8",
-    "manchete": "Rio avança no combate à informalidade dos combustíveis: como ajuda Vibra e Ultrapar?",
-    "url": "https://www.infomoney.com.br/mercados/rio-de-janeiro-eleva-cerco-a-informalidade-dos-combustiveis-como-isso-ajuda-vibra-e-ultrapar/",
-    "resumo": "Avanço do combate à sonegação e à informalidade no mercado de combustíveis do Rio pode acelerar a migração de mais de mil postos para operadores regulares e abrir espaço para ganhos de participação das companhias de capital aberto",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T10:00:00.000Z",
-    "tags_tema": [
-      "Private Equity",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4125f110e0cb26ba",
-    "manchete": "Os EUA querem fabricar seus próprios robôs humanoides. Mas isso não será fácil",
-    "url": "https://www.infomoney.com.br/business/global/os-eua-querem-fabricar-seus-proprios-robos-humanoides-mas-isso-nao-sera-facil/",
-    "resumo": "A China já fabrica robôs humanoides aos milhares. Uma nova geração de startups americanas aposta que ainda há tempo para competir",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1decba901e127044",
-    "manchete": "Europa enfrenta nova onda de calor e força turistas a mudar planos de viagem",
-    "url": "https://www.infomoney.com.br/business/global/europa-enfrenta-nova-onda-de-calor-e-forca-turistas-a-mudar-planos-de-viagem/",
-    "resumo": "As temperaturas dispararam, os incêndios florestais se espalharam e os rios secaram. Agora, o turismo europeu está sendo transformado pelas mudanças climáticas. Veja como os viajantes estão reagindo",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c9b5fb26b9c77d01",
-    "manchete": "Renda recorde é engolida por inflação e juros altos, que espremem bolso das famílias",
-    "url": "https://www.infomoney.com.br/economia/inadimplencia-inflacao-juros-altos-renda-recorde/",
-    "resumo": "Mesmo com desemprego em baixa e massa salarial recorde, comida mais cara e crédito caro impulsionam a inadimplência no país, dizem especialistas",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5a7c464aaac7e810",
-    "manchete": "Eleição de 2026 pode ter “faroeste” nas redes sociais maior que em 2022, diz analista",
-    "url": "https://www.infomoney.com.br/politica/eleicao-de-2026-pode-ter-faroeste-nas-redes-sociais-maior-que-em-2022-diz-analista/",
-    "resumo": "Bárbara Baião vê ambiente digital mais permissivo que em 2022 e alerta para dificuldade das campanhas em reagir à desinformação",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fde89db1d563c3e6",
-    "manchete": "Debate em Minas acontece neste domingo após adiamento; Cleitinho não deve participar",
-    "url": "https://www.infomoney.com.br/politica/debate-em-minas-acontece-neste-domingo-apos-adiamento-cleitinho-nao-deve-participar/",
-    "resumo": "Band transferiu encontro para 16 de agosto diante das indefinições sobre as candidaturas",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5193be5f7f02ed0a",
-    "manchete": "Lula chega ao primeiro ato favorito nas pesquisas, mas sob pressão de novas crises",
-    "url": "https://www.infomoney.com.br/politica/lula-chega-ao-primeiro-ato-favorito-nas-pesquisas-mas-sob-pressao-de-novas-crises/",
-    "resumo": "Presidente inicia a campanha oficial à frente de Flávio Bolsonaro e com alianças organizadas nos Estados, mas enfrenta avaliação dividida do governo e investigações que atingem pessoas próximas",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "20d1e6e0ef013e44",
-    "manchete": "Flávio abre campanha com eleitorado consolidado, mas palanques ainda fragmentados",
-    "url": "https://www.infomoney.com.br/politica/flavio-abre-campanha-com-eleitorado-consolidado-mas-palanques-ainda-fragmentados/",
-    "resumo": "Senador se firmou como principal adversário de Lula e garantiu apoios relevantes, mas entra na campanha com dificuldades para organizar uma frente nacional mais ampla",
-    "fonte": "InfoMoney",
-    "data": "2026-08-16T08:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5b0f6ce2dc02ad5c",
-    "manchete": "OPINIÃO. Os erros dos CEOs ao falar com jornalistas",
-    "url": "https://braziljournal.com/opiniao-os-erros-dos-ceos-ao-falar-com-jornalistas/",
-    "resumo": "Depois de acompanhar centenas de entrevistas com executivos e jornalistas, é possível perceber que os erros mais comuns raramente estão relacionados à falta de conhecimento sobre o próprio negócio. Em geral é o contrário: os CEOs conhecem tão profundamente suas empresas que têm dificuldade de enxergá-las do ponto de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-16T03:10:08.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "443e49d77af90eb9",
-    "manchete": "No Sítio da Pedra, a vida fora do escritório pariu um azeite",
-    "url": "https://braziljournal.com/no-sitio-da-pedra-a-vida-fora-do-escritorio-pariu-um-azeite/",
-    "resumo": "Todo fim de semana, o casal Paula Pedrão e Fabio Dias pega a estrada em São Paulo rumo a seu sítio na Serra da Mantiqueira. Paula nunca sonhou em empreender. A executiva de 57 anos fez sua carreira em empresas como o Grupo Pão de Açúcar e a JBS, e hoje é diretora de comunicação [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-16T03:10:06.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7ba5c8baa12d4dff",
-    "manchete": "A cabeça do VC “pragmático” que está comprando o OnlyFans",
-    "url": "https://braziljournal.com/a-cabeca-do-vc-pragmatico-que-esta-comprando-o-onlyfans/",
-    "resumo": "James Sagan, um VC de 34 anos baseado em São Francisco, quer “ganhar dinheiro, não preservar narrativas”. É assim que ele justifica estar prestes a assumir o controle do OnlyFans. Em sua primeira entrevista após liderar um concórcio que comprou 16% na rede social em março, o CEO da Architect Capital disse ao The…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-16T03:10:05.000Z",
-    "tags_tema": [
-      "M&A",
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "19e8a62c5b84164d",
-    "manchete": "OPINIÃO. Lula, o escorpião e os sapos",
-    "url": "https://braziljournal.com/opiniao-lula-o-escorpiao-e-os-sapos/",
-    "resumo": "Com o déficit público nominal atingindo 10% do PIB, o que antes preocupava apenas economistas, parte do mercado e uns poucos políticos transbordou para círculos maiores, chegando à arena eleitoral. O descontrole foi permitido pela fragilidade intencional do chamado “arcabouço fiscal” – a mágica petista vendida como…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-16T03:10:05.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f62e1a6e6d7ad370",
-    "manchete": "Em Minas, o PIB já tem candidato. Agora faltam os votos",
-    "url": "https://braziljournal.com/em-minas-o-pib-ja-tem-candidato-agora-faltam-os-votos/",
-    "resumo": "Não é de hoje que a eleição para o governo de Minas promete uma disputa rasteira, com foco nos arranjos nacionais e o futuro do estado em segundo plano – mas o senador Cleitinho Azevedo levou a coisa a um outro patamar. Líder nas pesquisas de intenção de voto, o político do Republicanos sequestrou o [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-16T01:00:04.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "23d4352d0565fec9",
-    "manchete": "BP volta à Venezuela (e vai sair do Mar do Norte)",
-    "url": "https://braziljournal.com/bp-volta-a-venezuela-e-vai-sair-do-mar-do-norte/",
-    "resumo": "A BP anunciou acordos com o novo Governo da Venezuela para exploração e produção de petróleo – mais uma gigante do setor a oficializar sua volta ao país depois que os EUA derrubaram Nicolás Maduro, em janeiro. Em meio a uma visita da CEO Meg O’Neill a Caracas, a petroleira britânica anunciou que obteve uma [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-15T23:49:56.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4aa4830bd950635d",
-    "manchete": "Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações",
-    "url": "https://www.infomoney.com.br/mercados/vivara-diz-que-fundos-sob-gestao-da-guepardo-investimentos-compraram-acoes/",
-    "resumo": "De acordo com a empresa, a Guepardo informou que a referida participação não tem por escopo a aquisição do controle da companhia",
-    "fonte": "InfoMoney",
-    "data": "2026-08-15T23:06:23.000Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cfc1c38e0c8c7550",
-    "manchete": "Catar nega estar detendo pilotos iranianos",
-    "url": "https://www.infomoney.com.br/mundo/catar-nega-estar-detendo-pilotos-iranianos/",
-    "resumo": "O porta-voz afirmou que Teerã ainda não respondeu ao convite para analisar detalhes de suas operações",
-    "fonte": "InfoMoney",
-    "data": "2026-08-15T23:03:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d1f298f0b96dc6bc",
-    "manchete": "Ferragosto, o feriado italiano que transformou o \"dolce far niente\" em um negócio bilionário",
-    "url": "https://neofeed.com.br/finde/ferragosto-o-feriado-italiano-que-transformou-o-dolce-far-niente-em-um-negocio-bilionario/",
-    "resumo": "Com raízes no Império Romano, um dos principais rituais nacionais da Itália leva 20% da população do país a viajar e movimenta € 18,5 bilhões",
-    "fonte": "NeoFeed",
-    "data": "2026-08-15T21:32:49.092Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46b41f7bf73ea368",
-    "manchete": "A mulher que \"bordou\" a vida, quatro filhos e a arte",
-    "url": "https://neofeed.com.br/finde/a-mulher-que-bordou-a-vida-quatro-filhos-e-a-arte/",
-    "resumo": "Mãe da dupla Osgêmeos, Margarida L. Kanciukaitis Pandolfo só viu seu trabalho ganhar reconhecimento artístico depois dos 60 anos",
-    "fonte": "NeoFeed",
-    "data": "2026-08-15T21:32:49.088Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
