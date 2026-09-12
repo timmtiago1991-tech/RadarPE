@@ -1,5 +1,292 @@
 [
   {
+    "id": "07019657ec80e8df",
+    "manchete": "Conselho da Fertilizantes Heringer já vê recuperação extrajudicial como opção Conselho da Fertilizantes Heringer já vê recuperação extrajudicial como opção",
+    "url": "https://agfeed.com.br/negocios/conselho-da-fertilizantes-heringer-ja-ve-recuperacao-extrajudicial-como-opcao",
+    "resumo": "Heringer avalia recuperação extrajudicial após autorizar medidas para reestruturar dívidas em meio à crise financeira",
+    "fonte": "AgFeed",
+    "data": "2026-09-12T23:02:01.443Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f25bfc7f386764fa",
+    "manchete": "A aposta “bioracional” da Sumitomo Chemical para dobrar de tamanho no Brasil até 2030 A aposta “bioracional” da Sumitomo Chemical para dobrar de tamanho no Brasil até 2030",
+    "url": "https://agfeed.com.br/negocios/a-aposta-bioracional-da-sumitomo-chemical-para-dobrar-de-tamanho-no-brasil-ate-2030",
+    "resumo": "O que é e como uma nova categoria de produtos, os BioRacionais, pode potencializar os resultados da companhia, que faturou R$ 4,1 bi no País",
+    "fonte": "AgFeed",
+    "data": "2026-09-12T23:02:01.443Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eedb8fa6dc6f2f74",
+    "manchete": "Sem vender terras na operação local, BrasilAgro encerra safra 2025/2026 com prejuízo Sem vender terras na operação local, BrasilAgro encerra safra 2025/2026 com prejuízo",
+    "url": "https://agfeed.com.br/negocios/sem-vender-terras-na-operacao-local-brasilagro-encerra-safra-2025-2026-com-prejuizo",
+    "resumo": "BrasilAgro fecha safra 2025/2026 com prejuízo de R$ 90 milhões e prevê retomada das vendas de terras no próximo ciclo",
+    "fonte": "AgFeed",
+    "data": "2026-09-12T23:02:01.443Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d47f3b8a78e10b3c",
+    "manchete": "Ataques russos deixam 8 mortos e dezenas de feridos na Ucrânia",
+    "url": "https://www.infomoney.com.br/mundo/ataques-russos-deixam-8-mortos-e-dezenas-de-feridos-na-ucrania/",
+    "resumo": "Ação ocorreu depois do presidente da Rússia, Vladimir Putin, advertir que o envio de tropas europeias ao país equivaleria a conflito direto",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T22:52:03.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e72768b57ab9eeb9",
+    "manchete": "Tesla dá prévia de evento em 1º de outubro para apresentar o Roadster de nova geração",
+    "url": "https://www.infomoney.com.br/business/tesla-da-previa-de-evento-em-1o-de-outubro-para-apresentar-o-roadster-de-nova-geracao/",
+    "resumo": "Empresa anunciou data que deve provocar mais especulações sobre fusão com SpaceX: 'Pronto para lançamento'",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T22:15:00.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9fa8bbba2e2d9eb4",
+    "manchete": "“Woman Unknown” leva prêmio principal do Festival de Veneza",
+    "url": "https://www.infomoney.com.br/mundo/woman-unknown-leva-premio-principal-do-festival-de-veneza/",
+    "resumo": "Drama pós-guerra da cineasta dinamarquesa May el-Toukhy conquistou o Leão de Ouro",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T22:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2dbecac7d0aa870b",
+    "manchete": "Santos x Cruzeiro no Brasileirão: onde assistir?",
+    "url": "https://www.infomoney.com.br/esportes/santos-cruzeiro-brasileirao-onde-assistir/",
+    "resumo": "Jogo acontece neste sábado, às 21h, na Vila Belmiro",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T21:55:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "23cd2758c1710e10",
+    "manchete": "Apocalipse da IA: por dentro das conversas que tomaram a indústria de tecnologia",
+    "url": "https://www.infomoney.com.br/business/global/apocalipse-da-ia-por-dentro-das-conversas-que-tomaram-a-industria-de-tecnologia/",
+    "resumo": "Demissão pública de pesquisador da Anthropic levou possíveis riscos do avanço tecnológico à pauta das empresas",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T21:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "82391ee7ec0d55df",
+    "manchete": "SpaceX vai ganhar mais peso no Nasdaq 100 após rebalanceamento",
+    "url": "https://www.infomoney.com.br/mercados/spacex-vai-ganhar-mais-peso-no-nasdaq-100-apos-rebalanceamento/",
+    "resumo": "Mudança pode gerar bilhões de dólares em compras por parte de fundos passivos atrelados ao índice",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T21:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "31ac55fa89e9960c",
+    "manchete": "Datafolha: 76% afirmam que há poder excessivo no STF",
+    "url": "https://www.infomoney.com.br/politica/datafolha-76-afirmam-que-ha-poder-excessivo-no-stf/",
+    "resumo": "Maioria dos entrevistados disse que não mudou voto após crise no Supremo",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T21:24:52.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aad936eac9968f12",
+    "manchete": "Trump diz que “adoraria” ver Irlanda unificada",
+    "url": "https://www.infomoney.com.br/mundo/trump-diz-que-adoraria-ver-irlanda-unificada/",
+    "resumo": "Trump diz que “adoraria” ver Irlanda unificada",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T21:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bbdf3a9f27bd1a60",
+    "manchete": "Em meio à pressão, Ellison encerra plano de vender US$ 7,5 bi em ações da Oracle",
+    "url": "https://www.infomoney.com.br/mercados/em-meio-a-pressao-ellison-encerra-plano-de-vender-us-75-bi-em-acoes-da-oracle/",
+    "resumo": "As ações valiam cerca de US$ 8,75 bilhões quando o plano foi adotado em 22 de junho, mas as ações da Oracle caíram 16% desde então",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T20:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c7905dd5164381fd",
+    "manchete": "IPO da OpenAI não ocorrerá antes de 2027, diz Sam Altman à Fortune",
+    "url": "https://www.infomoney.com.br/mercados/ipo-da-openai-nao-ocorrera-antes-de-2027-diz-sam-altman-a-fortune/",
+    "resumo": "Altman afirmou que uma oferta pública inicial seria \"inoportuna\" neste ano e não ocorrerá antes de 2027, devido a preocupações com a segurança da inteligência artificial, segundo a entrevista publicada no sábado",
+    "fonte": "InfoMoney",
+    "data": "2026-09-12T20:18:05.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "14de51128069c065",
+    "manchete": "Você pratica algum esporte? — by Pedro Vinicio",
+    "url": "https://braziljournal.com/voce-pratica-algum-esporte-by-pedro-vinicio/",
+    "resumo": "Ver o último.",
+    "fonte": "Brazil Journal",
+    "data": "2026-09-12T15:52:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "324059bd0d3e6782",
+    "manchete": "Seus túneis não vão longe, mas a Boring Company continua a escavar",
+    "url": "https://braziljournal.com/seus-tuneis-nao-vao-longe-mas-a-boring-company-continua-a-escavar/",
+    "resumo": "A The Boring Company (TBC) – a startup de infraestrutura de túneis de Elon Musk – foi avaliada em US$ 23 bilhões numa rodada Série D para iniciar um projeto de mais de 150 quilômetros de transporte subterrâneo nos Emirados Árabes Unidos. O aporte de US$ 3 bilhões foi liderado pelo governo e outras entidades [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-09-12T15:40:54.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3a01978fc1380ca7",
+    "manchete": "Bitcoin atingiu fundo do ciclo? CEO da Coinbase acredita que sim e faz previsão ousada",
+    "url": "https://www.moneytimes.com.br/bitcoin-atingiu-fundo-do-ciclo-ceo-da-coinbase-acredita-que-sim-e-faz-previsao-ousada-lbrdbm213/",
+    "resumo": "Brian Armstrong vê o bitcoin (BTC) entrando em nova fase de valorização e aponta um 'alvo razoável' para a criptomoeda em 2030",
+    "fonte": "Money Times",
+    "data": "2026-09-12T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "77483cad2c9d6c36",
+    "manchete": "WEG (WEGE3), Suzano (SUZB3) e mais ações para investir na semana, segundo a Terra Investimentos",
+    "url": "https://www.moneytimes.com.br/weg-wege3-suzano-suzb3-e-mais-acoes-para-investir-na-semana-segundo-a-terra-investimentos-lmrs/",
+    "resumo": "A Terra Investimentos não mexeu na composição da carteira recomendada semanal de ações para o período de 11 a 18 de setembro. Dessa maneira, seguem no portfólio os papéis da WEG (WEGE3), MBRF (MBRF3), Suzano (SUZB3), Hypera (HYPE3) e Iguatemi (IGTI11). Na última semana, a seleção de ações da casa teve desempenho…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T14:50:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "75fe31ad735f1cca",
+    "manchete": "Zelensky: Ucrânia está sofrendo ataques contínuos desde dia 11; em Odesa, 37 ficam feridas",
+    "url": "https://www.moneytimes.com.br/zelensky-ucrania-esta-sofrendo-ataques-continuos-desde-dia-11-em-odesa-37-ficam-feridas/",
+    "resumo": "O presidente da Ucrânia, Volodymyr Zelensky, afirmou, em uma publicação em sua conta no X nesta sábado, 12, que cidades e comunidades ucranianas têm sido quase constantemente atacadas desde a noite de ontem. Segundo ele, em Odesa, operações de resgate continuam no local de um prédio danificado por um míssil russo e…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T14:22:52.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "75bcb452c54398ef",
+    "manchete": "Governo do Iraque confirma que ataques a oleoduto Saudita partiram de seu território",
+    "url": "https://www.moneytimes.com.br/governo-do-iraque-confirma-que-ataques-a-oleoduto-saudita-partiram-de-seu-territorio/",
+    "resumo": "Ataques a um importante oleoduto saudita foram lançados a partir do território do Iraque, disse o governo iraquiano neste sábado, 12. O primeiro-ministro Ali al-Zaidi ordenou uma investigação sobre o comando das operações na província de Maysan e demitiu seu comandante depois que as autoridades determinaram que…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T14:20:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5be1cd0e7b92a69a",
+    "manchete": "Irã: Pezeshkian rejeita papel estrangeiro na segurança regional e diz que Teerã não quer guerra",
+    "url": "https://www.moneytimes.com.br/ira-pezeshkian-rejeita-papel-estrangeiro-na-seguranca-regional-e-diz-que-teera-nao-quer-guerra/",
+    "resumo": "O presidente do Irã, Masoud Pezeshkian, afirmou neste sábado, 12, durante uma reunião com o primeiro-ministro da Malásia, Anwar Ibrahim, à margem da cúpula do BRICS na Índia, que rejeita qualquer papel estrangeiro na segurança regional, segundo a rede de televisão estatal iraniana PressTV, no contexto da guerra com os…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T14:17:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "313965e39105a754",
+    "manchete": "BRICS expressa preocupação com o Oriente Médio e condena sanções não autorizadas pela ONU",
+    "url": "https://www.moneytimes.com.br/brics-expressa-preocupacao-com-o-oriente-medio-e-condena-sancoes-nao-autorizadas-pela-onu/",
+    "resumo": "O grupo BRICS expressou preocupação neste sábado, 12, sobre o aumento das tensões no Oriente Médio e condenou o uso de sanções não autorizadas pela ONU, enquanto os líderes se reuniram em Nova Délhi para fortalecer sua posição em assuntos globais vistos como dominados pelo Ocidente. A reunião, que contou com a…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T14:14:52.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "37948e0712242f86",
+    "manchete": "Petrobras (PETR4) recebe pagamento de novas parcelas do programa de subvenção econômica do diesel",
+    "url": "https://www.moneytimes.com.br/petrobras-petr4-recebe-pagamento-de-novas-parcelas-do-programa-de-subvencao-economica-do-diesel/",
+    "resumo": "A Petrobras (PETR3;PETR4) informou que recebeu novas parcelas do Programa de Subvenção Econômica à comercialização de diesel, segundo comunicado divulgado na sexta-feira. A companhia recebeu R$ 644 milhões, correspondente à comercialização de diesel entre 1º e 15 de junho e R$ 1,92 bilhão, correspondente à…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T13:47:03.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1435a8c33586448d",
+    "manchete": "Toky (TOKY3) elege novo membro para conselho em meio a questionamentos de minoritários",
+    "url": "https://www.moneytimes.com.br/toky-toky3-elege-novo-membro-para-conselho-em-meio-a-questionamentos-de-minoritarios/",
+    "resumo": "O Grupo Toky (TOKY3) elegeu João Pedro Maya interinamente como membro independente do conselho de administração da companhia, após a renúncia de André Felipe Rosado França, anunciada ao mercado em 31 de agosto. Segundo comunicado à Comissão de Valores Mobiliários (CVM), a eleição de Maya ainda será submetida à…",
+    "fonte": "Money Times",
+    "data": "2026-09-12T13:41:34.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "12c176749e02534d",
     "manchete": "Vylor lança plataforma Edge e herda portfólio da Catalyst para acelerar inovação em agtechs",
     "url": "https://agfeed.com.br/agtech/vylor-lanca-plataforma-edge-e-herda-portfolio-da-catalyst-para-acelerar-inovacao-em-agtechs-e-biologicos",
@@ -106,6 +393,18 @@
     "resumo": "Cofundada pela mineira Mariana Maciel, a biotech canadense Thronus Medical foi uma das pioneiras no Brasil a apostar na nanotecnologia",
     "fonte": "NeoFeed",
     "data": "2026-09-12T13:37:38.620Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "52c3b222a8d47899",
+    "manchete": "Rio Tietê sobe e fica perto de transbordar na cidade de São Paulo",
+    "url": "https://www.moneytimes.com.br/rio-tiete-sobe-e-fica-perto-de-transbordar-na-cidade-de-sao-paulo/",
+    "resumo": "Com a intensidade das chuvas na cidade de São Paulo, o Rio Tietê subiu e está perto de transbordar. Registro feito na manhã deste sábado, 12, mostra a elevação do volume do rio na altura da Ponte da Freguesia do Ó, zona norte da capital. A capital amanheceu bastante chuvosa. De acordo com o Centro [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-09-12T13:36:49.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
@@ -6426,44 +6725,6 @@
     "importancia": 3
   },
   {
-    "id": "70d9900d8a131b96",
-    "manchete": "Preço global dos alimentos sobe 1,9% em agosto, puxado por açúcar e cereais Índice da FAO atingiu 133,3 pontos, maior nível desde maio de 2024; açúcar teve a maior alta do mês, de 11,9%",
-    "url": "https://www.cnnbrasil.com.br/agro/preco-global-dos-alimentos-sobe-19-em-agosto-puxado-por-acucar-e-cereais/",
-    "resumo": "Índice da FAO atingiu 133,3 pontos, maior nível desde maio de 2024; açúcar teve a maior alta do mês, de 11,9%",
-    "fonte": "AgFeed",
-    "data": "2026-09-04T14:23:54.841Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "52119317505c390e",
-    "manchete": "Com fundo de R$ 100 milhões, Riza leva investidores brasileiros às terras da Bolívia",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/andav/com-fundo-de-r-100-milhoes-riza-leva-investidores-brasileiros-as-terras-da-bolivia",
-    "resumo": "Gestora se associou à Yata para comprar e desenvolver 22 mil hectares de terras no Beni, região da Bolívia ainda pouco explorada no agro",
-    "fonte": "AgFeed",
-    "data": "2026-09-04T14:23:54.838Z",
-    "tags_tema": [
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cd33523a0c2f3fa2",
-    "manchete": "\"Quem não quiser emprestar para o agro, não adianta estar no Brasil para emprestar dinheiro\"",
-    "url": "https://agfeed.com.br/videos/speedcast/andav-2026/quem-nao-quiser-emprestar-para-o-agro-nao-adianta-estar-no-brasil-para-emprestar-dinheiro",
-    "resumo": "Em entrevista ao SpeedCast Andav 2026, o sócio da Riza Asset, Paulo Mesquita, diz que o mercado de capitais está aberto para o setor",
-    "fonte": "AgFeed",
-    "data": "2026-09-04T14:23:54.837Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "a3dd052cf80a2454",
     "manchete": "Governo testa na Rota do Pequi acordo de saída para destravar \"rodovias estressadas\"",
     "url": "https://neofeed.com.br/economia/governo-testa-na-rota-do-pequi-acordo-de-saida-para-destravar-rodovias-estressadas/",
@@ -9843,281 +10104,6 @@
     "resumo": "Com um mês marcado por altas e baixas, o Ibovespa se aproxima de fechar agosto no \"zero a zero\". Considerando a aproximação das eleições de 2026, Ruy Hungria, analista da Empiricus Research, avalia que a possível volatilidade eleitoral, na verdade, pode ser boa para investidores que souberem escolher as empresas…",
     "fonte": "Money Times",
     "data": "2026-08-31T16:50:13.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ac12b543c9c1de99",
-    "manchete": "Cade aprova, sem restrições, arrendamento de terminal de gás pela J&#038;F",
-    "url": "https://www.moneytimes.com.br/cade-aprova-sem-restricoes-arrendamento-de-terminal-de-gas-pela-jf/",
-    "resumo": "O Conselho Administrativo de Defesa Econômica (Cade) aprovou, sem restrições, o arrendamento, pela J&#38;F S.A. (J&#38;F), do Terminal Gás Sul (TGS), de propriedade e atualmente operado pela norte-americana, NFE Power Latam Participações e Comércio. Segundo despacho do órgão, a operação não está sujeita à aprovação de…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T16:43:10.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6cccb16549a7a0a6",
-    "manchete": "Messi anuncia aposentadoria da seleção argentina: “Foi uma decisão que doeu”",
-    "url": "https://www.infomoney.com.br/esportes/messi-anuncia-aposentadoria-da-selecao-argentina-foi-uma-decisao-que-doeu/",
-    "resumo": "Aos 39 anos, capitão dos títulos da Copa de 2022 e da campanha até a final de 2026 disse deixar a Albiceleste com “orgulho” pelos momentos históricos vividos ao lado dos companheiros",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T16:40:39.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "97f4615c589f0347",
-    "manchete": "País tem cenário de 'forte despolitização' e crescimento de Augusto Cury foi 'inorgânico', diz Renan Santos",
-    "url": "https://www.moneytimes.com.br/renan-santos-pais-tem-cenario-de-forte-despolitizacao-e-crescimento-de-cury-foi-inorganico-gaep/",
-    "resumo": "O candidato da Missão à Presidência da República, Renan Santos, chamou de \"inorgânico\" o crescimento de Augusto Cury (Avante) nas pesquisas e disse que a candidatura do escritor e psiquiatra é beneficiada por um cenário de \"forte despolitização\" no Brasil. Em entrevista ao Estadão nesta segunda-feira (31), Renan disse…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T16:40:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b723aa5845f0b5e3",
-    "manchete": "Cúpula de Xi, Putin e Irã testa força de bloco criado para rivalizar com os EUA",
-    "url": "https://www.infomoney.com.br/mundo/cupula-de-xi-putin-e-ira-testa-forca-de-bloco-criado-para-rivalizar-com-os-eua/",
-    "resumo": "Reunião da Organização de Cooperação de Xangai ocorre sob pressão das novas sanções de Washington contra Teerã e expõe divisões entre os integrantes",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T16:38:22.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "290f43cc2d59c2a5",
-    "manchete": "Brasil está mais sujeito a risco cambial em cenário de estresse fiscal, alerta UBS",
-    "url": "https://www.infomoney.com.br/economia/brasil-esta-mais-sujeito-a-risco-cambial-em-cenario-de-estresse-fiscal-alerta-ubs/",
-    "resumo": "Estudo do banco argumenta que maior indexação da dívida pública à Selic pode se converter em demanda por proteção cambial em um cenário de dominância fiscal",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T16:29:19.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fcad31bae48c4379",
-    "manchete": "Câmara dos EUA retoma trabalhos com projeto para evitar shutdown antes das eleições",
-    "url": "https://www.infomoney.com.br/mundo/camara-dos-eua-retoma-trabalhos-com-projeto-para-evitar-shutdown-antes-das-eleicoes/",
-    "resumo": "Parlamentares retornam a Washington após terem permanecido cinco semanas em seus distritos eleitorais",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T15:36:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f1149c4daf55513d",
-    "manchete": "EUA diz que registro usado para prender Filipe Martins é falso e cobra documento",
-    "url": "https://www.infomoney.com.br/politica/eua-diz-que-registro-usado-para-prender-filipe-martins-e-falso-e-cobra-documento/",
-    "resumo": "Martins foi preso preventivamente em fevereiro de 2024 a pedido das autoridades brasileiras no âmbito da investigação sobre a tentativa de golpe de Estado",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T15:28:36.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0f44d5b9d7ad0c1a",
-    "manchete": "Quando é o quinto dia útil de setembro? Saiba quando o salário deverá ser pago",
-    "url": "https://www.infomoney.com.br/minhas-financas/quando-e-o-quinto-dia-util/",
-    "resumo": "A contagem considera dias úteis de segunda-feira a sábado.",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T15:27:22.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bf1ea1a01ce3dc9d",
-    "manchete": "Apenas 14% das empresas se dizem preparadas para a reforma tributária, aponta pesquisa",
-    "url": "https://startupi.com.br/apenas-14-das-empresas-se-dizem-preparadas-para-a-reforma-tributaria-aponta-pesquisa/",
-    "resumo": "Startupi Apenas 14% das empresas se dizem preparadas para a reforma tributária, aponta pesquisa A menos de um ano do início de uma nova etapa da Reforma Tributária, as empresas brasileiras avançam na compreensão dos impactos das novas regras, mas ainda enfrentam uma distância relevante entre estudar a mudança e estar…",
-    "fonte": "Startupi",
-    "data": "2026-08-31T13:25:05.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "555ceff5c9378cb0",
-    "manchete": "Scooto cresce 50% no primeiro semestre e projeta receita de R$ 30 milhões em 2026",
-    "url": "https://startupi.com.br/scooto-cresce-50-no-primeiro-semestre-e-projeta-receita-de-r-30-milhoes-em-2026/",
-    "resumo": "Startupi Scooto cresce 50% no primeiro semestre e projeta receita de R$ 30 milhões em 2026 A Scooto encerrou o primeiro semestre de 2026 com receita de R$ 12 milhões, crescimento de 50% em relação ao mesmo período de 2025. No período, a empresa também ampliou em 23% sua base de clientes e registrou alta de…",
-    "fonte": "Startupi",
-    "data": "2026-08-31T13:17:54.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4f28710a7557f1d6",
-    "manchete": "Pix: quando uma inovação brasileira passa a chamar a atenção do mercado global",
-    "url": "https://startupi.com.br/pix-quando-uma-inovacao-brasileira-passa-a-chamar-a-atencao-do-mercado-global/",
-    "resumo": "Startupi Pix: quando uma inovação brasileira passa a chamar a atenção do mercado global * Por Victor Papi Poucas tecnologias conseguiram transformar tão rapidamente o comportamento financeiro de um país quanto o Pix. Lançado pelo Banco Central em 2020, o sistema de pagamentos instantâneos já movimentou R$ 84,9…",
-    "fonte": "Startupi",
-    "data": "2026-08-31T13:12:52.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cb24c75087431bd5",
-    "manchete": "BREAKING. Carlucci é o novo CEO da Natura, Fabio Barbosa volta ao board",
-    "url": "https://braziljournal.com/breaking-carlucci-e-o-novo-ceo-da-naturaco-fabio-barbosa-volta-ao-board/",
-    "resumo": "A Natura acaba de anunciar uma troca de cadeiras no topo da companhia – desencadeada pela saída do CEO João Paulo Ferreira, que estava há 10 anos no cargo. João Paulo será substituído por Alessandro Carlucci, que já foi CEO da companhia entre 2004 e 2014, voltou como conselheiro em abril do ano passado e [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-31T12:09:22.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3ed07a83eb518c43",
-    "manchete": "As duas obsessões da Minerva: diversificar e desalavancar",
-    "url": "https://braziljournal.com/as-duas-obsessoes-da-minerva-diversificar-e-desalavancar/",
-    "resumo": "BARRETOS – Assim como todos os executivos do setor frigorífico, Fernando Queiroz, o CEO da Minerva Foods e membro da família controladora, foi surpreendido por uma postagem de Donald Trump nos últimos dias. Nela, o presidente americano anunciava a suspensão temporária por 90 dias das tarifas aplicadas acima da cota de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-31T09:50:58.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5b3562a1671fb993",
-    "manchete": "“Emergente sem AI” (e ainda sem reformas), Brasil continua sem fluxo",
-    "url": "https://braziljournal.com/emergente-sem-ai-e-ainda-sem-reformas-brasil-continua-sem-fluxo/",
-    "resumo": "Sem teses diretamente ligadas à inteligência artificial, e sob a sombra do quadro fiscal e da indefinição eleitoral, o Brasil continua esquecido pelos investidores globais. Para David Beker, chefe de economia para o Brasil e de estratégia para América Latina do Bank of America, “nenhum investidor está querendo…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-31T09:50:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9f8ee8c19449102e",
-    "manchete": "Nunca antes neste País… o brasileiro afogou tanto em dívidas",
-    "url": "https://braziljournal.com/nunca-antes-neste-pais-o-brasileiro-afogou-tanto-em-dividas/",
-    "resumo": "Não são só as empresas. As famílias brasileiras também estão afogadas em dívidas, que já consomem R$ 3 de cada R$ 10 da renda disponível. Há quatro anos, na largada da campanha eleitoral de 2022, uma das principais promessas do então candidato Lula era justamente tirar o peso da dívida de cima dos ombros dos [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-31T09:50:04.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46f53a6448c1d7c3",
-    "manchete": "Meta amplia risco regulatório para startups que vivem de dados e engajamento",
-    "url": "https://startupi.com.br/meta-amplia-risco-regulatorio-para-startups-que-vivem-de-dados-e-engajamento/",
-    "resumo": "Startupi Meta amplia risco regulatório para startups que vivem de dados e engajamento Restrições a Facebook e Instagram nos Estados Unidos colocam modelos de crescimento digital sob escrutínio e podem elevar custos de marketing, compliance e aquisição de clientes para empresas emergentes. O post Meta amplia risco…",
-    "fonte": "Startupi",
-    "data": "2026-08-31T08:00:00.000Z",
-    "tags_tema": [
-      "M&A",
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "64bcc817a2b327ad",
-    "manchete": "Startup Summit 2026 em Floripa: palco, ponte e motor da inovação e da competitividade",
-    "url": "https://startupi.com.br/startup-summit-2026-em-floripa-palco-ponte-e-motor-da-inovacao-e-da-competitividade/",
-    "resumo": "Startupi Startup Summit 2026 em Floripa: palco, ponte e motor da inovação e da competitividade Com mais de 10 mil participantes e quase R$400 milhões em intenções de investimento, Florianópolis ratificou que mostrar ideias e conectar atores é condição necessária para inovação com escala. O post Startup Summit 2026 em…",
-    "fonte": "Startupi",
-    "data": "2026-08-31T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8d4e49df62a7809d",
-    "manchete": "A transição dolorosa que vai desacelerar a China e alterar a relação com o Brasil",
-    "url": "https://neofeed.com.br/economia/a-transicao-dolorosa-que-vai-desacelerar-a-china-e-alterar-a-relacao-com-o-brasil/",
-    "resumo": "Em entrevista ao NeoFeed, Hongbin Li, codiretor do Centro de Economia e Instituições da China de Stanford aponta desigualdade como um desafio para novo modelo",
-    "fonte": "NeoFeed",
-    "data": "2026-08-30T23:27:31.723Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "01fd950eb77b9f84",
-    "manchete": "ARTIGO: A ascensão dos juros longos e seus novos compradores",
-    "url": "https://neofeed.com.br/insiders/artigo-a-ascensao-dos-juros-longos-e-seus-novos-compradores/",
-    "resumo": "Os juros mais altos dos títulos americanos estão mostrando uma mudança no equilíbrio global entre oferta e demanda, que ampliou o prêmio necessário para atrair compradores",
-    "fonte": "NeoFeed",
-    "data": "2026-08-30T23:27:31.723Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a5cf1b8cedaeaa3e",
-    "manchete": "Trump diz que denunciará jornalista da NBC ao órgão regulador da mídia nos EUA",
-    "url": "https://www.infomoney.com.br/mundo/trump-diz-que-denunciara-jornalista-da-nbc-ao-orgao-regulador-da-midia-nos-eua/",
-    "resumo": "O comentário sobre Kristen Welker, da NBC, é o mais recente de uma série de ataques contra a mídia",
-    "fonte": "InfoMoney",
-    "data": "2026-08-30T22:00:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4219691e0964725f",
-    "manchete": "Benzema rescinde com Al-Hilal e pode encerrar carreira, diz jornalista",
-    "url": "https://www.infomoney.com.br/esportes/benzema-rescinde-com-al-hilal-e-pode-encerrar-carreira-diz-jornalista/",
-    "resumo": "Enquanto o Al-Hilal está próximo de acertar a saída do centroavante francês, o inglês Ollie Watkins foi anunciado neste domingo",
-    "fonte": "InfoMoney",
-    "data": "2026-08-30T21:27:00.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
