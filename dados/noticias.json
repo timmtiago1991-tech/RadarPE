@@ -1,5 +1,276 @@
 [
   {
+    "id": "0cc5aaa4dd139635",
+    "manchete": "ARTIGO: O fim da cultura da demolição e o valor do que já está de pé",
+    "url": "https://neofeed.com.br/finde/artigo-o-fim-da-cultura-da-demolicao-e-o-valor-do-que-ja-esta-de-pe/",
+    "resumo": "Custos elevados, pressão regulatória e novas exigências de uso estão mudando a lógica do mercado imobiliário",
+    "fonte": "NeoFeed",
+    "data": "2026-09-13T14:25:55.184Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a645c996dda753e0",
+    "manchete": "A grappa italiana que fez Jorge Amado viajar de avião chega ao Brasil",
+    "url": "https://neofeed.com.br/finde/a-grappa-italiana-que-fez-jorge-amado-viajar-de-aviao-chega-ao-brasil/",
+    "resumo": "À frente da destilaria desde 1897, os Nonino revolucionaram o mercado de grappa, conquistaram a amizade de Jorge Amado e agora preparam a chegada de seus destilados ao Brasil",
+    "fonte": "NeoFeed",
+    "data": "2026-09-13T14:25:55.183Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b66f66857673aa9c",
+    "manchete": "Mercados encaram semana crucial com decisões de juros pelo mundo; confira a agenda de indicadores",
+    "url": "https://www.moneytimes.com.br/mercados-encaram-semana-crucial-com-decisoes-de-juros-pelo-mundo-confira-a-agenda-de-indicadores-jcav/",
+    "resumo": "A semana de 14 a 19 de setembro será marcada por decisões de juros no Brasil, nos Estados Unidos, no Reino Unido e no Japão. No Brasil, além da decisão do Comitê ded Política Monetária (Copom), os investidores acompanham dados importantes de atividade econômica. A agenda começa com o Boletim Focus, na segunda-feira…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T14:25:00.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "04b4f300a7ce6232",
+    "manchete": "Crise no STF não altera voto de mais de 80% dos eleitores, mostra Datafolha",
+    "url": "https://www.infomoney.com.br/politica/crise-no-stf-nao-altera-voto-de-mais-de-80-dos-eleitores-mostra-datafolha/",
+    "resumo": "Troca de mensagens entre Moraes e Vorcaro levou 4% a mudar escolha para presidente",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T14:20:19.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d6a8ab62abf3cd8",
+    "manchete": "Timemania hoje, concurso 2441: Confira o resultado sorteado neste domingo (13)",
+    "url": "https://www.infomoney.com.br/consumo/timemania-hoje-concurso-2441-confira-o-resultado-sorteado-neste-domingo-13/",
+    "resumo": "São sorteados sete números e um Time do Coração por concurso",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T14:17:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bcff052bc68ab2a5",
+    "manchete": "Hapvida (HAPV3): Com tombo das ações, BB Investimentos revisa preço-alvo e vê pernada de 60%; hora de comprar?",
+    "url": "https://www.moneytimes.com.br/hapvida-hapv3-com-tombo-das-acoes-bb-investimentos-revisa-preco-alvo-e-ve-pernada-de-60-hora-de-comprar/",
+    "resumo": "Não é exagero dizer que a Hapvida (HAPV3) vive o seu pior momento na bolsa. Desde 2018, quando abriu capital, a queda é brutal: 92%. Neste ano, a ação tomba mais 50%. A R$ 6,73, trata-se da pior cotação da história da companhia. A questão agora é: o papel está no seu piso? O BB [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-09-13T14:16:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f977d266e42a467b",
+    "manchete": "Quina hoje, concurso 7116: confira o resultado sorteado neste domingo (13)",
+    "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7116-confira-o-resultado-sorteado-neste-domingo-13/",
+    "resumo": "Ganham prêmios os acertadores de 2, 3, 4 ou 5 números",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T14:07:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "158645194777ebc3",
+    "manchete": "Mega-Sena hoje, concurso 3057: Confira o resultado sorteado neste domingo (13)",
+    "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3057-confira-o-resultado-sorteado-neste-domingo-13/",
+    "resumo": "O prêmio deste concurso era de R$ 84.300.000",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T14:05:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63f7ec3bb55a5642",
+    "manchete": "Não se engane pelo 'ouro de tolo' do mercado de criptomoedas: Esse e outros destaques no Crypto Times",
+    "url": "https://www.moneytimes.com.br/nao-se-engane-pelo-ouro-de-tolo-do-mercado-de-criptomoedas-esse-e-outros-destaques-no-crypto-times-rens/",
+    "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: Apesar de ser um típico…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9e2ae1f73f616b5d",
+    "manchete": "Imóvel de classe média nunca foi tão raro; o que mudou?",
+    "url": "https://www.infomoney.com.br/minhas-financas/imovel-de-classe-media-nunca-foi-tao-raro-o-que-mudou/",
+    "resumo": "Os apartamentos com preço entre R$ 500 mil a R$ 2 milhões já foram o maior segmento do mercado imobiliário nacional, representando mais da metade das unidades comercializadas",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T13:57:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9688d66139882588",
+    "manchete": "Prefeitura apura fiscalização de obra que desabou na zona leste de SP; cinco morreram",
+    "url": "https://www.infomoney.com.br/brasil/prefeitura-apura-fiscalizacao-de-obra-que-desabou-na-zona-leste-de-sp-cinco-morreram/",
+    "resumo": "A construção, de 11 andares, atingiu o imóvel ao lado, onde moravam nove pessoas",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T13:43:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1a2f891aad8137bb",
+    "manchete": "Dino levanta sigilo de investigação do caso Dark Horse que envolve Mário Frias",
+    "url": "https://www.infomoney.com.br/politica/dino-levanta-sigilo-de-investigacao-do-caso-dark-horse-que-envolve-mario-frias/",
+    "resumo": "Ministro manda transferir à PF material apreendido pela Polícia Civil de SP e diz que novas provas reforçam suspeita de esquema de desvio de recursos públicos",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T13:36:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7713adb7a7741a07",
+    "manchete": "Premiê do Canadá negocia para tornar país \"membro associado\" da UE, diz jornal",
+    "url": "https://www.infomoney.com.br/mundo/premie-do-canada-negocia-para-tornar-pais-membro-associado-da-ue-diz-jornal/",
+    "resumo": "Segundo o Wall Street Journal, Mark Carney discute com líderes europeus integração em cadeias estratégicas como energia, minerais críticos e defesa, em resposta ao colapso das negociações comerciais com Washington",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T13:07:01.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "455efd0fcb374624",
+    "manchete": "Marcopolo (POMO4) pode dar a volta por cima? Veja o que BBI, Safra e XP esperam para 2027",
+    "url": "https://www.moneytimes.com.br/marcopolo-pomo4-pode-dar-a-volta-por-cima-veja-o-que-bbi-safra-e-xp-esperam-para-2027-ceci/",
+    "resumo": "A Marcopolo (POMO4) apresentou, no Investor Day, uma visão um pouco mais construtiva para o médio prazo, embora a companhia ainda enfrente desafios de rentabilidade e demanda no curto prazo. Bradesco BBI, Safra e XP Investimentos recomendaram a compra das ações, apesar das duas primeiras casas ainda considerarem uma…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T13:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7ab0b2714cde2d10",
+    "manchete": "As minhas impressões sobre Augusto Cury, sua obsessão com a inteligência artificial e os destaques do Agro Times",
+    "url": "https://www.moneytimes.com.br/as-minhas-impressoes-sobre-augusto-cury-sua-obsessao-com-a-inteligencia-artificial-e-os-destaques-do-agro-times-pads/",
+    "resumo": "Bom dia, investidor! Sou um grande entusiasta de fazer algo pela primeira vez. Costumo dizer que, “depois da primeira, tudo fica natural”. Nesta última semana, tive a oportunidade de conversar pela primeira vez com um candidato à Presidência da República. Se você acompanha o Agro Times há algum tempo, sabe que, desde…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T13:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2647b7c67580fb0e",
+    "manchete": "São Paulo segue em alerta de perigo para tempestades neste domingo; veja previsão",
+    "url": "https://www.infomoney.com.br/brasil/sao-paulo-segue-em-alerta-de-perigo-para-tempestades-neste-domingo-veja-previsao/",
+    "resumo": "Setembro já é o segundo mês mais chuvoso do ano na estação, atrás apenas de janeiro, que acumulou 256,4 milímetros",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T12:58:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b25ea0b156539655",
+    "manchete": "IA terá “segunda sangrenta” na Bolsa após alerta de executivos? O que esperar",
+    "url": "https://www.infomoney.com.br/mercados/como-alerta-de-executivos-de-ia-pode-afetar-acoes-do-setor-analistas-respondem/",
+    "resumo": "Amodei, Musk e Altman pedem cautela no desenvolvimento da tecnologia, e mercado teme impacto principalmente em ações de semicondutores",
+    "fonte": "InfoMoney",
+    "data": "2026-09-13T12:43:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c2a53ecf578b2148",
+    "manchete": "Lotofácil da Independência: pedimos palpites a 5 modelos de inteligência artificial; veja os jogos para o prêmio milionário",
+    "url": "https://www.moneytimes.com.br/lotofacil-da-independencia-pedimos-palpites-cinco-modelos-inteligencia-artificial-veja-jogos-para-premio-milionario-rsgp/",
+    "resumo": "A Caixa Econômica Federal vai sortear na terça-feira (15) os números da Lotofácil da Independência de 2026. O prêmio é estimado em R$ 300 milhões e o mais provável é que ele seja dividido entre muitos ganhadores, resultando em um número ainda a ser conhecido de novos milionários. Como já se tornou uma espécie de…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T12:09:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8ad1a0270b978c15",
+    "manchete": "Disputa entre Lula, Flávio Bolsonaro e Augusto Cury fica mais acirrada no segundo turno, segundo pesquisa; veja como investir neste cenário",
+    "url": "https://www.moneytimes.com.br/disputa-entre-lula-flavio-bolsonaro-e-augusto-cury-fica-mais-acirrada-no-segundo-turno-segundo-pesquisa-veja-como-investir-neste-cenario-lbrdjm039/",
+    "resumo": "Flávio Bolsonaro e Augusto Cury aparecem numericamente à frente de Lula no segundo turno, segundo pesquisa BTG Pactual/Nexus",
+    "fonte": "Money Times",
+    "data": "2026-09-13T12:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e5da5cc66e7f605b",
+    "manchete": "Bradesco (BBDC4), Metalúrgica Gerdau (GOAU4) e mais duas empresa pagam dividendos nesta semana; veja o calendário",
+    "url": "https://www.moneytimes.com.br/dividendos-da-semana-11-9-26-apsa/",
+    "resumo": "Na semana de 14 a 18 de setembro, quatro companhias da bolsa brasileira pagam dividendos e juros sobre capital próprio (JCP) aos seus acionistas. Na segunda-feira (14), a Metalúrgica Gerdau (GOAU3;GOAU4) realiza pagamento de dividendo no valor de R$ 0,110, para os acionistas posicionados em 19 de agosto de 2026. Já na…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T11:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e514519a86fd5374",
+    "manchete": "Fachin assume relatoria de caso sobre relações de Moraes com Vorcaro",
+    "url": "https://www.moneytimes.com.br/fachin-assume-relatoria-de-caso-sobre-relacoes-de-moraes-com-vorcaro/",
+    "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, chamou para si a relatoria da petição sobre as mensagens trocadas entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro, do Banco Master, que irá a julgamento no plenário da corte na próxima terça-feira, segundo decisão proferida por ele na…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T11:12:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "90eecab9df8bd78e",
+    "manchete": "Vem aí: Revolut quer entrar no segmento de empresas no Brasil com câmbio, cartões e gestão de despesas, com foco em PMEs",
+    "url": "https://www.moneytimes.com.br/vem-ai-revolut-quer-entrar-no-segmento-de-empresas-no-brasil-com-cambio-cartoes-e-gestao-de-despesas-com-foco-em-pmes/",
+    "resumo": "A fintech britânica Revolut, avaliada em US$ 115 bilhões (quase metade do Nubank), prepara sua entrada mais forte no mercado de serviços financeiros para empresas no Brasil. A fintech pretende lançar, nos próximos meses, uma solução de banco para pessoas jurídicas, com serviços de câmbio, gestão de caixa, cartões…",
+    "fonte": "Money Times",
+    "data": "2026-09-13T11:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "07019657ec80e8df",
     "manchete": "Conselho da Fertilizantes Heringer já vê recuperação extrajudicial como opção Conselho da Fertilizantes Heringer já vê recuperação extrajudicial como opção",
     "url": "https://agfeed.com.br/negocios/conselho-da-fertilizantes-heringer-ja-ve-recuperacao-extrajudicial-como-opcao",
@@ -9819,291 +10090,6 @@
     "resumo": "Os contratos futuros de açúcar bruto na ICE subiram nesta segunda-feira (31), encerrando o mês de agosto com alta de 21,5%, à medida que os problemas climáticos relacionados ao El Niño em todo o mundo e os altos preços da energia impulsionaram o mercado. O cacau de Nova York também subiu, registrando um aumento mensal…",
     "fonte": "Money Times",
     "data": "2026-08-31T21:48:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "066eca80c993958b",
-    "manchete": "Suzano (SUZB3) compra 10% de megaprojeto portuário no Espírito Santo; mais dívidas pelo caminho?",
-    "url": "https://www.moneytimes.com.br/suzano-suzb3-compra-10-de-megaprojeto-portuario-no-espirito-santo-pads/",
-    "resumo": "A Suzano (SUZB3) assinou um acordo com o Grupo Imetame para adquirir uma participação de 10% na Imetame Logística Porto, responsável pelo desenvolvimento de um complexo portuário em Aracruz, no Espírito Santo, mostra documento enviado ao mercado nesta segunda (31). A entrada da produtora de celulose no empreendimento…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T21:41:56.000Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "28e8f7f76f2b674e",
-    "manchete": "A China é a fábrica do mundo. Agora quer ser também a fazenda",
-    "url": "https://braziljournal.com/a-china-e-a-fabrica-do-mundo-agora-quer-ser-tambem-a-fazenda/",
-    "resumo": "Da mesma maneira que assumiu o domínio das cadeias de produção de produtos como veículos elétricos, aparelhos eletrônicos e painéis solares, a China agora tem planos de não apenas reconquistar a autossuficiência na produção de alimentos como também controlar segmentos do supply chain do setor. Para uma nação de 1,4…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-31T21:40:07.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "54c27946bcfdb01d",
-    "manchete": "PIB do Brasil deve desacelerar no 2º trimestre com impulso fiscal menor do que o esperado",
-    "url": "https://www.moneytimes.com.br/pib-do-brasil-deve-desacelerar-no-2o-trimestre-com-impulso-fiscal-menor-do-que-o-esperado/",
-    "resumo": "Após surpreender com crescimento de 1,1% no primeiro trimestre de 2026 (1T26), a economia brasileira deve apresentar uma expansão mais moderada entre abril e junho. O Produto Interno Bruto (PIB) do segundo trimestre será divulgado pelo IBGE nesta terça-feira (1º), em meio à expectativa de que os efeitos dos juros…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T21:30:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "571e1da6fd58670e",
-    "manchete": "Terras raras: projeto em MG atrai capital global às vésperas de marco legal",
-    "url": "https://braziljournal.com/terras-raras-projeto-em-mg-atrai-capital-global-as-vesperas-de-marco-legal/",
-    "resumo": "O projeto de terras raras Colosso, em Poços de Caldas, está se tornando um exemplo vivo do apetite global pela nascente (e já bilionária) indústria de terras raras do Brasil – bem como dos interesses e dos riscos políticos em jogo no setor. O empreendimento atraiu um aporte de equity da OneIM, fundada por…",
-    "fonte": "Brazil Journal",
-    "data": "2026-08-31T21:18:33.000Z",
-    "tags_tema": [
-      "Fundraising",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "01c382353380b793",
-    "manchete": "Banco do Brasil (BBSA3) tem 'pernada' de 16% em dias; o que está por trás da alta?",
-    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbsa3-tem-pernada-de-16-em-dias-o-que-esta-por-tras-da-alta/",
-    "resumo": "O Banco do Brasil (BBAS3), que estava próximo de encostar nas mínimas de 2023, ganhou força nas últimas sessões. Desde as mínimas, em 18 de agosto, o papel saltou 16%. Nesta sessão, o papel voltou a subir e fechou a R$ 20,74, alta de 2,83%. O movimento ocorre em meio à recuperação do Ibovespa. Os [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-08-31T21:12:12.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "afcf8ce6c7abe645",
-    "manchete": "Natura anuncia Alessandro Carlucci como novo CEO e destaca transição \"sem rupturas\"",
-    "url": "https://neofeed.com.br/negocios/natura-anuncia-alessandro-carlucci-como-novo-ceo-e-destaca-transicao-sem-rupturas/",
-    "resumo": "Sucessor de João Paulo Ferreira, Carlucci já foi CEO do grupo de cosméticos entre 2005 e 2014, e presidia o Conselho de Administração",
-    "fonte": "NeoFeed",
-    "data": "2026-08-31T17:38:17.516Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "af632dc2507d17a1",
-    "manchete": "TRX confirma fim de acordo de R$ 2,1 bilhões com Cyrela",
-    "url": "https://neofeed.com.br/negocios/trx-confirma-fim-de-acordo-de-r-21-bilhoes-com-cyrela/",
-    "resumo": "Conforme adiantado pelo NeoFeed, a TRX informou a Cyrela sobre encerramento das negociações para a compra do Edifício Cyrela Oscar Freire Corporate, além de participações em estruturas com quatro galpões logísticos",
-    "fonte": "NeoFeed",
-    "data": "2026-08-31T17:38:17.516Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "69fd5c3c69e7bbbb",
-    "manchete": "Fabricante do Mounjaro \"reforça\" sistema imunológico em negócio de US$ 2,87 bilhões",
-    "url": "https://neofeed.com.br/negocios/fabricante-do-mounjaro-reforca-sistema-imunologico-em-negocio-de-us-287-bilhoes/",
-    "resumo": "A farmacêutica americana Eli Lilly anunciou um acordo para a aquisição da Merida Biosciences, em mais um movimento para expandir seu portfólio",
-    "fonte": "NeoFeed",
-    "data": "2026-08-31T17:38:17.516Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "db3b1effb96856c2",
-    "manchete": "O diagnóstico de Romero Rodrigues, da Headline: “A IA muda o jogo do investimento”",
-    "url": "https://neofeed.com.br/videos/cafe-investidor/o-diagnostico-de-romero-rodrigues-da-headline-a-ia-muda-o-jogo-do-investimento/",
-    "resumo": "A inteligência artificial trouxe dois desafios para quem investe em venture capital. De um lado, não dá mais para apostar em startups que não tenham a tecnologia. De outro, a busca pela diferenciação e a entrada no mercado se tornam cada vez mais complexas. “A IA muda o jogo do investimento”, afirma Romero Rodrigues,…",
-    "fonte": "NeoFeed",
-    "data": "2026-08-31T17:38:17.516Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0fbc4cb23cdee8e5",
-    "manchete": "Durigan acena à Faria Lima e promete plano de sete passos para trazer juros a patamar \"civilizado\"",
-    "url": "https://neofeed.com.br/economia/durigan-acena-a-faria-lima-e-promete-plano-de-sete-passos-para-trazer-juros-a-patamar-civilizado/",
-    "resumo": "Em evento do BTG Pactual, ministro Dario Durigan lista prioridades da próxima gestão, se for reeleita, reduzir juros e aprimorar o arcabouço",
-    "fonte": "NeoFeed",
-    "data": "2026-08-31T17:38:17.512Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4f683e256face360",
-    "manchete": "Nvidia investirá US$ 3,5 bi em fabricante de chips MediaTek",
-    "url": "https://www.infomoney.com.br/business/nvidia-investira-us-35-bi-em-fabricante-de-chips-mediatek/",
-    "resumo": "iniciativa segue a garantia de até US$ 105 bilhões oferecida ‌pela Nvidia no início deste mês para o aluguel do data center da OpenAI",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T17:36:39.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b81563a0899928f2",
-    "manchete": "Radar das Eleições: Augusto Cury assume terceira posição em agregador de pesquisas do Money Times",
-    "url": "https://www.moneytimes.com.br/radar-das-eleicoes-augusto-cury-estreia-na-terceira-posicao-do-agregador-de-pesquisas-gaep/",
-    "resumo": "O candidato do Avante a presidente da República, Augusto Cury, assumiu a terceira posição no Radar das Eleições, agregador de pesquisas do Money Times. Após a disparada nas duas pesquisas eleitorais divulgadas nesta segunda-feira (31), a BTG Pactual/Nexus e a AtlasIntel/Bloomberg, Cury chegou a 4,8% nas intenções de…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T17:28:04.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "28a5771330050037",
-    "manchete": "Strategy volta a comprar US$ 370 milhões em bitcoin (BTC) e Michael Saylor comemora: 'Estamos de volta'",
-    "url": "https://www.moneytimes.com.br/strategy-volta-a-comprar-us-370-milhoes-em-bitcoin-btc-e-michael-saylor-comemora-estamos-de-volta-rens/",
-    "resumo": "A maior empresa de tesouraria de bitcoin (BTC), a Strategy voltou às compras e adquiriu 4.603 unidades de BTC no valor de US$ 369,7 milhões na semana passada, de acordo com o documento enviado à SEC, a CVM dos Estados Unidos. O preço médio de aquisição foi de US$ 80.318 por unidade. A companhia de [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-08-31T17:18:28.000Z",
-    "tags_tema": [
-      "M&A",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1e80292fe1af9c52",
-    "manchete": "Governo discute avaliação semestral de MP das blusinhas com mitigação de efeitos a empresas",
-    "url": "https://www.moneytimes.com.br/governo-discute-avaliacao-semestral-de-mp-das-blusinhas-com-mitigacao-de-efeitos-a-empresas/",
-    "resumo": "O governo discute instituir uma regra de avaliação periódica do impacto do fim da \"taxa das blusinhas\" para que o Ministério da Fazenda estude a possibilidade de apresentar um projeto de mitigação de eventuais efeitos aos setores produtivos, segundo informaram nesta segunda-feira, 31, a relatora da medida provisória…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T17:17:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7cc1a52ff439faab",
-    "manchete": "Trump promete atingir Irã duramente após primeiros confrontos em um mês",
-    "url": "https://www.moneytimes.com.br/trump-promete-atingir-ira-duramente-apos-primeiros-confrontos-em-um-mes/",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, foi citado nesta segunda-feira (31) prometendo “atingi-los com força” depois que o Irã lançou mísseis durante a madrugada contra duas bases aéreas norte-americanas na Jordânia, em resposta a um ataque dos EUA à ilha de Larak, no Irã. “Vamos atacá-los com força”, disse…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T17:16:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ecc96be7984cf755",
-    "manchete": "Mohamed El-Erian vê mundo mais instável e recomenda seletividade nos investimentos: 'É preciso ser muito preciso'",
-    "url": "https://www.moneytimes.com.br/mohamed-el-erian-ve-mundo-mais-instavel-e-recomenda-seletividade-nos-investimentos-e-preciso-ser-muito-preciso/",
-    "resumo": "O investidor que olha apenas para a alta (ou baixa) das bolsas pode estar subestimando os riscos que se acumulam na economia global. Essa é a avaliação de Mohamed El-Erian, um dos economistas mais influentes do mercado, que vê um ambiente marcado por juros elevados, guerras, tensões comerciais e intervenções de…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T17:12:27.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6a8d5ccd7938c600",
-    "manchete": "Seguro de vida vale a pena para quem é solteiro e não tem filhos? Entenda",
-    "url": "https://www.infomoney.com.br/minhas-financas/seguro-de-vida-vale-a-pena-para-quem-e-solteiro-e-nao-tem-filhos-entenda/",
-    "resumo": "Dependência da própria renda, financiamentos e ajuda aos pais devem entrar na conta antes de contratar",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T17:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "72aff2554653df68",
-    "manchete": "Consultoria XP celebra um ano e define estratégia para chegar aos R$ 100 bi em 2027",
-    "url": "https://www.infomoney.com.br/advisor/consultoria-xp-celebra-um-ano-e-define-estrategia-para-chegar-aos-r-100-bi-em-2027/",
-    "resumo": "A XP busca se posicionar como a “casa dos três modelos”, reunindo diferentes formas de relacionamento dentro da própria instituição",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T17:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5739808ea2ca37c3",
-    "manchete": "BTG Pactual lança megaoferta de até R$ 20 bilhões de Fiagro, com retorno-alvo de até 97% do CDI",
-    "url": "https://www.moneytimes.com.br/btg-pactual-lanca-megaoferta-de-ate-r-20-bilhoes-de-fiagro-com-retorno-alvo-de-ate-97-do-cdi/",
-    "resumo": "Megaoferta pública do BTG pode se tornar a maior do mercado brasileiro entre os fundos de investimento nas cadeias produtivas do agronegócio (Fiagro)",
-    "fonte": "Money Times",
-    "data": "2026-08-31T16:58:24.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0b098d908366f125",
-    "manchete": "Bolsas da Europa recuam com disparada do petróleo",
-    "url": "https://www.moneytimes.com.br/europa-31-8-26-apsa/",
-    "resumo": "As bolsas europeias fecharam majoritariamente em queda nesta segunda-feira, 31, com a escalada das tensões entre Estados Unidos e Irã impulsionando o petróleo e ações de energia, enquanto Frankfurt ficou sob pressão de papéis industriais. O avanço do Brent acima de US$ 90 reforçou preocupações com a oferta pelo…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T16:57:32.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "58c0f01c8deae617",
-    "manchete": "Avião da Latam sai da pista em pouso no Paraná; passageiros ficam ilesos",
-    "url": "https://www.infomoney.com.br/brasil/aviao-da-latam-sai-da-pista-em-pouso-no-parana-passageiros-ficam-ilesos/",
-    "resumo": "Aeronave com 151 pessoas a bordo atolou na lama após incidente no Aeroporto Regional de Cascavel; companhia cancelou voo para Guarulhos e remaneja clientes",
-    "fonte": "InfoMoney",
-    "data": "2026-08-31T16:55:20.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f1e14707db0d27f1",
-    "manchete": "Ibovespa: Depois de um agosto no 'zero a zero', analista da Empiricus recomenda onde investir em setembro",
-    "url": "https://www.moneytimes.com.br/ibovespa-depois-de-um-agosto-no-zero-a-zero-analista-da-empiricus-recomenda-onde-investir-em-setembro-mlem/",
-    "resumo": "Com um mês marcado por altas e baixas, o Ibovespa se aproxima de fechar agosto no \"zero a zero\". Considerando a aproximação das eleições de 2026, Ruy Hungria, analista da Empiricus Research, avalia que a possível volatilidade eleitoral, na verdade, pode ser boa para investidores que souberem escolher as empresas…",
-    "fonte": "Money Times",
-    "data": "2026-08-31T16:50:13.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
