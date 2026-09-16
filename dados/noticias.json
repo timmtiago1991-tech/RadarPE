@@ -1,5 +1,459 @@
 [
   {
+    "id": "208897bbde54e257",
+    "manchete": "Biológicos lideram crescimento da Yara, mas ainda são um mercado de nicho No maior centro de pesquisas do mundo, companhia acelera desenvolvimento de biológicos, bioestimulantes e tecnologias digitais, enquanto busca parceiros para expandir o negócio de forma rentável",
+    "url": "https://www.cnnbrasil.com.br/agro/biologicos-lideram-crescimento-da-yara-mas-ainda-sao-um-mercado-de-nicho/",
+    "resumo": "No maior centro de pesquisas do mundo, companhia acelera desenvolvimento de biológicos, bioestimulantes e tecnologias digitais, enquanto busca parceiros para expandir o negócio de forma rentável",
+    "fonte": "AgFeed",
+    "data": "2026-09-16T14:59:55.635Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b267fe01721099e7",
+    "manchete": "Minerva homologa aumento de capital de R$ 2,7 mil após exercício de bônus A operação, decorrente do exercício de bônus de subscrição, eleva o capital social da companhia para R$ 3,1346 bilhões e o total de ações para 1,0005 bilhão",
+    "url": "https://www.cnnbrasil.com.br/agro/minerva-homologa-aumento-de-capital-de-r-27-mil-apos-exercicio-de-bonus/",
+    "resumo": "A operação, decorrente do exercício de bônus de subscrição, eleva o capital social da companhia para R$ 3,1346 bilhões e o total de ações para 1,0005 bilhão",
+    "fonte": "AgFeed",
+    "data": "2026-09-16T14:59:55.635Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1167552aa0fc981",
+    "manchete": "AgLíderes: Rumo aos R$ 150 bi de carteira agro, Itaú BBA (ainda) vê oportunidades para crescer",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-rumo-aos-r-150-bi-de-carteira-agro-itau-bba-ainda-ve-oportunidades-para-crescer",
+    "resumo": "Pedro Fernandes, diretor de agronegócio do banco, fala da “tempestade” no agro, com a inadimplência do médio produtor",
+    "fonte": "AgFeed",
+    "data": "2026-09-16T14:59:55.634Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a480530d87616f88",
+    "manchete": "O “filho da terra” que colocou uma marca brasileira de máquinas dentro da rede da John Deere",
+    "url": "https://agfeed.com.br/negocios/o-filho-da-terra-que-colocou-uma-marca-brasileira-de-maquinas-dentro-da-rede-da-john-deere",
+    "resumo": "Como a CMAK, de Fredrico Krakauer, fechou acordo com John Deere para distribuição global de máquinas florestais",
+    "fonte": "AgFeed",
+    "data": "2026-09-16T14:59:55.632Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cde935909b830bd7",
+    "manchete": "Antes de IPO, OpenAI ensaia nova rodada e mira valuation de US$ 1,2 trilhão",
+    "url": "https://neofeed.com.br/inovacao/antes-de-ipo-openai-ensaia-nova-rodada-e-mira-valuation-de-us-12-trilhao/",
+    "resumo": "Seis meses após captar US$ 122 bi, dona do ChatGPT conversa com investidores para acelerar expansão e fazer frente à rival Anthropic",
+    "fonte": "NeoFeed",
+    "data": "2026-09-16T14:59:50.889Z",
+    "tags_tema": [
+      "Venture Capital",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c9b0099b9942c01a",
+    "manchete": "iFood \"serve\" R$ 24 bilhões em investimentos e avança para três novos segmentos",
+    "url": "https://neofeed.com.br/negocios/ifood-serve-r-24-bilhoes-em-investimentos-e-avanca-para-tres-novos-segmentos/",
+    "resumo": "Em meio ao aumento da concorrência, o iFood aumenta investimentos em IA, iFood Benefícios e iFood Pago",
+    "fonte": "NeoFeed",
+    "data": "2026-09-16T14:59:50.889Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "92ab112855923cac",
+    "manchete": "Exame de sangue + IA: o \"atalho\" para rastrear o câncer e economizar milhões na saúde",
+    "url": "https://neofeed.com.br/videos/revolucao-ia/exame-de-sangue-ia-o-atalho-para-rastrear-o-cancer-e-economizar-milhoes-na-saude/",
+    "resumo": "A Huna treinou seu algoritmo com dados de 5 milhões de pacientes para cruzar hemogramas e agilizar o diagnóstico de câncer",
+    "fonte": "NeoFeed",
+    "data": "2026-09-16T14:59:50.889Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "449740753114d80c",
+    "manchete": "A estratégia da Zoox para se tornar a \"Palantir\" brasileira",
+    "url": "https://neofeed.com.br/negocios/a-estrategia-da-zoox-para-se-tornar-a-palantir-brasileira/",
+    "resumo": "Data tech Zoox deixou de vender apenas tecnologia para oferecer soluções de serviços para clientes e quer levar receita de dados a 90% do negócio até 2030",
+    "fonte": "NeoFeed",
+    "data": "2026-09-16T14:59:50.888Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9b81a2f27e8e8d85",
+    "manchete": "O labirinto de R$ 6,5 trilhões: o que há (e o que falta) nos planos econômicos dos presidenciáveis",
+    "url": "https://neofeed.com.br/poder/o-labirinto-de-r-65-trilhoes-o-que-ha-e-o-que-falta-nos-planos-economicos-dos-presidenciaveis/",
+    "resumo": "O NeoFeed conversou com os coordenadores econômicos dos candidatos à Presidência e ouviu seus projetos para País",
+    "fonte": "NeoFeed",
+    "data": "2026-09-16T14:59:50.888Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bdf865a46928541c",
+    "manchete": "Campanha de Flávio transforma crise no STF em munição contra Lula",
+    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-transforma-crise-no-stf-em-municao-contra-lula/",
+    "resumo": "Campanha deve explorar adiamento do caso Moraes e divisões expostas no plenário, mas orienta aliados a concentrar ataques em ministros, sem confrontar a Corte como instituição",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:59:05.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e785096190771538",
+    "manchete": "UBS BB corta ação da Braskem para venda sem enxergar \"saída fácil\"; ação desaba 13%",
+    "url": "https://www.infomoney.com.br/mercados/brkm5-ubs-bb-corta-acao-da-braskem-para-venda-sem-enxergar-saida-facil-acao-desaba/",
+    "resumo": "Preço-alvo foi reduzido de R$ 10,50 para R$ 3,75",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:59:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63cdcee21088c5ca",
+    "manchete": "A small cap que pode disparar com a queda dos juros, segundo o Itaú BBA; veja potencial",
+    "url": "https://www.moneytimes.com.br/a-small-cap-que-pode-disparar-com-a-queda-dos-juros-segundo-o-itau-bba-veja-potencial-igdl/",
+    "resumo": "O Itaú BBA iniciou a cobertura de Log Commercial (LOGG3), que desenvolve, aluga e administra galpões logísticos, com recomendação outperform (equivalente à compra) e preço-alvo de R$ 32 por ação, valor que representa um potencial de valorização de 35% frente à cotação atual. Os papéis da companhia, inclusive, operam…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:55:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cc1bebd0fd11eb9a",
+    "manchete": "Pré-venda do remake de 'The Legend of Zelda: Ocarina of Time' para Nintendo Switch 2 começa no Brasil — e esgota em 10 minutos",
+    "url": "https://www.moneytimes.com.br/pre-venda-do-remake-de-the-legend-of-zelda-ocarina-of-time-para-nintendo-switch-2-comeca-no-brasil-mlem/",
+    "resumo": "A edição física para o Nintendo Switch 2 do remake de The Legend of Zelda: Ocarina of Time entrou para pré-venda no Brasil. Segundo internautas, porém, a reserva para o jogo esgotou em apenas dez minutos. O lançamento oficial do jogo da Nintendo está marcado para 5 de novembro, duas semanas antes do GTA 6. [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:55:32.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "99d01813c96de367",
+    "manchete": "Nasdaq e S&#038;P 500 sobem antes da decisão do Fed",
+    "url": "https://www.infomoney.com.br/mercados/nasdaq-e-sp-500-wall-street-decisao-fed-16092026/",
+    "resumo": "As ações do setor de energia caíam, enquanto as de tecnologia apresentavam desempenho misto. A Nvidia e a Apple registravam alta marginal",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:54:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2c39f57ed2728a93",
+    "manchete": "Sanepar (SAPR11): XP vê privatização mais distante e corta recomendação para neutra",
+    "url": "https://www.infomoney.com.br/mercados/sanepar-sapr11-xp-ve-privatizacao-mais-distante-e-corta-recomendacao-para-neutra/",
+    "resumo": "Banco avalia que a falta de catalisadores nos próximos 6 a 12 meses reduz a atratividade do papel frente a outras empresas do setor",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:39:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c566db0f4f41616f",
+    "manchete": "Mini índice mira 190 mil pontos e mini dólar testa R$ 5,20; veja análise do BTG Pactual",
+    "url": "https://www.moneytimes.com.br/mini-indice-mira-190-mil-pontos-e-mini-dolar-testa-r-520-veja-analise-do-btg-pactual-ceci/",
+    "resumo": "O mini índice (WINV26) avançou 0,67% no último pregão e mantém viés comprador no curto prazo, segundo análise técnica do BTG Pactual. No gráfico de 60 minutos, o contrato WINV26 opera em uma região de lateralização após a forte alta recente. O ativo testa as médias de 21 e 50 períodos como suportes dinâmicos,…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:38:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "da409232d9126d01",
+    "manchete": "Wall Street opera sem direção única à espera do Fed",
+    "url": "https://www.moneytimes.com.br/wall-street-abertura-16-9-26-apsa/",
+    "resumo": "Os principais índices de Wall Street operam sem direção única, em meio à expectativa pela decisão de juros do Federal Reserve (Fed, o banco central dos Estados Unidos) e à alta recente dos rendimentos dos Treasuries, os títulos do governo norte-americano. Confira o desempenho dos índices, por volta das 11h33 (horário…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:33:47.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f389f2b33ac8fb79",
+    "manchete": "BofA inicia cobertura da Bradsaúde com recomendação de compra",
+    "url": "https://www.infomoney.com.br/mercados/bofa-inicia-cobertura-da-bradsaude-com-recomendacao-de-compra/",
+    "resumo": "Para o banco, a companhia combina resultados defensivos, um balanço patrimonial sólido e caminhos de crescimento consideradas confiáveis",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:32:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5766cb17c750677a",
+    "manchete": "O boom dos FIIs: quais os acertos da indústria — e os erros no caminho?",
+    "url": "https://www.infomoney.com.br/onde-investir/o-boom-dos-fiis-quais-os-acertos-da-industria-e-os-erros-no-caminho/",
+    "resumo": "Para Rodrigo Medeiros, fundador da Research DesmistificandoFIIs, o processo trouxe avanços importantes, mas também expôs problemas",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f89915320269915",
+    "manchete": "'Cadê os R$ 130 milhões que Flávio Bolsonaro pegou para filme do pai?'",
+    "url": "https://www.moneytimes.com.br/lula-flavio-bolsonaro-precisa-explicar-cade-os-r-130-milhoes-do-vorcaro-para-filme-do-pai-gaep/",
+    "resumo": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), voltou a atacar a família Bolsonaro e a cobrar explicações de seu adversário, o senador Flávio Bolsonaro (PL-RJ), sobre recursos de Daniel Vorcaro, do Banco Master, para o filme \"Dark Horse\" sobre o ex-presidente Jair Bolsonaro,…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:22:13.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6d835d04bf47e1a5",
+    "manchete": "Crise no STF chega à eleição, e PT tenta descolar Moraes de Lula",
+    "url": "https://www.infomoney.com.br/politica/crise-no-stf-chega-a-eleicao-e-pt-tenta-descolar-moraes-de-lula/",
+    "resumo": "Petistas pretendem lembrar indicação de ministro por Temer e trajetória em governos tucanos diante da tentativa da oposição de associá-lo ao presidente",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:20:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "75720892298b7100",
+    "manchete": "Bitcoin (BTC) cai com perspectiva de juros nos EUA e fiasco do Clarity Act; veja preços das criptomoedas hoje (16)",
+    "url": "https://www.moneytimes.com.br/bom-dia-bitcoin-btc-criptomoedas-precos-hoje-rens-160926/",
+    "resumo": "O bitcoin (BTC) é negociado na casa dos US$ 75 mil na manhã desta quarta-feira (16), com uma queda de mais de 1% nas últimas 24h, tentando sustentar o suporte psicológico de preços. O mercado global de criptomoedas cai hoje, com alguns tokens caindo quase 10% hoje após as frustrações envolvendo a aprovação do Clarity…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:17:53.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "46bd67aea779bedc",
+    "manchete": "\"Ninguém aguenta mais os ministros do Lula no STF melando o Brasil\", diz Flávio",
+    "url": "https://www.infomoney.com.br/politica/ninguem-aguenta-mais-os-ministros-do-lula-no-stf-melando-o-brasil-diz-flavio/",
+    "resumo": "Flávio Bolsonaro também voltou a acusar membros do STF de proteger Alexandre de Moraes durante sessão plenária na terça-feira (15)",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:17:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5b032ca51f57938a",
+    "manchete": "Aportes na previdência privada recuam 22,3% em julho e 8,6% no acumulado do ano",
+    "url": "https://www.infomoney.com.br/minhas-financas/aportes-na-previdencia-privada-recuam-223-em-julho-e-86-no-acumulado-do-ano/",
+    "resumo": "Contribuições somaram R$ 92,1 bilhões; seguros de pessoas avançaram 10,5%, enquanto seguros de danos cresceram 3,7%, informa Susep, órgão que fiscaliza o setor",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:10:46.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "48fd8e15678c9721",
+    "manchete": "Eu não era presidente quando Moraes foi indicado para STF, diz Lula",
+    "url": "https://www.moneytimes.com.br/eu-nao-era-presidente-quando-moraes-foi-indicado-para-stf-diz-lula-gaep/",
+    "resumo": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), afirmou nesta quarta-feira (16) que não foi responsável pela indicação do ministro Alexandre de Moraes ao Supremo Tribunal Federal (STF), ao rebater críticas de seu adversário, o senador Flávio Bolsonaro (PL). Segundo o petista, os…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:08:28.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "af4fcd7e60f185ed",
+    "manchete": "Recompras de ações disparam 27% e somam US$ 572 bi; veja as 20 maiores do mundo",
+    "url": "https://www.infomoney.com.br/onde-investir/recompras-de-acoes-disparam-27-e-somam-us-572-bi-veja-as-20-maiores-do-mundo/",
+    "resumo": "Setor de tecnologia recomprou US$ 121,1 bilhões em ações no segundo trimestre, segundo a Janus Henderson, mesmo com investimentos crescentes em inteligência artificial",
+    "fonte": "InfoMoney",
+    "data": "2026-09-16T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f5cb6fce9f41779c",
+    "manchete": "Nano IA: Inteligência artificial da Empiricus pode buscar até R$ 250 mil na 'Operação Ikki-Tousen'",
+    "url": "https://www.moneytimes.com.br/nano-ia-inteligencia-artificial-da-empiricus-pode-buscar-ate-r-250-mil-na-operacao-ikki-tousen-lbrdjm040/",
+    "resumo": "Nano IA, ferramenta da Empiricus, busca criptoativo que pode ter uma performance fora da curva",
+    "fonte": "Money Times",
+    "data": "2026-09-16T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9f1d3a36f697ab2a",
+    "manchete": "Greve na Caixa afeta pagamento dos R$ 300 milhões da Lotofácil da Independência; veja quem é afetado",
+    "url": "https://www.moneytimes.com.br/greve-na-caixa-lotofacil-da-independencia-loterias-premios-rsgp/",
+    "resumo": "Os ganhadores dos prêmios milionários da Lotofácil da Independência de 2026 e de outras loterias administradas pela Caixa Econômica Federal terão dificuldade para resgatar o dinheiro enquanto durar a greve dos trabalhadores do banco estatal. Prêmios brutos de até R$ 2.428,80 podem ser sacados em qualquer casa…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T13:53:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cac20f7032298da5",
+    "manchete": "Ibovespa recua de olho na Super Quarta e baixa do petróleo; 5 coisas para saber antes de investir hoje (16)",
+    "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-16-9-26-apsa/",
+    "resumo": "O Ibovespa (IBOV) abre o pregão desta quarta-feira (16) em baixa à espera das decisões de política monetária da Super Quarta, além da influência da baixa do petróleo e dos investidores ainda digerindo o julgamento do Supremo Tribunal Federal da véspera. Por volta de 10h11 (horário de Brasília), o principal índice da…",
+    "fonte": "Money Times",
+    "data": "2026-09-16T13:15:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b5e4db53c33e0a38",
+    "manchete": "EDITORIAL. Só a urna salva",
+    "url": "https://braziljournal.com/editorial-so-a-urna-salva/",
+    "resumo": "Com seus olhos de granito vendados e a espada no colo, a estátua da Justiça – este símbolo de temperança que nos legou Ceschiatti – sabe que esta crise do Supremo não é como as demais. Anos de convívio no ambiente rarefeito dos gabinetes, carros oficiais e escoltas fizeram os ministros perder o último vínculo [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-09-16T10:22:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a651384aab3b65b1",
+    "manchete": "O trem da IA já saiu da estação. E quem tratou venture capital como \"indústria artesanal\" ficou para trás",
+    "url": "https://startupi.com.br/o-trem-da-ia-ja-saiu-da-estacao-e-quem-tratou-venture-capital-como-industria-artesanal-ficou-para-tras/",
+    "resumo": "Startupi O trem da IA já saiu da estação. E quem tratou venture capital como \"indústria artesanal\" ficou para trás Com IPOs trilionários no horizonte e retornos concentrados em poucos fundos, a16z alerta: alocação \"prudente\" em VC pode ser o maior erro estratégico da década para investidores institucionais.",
+    "fonte": "Startupi",
+    "data": "2026-09-16T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3456eeb720283d62",
+    "manchete": "O fim de uma era para as fintechs: da disrupção à maturidade",
+    "url": "https://startupi.com.br/o-fim-de-uma-era-para-as-fintechs-da-disrupcao-a-maturidade/",
+    "resumo": "Startupi O fim de uma era para as fintechs: da disrupção à maturidade Por Victor Papi, General Manager da Transfeera, empresa da PayRetailers e Instituição de Pagamento (IP) especializada em soluções de pagamentos para empresas.",
+    "fonte": "Startupi",
+    "data": "2026-09-16T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a654134dbda1e97b",
+    "manchete": "Foodtech Altec Sistemas apresenta nova plataforma e oferece consultoria financeira no Salão Abrasel",
+    "url": "https://startupi.com.br/foodtech-altec-sistemas-apresenta-nova-plataforma-e-oferece-consultoria-financeira-no-salao-abrasel/",
+    "resumo": "Startupi Foodtech Altec Sistemas apresenta nova plataforma e oferece consultoria financeira no Salão Abrasel Foodtech lança o sistema em nuvem Altec One e realiza atendimentos gratuitos em gestão e contabilidade para micro e pequenos empresários do setor de alimentação fora do lar.",
+    "fonte": "Startupi",
+    "data": "2026-09-16T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b848169afbaab654",
+    "manchete": "Hidrogênio verde: oportunidade real ou aposta de longo prazo?",
+    "url": "https://startupi.com.br/hidrogenio-verde-oportunidade-real-ou-aposta-de-longo-prazo/",
+    "resumo": "Startupi Hidrogênio verde: oportunidade real ou aposta de longo prazo? Por Amure Pinho, fundador do Investidores.vc, plataforma de investimento em startups, e ex-presidente da Associação Brasileira de Startups (Abstartups)",
+    "fonte": "Startupi",
+    "data": "2026-09-16T06:58:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2a6b2f0c86500fdf",
+    "manchete": "Brasil: entre o tempo da inovação e o da oportunidade, que lugar ocuparemos no futuro?",
+    "url": "https://startupi.com.br/brasil-entre-o-tempo-da-inovacao-e-o-da-oportunidade-que-lugar-ocuparemos-no-futuro/",
+    "resumo": "Startupi Brasil: entre o tempo da inovação e o da oportunidade, que lugar ocuparemos no futuro? Por Kelly Nascimento, fundadora da Kaus Media.",
+    "fonte": "Startupi",
+    "data": "2026-09-16T01:15:39.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d4035bf8294fd6e7",
+    "manchete": "‘Metanol no more’. Diageo cria selo high-tech para garantir que o Johnnie é Walker",
+    "url": "https://braziljournal.com/metanol-no-more-diageo-cria-selo-high-tech-para-garantir-que-o-johnnie-e-walker/",
+    "resumo": "Numa nova trincheira da guerra contra os falsificadores, a Diageo Brasil decidiu criar um selo de autenticidade high tech para suas garrafas. A gigante de bebidas lançou o “Selo Drink Seguro”, um sistema antifraude que permite ao consumidor verificar pelo celular se uma garrafa de destilado é original do seu portfólio…",
+    "fonte": "Brazil Journal",
+    "data": "2026-09-15T23:39:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "47d31e29e3722f8b",
     "manchete": "Mercado de capitais chega a 33% do crédito do agro, mas CRA recua Participação de Fiagros e CRAs avançou de 19% para 33% entre 2021 e 2025; no primeiro semestre de 2026, instrumentos movimentaram R$ 16,4 bilhões em novas emissões",
     "url": "https://www.cnnbrasil.com.br/agro/exclusivo-mercado-de-capitais-ja-banca-33-do-credito-do-agro/",
@@ -5853,18 +6307,6 @@
     "importancia": 3
   },
   {
-    "id": "1b1df070adbd26d5",
-    "manchete": "Às vésperas da cisão, Corteva define líderes de Vylor e nova Corteva para Brasil e América Latina Às vésperas da cisão, Corteva define líderes de Vylor e nova Corteva para Brasil e América Latina",
-    "url": "https://agfeed.com.br/negocios/as-vesperas-da-cisao-corteva-define-lideres-de-vylor-e-nova-corteva-para-brasil-e-america-latina",
-    "resumo": "Na Vylor, assumem Roberto Hun e William Weber, e, na nova Corteva, Felipe Daltro e Tiago Gontijo ocuparão os postos mais altos da companhia",
-    "fonte": "AgFeed",
-    "data": "2026-09-08T23:22:17.985Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "ca067ad3453373a0",
     "manchete": "Alberto Leite, do Grupo FS: “A computação quântica vai provocar um crash na criptografia”",
     "url": "https://neofeed.com.br/videos/neosummit-ianareal-videos/alberto-leite-do-grupo-fs-a-computacao-quantica-vai-provocar-um-crash-na-criptografia/",
@@ -6292,42 +6734,6 @@
     "tags_tema": [
       "Regulação"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6fcf894e253cf8cf",
-    "manchete": "Fim da Moratória da Soja pode custar US$ 8,2 bilhões ao Brasil, estima WWF Estudo publicado na Science prevê que fim do acordo poderia ampliar desmatamento em 1,4 milhão de hectares e gerar perdas com água, energia e biodiversidade",
-    "url": "https://www.cnnbrasil.com.br/agro/fim-da-moratoria-da-soja-pode-custar-us-82-bilhoes-ao-brasil-estima-wwf/",
-    "resumo": "Estudo publicado na Science prevê que fim do acordo poderia ampliar desmatamento em 1,4 milhão de hectares e gerar perdas com água, energia e biodiversidade",
-    "fonte": "AgFeed",
-    "data": "2026-09-08T14:35:27.346Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "825ab6bcc0489cdc",
-    "manchete": "Yara inaugura projeto de 200 milhões de euros que enterra CO2 no mar Projeto captura metade das emissões da fábrica e armazena CO₂ permanentemente sob o Mar do Norte",
-    "url": "https://www.cnnbrasil.com.br/agro/yara-inaugura-projeto-de-200-milhoes-de-euros-que-enterra-co2-no-mar/",
-    "resumo": "Projeto captura metade das emissões da fábrica e armazena CO₂ permanentemente sob o Mar do Norte",
-    "fonte": "AgFeed",
-    "data": "2026-09-08T14:35:27.346Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "795c7fe21f4274cd",
-    "manchete": "Com mais terras, Bom Futuro vai ampliar área de soja na safra 2026/2027",
-    "url": "https://agfeed.com.br/negocios/com-mais-terras-bom-futuro-vai-ampliar-area-de-soja-na-safra-2026-2027",
-    "resumo": "Grupo da família Maggi Scheffer prevê levar soja a 370 mil hectares e incorporar gradualmente áreas compradas da Cosan",
-    "fonte": "AgFeed",
-    "data": "2026-09-08T14:35:27.343Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9684,420 +10090,6 @@
     "fonte": "NeoFeed",
     "data": "2026-09-03T14:36:23.757Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "93e634952be3c3ed",
-    "manchete": "Gloria Steinem, ícone do feminismo e cofundadora da revista 'Ms.', morre aos 92 anos",
-    "url": "https://www.infomoney.com.br/mundo/gloria-steinem-icone-do-feminismo-e-cofundadora-da-revista-ms-morre-aos-92-anos/",
-    "resumo": "Steinem morreu em sua casa, em Nova York, cercada por pessoas próximas",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:35:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a0aa25448c28f354",
-    "manchete": "Déficit comercial dos EUA aumenta em julho; importações de bens de capital atingem máxima recorde",
-    "url": "https://www.moneytimes.com.br/deficit-comercial-dos-eua-aumenta-em-julho-importacoes-de-bens-de-capital-atingem-maxima-recorde-jcav/",
-    "resumo": "O déficit comercial dos Estados Unidos aumentou em julho uma vez que a demanda interna impulsionou as importações, fazendo com que o comércio voltasse a pesar sobre o crescimento econômico no terceiro trimestre. O déficit comercial aumentou 24,4%, para US$ 88,6 bilhões, informaram nesta quinta-feira o Escritório de…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:34:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c6150b70aea0be29",
-    "manchete": "Advogado e ex-diretor da Fazenda de SP são presos por propina de R$ 13 milhões",
-    "url": "https://www.infomoney.com.br/politica/advogado-e-ex-diretor-da-fazenda-de-sp-sao-presos-por-propina-de-r-13-milhoes/",
-    "resumo": "André Weiss, ex-diretor da Administração Tributária paulista, e o advogado João André Buttini são apontados como líderes de organização que cobrava propina para acelerar a liberação de créditos tributários; operação afasta fiscais e mira 27 investigados",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:33:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6af498a104ad27ef",
-    "manchete": "Nvidia anuncia aquisição da Hugging Face por US$ 12,9 bilhões",
-    "url": "https://www.infomoney.com.br/business/nvidia-anuncia-aquisicao-da-hugging-face-por-us-129-bilhoes/",
-    "resumo": "Mais de 200 mil empresas usam a plataforma para descobrir, avaliar, personalizar e implementar IA",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:31:02.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "98b16197f0b33627",
-    "manchete": "Move Brasil: BNDES eleva para R$ 200 mil limite para financiamentos a taxistas e motoristas de aplicativos",
-    "url": "https://www.moneytimes.com.br/bndes-eleva-para-r200-mil-teto-para-financiamentos-a-taxistas-e-motoristas-de-aplicativos-no-move-brasil/",
-    "resumo": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) anunciou nesta quinta-feira aumento de R$150 mil para R$200 mil no valor máximo de financiamentos para taxistas e motoristas de aplicativos no âmbito do programa Move Brasil. A elevação do teto foi autorizada pelo Ministério do Desenvolvimento, Indústria,…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:30:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4f93c814df2d5a18",
-    "manchete": "FII da Kinea aprova 5ª emissão de cotas de até R$ 440 milhões; confira detalhes",
-    "url": "https://www.infomoney.com.br/onde-investir/fii-da-kinea-aprova-5a-emissao-de-cotas-de-ate-r-440-milhoes-confira-detalhes/",
-    "resumo": "Caso o lote adicional seja integralmente utilizado, o volume da emissão poderá chegar a aproximadamente R$ 440 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:29:31.000Z",
-    "tags_tema": [
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0d3d9466d564f298",
-    "manchete": "Lula diz que PEC da 6&#215;1 não avançou no Congresso por atuação de aliados de Flávio",
-    "url": "https://www.infomoney.com.br/politica/lula-diz-que-pec-da-6x1-nao-avancou-no-congresso-por-atuacao-de-aliados-de-flavio/",
-    "resumo": "Presidente entrou na articulação política nas últimas semanas para garantir votação da proposta, mas não havia acordo para que PEC fosse levada ao plenário",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:29:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "20531789599747c9",
-    "manchete": "Wall Street avança com alívio dos Treasuries",
-    "url": "https://www.moneytimes.com.br/wall-street-abertura-3-9-26-apsa/",
-    "resumo": "Os índices de Wall Street abriram em alta no pregão desta quinta-feira (3), com o alívio nos rendimentos dos títulos do Tesouro dos Estados Unidos, os Treasuries, após atingir máximas na véspera. Confira o desempenho dos índices por volta das 11h25 (horário de Brasília): O que mexe com Wall Street hoje? O movimento…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:28:28.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0156e9eef03f6ea9",
-    "manchete": "Estrangeiros tiram R$ 18,1 bilhões da Bolsa em agosto, em mês mais negativo de 2026",
-    "url": "https://www.infomoney.com.br/mercados/estrangeiros-tiram-r-181-bilhoes-da-bolsa-em-agosto-em-mes-mais-negativo-de-2026/",
-    "resumo": "Apesar de encerrar o mês negativo, o valor não foi o mais baixo que o fluxo ficou em agosto",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:23:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3954bde329041d5b",
-    "manchete": "Morgan Stanley eleva Multiplan e rebaixa Plano &#038; Plano em guinada para shoppings",
-    "url": "https://www.infomoney.com.br/mercados/morgan-stanley-eleva-multiplan-e-rebaixa-plano-plano-em-guinada-para-shoppings/",
-    "resumo": "Banco adota uma postura mais defensiva no setor imobiliário e reforça a preferência por shoppings em vez de construtoras",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:21:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "50dacb85a61847e7",
-    "manchete": "CSN (CSNA3) salta quase 20% com saída de Steinbruch do comando da empresa; o que os investidores olham?",
-    "url": "https://www.moneytimes.com.br/csn-csna3-salta-quase-20-com-saida-de-steinbruch-do-comando-da-empresa-o-que-os-investidores-olham/",
-    "resumo": "A CSN (CSNA3) chegou a disparar 19,90% e lidera os ganhos do Ibovespa nesta quinta-feira (3) após o anúncio de que Benjamin Steinbruch deixa o comando da companhia como CEO depois de 24 anos. No lugar dele, entra Fabio Schvartsman, que já ocupou a presidência da Vale (VALE3) entre 2017 e 2019. Schvartsman também é…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:17:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1924be400e3eff76",
-    "manchete": "FII da XP encerra negociação na B3 e inicia processo de liquidação; veja os prazos",
-    "url": "https://www.moneytimes.com.br/fii-da-xp-encerra-negociacao-na-b3-e-inicia-processo-de-liquidacao-veja-os-prazos-jcav/",
-    "resumo": "O XP Exeter Desenvolvimento Logístico (XPEX11) dará início ao processo de liquidação após os cotistas aprovarem a amortização integral das cotas e, consequentemente, o encerramento do fundo. Segundo fato relevante, as cotas deixarão de ser negociadas no mercado de balcão da B3 após o fechamento do pregão desta…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:16:56.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "33ea130f98b2391a",
-    "manchete": "Ibovespa mira 200 mil: quais ações podem pegar carona no rali?",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-mira-200-mil-quais-acoes-podem-pegar-carona-no-rali/",
-    "resumo": "Blue chips lideram a entrada do estrangeiro, mas setores sensíveis aos juros também podem ganhar força",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:15:19.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ebc08e3e05257677",
-    "manchete": "Vorcaro diz a Mendonça que mandou agredir e ameaçar adversários porque 'estava nervoso'",
-    "url": "https://www.moneytimes.com.br/vorcaro-diz-a-mendonca-que-mandou-agredir-e-ameacar-adversarios-porque-estava-nervoso-gaep/",
-    "resumo": "O banqueiro Daniel Vorcaro falou pela primeira vez, em depoimento ao gabinete do ministro André Mendonça, do Supremo Tribunal Federal (STF), sobre as suspeitas de que comandava uma milícia armada liderada por Luiz Phillipi Mourão, o Sicário. Em depoimento à equipe de Mendonça, Vorcaro disse que as ordens dadas para…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:09:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3e20cc1c0c483bcd",
-    "manchete": "Diretor do Fed diz estar aberto a deixar juros inalterados se inflação recuar",
-    "url": "https://www.infomoney.com.br/economia/diretor-do-fed-diz-estar-aberto-a-deixar-juros-inalterados-se-inflacao-recuar/",
-    "resumo": "“Se houver progresso contínuo em ⁠direção à nossa meta de 2%, estarei disposto a defender a manutenção da taxa de juros no nível atual”, afirmou Waller",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:09:18.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "62d95af500cfd467",
-    "manchete": "3tentos (TTEN3): Itaú BBA corta preço-alvo, mas vê revés temporário e ação barata",
-    "url": "https://www.moneytimes.com.br/3tentos-tten3-itau-bba-corta-preco-alvo-mas-ve-reves-temporario-e-acao-barata/",
-    "resumo": "O Itaú BBA reduziu o preço-alvo para as ações da 3tentos (TTEN3) de R$ 20 ao fim de 2026 para R$ 19 (potencial de alta de 58,9%) ao fim de 2027. Apesar do corte, o banco manteve a recomendação outperform, equivalente a compra, e a companhia como sua principal escolha no setor brasileiro de agronegócio. [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-09-03T14:08:41.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b8a2f3931625038e",
-    "manchete": "Pedidos de auxílio-desemprego nos EUA sobem 2 mil na semana, a 206 mil",
-    "url": "https://www.infomoney.com.br/economia/pedidos-de-auxilio-desemprego-nos-eua-sobem-2-mil-na-semana-a-206-mil/",
-    "resumo": "Total da semana anterior foi revisado em alta, de 203 mil para 204 mil",
-    "fonte": "InfoMoney",
-    "data": "2026-09-03T14:07:48.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1141da4fb40d903c",
-    "manchete": "PoderData/Aya: Flávio Bolsonaro tem 45% e Lula, 44%, em eventual segundo turno",
-    "url": "https://www.moneytimes.com.br/poderdata-aya-flavio-bolsonaro-tem-45-e-lula-44-em-eventual-segundo-turno-gaep/",
-    "resumo": "Pesquisa PoderData/Aya divulgada nesta quinta-feira (3) mostra que Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) mantiveram o empate técnico no segundo turno das eleições 2026, mas com o senador numericamente à frente do presidente e candidato à reeleição. Flávio Bolsonaro tem 45% e Lula, 44% das intenções de…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T13:55:47.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "37b8f80682c7ca93",
-    "manchete": "Renan Santos entra no Senado com pedidos de impeachment contra Toffoli e Moraes",
-    "url": "https://www.moneytimes.com.br/renan-santos-entra-no-senado-com-pedidos-de-impeachment-contra-toffoli-e-moraes/",
-    "resumo": "O candidato à Presidência da República Renan Santos (Missão) entrou, no Senado, com dois pedidos de impeachment contra os ministros do Supremo Tribunal Federal (STF) Dias Toffoli e Alexandre de Moraes. Os dois documentos se juntam aos outros 109 pedidos de impeachment acumulados no Senado, conforme declarado nesta…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T13:37:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "69f822cbb8c68343",
-    "manchete": "Swing trade: BB Investimentos recomenda a compra de BTG Pactual (BPAC11), Gerdau (GGBR4) e Ambev (ABEV3) nesta quinta (3)",
-    "url": "https://www.moneytimes.com.br/swing-trade-bb-investimentos-recomenda-a-compra-de-btg-pactual-bpac11-gerdau-ggbr4-e-ambev-abev3-nesta-quinta-3-ceci/",
-    "resumo": "Nesta quinta-feira (9), o BB Investimentos recomenda a compra de Ambev (ABEV3), Gerdau (GGBR4) e BTG Pactual (BPAC11). O relatório de análise técnica aponta a “expectativa da captura de possível movimento de alta rastreado pelo algoritmo”. A orientação é que as compras aconteçam na abertura do mercado, com preço…",
-    "fonte": "Money Times",
-    "data": "2026-09-03T13:36:21.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "945c23d6460856c2",
-    "manchete": "Rumo: COFCO e Bunge negociam governança",
-    "url": "https://braziljournal.com/rumo-cofco-e-bunge-negociam-governanca/",
-    "resumo": "A Cosan está em conversas avançadas com um consórcio formado pela COFCO e a Bunge para vender uma fatia de 15% na Rumo, fontes a par do assunto disseram ao Brazil Journal. A proposta em discussão é “substancialmente acima do preço de tela”, mas não há garantias de que as partes chegarão a um acordo. [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-03T09:50:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "60c1e60fdfb9c251",
-    "manchete": "A Iguá já botou R$ 1 bi para ‘reformar’ a velha Cedae. Os jacarés estão voltando",
-    "url": "https://braziljournal.com/a-igua-ja-botou-r-1-bi-para-reformar-a-velha-cedae-os-jacares-estao-voltando/",
-    "resumo": "RIO DE JANEIRO – Na Estação de Tratamento de Esgoto da Barra da Tijuca, fotos espalhadas pelas instalações mostram o ‘antes e depois’ da unidade que até 2022 pertencia à estatal fluminense Cedae. Quando a Iguá Saneamento assumiu as operações, após vencer o leilão do Bloco 2 da Cedae no ano anterior, encontrou diversas…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-03T09:50:41.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "98d4cf364a9f74e7",
-    "manchete": "Stelleo Tolda e Jean-Marc Etlin vão para o board da Endeavor Brasil",
-    "url": "https://braziljournal.com/stelleo-tolda-e-jean-marc-etlin-vao-para-o-board-da-endeavor-brasil/",
-    "resumo": "A Endeavor Brasil trouxe para o seu conselho Stelleo Tolda e Jean-Marc Etlin, num movimento que busca aproximar a entidade de segmentos para além do venture capital. Stelleo, um dos fundadores do Mercado Livre, e Etlin, o veterano banqueiro e hoje o managing director da Bluebird, já faziam parte do ecossistema da…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-03T09:50:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb52301c4a8ed6cb",
-    "manchete": "PRC Empreendimentos lança fundo de R$ 10 milhões para aportar em startups e tecnologias imobiliárias",
-    "url": "https://startupi.com.br/prc-empreendimentos-lanca-fundo-de-r-10-milhoes-para-aportar-em-startups-e-tecnologias-imobiliarias/",
-    "resumo": "Startupi PRC Empreendimentos lança fundo de R$ 10 milhões para aportar em startups e tecnologias imobiliárias Incorporadora paranaense traz o executivo Jean Vogel para liderar a área de Inovação e efetiva primeiro investimento na PropTech Ecosystems Builders. O post PRC Empreendimentos lança fundo de R$ 10 milhões…",
-    "fonte": "Startupi",
-    "data": "2026-09-03T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c6e366440796a543",
-    "manchete": "Com avanço no B2B e aporte do GVAngels, healthtech HIT projeta R$ 5 milhões e mira fusão em 2027",
-    "url": "https://startupi.com.br/com-avanco-no-b2b-e-aporte-do-gvangels-healthtech-hit-projeta-r-5-milhoes-e-mira-fusao-em-2027/",
-    "resumo": "Startupi Com avanço no B2B e aporte do GVAngels, healthtech HIT projeta R$ 5 milhões e mira fusão em 2027 Plataforma de saúde integrativa acumula 100 mil usuários, registra forte expansão no mercado corporativo e estrutura busca por parceiro estratégico para ganhar escala no setor. O post Com avanço no B2B e aporte do…",
-    "fonte": "Startupi",
-    "data": "2026-09-03T07:00:00.000Z",
-    "tags_tema": [
-      "M&A",
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d8e1d2a7cceadf25",
-    "manchete": "Reforma Tributária: o que a definição das novas alíquotas pode mudar para quem trabalha como PJ",
-    "url": "https://startupi.com.br/reforma-tributaria-o-que-a-definicao-das-novas-aliquotas-pode-mudar-para-quem-trabalha-como-pj/",
-    "resumo": "Startupi Reforma Tributária: o que a definição das novas alíquotas pode mudar para quem trabalha como PJ Por Amanda Carvalho, fundadora e CEO da Adaflow, startup de contabilidade inteligente que simplifica a rotina de profissionais PJ, especialmente os que atuam no exterior. O post Reforma Tributária: o que a…",
-    "fonte": "Startupi",
-    "data": "2026-09-03T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "62956fa10b71d25a",
-    "manchete": "SuaQuadra avança em escritórios, movimenta R$ 341 milhões no 2º trimestre e mira R$ 1 bilhão até 2027",
-    "url": "https://startupi.com.br/suaquadra-avanca-em-escritorios-movimenta-r-341-milhoes-no-2o-trimestre-e-mira-r-1-bilhao-ate-2027/",
-    "resumo": "Startupi SuaQuadra avança em escritórios, movimenta R$ 341 milhões no 2º trimestre e mira R$ 1 bilhão até 2027 Impulsionada pela consolidação do trabalho presencial e híbrido, imobiliária comercial orientada por IA amplia atuação para lajes corporativas e projeta estreia no mercado de galpões logísticos. O post…",
-    "fonte": "Startupi",
-    "data": "2026-09-03T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "254093824b0a3684",
-    "manchete": "MEMÓRIA. Milton Afonso sempre estendia a mão",
-    "url": "https://braziljournal.com/memoria-milton-afonso-sempre-estendia-a-mao/",
-    "resumo": "Bem-aventurado aquele que, entre nós, partir desta vida deixando no mundo o legado de generosidade e desprendimento de Milton Afonso, o menino pobre que vendia doces com seis anos de idade, ergueu um império na saúde, e depois passou décadas compartilhando essa riqueza – numa obra de caridade que tocou e transformou…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-03T04:09:30.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "89086f9a487aee12",
-    "manchete": "NeoSummit IA na Real",
-    "url": "https://neofeed.com.br/videos/neosummit-ianareal-video/",
-    "resumo": "",
-    "fonte": "NeoFeed",
-    "data": "2026-09-02T23:17:22.061Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "565d96532fa8c135",
-    "manchete": "A nova aposta do PicPay para transformar a IA em uma “secretária financeira”",
-    "url": "https://neofeed.com.br/videos/neosummit-ianareal-video/a-nova-aposta-do-picpay-para-transformar-a-ia-em-uma-secretaria-financeira/",
-    "resumo": "Com agentes capazes de encadear tarefas complexas a partir de um único comando, o banco digital prepara o terreno para um futuro além das telas de aplicativo",
-    "fonte": "NeoFeed",
-    "data": "2026-09-02T23:17:22.061Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c7df921135284d96",
-    "manchete": "Benjamin Steinbruch passa o bastão de CEO da CSN para Fabio Schvartsman",
-    "url": "https://neofeed.com.br/negocios/benjamin-steinbruch-passa-o-bastao-de-ceo-da-csn-para-fabio-schvartsman/",
-    "resumo": "Após 24 anos como CEO e há mais três décadas na liderança da empresa, Steinbruch escolhe o ex-CEO da Vale para a missão de reduzir o endividamento da CSN. Ao NeoFeed, o empresário explica o plano para a nova gestão",
-    "fonte": "NeoFeed",
-    "data": "2026-09-02T23:17:22.060Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "53ecca5f99557b02",
-    "manchete": "EXCLUSIVO: Minoritários da Toky acionam CVM, questionam possível OPA e conversão de debêntures",
-    "url": "https://neofeed.com.br/negocios/exclusivo-minoritarios-da-toky-acionam-cvm-questionam-possivel-opa-e-conversao-de-debentures/",
-    "resumo": "Em reclamação obtida pelo NeoFeed, acionistas do grupo Toky levantam possibilidade de orquestração da SPX e fundos para evitar estourar poison pill",
-    "fonte": "NeoFeed",
-    "data": "2026-09-02T23:17:22.060Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Regulação"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
