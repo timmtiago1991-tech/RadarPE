@@ -1,5 +1,381 @@
 [
   {
+    "id": "bc59031ffb13f059",
+    "manchete": "ARTIGO - Por que a consolidação tende a favorecer os líderes de nicho",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-por-que-a-consolidacao-tende-a-favorecer-os-lideres-de-nicho",
+    "resumo": "É possível desenvolver produto, canal, marca, conhecimento e relacionamento organicamente, mas o processo leva anos e nem sempre funciona",
+    "fonte": "AgFeed",
+    "data": "2026-09-23T15:03:13.957Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a72d79f1736ccadd",
+    "manchete": "Basf contrata bancos e avança uma casa em direção ao IPO de sua divisão agrícola",
+    "url": "https://agfeed.com.br/negocios/basf-contrata-bancos-e-avanca-uma-casa-em-direcao-ao-ipo-de-sua-divisao-agricola",
+    "resumo": "Basf contrata bancos para coordenar IPO da divisão agrícola, previsto para 2027, e avança na separação do negócio",
+    "fonte": "AgFeed",
+    "data": "2026-09-23T15:03:13.957Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "edb386d2ad1f9caf",
+    "manchete": "Doroth capta R$ 23 milhões para levar diagnóstico molecular ao campo e produzir chips em escala Doroth capta R$ 23 milhões para levar diagnóstico molecular ao campo e produzir chips em escala",
+    "url": "https://agfeed.com.br/agtech/doroth-capta-r-23-milhoes-para-levar-diagnostico-molecular-ao-campo-e-produzir-chips-em-escala",
+    "resumo": "Deeptech quer automatizar testes de patógenos e genes de resistência e prevê fábrica com capacidade para 4 milhões de chips por ano",
+    "fonte": "AgFeed",
+    "data": "2026-09-23T15:03:13.956Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c7589ab04f8c6fc3",
+    "manchete": "BTG vê indústria de processamento de soja com maior capacidade física, mas com menor controle das margens",
+    "url": "https://agfeed.com.br/economia/btg-ve-industria-de-processamento-de-soja-com-maior-capacidade-fisica-mas-com-menor-controle-das-margens",
+    "resumo": "BTG Pactual vê expansão da capacidade de processamento de soja, mas alerta para pressão sobre margens e influência do biodiesel",
+    "fonte": "AgFeed",
+    "data": "2026-09-23T15:03:13.952Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f13ba8be61246db",
+    "manchete": "ADM colhe a “safra dos ventos” de energia limpa e reduz pegada de carbono no esmagamento de soja ADM colhe a “safra dos ventos” de energia limpa e reduz pegada de carbono no esmagamento de soja",
+    "url": "https://agfeed.com.br/esg/adm-colhe-a-safra-dos-ventos-de-energia-limpa-e-reduz-pegada-de-carbono-no-esmagamento-de-soja",
+    "resumo": "Companhia firmou acordo com Casa dos Ventos para abastecer unidades fabris com fonte renovável, reduzindo custos de energia e pegada de carbono",
+    "fonte": "AgFeed",
+    "data": "2026-09-23T15:03:13.952Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "514efa106778bf7b",
+    "manchete": "Paraguai, Chile, Uruguai e Peru têm, mas o Brasil não. Por que o grau de investimento saiu da agenda?",
+    "url": "https://neofeed.com.br/economia/paraguai-chile-uruguai-e-peru-tem-mas-o-brasil-nao-por-que-o-grau-de-investimento-saiu-da-agenda/",
+    "resumo": "O Brasil convive há mais de uma década com o grau especulativo. O NeoFeed ouviu especialistas para entender o que é possível fazer para reconquistar essa confiança",
+    "fonte": "NeoFeed",
+    "data": "2026-09-23T15:03:10.532Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c0d131c9869a6423",
+    "manchete": "Ministério Público questiona estrutura da recuperação da Braskem e pede bloqueio de US$ 800 milhões",
+    "url": "https://neofeed.com.br/negocios/ministerio-publico-questiona-estrutura-da-recuperacao-da-braskem-e-pede-bloqueio-de-us-800-milhoes/",
+    "resumo": "O NeoFeed teve acesso ao parecer da Promotoria de Falências com a recomendação de suspender novos aportes e garantias à Braskem Idesa",
+    "fonte": "NeoFeed",
+    "data": "2026-09-23T15:03:10.532Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b34b9b2ef53a6601",
+    "manchete": "Azul diz que falha no GPS da Embraer cancelou mais de 80 voos",
+    "url": "https://www.infomoney.com.br/brasil/azul-diz-que-falha-no-gps-da-embraer-cancelou-mais-de-80-voos/",
+    "resumo": "No painel de voos do Aeroporto de Viracopos, localizado em Campinas (SP), seis voos da Azul aparecem como cancelados nesta quarta-feira, 23",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T15:01:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f39e8dea1584002b",
+    "manchete": "Atlas: Tarcísio abre 14 pontos sobre Haddad e abre caminho para vitória em 1º turno",
+    "url": "https://www.infomoney.com.br/politica/atlas-tarcisio-abre-14-pontos-sobre-haddad-e-abre-caminho-para-vitoria-em-1o-turno/",
+    "resumo": "Governador avançou cerca de quatro pontos desde o início de setembro; aprovação da gestão também cresceu e chegou a 55%",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c299f483316471df",
+    "manchete": "AtlasIntel: Flávio ou Lula, quem leva vantagem nos 3 maiores colégios eleitorais",
+    "url": "https://www.infomoney.com.br/politica/atlasintel-flavio-ou-lula-quem-leva-vantagem-nos-3-maiores-colegios-eleitorais/",
+    "resumo": "Lula lidera numericamente em Minas e no Rio; Flávio abre vantagem em São Paulo, enquanto disputas estaduais ajudam a explicar diferenças regionais",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "43eef7c51f51e267",
+    "manchete": "Saiba quantas pessoas trabalham home office no Brasil, segundo o IBGE",
+    "url": "https://www.infomoney.com.br/economia/saiba-quantas-pessoas-trabalham-home-office-no-brasil-segundo-o-ibge/",
+    "resumo": "Porto Alegre lidera em proporção de trabalhadores em casa, mas São Paulo segue à frente em número absoluto, com 543 mil pessoas, mostra pesquisa do IBGE",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:59:05.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0305d2d6e5ef7840",
+    "manchete": "Registro de CNPJ entre trabalhadores autônomos atinge recorde em 2025, aponta IBGE",
+    "url": "https://www.infomoney.com.br/economia/registro-de-cnpj-entre-trabalhadores-autonomos-atinge-recorde-em-2025-aponta-ibge/",
+    "resumo": "A marca inédita foi influenciada pela taxa de cobertura de CNPJ entre os trabalhadores por conta própria",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:56:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7db02d3291c6cb8d",
+    "manchete": "Pesquisa? Petrobras? O que faz Ibovespa ter forte volatilidade na sessão desta quarta",
+    "url": "https://www.infomoney.com.br/mercados/pesquisa-petrobras-o-que-fez-ibovespa-sair-de-queda-para-alta-no-pregao-desta-4a/",
+    "resumo": "Índice caminhava para dia de queda com investidores de olho no cenário político, virou com ganhos das ações da petroleira estatal, mas logo perdeu força",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:53:25.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "826742732b87fb1e",
+    "manchete": "Quem integra o Escudo das Américas — e quem ficou de fora",
+    "url": "https://www.infomoney.com.br/mundo/quem-integra-o-escudo-das-americas-e-quem-ficou-de-fora/",
+    "resumo": "Coalizão criada por Trump reúne governos latino-americanos em torno de segurança e combate ao narcotráfico; Brasil e México não aderiram",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:48:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "417ebd3662965e7c",
+    "manchete": "Dólar hoje avança ante real com pesquisa eleitoral e Fed no radar",
+    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23092026/",
+    "resumo": "Levantamento Atlas/Bloomberg mostrou logo cedo que o presidente Lula voltou a liderar numericamente as intenções de voto contra Flávio Bolsonaro em um eventual segundo turno",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:46:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f4a3cab51e45b58",
+    "manchete": "Pesquisas reforçam favoritismo dos democratas nas eleições “midterm”",
+    "url": "https://www.infomoney.com.br/mundo/pesquisas-reforcam-favoritismo-dos-democratas-nas-eleicoes-midterm/",
+    "resumo": "Levantamento divulgado nesta quarta-feira aponta que os esforços de Donald Trump para transformar as eleições de meio de mandato em um referendo sobre sua presidência parecem estar se voltando contra ele",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:45:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bb84d507ce4e8d76",
+    "manchete": "Record cancela debate entre presidenciáveis após Lula e Flávio recusarem convite",
+    "url": "https://www.infomoney.com.br/politica/record-cancela-debate-entre-presidenciaveis-apos-lula-e-flavio-recusarem-convite/",
+    "resumo": "Emissora lamentou ausência de ambos e destacou que, sem os candidatos que representam 70% das intenções de voto, o debate fugiria do propósito",
+    "fonte": "InfoMoney",
+    "data": "2026-09-23T14:43:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "de7e0381af6500b2",
+    "manchete": "Marcelo Mindlin, o ‘rei do shale’ (e agora do cimento)",
+    "url": "https://braziljournal.com/marcelo-mindlin-o-rei-do-shale-e-agora-do-cimento/",
+    "resumo": "Marcelo Mindlin vive um novo momento histórico em sua arrojada trajetória empresarial. O fundador da Pampa Energía – o maior grupo integrado do setor de energia da Argentina – é conhecido por movimentos ousados em um país marcado pela instabilidade. Agora, está liderando um grupo de investidores que assumiu o controle…",
+    "fonte": "Brazil Journal",
+    "data": "2026-09-23T09:50:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "07594b9b116a1684",
+    "manchete": "Por que a Vale investiu na Ligga Mineração",
+    "url": "https://braziljournal.com/por-que-a-vale-investiu-na-ligga-mineracao/",
+    "resumo": "A Vale comprou 30% da Ligga – uma mineradora na região de Carajás – por US$ 190 milhões – um aporte relativamente pequeno para a companhia, mas que dará à Vale acesso a um minério de alta qualidade e trará sinergias logísticas importantes já no curto prazo. A Ligga é dona da mina Ferro Sul, [&#8230;]",
+    "fonte": "Brazil Journal",
+    "data": "2026-09-23T09:50:19.000Z",
+    "tags_tema": [
+      "M&A",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8e763b86e1edf425",
+    "manchete": "Internacionalização e escala: como deeptechs B2B estão remodelando o ecossistema de startups no Brasil",
+    "url": "https://startupi.com.br/internacionalizacao-e-escala-como-deeptechs-b2b-estao-remodelando-o-ecossistema-de-startups-no-brasil/",
+    "resumo": "Startupi Internacionalização e escala: como deeptechs B2B estão remodelando o ecossistema de startups no Brasil Missões globais, validação europeia e investimento em agentes de IA reforçam a exportação de software e a diversificação de receita das startups brasileiras",
+    "fonte": "Startupi",
+    "data": "2026-09-23T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0825d57724d7558f",
+    "manchete": "A Inteligência Artificial (IA) acelerou o marketing. E deixou o mercado B2B sem paciência",
+    "url": "https://startupi.com.br/a-inteligencia-artificial-ia-acelerou-o-marketing-e-deixou-o-mercado-b2b-sem-paciencia/",
+    "resumo": "Startupi A Inteligência Artificial (IA) acelerou o marketing. E deixou o mercado B2B sem paciência Por Mário Soma, CEO e Head B2B da Pólvora Comunicação",
+    "fonte": "Startupi",
+    "data": "2026-09-23T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7841e5931e42832d",
+    "manchete": "O medo de errar está matando a inovação nas empresas",
+    "url": "https://startupi.com.br/o-medo-de-errar-esta-matando-a-inovacao-nas-empresas/",
+    "resumo": "Startupi O medo de errar está matando a inovação nas empresas Por Marina Vaz, CEO e fundadora da Scooto",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "236eda934bc60a9c",
+    "manchete": "Toda empresa quer IA, mas nem todas estão preparadas para sustentar a infraestrutura que ela exige",
+    "url": "https://startupi.com.br/toda-empresa-quer-ia-mas-nem-todas-estao-preparadas-para-sustentar-a-infraestrutura-que-ela-exige/",
+    "resumo": "Startupi Toda empresa quer IA, mas nem todas estão preparadas para sustentar a infraestrutura que ela exige Por Paulo Lima, CEO da Skynova, empresa de serviços de e-mail corporativo, cloud computing e segurança digital",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "10d0dcc5c71cfbfe",
+    "manchete": "No franchising, inovar não é ter mais tecnologia. É ter menos desperdício",
+    "url": "https://startupi.com.br/no-franchising-inovar-nao-e-ter-mais-tecnologia-e-ter-menos-desperdicio/",
+    "resumo": "Startupi No franchising, inovar não é ter mais tecnologia. É ter menos desperdício Por Luiz Saouda, CTO e cofundador da F360",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ecf010e01436a82c",
+    "manchete": "Antecedência e IA moldam a Black Friday 2026: metade dos consumidores pesquisa ofertas um mês antes",
+    "url": "https://startupi.com.br/black-friday-2026-pesquisa-lwsa-comportamento-consumidor/",
+    "resumo": "Startupi Antecedência e IA moldam a Black Friday 2026: metade dos consumidores pesquisa ofertas um mês antes Levantamento da LWSA aponta que 54% pretendem diluir as compras ao longo de novembro, exigindo antecipação de estoque, novos canais e flexibilidade de pagamento dos lojistas",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:58:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "421c1fdd7db477c1",
+    "manchete": "Woba lança plataforma gratuita de formação em IA para gestão de espaços corporativos",
+    "url": "https://startupi.com.br/woba-lanca-plataforma-gratuita-cursos-ia-workplace/",
+    "resumo": "Startupi Woba lança plataforma gratuita de formação em IA para gestão de espaços corporativos Woba AI Academy oferece cursos continuados com certificado para profissionais das áreas de Workplace, Facilities e Real Estate.",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:58:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7f9d7a51758e082f",
+    "manchete": "Uma Previdência para o novo mundo do trabalho",
+    "url": "https://startupi.com.br/uma-previdencia-para-o-novo-mundo-do-trabalho/",
+    "resumo": "Startupi Uma Previdência para o novo mundo do trabalho Por Devanir Silva, presidente da Abrapp – Associação Brasileira das Entidades Fechadas de Previdência Complementar.",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:57:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a150f839f4b2645a",
+    "manchete": "Como o avanço das fintechs no mercado B2B transforma pagamentos em novas linhas de receita",
+    "url": "https://startupi.com.br/fintechs-no-mercado-b2b-integracao-servicos-financeiros/",
+    "resumo": "Startupi Como o avanço das fintechs no mercado B2B transforma pagamentos em novas linhas de receita Conexão entre plataformas de tecnologia e serviços financeiros permite que empresas incorporem inteligência transacional e novos produtos à jornada do cliente",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:57:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7cb9261c324bcb4d",
+    "manchete": "Como a integração entre software e mercado financeiro definiu a consolidação das techfins no Brasil",
+    "url": "https://startupi.com.br/consolidacao-das-techfins-no-brasil-marcos-historicos/",
+    "resumo": "Startupi Como a integração entre software e mercado financeiro definiu a consolidação das techfins no Brasil Análise mapeia a evolução do setor desde as primeiras fusões no B2B até o uso de inteligência artificial na gestão de riscos e eficiência transacional",
+    "fonte": "Startupi",
+    "data": "2026-09-23T06:57:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "b8315f437ab653f6",
     "manchete": "ARTIGO - Boi vivo ou carcaça? A controvérsia tributária que pode custar milhões aos frigoríficos ARTIGO - Boi vivo ou carcaça? A controvérsia tributária que pode custar milhões aos frigoríficos",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-boi-vivo-ou-carcaca-a-controversia-tributaria-que-pode-custar-milhoes-aos-frigorificos",
@@ -431,6 +807,18 @@
     "resumo": "A Binance, maior exchange de criptomoedas do mundo, anunciou nesta terça-feira (22) um investimento de US$ 100 milhões em ações da Circle (NYSE: CRCL) e a expansão e renovação de sua parceria estratégica para promover a stablecoin USDC em toda a plataforma global da Binance. O novo acordo tem duração de cinco anos.…",
     "fonte": "Money Times",
     "data": "2026-09-22T15:00:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3e91d9beb6af9059",
+    "manchete": "Arrecadação sobre dividendos decepciona? Receita corta projeção de R$ 29 bilhões para R$ 10,5 bilhões",
+    "url": "https://www.moneytimes.com.br/receita-reduz-estimativa-de-arrecadacao-com-taxacao-de-dividendos-de-r29-bi-a-r105-bi-em-2026-jcav/",
+    "resumo": "A Receita Federal reduziu sua projeção de arrecadação com a nova tributação de dividendos a R$ 10,5 bilhões, bem abaixo dos R$ 29 bilhões previstos originalmente, informou nesta terça-feira o chefe do Centro de Estudos Tributários e Aduaneiros da Receita, Claudemir Malaquias. Em entrevista à imprensa, Malaquias disse…",
+    "fonte": "Money Times",
+    "data": "2026-09-22T14:58:42.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
@@ -6081,54 +6469,6 @@
     "importancia": 3
   },
   {
-    "id": "cddd4c8f59684fa7",
-    "manchete": "Fernando Sampaio e Karen Oliveira",
-    "url": "https://agfeed.com.br/author/fernando-sampaio-e-karen-oliveira/",
-    "resumo": "Fernando Sampaio e Karen Oliveira",
-    "fonte": "AgFeed",
-    "data": "2026-09-15T15:02:43.906Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ea36303c332704f8",
-    "manchete": "Bloqueio europeu a carnes brasileiras pesa sobre ações de JBS e MBRF, com Minerva \"poupada\" pelo investidor Bloqueio europeu a carnes brasileiras pesa sobre ações de JBS e MBRF, com Minerva \"poupada\" pelo investidor",
-    "url": "https://agfeed.com.br/negocios/bloqueio-europeu-a-carnes-brasileiras-pesa-sobre-acoes-de-jbs-e-mbrf-com-minerva-poupada-pelo-investidor",
-    "resumo": "MBRF, JBS e Minerva reagem ao bloqueio da UE às carnes brasileiras, com impactos diferentes nas ações e exportações",
-    "fonte": "AgFeed",
-    "data": "2026-09-15T15:02:43.905Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a63af337ed605dd3",
-    "manchete": "AgLíderes: O plano da Vitalforce para chegar ao top 5 dos biológicos no Brasil, segundo Sheilla Albuquerque",
-    "url": "https://agfeed.com.br/videos/aglideres/aglideres-o-plano-da-vitalforce-para-chegar-ao-top-5-dos-biologicos-no-brasil-segundo-sheilla-albuquerque",
-    "resumo": "Sheilla Albuquerque, CEO da Vitalforce, fala sobre os desafios da “crise de crédito” e da expectativa de crescer dois dígitos",
-    "fonte": "AgFeed",
-    "data": "2026-09-15T15:02:43.899Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1db2109df60ddcad",
-    "manchete": "xFarm compra Sibium Analytics para somar as \"doces receitas\" da cana aos seus negócios no Brasil xFarm compra Sibium Analytics para somar as \"doces receitas\" da cana aos seus negócios no Brasil",
-    "url": "https://agfeed.com.br/agtech/xfarm-compra-sibium-analytics-para-somar-as-doces-receitas-da-cana-aos-seus-negocios-no-brasil",
-    "resumo": "Companhia europeia xFarm incorpora empresa de Ribeirão Preto e adiciona ao portfólio tecnologias para usinas, rastreabilidade e gestão ESG",
-    "fonte": "AgFeed",
-    "data": "2026-09-15T15:02:43.899Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "6daea3985209af73",
     "manchete": "Dados: o lado menos glamouroso da personalização por IA",
     "url": "https://neofeed.com.br/neosummit-ianareal/dados-o-lado-menos-glamouroso-da-personalizacao-por-ia/",
@@ -6487,32 +6827,6 @@
       "Venture Capital",
       "Fundraising"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "edb6cb3e55b9876c",
-    "manchete": "SLC busca meio bilhão com CPR-Fs",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/slc-busca-meio-bilhao-com-cpr-fs",
-    "resumo": "Companhia agrícola estreia nesse mercado com emissão de R$ 515 milhões lastreada por mais de 53 mil toneladas de algodão",
-    "fonte": "AgFeed",
-    "data": "2026-09-14T23:51:14.454Z",
-    "tags_tema": [
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "58968611946c023b",
-    "manchete": "A nova classificação de risco da 3tentos",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-nova-classificacao-de-risco-da-3tentos",
-    "resumo": "S&P rebaixou rating da 3tentos, com alertas sobre margens, liquidez e alavancagem, mas grau de investimento está mantido",
-    "fonte": "AgFeed",
-    "data": "2026-09-14T23:51:14.454Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9741,324 +10055,6 @@
     "fonte": "Money Times",
     "data": "2026-09-10T13:11:21.000Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "391a95babb3968aa",
-    "manchete": "Geração Z parece ter desistido da casa própria. Mas está construindo patrimônio na tela do celular",
-    "url": "https://startupi.com.br/geracao-z-parece-ter-desistido-da-casa-propria-mas-esta-construindo-patrimonio-na-tela-do-celular/",
-    "resumo": "Startupi Geração Z parece ter desistido da casa própria. Mas está construindo patrimônio na tela do celular Com imóveis fora de alcance, jovens adultos apostam em aplicativos de investimento e previdência privada; o movimento redesenha o mercado financeiro e já tem paralelo no Brasil.",
-    "fonte": "Startupi",
-    "data": "2026-09-10T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "873567a24d0926d1",
-    "manchete": "Strattum adquire Tropicalia para acelerar construção de camada de contexto para inteligência artificial corporativa",
-    "url": "https://startupi.com.br/strattum-adquire-tropicalia-para-acelerar-construcao-de-camada-de-contexto-para-inteligencia-artificial-corporativa/",
-    "resumo": "Startupi Strattum adquire Tropicalia para acelerar construção de camada de contexto para inteligência artificial corporativa Transação traz os fundadores da startup ao time executivo da empresa e foca em resolver a dispersão de dados que limita a precisão de agentes de IA.",
-    "fonte": "Startupi",
-    "data": "2026-09-10T07:01:00.000Z",
-    "tags_tema": [
-      "M&A",
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ba5034d2283bf15c",
-    "manchete": "IA na educação: um avanço necessário e responsável",
-    "url": "https://startupi.com.br/ia-na-educacao-um-avanco-necessario-e-responsavel/",
-    "resumo": "Startupi IA na educação: um avanço necessário e responsável Por Janguiê Diniz, Diretor-presidente da Associação Brasileira de Mantenedoras de Ensino Superior (ABMES); secretário-executivo do Brasil Educação; fundador, controlador e presidente do conselho de administração do grupo Ser Educacional; presidente do…",
-    "fonte": "Startupi",
-    "data": "2026-09-10T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb37dd6ed4247317",
-    "manchete": "O modelo de growth das startups entrou em colapso",
-    "url": "https://startupi.com.br/o-modelo-de-growth-das-startups-entrou-em-colapso/",
-    "resumo": "Startupi O modelo de growth das startups entrou em colapso fim do capital abundante, a ascensão da IA e VCs mais racionais vão desmontar o modelo fundamentado em mídia paga e crescimento artificial que expandem startups às custas de cultura, diferenciação e construção de valor.",
-    "fonte": "Startupi",
-    "data": "2026-09-10T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b03a7c9deb8eada1",
-    "manchete": "Startup desenvolve plataforma para digitalizar vendas a prazo e emitir cartões próprios em redes de postos",
-    "url": "https://startupi.com.br/startup-desenvolve-plataforma-para-digitalizar-vendas-a-prazo-e-emitir-cartoes-proprios-em-redes-de-postos/",
-    "resumo": "Startupi Startup desenvolve plataforma para digitalizar vendas a prazo e emitir cartões próprios em redes de postos Sistema VEIC Redes conecta a gestão financeira dos postos ao controle de abastecimento de frotas corporativas em ambiente unificado.",
-    "fonte": "Startupi",
-    "data": "2026-09-10T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b60166eac26a7173",
-    "manchete": "Os erros das startups que escalam rápido sem alinhar prioridades",
-    "url": "https://startupi.com.br/os-erros-das-startups-que-escalam-rapido-sem-alinhar-prioridades-2/",
-    "resumo": "Startupi Os erros das startups que escalam rápido sem alinhar prioridades Por Pedro Signorelli, especialista em gestão com ênfase em OKRs. Mais informações em www.gestaopragmatica.com.br/",
-    "fonte": "Startupi",
-    "data": "2026-09-10T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c470db14f70799d7",
-    "manchete": "Parceria entre Wellon e UEFS valida uso de inteligência artificial para prever absenteísmo em consultas médicas",
-    "url": "https://startupi.com.br/parceria-entre-wellon-e-uefs-valida-uso-de-inteligencia-artificial-para-prever-absenteismo-em-consultas-medicas/",
-    "resumo": "Startupi Parceria entre Wellon e UEFS valida uso de inteligência artificial para prever absenteísmo em consultas médicas Pesquisa aplica modelos preditivos para mitigar faltas na agenda do setor de saúde e otimizar a eficiência operacional de hospitais e clínicas.",
-    "fonte": "Startupi",
-    "data": "2026-09-10T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "456e7512e7a714a4",
-    "manchete": "O México abriu sua economia. Por que não ficou rico?",
-    "url": "https://braziljournal.com/o-mexico-abriu-sua-economia-por-que-nao-ficou-rico/",
-    "resumo": "Do ponto de vista de liberalização do comércio, os anos 1990 marcam um período épico na história. A partir do início dos anos 1990, Estados Unidos, México e Canadá aprofundam sua integração comercial, num processo que desembocaria no NAFTA em 1994. Do outro lado do Atlântico, também em 1990, os países do Grupo de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-10T03:45:59.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6d87a234e6c35da5",
-    "manchete": "Sanepar luta pelo precatório, descarta privatização e quer ir além do Paraná",
-    "url": "https://braziljournal.com/sanepar-luta-pelo-precatorio-descarta-privatizacao-e-quer-ir-alem-do-parana/",
-    "resumo": "A Sanepar venceu uma disputa judicial de mais de 30 anos – mas não levou. Agora, entrou na Justiça novamente. O CEO Wilson Bley disse ao Brazil Journal que vai brigar até o fim para que a empresa embolse ao menos parte dos R$ 4 bilhões de um precatório recebido no ano passado, que a [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-10T03:40:56.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "435b19877461f2dd",
-    "manchete": "OPINIÃO. A eleição do tudo ou nada. Por que não podemos errar de novo",
-    "url": "https://braziljournal.com/opiniao-a-eleicao-do-tudo-ou-nada-por-que-nao-podemos-errar-de-novo/",
-    "resumo": "Não chamem o Lula de mentiroso. Ele nunca prometeu ser fiscalmente responsável. Quem prometeu foram os outros. Em 6 de outubro de 2022, Armínio Fraga, Pedro Malan, Edmar Bacha e Persio Arida assinaram uma nota sucinta: “Votaremos em Lula no segundo turno; nossa expectativa é de condução responsável da economia.”…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-10T03:40:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7c33ab3556bcee5b",
-    "manchete": "O manifesto é um bom começo. Mas o que importa mesmo deve acontecer longe das manchetes",
-    "url": "https://startupi.com.br/manifesto-empresarial-stf-compliance-setor-produtivo/",
-    "resumo": "Startupi O manifesto é um bom começo. Mas o que importa mesmo deve acontecer longe das manchetes Manifesto assinado por milhares de entidades empresariais exige julgamento público e urgente da crise na Corte e sinaliza que a paciência do capital brasileiro com a instabilidade institucional chegou ao limite.",
-    "fonte": "Startupi",
-    "data": "2026-09-10T00:00:40.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3ca5551e39e12f26",
-    "manchete": "A arma secreta da Covenant: um arsenal de US$ 250 milhões e \"aliados” de Trump como investidores",
-    "url": "https://neofeed.com.br/startups/a-arma-secreta-da-covenant-um-arsenal-de-us-250-milhoes-e-aliados-de-trump-como-investidores/",
-    "resumo": "Após dois anos em modo stealth, a startup de defesa anuncia fábrica, lança sistema de mísseis de longo alcance e revela aportes de investidores como Andreessen Horowitz e Peter Thiel, com fortes laços a Casa Branca",
-    "fonte": "NeoFeed",
-    "data": "2026-09-09T23:12:11.797Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9da1303af5f67f97",
-    "manchete": "Empresa colombiana de energia \"recarrega\" estratégia com aposta em baterias no Brasil",
-    "url": "https://neofeed.com.br/negocios/empresa-colombiana-de-energia-recarrega-estrategia-com-aposta-em-baterias-no-brasil/",
-    "resumo": "Após captar US$ 129 milhões, colombiana mira armazenamento no Brasil, enquanto solar segue como principal frente de expansão no país de origem",
-    "fonte": "NeoFeed",
-    "data": "2026-09-09T23:12:11.797Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b0dd3c714d3e06b4",
-    "manchete": "Após crescer na Energisa, Voltz quer virar a fintech de outras utilities",
-    "url": "https://neofeed.com.br/negocios/apos-crescer-na-energisa-voltz-quer-virar-a-fintech-de-outras-utilities/",
-    "resumo": "Fintech quer transformar a expertise de crédito e arrecadação desenvolvida para 2,7 milhões de clientes em uma nova frente B2B",
-    "fonte": "NeoFeed",
-    "data": "2026-09-09T23:12:11.797Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f74acbbf225e0914",
-    "manchete": "Solfácil aciona os \"motores\" e entra em financiamento de carros elétricos",
-    "url": "https://neofeed.com.br/startups/solfacil-aciona-os-motores-e-entra-em-financiamento-de-carros-eletricos/",
-    "resumo": "Como parte de uma estratégia de diversificação, a empresa lança uma linha de financiamento de veículos elétricos e híbridos. E, para ganhar tração nesse novo percurso, a largada será dada com motoristas de aplicativo",
-    "fonte": "NeoFeed",
-    "data": "2026-09-09T23:12:11.797Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ddf6f89ab1ba9ae3",
-    "manchete": "Isabella Wanderley fez do Ozempic um blockbuster no Brasil. Agora, vai disputar mercado com outra caneta",
-    "url": "https://neofeed.com.br/negocios/isabella-wanderley-fez-do-ozempic-um-blockbuster-no-brasil-agora-vai-disputar-mercado-com-outra-caneta/",
-    "resumo": "Hoje CEO da Sandoz, ela liderava a Novo Nordisk quando a caneta virou líder de vendas no país. Quatro anos depois, ela lança o Owozy para brigar por uma fatia do mercado que ela ajudou a criar",
-    "fonte": "NeoFeed",
-    "data": "2026-09-09T23:12:11.796Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "20856bf62c85f09e",
-    "manchete": "MELI levanta US$ 1 bi com bond de 10 anos",
-    "url": "https://braziljournal.com/meli-levanta-us-1-bi-com-bond-de-10-anos/",
-    "resumo": "O Mercado Livre levantou US$ 1 bilhão com a emissão de um bond de 10 anos na tarde de hoje. O papel, com vencimento em 2036, saiu com spread de 130 pontos-base acima do Treasury de mesmo prazo, fontes a par do assunto disseram ao Brazil Journal. A demanda chegou a US$ 2,1 bilhões no [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-09T22:51:59.000Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Curva de Juros",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f2ece5c2534e200b",
-    "manchete": "Juros futuros avançam com petróleo acima de US$ 101 e subvenção estendida",
-    "url": "https://www.moneytimes.com.br/juros-futuros-9-9-26-apsa/",
-    "resumo": "A curva de juros futuros ganhou força nesta quarta-feira (9), diante da pressão do petróleo e do avanço dos títulos do Tesouro norte-americano, os Treasuries. O cenário doméstico também pesou contra. A taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2027, de curtíssimo prazo, encerrou a 13,580%, de…",
-    "fonte": "Money Times",
-    "data": "2026-09-09T22:35:05.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3278ab116b09d647",
-    "manchete": "Nubank, XP e JBS devem entrar no Ibovespa em 2027",
-    "url": "https://braziljournal.com/nubank-xp-e-jbs-devem-entrar-no-ibovespa-em-2027/",
-    "resumo": "Os BDRs de empresas brasileiras poderão compor a carteira do Ibovespa no primeiro semestre de 2027, em data ainda a ser definida, anunciou a B3. O ingresso estará condicionado aos critérios do índice, que são focados em liquidez e não devem mudar. A B3 vinha mantendo há meses conversas com o mercado para modernizar a…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-09T22:34:45.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "804768f8ceb1bc7e",
-    "manchete": "Ministro diz que impacto de medidas para combustíveis soma R$ 7 bilhões por mês",
-    "url": "https://www.infomoney.com.br/economia/moretti-diz-que-impacto-de-medidas-para-combustiveis-soma-r-7-bilhoes-por-mes/",
-    "resumo": "Governo federal anunciou o decreto que reduz em R$ 0,63 as alíquotas de PIS/Pasep e Cofins sobre o litro de gasolina",
-    "fonte": "InfoMoney",
-    "data": "2026-09-09T22:24:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "140c719c01bfe241",
-    "manchete": "Gasolina mais barata: Governo calcula tamanho do impacto nas contas públicas",
-    "url": "https://www.moneytimes.com.br/gasolina-mais-barata-governo-calcula-tamanho-do-impacto-nas-contas-publicas/",
-    "resumo": "O ministro do Planejamento e Orçamento, Bruno Moretti, informou nesta quarta-feira, 9, o impacto somado de R$ 7 bilhões, aproximadamente, com as novas medidas para aliviar os preços dos combustíveis diante da guerra no Oriente Médio. Estão sendo detalhados em coletiva de imprensa dois anúncios: subvenção adicional ao…",
-    "fonte": "Money Times",
-    "data": "2026-09-09T22:09:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a5e506167bb3dc55",
-    "manchete": "Fitch eleva rating da Embraer (EMBJ3) de IDR para BBB, com perspectiva estável",
-    "url": "https://www.moneytimes.com.br/fitch-eleva-rating-da-embraer-de-idr-para-bbb-com-perspectiva-estavel/",
-    "resumo": "A Fitch elevou a classificação de risco da Embraer (EMBJ3), com o rating de IDR passando para BBB e perspectiva estável, citando principalmente a posição de liquidez considerada robusta. Segundo a agência, a companhia combina histórico de geração positiva de fluxo de caixa livre (FCF), flexibilidade financeira e…",
-    "fonte": "Money Times",
-    "data": "2026-09-09T22:08:32.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4c9c6c0fc6d54a7f",
-    "manchete": "Onde assistir: Estudiantes x Corinthians",
-    "url": "https://www.infomoney.com.br/esportes/onde-assistir-estudiantes-x-corinthians/",
-    "resumo": "O jogo está previsto para começar às 21h30 no Estádio Jorge Luis Hirschi, também conhecido como UNO",
-    "fonte": "InfoMoney",
-    "data": "2026-09-09T22:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c1509869c4d74b46",
-    "manchete": "Squadra vende ações do Inter (INBR32); confira",
-    "url": "https://www.moneytimes.com.br/squadra-reduz-participacao-no-inter-inbr32-confira-apsa/",
-    "resumo": "A Squadra Investimentos reduziu sua participação acionária no Inter (INBR32) para 4,93%, mostra documento enviado ao mercado nesta quarta-feira (9). Segundo comunicado, a gestora passou a deter 16 milhões valores mobiliários. De acordo com a gestora, a participação não tem como objetivo alterar a composição do…",
-    "fonte": "Money Times",
-    "data": "2026-09-09T21:55:48.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
