@@ -1,5 +1,235 @@
 [
   {
+    "id": "f53b3fbb7d5a4a5f",
+    "manchete": "Zuckerberg diz ter alcançado rivais na corrida da IA e prepara nova ofensiva bilionária",
+    "url": "https://neofeed.com.br/inovacao/zuckerberg-diz-ter-alcancado-rivais-na-corrida-da-ia-e-prepara-nova-ofensiva-bilionaria/",
+    "resumo": "O CEO da Meta afirma que o novo modelo Muse Wonder coloca a empresa na fronteira da inteligência artificial",
+    "fonte": "NeoFeed",
+    "data": "2026-10-13T02:33:29.676Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dcd10ac0c7cdd7e5",
+    "manchete": "Atriz de 'Legalmente Loira' é presa após agredir comissárias em avião",
+    "url": "https://www.infomoney.com.br/mundo/atriz-de-legalmente-loira-e-presa-apos-agredir-comissarias-em-aviao/",
+    "resumo": "O episódio aconteceu quando a artista fazia um voo da Delta Air Lines de Los Angeles com destino ao Aeroporto Internacional JFK, em Nova York",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T23:15:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a593fe29b47c3447",
+    "manchete": "UE condena 'em termos enérgicos' ataques houthis a infraestruturas na Arábia Saudita",
+    "url": "https://www.infomoney.com.br/mundo/ue-condena-em-termos-energicos-ataques-houthis-a-infraestruturas-na-arabia-saudita/",
+    "resumo": "Um ataque ao aeroporto de Riad matou pelo menos 13 pessoas e feriu mais de 300",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T23:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "85623e50874b22d2",
+    "manchete": "Polícia faz perícia em bolo após suspeita de contaminação por substância desconhecida",
+    "url": "https://www.infomoney.com.br/brasil/policia-faz-pericia-em-bolo-apos-suspeita-de-contaminacao-por-substancia-desconhecida/",
+    "resumo": "Tortas seriam distribuídas em um evento para crianças em Oswaldo Cruz, na Zona Norte do Rio",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T22:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "21dbe2bff9625bb3",
+    "manchete": "'Exército do Lula': Nunes Marques apontou descumprimento de acordo com TSE pela Meta",
+    "url": "https://www.infomoney.com.br/politica/exercito-do-lula-nunes-marques-apontou-descumprimento-de-acordo-com-tse-pela-meta/",
+    "resumo": "Procurada, a Meta informou que não comentou",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T22:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6174bf8d1b8c788c",
+    "manchete": "Carro elétrico português mira o Brasil com desafio de criar versão nacional; conheça",
+    "url": "https://www.infomoney.com.br/business/carro-eletrico-portugues-mira-o-brasil-com-desafio-de-criar-versao-nacional-conheca/",
+    "resumo": "Iniciativa ocorre em um momento em que o país atingiu a marca de 1 milhão de veículos leves eletrificados em circulação",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T22:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5c90f5707dcb6ef7",
+    "manchete": "Quaest/DF: Celina Leão (PP) tem 53% das intenções de voto e Leandro Grass (PT), 33% no 2º turno",
+    "url": "https://www.moneytimes.com.br/quaest-df-celina-leao-pp-tem-53-das-intencoes-de-voto-e-leandro-grass-pt-33-no-2o-turno/",
+    "resumo": "A governadora do Distrito Federal, Celina Leão (PP), tem 53% das intenções de voto no segundo turno da eleição para o governo do DF, ante 33% do candidato do PT, Leandro Grass, segundo pesquisa Quaest divulgada nesta segunda-feira, 12. Os votos em branco, nulos ou de eleitores que não pretendem votar somam 8%,…",
+    "fonte": "Money Times",
+    "data": "2026-10-12T22:18:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0b69d612797f1b7f",
+    "manchete": "Lançamentos de mísseis da Coreia do Norte não representam ameaça imediata, dizem EUA",
+    "url": "https://www.infomoney.com.br/mundo/lancamentos-de-misseis-da-coreia-do-norte-nao-representam-ameaca-imediata-dizem-eua/",
+    "resumo": "A Coreia ​do Norte disparou vários mísseis balísticos em direção ‌ao mar ​ao largo de sua costa leste ⁠nesta segunda-feira, ​informaram ​as forças armadas da ⁠Coreia ​do Sul,",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T22:08:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "013f5edc3314bb91",
+    "manchete": "O Bitcoin voltou a subir, mas a Strategy pode ficar fora da festa",
+    "url": "https://braziljournal.com/o-bitcoin-voltou-a-subir-mas-a-strategy-pode-ficar-fora-da-festa",
+    "resumo": "O banco canadense TD Cowen publicou na semana passada seus novos preços-alvo para o Bitcoin: US$ 280 mil em 2029 e US$ 109 mil ainda neste ano. Mas no mesmo relatório, o banco cometeu o que, para muitos bitcoiners, se assemelha a uma heresia: criticar o papa do Bitcoin, Michael Saylor, o fundador e CEO da Strategy, a…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-12T22:05:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2a1e53a50edf61e0",
+    "manchete": "Ainda sem o Clarity Act, Wall Street acelera tokenização, diz a Barron’s",
+    "url": "https://braziljournal.com/ainda-sem-o-clarity-act-wall-street-acelera-tokenizacao-diz-a-barrons",
+    "resumo": "O Clarity Act, a legislação que deverá dar segurança jurídica para a negociação e posse de criptomoedas nos EUA, emperrou no Senado. Mas Wall Street agora tem pressa para embarcar na era da tokenização. O assunto foi capa da Barron’s desta semana.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-12T22:04:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4f42de59732721d9",
+    "manchete": "Como estabilizar uma economia? Os vencedores do Nobel têm a fórmula",
+    "url": "https://braziljournal.com/como-estabilizar-uma-economia-os-vencedores-do-nobel-tem-a-formula",
+    "resumo": "O Prêmio Nobel de Economia de 2026 foi para os economistas americanos Robert E. Hall e Michael Woodford, cuja pesquisa ajudou a formular políticas usadas para lidar com economias em crise. Hall, um professor na Universidade de Stanford, e Woodford, que leciona política econômica em Columbia, desenvolveram a teoria de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-12T22:04:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "428423c22ed76a15",
+    "manchete": "Haddad avalia que campanha de Lula deve dialogar com futuro na reta final",
+    "url": "https://www.infomoney.com.br/politica/haddad-avalia-que-campanha-de-lula-deve-dialogar-com-futuro-na-reta-final/",
+    "resumo": "Em entrevista a GloboNews, ex-ministro da Fazenda comentou sobre o caso do Banco Master e avaliou o cenário do segundo turno",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T21:55:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3afb6a32029132bf",
+    "manchete": "Ataques mantêm aeroporto de capital saudita fechado esta semana",
+    "url": "https://www.infomoney.com.br/mundo/ataques-mantem-aeroporto-de-capital-saudita-fechado-esta-semana/",
+    "resumo": "Os houthis afirmaram em um comunicado que atacaram uma base aérea em Khamis Mushait, no sudoeste do reino, com um drone",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T21:40:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "886442c93e79600e",
+    "manchete": "Meta lança modelos de IA Muse Wonder em desafio a Anthropic e OpenAI",
+    "url": "https://www.moneytimes.com.br/meta-lanca-modelos-de-ia-muse-wonder-em-desafio-a-anthropic-e-openai/",
+    "resumo": "A Meta lançou nesta segunda-feira o Muse Wonder e o Muse Wonder Full, descrevendo-os como seus modelos de inteligência artificial mais avançados, em um momento em que a empresa de mídia social busca competir de forma mais agressiva com OpenAI e Anthropic. As ações da Meta subiram cerca de 4% no meio da tarde em…",
+    "fonte": "Money Times",
+    "data": "2026-10-12T21:32:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d3cba52ba39cbd80",
+    "manchete": "Situação climática no Amazonas é \"mais grave do que o imaginado\", diz ministro",
+    "url": "https://www.infomoney.com.br/brasil/situacao-climatica-no-amazonas-e-mais-grave-do-que-o-imaginado-diz-ministro/",
+    "resumo": "João Paulo Capobianco apontou que existem pontos de fogo em áreas preservadas e de difícil acesso",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T21:25:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f8c90e9d70aea07f",
+    "manchete": "Campanha de Flávio enviará novo relatório ao TSE sobre canal 'Exército do Lula'",
+    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-enviara-novo-relatorio-ao-tse-sobre-canal-exercito-do-lula/",
+    "resumo": "A manifestação ocorre após a área técnica do Tribunal Superior Eleitoral (TSE) ter relatado que não encontrou fake news no grupo coordenado pelo deputado federal André Janones (Rede-MG)",
+    "fonte": "InfoMoney",
+    "data": "2026-10-12T21:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c75fe86712025f73",
+    "manchete": "TSE alega problema técnico em propaganda de Flávio sem som e diz que haverá nova exibição",
+    "url": "https://www.moneytimes.com.br/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-e-diz-que-havera-nova-exibicao/",
+    "resumo": "O Tribunal Superior Eleitoral (TSE) declarou que houve um \"problema técnico\" na exibição da propaganda eleitoral do candidato do PL à Presidência da República, Flávio Bolsonaro, e que o material vai ser transmitido novamente. A manifestação ocorreu em nota nesta segunda-feira, 12. Mais cedo, Flávio reclamou da falta…",
+    "fonte": "Money Times",
+    "data": "2026-10-12T20:46:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3da88025f232cf11",
+    "manchete": "Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar",
+    "url": "https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/",
+    "resumo": "As bolsas de Nova York fecharam sem direção única nesta segunda-feira,12, operando com liquidez reduzida devido a um feriado nos EUA e com investidores monitorando os desdobramentos geopolíticos antes da divulgação da inflação ao consumidor de setembro americana. O Dow Jones subiu 0,38%, em 51.850,31 pontos; o S&#38;P…",
+    "fonte": "Money Times",
+    "data": "2026-10-12T20:36:11.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "858f739a1b785965",
+    "manchete": "Ler o mundo como ele é também forma bons investidores",
+    "url": "https://www.moneytimes.com.br/ler-o-mundo-como-ele-e-tambem-forma-bons-investidores/",
+    "resumo": "De vez em quando eu acho que a gente precisa falar de outras coisas antes de falar de mercado. E meu trabalho lá no Market Makers tem me mostrado diariamente que nos formar como melhor cidadãos, pais, maridos, executivos, nos forma também melhores investidores a reboque. Por isso, esses dois livros que indico hoje…",
+    "fonte": "Money Times",
+    "data": "2026-10-12T19:53:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "1e835fa7129cd433",
     "manchete": "Nova Corteva vê Brasil como plataforma global para exportação de biológicos Nova Corteva vê Brasil como plataforma global para exportação de biológicos",
     "url": "https://agfeed.com.br/negocios/nova-corteva-ve-brasil-como-plataforma-global-para-exportacao-de-biologicos",
@@ -6888,20 +7118,6 @@
     "importancia": 3
   },
   {
-    "id": "099e66cbe787fa07",
-    "manchete": "“O produtor de algodão não vai economizar. Vai racionalizar” “O produtor de algodão não vai economizar. Vai racionalizar”",
-    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/o-produtor-de-algodao-nao-vai-economizar-vai-racionalizar",
-    "resumo": "Diretor de fertilizantes da AgriConnection, Rafael Almeida, explica como os elos da cadeia estão se adaptando à nova realidade do mercado",
-    "fonte": "AgFeed",
-    "data": "2026-10-03T00:28:00.552Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "cfae7618cd298e28",
     "manchete": "Ao estilo Trump, Milei lança “passaporte dourado” para arrecadar US$ 2,5 bilhões",
     "url": "https://neofeed.com.br/economia/ao-estilo-trump-milei-lanca-passaporte-dourado-para-arrecadar-us-25-bilhoes/",
@@ -9778,244 +9994,6 @@
     "resumo": "Medida prevista no Código Eleitoral vale até 48 horas após a votação e busca garantir o exercício do direito ao voto; flagrante delito segue entre as exceções",
     "fonte": "InfoMoney",
     "data": "2026-09-29T15:57:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a9739e9df542a822",
-    "manchete": "China amplia crédito barato para infraestrutura, tecnologia e compra de imóveis",
-    "url": "https://www.infomoney.com.br/mercados/china-amplia-credito-barato-para-infraestrutura-tecnologia-e-compra-de-imoveis/",
-    "resumo": "Pacote inclui redução de juros, expansão de linhas de financiamento e subsídios a hipotecas para estimular uma economia que dá sinais de desaceleração",
-    "fonte": "InfoMoney",
-    "data": "2026-09-29T15:56:22.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f90aceab778027cf",
-    "manchete": "China libera exportação de carne de mais 4 frigoríficos brasileiros; veja quais",
-    "url": "https://www.moneytimes.com.br/china-libera-exportacao-de-carne-de-4-frigorificos-brasileiros-veja-quais-ceci/",
-    "resumo": "A China aprovou a habilitação de quatro novos frigoríficos brasileiros, após concluir a missão de auditoria no sistema de controle de produtos de origem animal no Brasil. A inspeção foi iniciada no dia 20 de setembro e a atualização do cadastro foi anunciada nesta terça-feira (29). A missão avaliou 17 estabelecimentos…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:54:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a6f3bdd37f0306e8",
-    "manchete": "Google recorre contra exigências da UE para abrir Android e dados de busca a rivais",
-    "url": "https://www.infomoney.com.br/business/google-recorre-contra-exigencias-da-ue-para-abrir-android-e-dados-de-busca-a-rivais/",
-    "resumo": "Empresa contesta regras que ampliam o acesso de concorrentes de IA ao Android e obrigam o compartilhamento de dados de pesquisa sob a Lei de Mercados Digitais",
-    "fonte": "InfoMoney",
-    "data": "2026-09-29T15:54:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f61973e53e6cde6d",
-    "manchete": "Axia (AXIA3): JPMorgan vê 31% de retorno mesmo após corte no preço-alvo",
-    "url": "https://www.infomoney.com.br/mercados/axia-axia3-jpmorgan-ve-31-de-retorno-mesmo-apos-corte-no-preco-alvo/",
-    "resumo": "Banco estima que a Axia possa oferecer dividend yield de cerca de 9% entre 2027 e 2030 em seu cenário-base",
-    "fonte": "InfoMoney",
-    "data": "2026-09-29T15:52:10.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "44bb3b8d185b4051",
-    "manchete": "Seu INSS corre risco? Veja como descobrir em poucos minutos se sua biometria já está cadastrada",
-    "url": "https://www.moneytimes.com.br/seu-inss-corre-risco-veja-como-descobrir-em-poucos-minutos-se-biometria-ja-esta-cadastrada-rsgp/",
-    "resumo": "Aposentados, pensionistas e beneficiários do Benefício de Prestação Continuada (BPC) podem verificar sem sair de casa se já possuem biometria cadastrada nas bases de dados utilizadas pelo governo federal. A consulta é feita pelos aplicativos Meu INSS e Gov.br e ajuda a evitar dificuldades no acesso a serviços…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:51:41.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ef6a53a231875bbf",
-    "manchete": "Mais etanol, mas para quem? A grande incógnita, segundo o Bradesco",
-    "url": "https://www.moneytimes.com.br/mais-etanol-mas-para-quem-a-grande-incognita-segundo-o-bradesco-pads/",
-    "resumo": "O Brasil vem ampliando sua capacidade de produzir etanol, impulsionado pelos investimentos em usinas de milho. A grande pergunta para o futuro do setor, porém, está no destino dessa oferta: quem vai consumir o combustível em um mercado no qual a eletrificação dos veículos avança e desafia a demanda? Para Filipi…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:48:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0913815cb405171e",
-    "manchete": "Proibição das bets: Qual o impacto no setor imobiliário e nos FIIs, segundo CEO da SiiLA",
-    "url": "https://www.moneytimes.com.br/proibicao-das-bets-qual-o-impacto-no-setor-imobiliario-e-nos-fiis-segundo-ceo-da-siila-igdl/",
-    "resumo": "A proibição da operação das bets no Brasil poderá causar impactos não apenas sobre arrecadação de impostos ou endividamento das famílias, mas também sobre o setor imobiliário corporativo. Um levantamento feito pela consultoria SiiLA, ao qual o Money Times teve acesso, detectou cerca de 16 mil metros quadrados (m²) de…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:39:13.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "87bd3a4ba44097ce",
-    "manchete": "Governo central tem déficit primário de R$ 13,585 bilhões em agosto, diz Tesouro",
-    "url": "https://www.moneytimes.com.br/governo-central-tem-deficit-primario-de-r13585-bilhoes-em-agosto-diz-tesouro/",
-    "resumo": "O governo central registrou um déficit primário de R$ 13,585 bilhões em agosto, informou o Tesouro Nacional nesta terça-feira, resultado melhor que o rombo de R$ 15,540 bilhões do mesmo mês do ano passado. Economistas consultados pela Reuters esperavam que o dado, que compreende as contas de Tesouro, Banco Central e…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:32:08.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b9666b32180047db",
-    "manchete": "Justiça de SP derruba cláusulas da 99Food que restringiam acordos de restaurantes com Keeta",
-    "url": "https://www.moneytimes.com.br/justica-de-sp-derruba-clausulas-da-99food-que-restringiam-acordos-de-restaurantes-com-keeta/",
-    "resumo": "O Tribunal de Justiça de São Paulo derrubou as cláusulas de banimento impostas pela 99Food a restaurantes para impedir que os estabelecimentos trabalhassem com a Keeta, de acordo com comunicado da Keeta à imprensa nesta terça-feira. A decisão, proferida por unanimidade, tem validade em todo o território nacional. A…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:28:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cb0b0440592d1b20",
-    "manchete": "Vagas de emprego em aberto nos EUA caem em agosto; demissões permanecem baixas",
-    "url": "https://www.moneytimes.com.br/vagas-de-emprego-em-aberto-nos-eua-caem-em-agosto-demissoes-permanecem-baixas/",
-    "resumo": "As vagas de emprego em aberto nos Estados Unidos diminuíram em agosto, mas as demissões permaneceram em níveis baixos, indicando um mercado de trabalho estável. As vagas de emprego em aberto, um indicador da demanda por mão de obra, caíram em 256 mil, para 7,079 milhões, no último dia de agosto, informou o Escritório…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:23:56.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ad4051ad940d5d88",
-    "manchete": "China anuncia subsídio a hipotecas do 1º imóvel e amplia estímulos monetários",
-    "url": "https://www.moneytimes.com.br/china-anuncia-subsidio-a-hipotecas-do-1o-imovel-e-amplia-estimulos-monetarios/",
-    "resumo": "A China anunciou nesta terça-feira, 29, subsídios aos juros de determinados financiamentos para a compra do primeiro imóvel, ao mesmo tempo em que o Banco do Povo da China (PBoC, na sigla em inglês) ampliou estímulos direcionados à economia, com corte de juros e aumento de linhas de repasse de crédito para…",
-    "fonte": "Money Times",
-    "data": "2026-09-29T15:21:01.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e2f7ceb68f89067b",
-    "manchete": "Mais um leilão vazio no saneamento. O que está acontecendo?",
-    "url": "https://braziljournal.com/mais-um-leilao-vazio-no-saneamento-o-que-esta-acontecendo/",
-    "resumo": "Ao invés das batidas de martelo, silêncio. O leilão para a concessão dos serviços de água e esgoto de 40 municípios de Rondônia que estava agendado para hoje na B3 não será realizado. Faltaram os interessados. A licitação vazia acende um sinal amarelo para o setor – até por não ser um evento isolado. Em [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-29T09:50:45.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f09b4d3761db2299",
-    "manchete": "EUA e China fecham “toma lá, dá cá”",
-    "url": "https://braziljournal.com/eua-e-china-fecham-toma-la-da-ca/",
-    "resumo": "Donald Trump fez gestos incomuns de deferência a Xi Jinping durante a visita do presidente chinês a Washington na semana passada. O esforço de Trump para criar um ambiente de aproximação com o líder chinês, depois de meses de negociações para estabilizar uma relação marcada pela guerra comercial, foi seguido por um…",
-    "fonte": "Brazil Journal",
-    "data": "2026-09-29T09:50:40.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7cd300bd76e68578",
-    "manchete": "Aliança Empreendedora lança 35 propostas para destravar o microempreendedorismo no Brasil",
-    "url": "https://startupi.com.br/alianca-empreendedora-propostas-legislativas-microempreendedorismo-cadernos/",
-    "resumo": "Startupi Aliança Empreendedora lança 35 propostas para destravar o microempreendedorismo no Brasil Documento propõe criação do Microempreendedor Familiar, regulamentação de compras públicas inclusivas e transição gradual de benefícios sociais para trabalhadores que abrirem CNPJ.",
-    "fonte": "Startupi",
-    "data": "2026-09-29T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2e708b67663a79cb",
-    "manchete": "Mastercard e Yellow Card fecham parceria para integrar stablecoins a pagamentos globais",
-    "url": "https://startupi.com.br/mastercard-yellow-card-parceria-pagamentos-stablecoins-mercados-emergentes/",
-    "resumo": "Startupi Mastercard e Yellow Card fecham parceria para integrar stablecoins a pagamentos globais Acordo focado em mercados emergentes visa testar remessas internacionais, liquidações B2B e gestão de tesouraria com ativos digitais em rede regulada.",
-    "fonte": "Startupi",
-    "data": "2026-09-29T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fa1f26daa8b14077",
-    "manchete": "PALAS lança plataforma de diagnóstico gratuito para avaliar maturidade em inovação das empresas com base em norma ISO",
-    "url": "https://startupi.com.br/diagnostico-maturidade-inovacao-iso-palas-outubro/",
-    "resumo": "Startupi PALAS lança plataforma de diagnóstico gratuito para avaliar maturidade em inovação das empresas com base em norma ISO Questionário desenvolvido pela PALAS utiliza os oito pilares da ISO 56001 para mapear processos e direcionar estratégias corporativas até 31 de outubro.",
-    "fonte": "Startupi",
-    "data": "2026-09-29T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c47efd0d863c76c3",
-    "manchete": "Nubank olha uma aquisição no “quintal” da Revolut. Investidores se assustam com o preço",
-    "url": "https://neofeed.com.br/negocios/nubank-olha-uma-aquisicao-no-quintal-da-revolut-investidores-se-assustam-com-o-preco/",
-    "resumo": "Ações caem mais de 9% por conta das premissas financeiras e receios de que banco estaria com \"muito para fazer\"",
-    "fonte": "NeoFeed",
-    "data": "2026-09-29T00:57:53.686Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "edb7c26016977bac",
-    "manchete": "Tellus e Rio Bravo reciclam portfólio e miram fundo logístico de R$ 10 bilhões",
-    "url": "https://neofeed.com.br/negocios/tellus-e-rio-bravo-reciclam-portfolio-e-miram-fundo-logistico-de-r-10-bilhoes/",
-    "resumo": "O fundo da Tellus, TRBL11, planeja vender três ativos e comprar dois galpões mais novos, primeiro passo para meta de chegar a R$ 10 bilhões em patrimônio",
-    "fonte": "NeoFeed",
-    "data": "2026-09-29T00:57:53.685Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
