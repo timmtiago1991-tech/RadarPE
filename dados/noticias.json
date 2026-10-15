@@ -1,5 +1,509 @@
 [
   {
+    "id": "d8fc5b8a3c513836",
+    "manchete": "Bloqueio europeu a carnes brasileiras faz dsm antecipar estratégias para o mercado nacional",
+    "url": "https://agfeed.com.br/negocios/bloqueio-europeu-a-carnes-brasileiras-faz-dsm-antecipar-estrategias-para-o-mercado-brasileiro",
+    "resumo": "A dsm-firmenich antecipa estratégias em resposta às restrições impostas pela União Europeia às carnes do país desde setembro",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.223Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2a655be4832d493a",
+    "manchete": "Kraft Heinz quer dobrar de tamanho no Brasil até 2030, com apoio do campo Com receita bruta próxima de R$ 4 bilhões em 2025, companhia investiu R$ 1 bilhão em cinco anos e ampliou a produção local de tomate para abastecer suas marcas",
+    "url": "https://www.cnnbrasil.com.br/agro/kraft-heinz-quer-dobrar-de-tamanho-no-brasil-ate-2030-com-apoio-do-campo/",
+    "resumo": "Com receita bruta próxima de R$ 4 bilhões em 2025, companhia investiu R$ 1 bilhão em cinco anos e ampliou a produção local de tomate para abastecer suas marcas",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.222Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "87c40e465e1a841c",
+    "manchete": "Fertilizantes: o que Flávio Bolsonaro e Lula propõem para o setor Candidatos defendem reduzir dependência de importações, mas divergem sobre os caminhos; propostas incluem exploração mineral, produção de nitrogenados e incentivo a bioinsumos",
+    "url": "https://www.cnnbrasil.com.br/agro/fertilizantes-o-que-flavio-bolsonaro-e-lula-propoem-para-o-setor/",
+    "resumo": "Candidatos defendem reduzir dependência de importações, mas divergem sobre os caminhos; propostas incluem exploração mineral, produção de nitrogenados e incentivo a bioinsumos",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.222Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "633e9732c1815037",
+    "manchete": "Riza Asset vende terras para comprar melhor",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/riza-asset-vende-terras-para-comprar-melhor",
+    "resumo": "Gestora paulista busca fazer liquidez para aproveitar oportunidades no mercado de terras",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.220Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05aff11d0de0c45e",
+    "manchete": "Daniel Azevedo Duarte",
+    "url": "https://agfeed.com.br/author/daniel-azevedo-duarte/",
+    "resumo": "Crime organizado avança no agronegócio brasileiro, ameaça cadeias produtivas e pode gerar riscos às exportações, alerta estudo do Insper",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.219Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "397edd1b5ea6d640",
+    "manchete": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
+    "url": "https://agfeed.com.br/financas/como-os-investidores-europeus-veem-o-agro-brasileiro-o-itau-bba-ouviu-deles-mais-perguntas-que-respostas",
+    "resumo": "Em roadshow com investidores estrangeiros na Europa, banco identificou interesse crescente por JBS, MBRF e 3tentos",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.218Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a287373ae9d9df56",
+    "manchete": "FMC piora projeções para o trimestre e anuncia até corte de preços (também no Brasil) para ser competitiva FMC piora projeções para o trimestre e anuncia até corte de preços (também no Brasil) para ser competitiva",
+    "url": "https://agfeed.com.br/negocios/fmc-piora-projecoes-para-o-trimestre-e-anuncia-ate-corte-de-precos-tambem-no-brasil-para-ser-competitiva",
+    "resumo": "FMC reduz previsão de receita para o 3º trimestre e anuncia cortes de preços no Brasil para enfrentar a concorrência",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.218Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9e853bda9ff8fe2c",
+    "manchete": "Mantiqueira busca ovos em nova cesta com emissão de R$ 500 milhões em CPR-Fs",
+    "url": "https://agfeed.com.br/negocios/mantiqueira-busca-ovos-em-nova-cesta-com-emissao-de-r-500-milhoes-em-cpr-fs",
+    "resumo": "Mantiqueira prepara captação de R$ 500 milhões com CPR-Fs lastreadas em ovos e fiança bancária do Bradesco",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.217Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4f8137c9366f2009",
+    "manchete": "STF muda de ideia sobre Funrural, mas deixa produtores rurais e frigoríficos diante de novas incertezas STF muda de ideia sobre Funrural, mas deixa produtores rurais e frigoríficos diante de novas incertezas",
+    "url": "https://agfeed.com.br/economia/stf-muda-de-ideia-sobre-funrural-mas-deixa-produtores-rurais-e-frigorificos-diante-de-novas-incertezas",
+    "resumo": "STF considera inconstitucional cobrança anterior a 2018, em disputa de R$ 17,2 bi, mas ausência de modulação deixa dúvidas sobre alcance da decisão",
+    "fonte": "AgFeed",
+    "data": "2026-10-15T23:39:51.217Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "219bc70ce6e81681",
+    "manchete": "Governo avança em concessão de rodovias e desenha herança de R$ 160 bilhões em ferrovias",
+    "url": "https://neofeed.com.br/economia/governo-avanca-em-concessao-de-rodovias-e-desenha-heranca-de-r-160-bilhoes-em-ferrovias/",
+    "resumo": "O governo federal chega à reta final do mandato de Luiz Inácio Lula da Silva com uma agenda bilionária de concessões de infraestrutura pela frente. Depois de acelerar os certames de rodovias e atrair novos investidores, a expectativa é avançar também nos projetos ferroviários, que ainda não chegaram à fase de leilão e…",
+    "fonte": "NeoFeed",
+    "data": "2026-10-15T23:39:42.472Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4ba6f2d57d9f4bb2",
+    "manchete": "Mais frota, menos tag: o caminho da Veloe para triplicar de tamanho",
+    "url": "https://neofeed.com.br/negocios/mais-frota-menos-tag-o-caminho-da-veloe-para-triplicar-de-tamanho/",
+    "resumo": "A Veloe, companhia de mobilidade do grupo Elopar, vai triplicar de tamanho e chegar a R$ 30 bi de TPV em 2030. Principal avenida é a gestão de frota",
+    "fonte": "NeoFeed",
+    "data": "2026-10-15T23:39:42.472Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "09b6ec4999b453c4",
+    "manchete": "O retrato de R$ 147,3 bilhões em dívidas no saneamento brasileiro",
+    "url": "https://neofeed.com.br/economia/o-retrato-de-r-1473-bilhoes-em-dividas-no-saneamento-brasileiro/",
+    "resumo": "Levantamento inédito da Vitrify revela que o setor soma R$ 147,3 bilhões em dívidas distribuídas em 187 operações",
+    "fonte": "NeoFeed",
+    "data": "2026-10-15T23:39:42.471Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8fdb7dbb101ce512",
+    "manchete": "EXCLUSIVO: Vinci Compass compra o controle da Sanar em nova aposta em educação",
+    "url": "https://neofeed.com.br/negocios/exclusivo-vinci-compass-compra-o-controle-da-sanar-em-nova-aposta-em-educacao/",
+    "resumo": "Gestora de private equity aposta no crescimento da educação médica continuada no Brasil. Sanar tem 50 mil médicos na base",
+    "fonte": "NeoFeed",
+    "data": "2026-10-15T23:39:42.471Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d0ab196906b2871b",
+    "manchete": "Foco eleitoral do governo trava Redata na Casa Civil e congela R$ 90 bi de investimentos em data centers",
+    "url": "https://neofeed.com.br/poder/foco-eleitoral-do-governo-trava-redata-na-casa-civil-e-congela-r-90-bi-de-investimentos-em-data-centers/",
+    "resumo": "A regulamentação do Redata, que oferece incentivos fiscais a data centers, atrasa mais ainda em meio ao período eleitoral e divergências no governo",
+    "fonte": "NeoFeed",
+    "data": "2026-10-15T23:39:42.470Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "22d5872a25e83d0a",
+    "manchete": "A inteligência artificial não é o maior desafio das empresas. A liderança é",
+    "url": "https://startupi.com.br/a-inteligencia-artificial-nao-e-o-maior-desafio-das-empresas-a-lideranca-e/",
+    "resumo": "Startupi A inteligência artificial não é o maior desafio das empresas. A liderança é Por Carla Elage Souza, direto do Exponential Summit 2026, evento que reuniu CEOs para discutir tendências.",
+    "fonte": "Startupi",
+    "data": "2026-10-15T23:00:23.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7356366e6b8d5e8b",
+    "manchete": "Como foram as mudanças trabalhistas no Brasil ao longo da história?",
+    "url": "https://startupi.com.br/mudancas-trabalhistas-no-brasil-historia-e-impactos/",
+    "resumo": "Startupi Como foram as mudanças trabalhistas no Brasil ao longo da história? Da criação da CLT à discussão da escala 6x1, os temores empresariais e os impactos reais de cada transformação no cotidiano dos trabalhadores e na economia nacional.",
+    "fonte": "Startupi",
+    "data": "2026-10-15T22:42:55.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "75b5b9dfeaf54d16",
+    "manchete": "Senado aprova novo enquadramento dos MEIs e perdão de dívidas do setor; projeto vai à sanção",
+    "url": "https://www.moneytimes.com.br/senado-aprova-novo-enquadramento-dos-meis-e-perdao-de-dividas-do-setor-projeto-vai-a-sancao-lmrs/",
+    "resumo": "O Senado aprovou nesta quinta-feira (15), por 78 votos favoráveis e nenhum contrário, um projeto de lei complementar que amplia o enquadramento e perdoa dívidas dos Microempreendedores Individuais (MEIs). Apoiada pelo presidente Luiz Inácio Lula da Silva (PT), que disputa a reeleição, a matéria já foi aprovada na…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T22:30:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d51c9c9c02774d20",
+    "manchete": "Senado aprova aumento do teto do MEI para R$ 140 mil e perdão de dívidas",
+    "url": "https://www.infomoney.com.br/politica/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-e-perdao-de-dividas/",
+    "resumo": "Medidas ampliam limite de faturamento, permitem mais contratações e concedem anistia a inadimplentes",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T22:22:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "637654321eb50d98",
+    "manchete": "MSCI congela mudanças em índices de ações da Turquia",
+    "url": "https://www.infomoney.com.br/mercados/msci-congela-mudancas-em-indices-de-acoes-da-turquia/",
+    "resumo": "Os índices da MSCI funcionam como uma \"termômetro\" global por calcular o desempenho de carteiras teóricas de ações",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T22:18:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c41c91044d3cac00",
+    "manchete": "Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48%",
+    "url": "https://www.infomoney.com.br/politica/datafolha-50-desaprovam-lula-enquanto-48-aprovam/",
+    "resumo": "O resultado indica uma alta de 1 ponto percentual na desaprovação em relação à pesquisa anterior, variação que permanece dentro da margem de erro",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T22:08:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a8aedb662290cebd",
+    "manchete": "Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas",
+    "url": "https://www.infomoney.com.br/politica/lula-diz-que-vai-mandar-pec-de-tarifa-zero-aos-fins-de-semana-custeado-por-emendas/",
+    "resumo": "O presidente anunciou, ainda, que pretende usar dinheiro das emendas parlamentares para financiar o passe livre",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T22:01:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "287b09bb7a0c4d8f",
+    "manchete": "Libertadores: Onde assistir a Estudiantes x Flamengo?",
+    "url": "https://www.infomoney.com.br/esportes/estudiantes-flamengo-libertadores-onde-assistir/",
+    "resumo": "O Estudiantes é o mandante do jogo de hoje",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T22:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9dec69d97177ab96",
+    "manchete": "Klabin (KLBN11) consegue ‘alívio’ em dívida de financiamento do projeto Puma II, o maior da sua história",
+    "url": "https://www.moneytimes.com.br/klabin-klbn11-consegue-alivio-em-divida-de-financiamento-do-projeto-puma-ii-o-maior-da-sua-historia/",
+    "resumo": "A Klabin (KLBN11) conseguiu renegociar empréstimos feitos para tocar o Projeto Puma II, que inclui alongamento dos vencimentos e redução do custo financeiro da dívida. Os prazos foram estendidos de 2032 para 2034 nos financiamentos do tipo A Loan e de 2029 para 2033 nos empréstimos B Loan. Segundo comunicado divulgado…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:55:04.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7c10ff7239911bd5",
+    "manchete": "Juros futuros têm firme alta com cenário eleitoral apertado e promessa de Lula sobre transporte público",
+    "url": "https://www.moneytimes.com.br/juros-futuros-15-10-26-apsa/",
+    "resumo": "Os juros futuros fecharam em firme alta com aumento do prêmio de risco político nesta quinta-feira (15), diante da cautela do mercado com o cenário eleitoral do segundo turno, além do aconselhamento dos assessres de Luiz Inácio Lula da Silva (PT) a prometer publicamente a \"tarifa zero\" no transporte público aos finais…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:52:48.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "751a4044898e08f5",
+    "manchete": "Datafolha: Flávio Bolsonaro tem 47% e Lula, 45%, no 2º turno",
+    "url": "https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-e-lula-45-no-2o-turno/",
+    "resumo": "Nos votos válidos, que excluem brancos e nulos, Flávio lidera com 51%, ante 49% do atual presidente",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T21:44:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b92f8a8a4bd78463",
+    "manchete": "Flávio Bolsonaro tem 47% e Lula, 45%, mostra pesquisa Datafolha",
+    "url": "https://www.moneytimes.com.br/pesquisa-datafolha-15-de-outubro-gaep/",
+    "resumo": "Na segunda pesquisa do Instituto Datafolha para o segundo turno das eleições presidenciais 2026, divulgada nesta quinta-feira (15), o senador Flávio Bolsonaro (PL-RJ) aparece com 47%, contra 45% do presidente Luiz Inácio Lula da Silva (PT). Outros 2% ainda estão indecisos e 6% declaram votos em branco, nulo ou que não…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:43:29.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "190bab5ace0e9414",
+    "manchete": "Netflix sobe preços das assinaturas no Brasil; veja os novos valores dos planos",
+    "url": "https://www.infomoney.com.br/consumo/netflix-aumenta-valor-assinaturas/",
+    "resumo": "A última atualização antes do novo reajuste ocorreu em maio de 2024",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T21:42:44.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f0d735c075151ee",
+    "manchete": "Alcolumbre adia PEC da Segurança após disputa sobre maioridade penal dividir o PT",
+    "url": "https://www.infomoney.com.br/politica/alcolumbre-adia-pec-da-seguranca-apos-disputa-sobre-maioridade-penal-dividir-o-pt/",
+    "resumo": "Decisão foi tomada durante a sessão plenária nesta quinta-feira (15)",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T21:41:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d9bc27ee1498b314",
+    "manchete": "Lula anuncia PEC para zerar tarifa do transporte coletivo nos finais de semana",
+    "url": "https://www.moneytimes.com.br/lula-anuncia-pec-para-zerar-tarifa-do-transporte-coletivo-nos-finais-de-semana/",
+    "resumo": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) anunciou nesta quinta-feira que vai enviar ao Congresso uma Proposta de Emenda à Constituição (PEC) para zerar a tarifa do transporte coletivo urbano nos finais de semana e feriados a partir de 2027, caso vença a eleição deste mês. \"Vou enviar ao…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:40:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bf13e243af447929",
+    "manchete": "Eneva (ENEV3) celebra acordo de investimento bilionário com Itaú (ITUB4); veja a cifra",
+    "url": "https://www.moneytimes.com.br/eneva-enev3-celebra-acordo-de-investimento-bilionario-com-itau-itub4-veja-a-cifra-apsa/",
+    "resumo": "A Eneva (ENEV3) celebrou novo acordo de investimento com o Itaú Unibanco (ITUB4) que realizou um aporte adicional de aproximadamente R$ 1,77 bilhão na Eneva Participações III S.A. (Eneva III). Segundo comunicado ao mercado, o investimento foi feito por meio da subscrição e integralização de novas ações preferenciais…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:29:09.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5b28b239229c8ba7",
+    "manchete": "Fleury (FLRY3): JPMorgan despacha 1,4 milhões de ações",
+    "url": "https://www.moneytimes.com.br/fleury-flry3-jpmorgan-despacha-14-milhoes-de-acoes-rnda/",
+    "resumo": "O JPMorgan vendeu 1,4 milhões de ações ordinárias da Fleury (FLRY3), reduzindo a participação do grupo econômico na companhia para 4,87% do total de ações ordinárias emitidas. Em comunicado ao mercado desta quinta-feira (15), a Fleury informou que tomou conhecimento da operação nesta quinta-feira (15), em cumprimento…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:26:07.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d35ba06a8c2ae56",
+    "manchete": "Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições",
+    "url": "https://www.infomoney.com.br/politica/meta-diz-ao-tse-que-trabalha-no-aperfeicoamento-de-ferramenta-de-ia-nas-eleicoes/",
+    "resumo": "TSE disse, em comunicado, que a preocupação é promover uma “paridade de ‌armas” entre os candidatos para que ​o eleitor possa escolher livremente",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T21:26:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fdd595557fdf8b4b",
+    "manchete": "Mitre (MTRE3) anuncia pagamento de dividendos em três parcelas; veja os valores",
+    "url": "https://www.moneytimes.com.br/mitre-mtre3-anuncia-pagamento-de-dividendos-em-tres-parcelas-veja-os-valores-lmrs/",
+    "resumo": "O conselho de administração da construtora Mitre Realty (MTRE3) aprovou a distribuição de dividendos intermediários no montante total de R$ 12 milhões, equivalente a R$ 0,11344855041 por ação ordinária da companhia. O pagamento será efetuado em três parcelas de R$ 4 milhões, sem correção monetária ou juros sobre o…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T21:19:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d21032a31f53f456",
+    "manchete": "‘S&P 10’: a concentração inédita por trás da alta da Bolsa americana",
+    "url": "https://braziljournal.com/s-and-p-10-a-concentracao-inedita-por-tras-da-alta-da-bolsa-americana",
+    "resumo": "O S&P 500 opera perto da máxima histórica, mas a alta está localizada em pouquíssimos papéis – um nível de concentração jamais visto no mercado americano. Desde o low de março, no início da guerra no Irã, o índice já subiu 22% – mas cerca de 70% da valorização é explicada pelo desempenho de dez ações, todas de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-15T21:18:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "44ff82a7d2e243d0",
+    "manchete": "TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS",
+    "url": "https://www.infomoney.com.br/politica/tse-decide-pela-remocao-de-videos-que-associam-lula-a-supostas-fraudes-no-inss/",
+    "resumo": "A decisão estabeleceu o prazo de 24 horas para a remoção do conteúdo",
+    "fonte": "InfoMoney",
+    "data": "2026-10-15T21:04:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a21eb47151db152f",
+    "manchete": "Por que este banco pode chegar a R$ 105, segundo Bradesco BBI",
+    "url": "https://www.moneytimes.com.br/por-que-este-banco-pode-chegar-a-r-105-segundo-bradesco-bbi/",
+    "resumo": "Bancos costumam ocupar espaço relevante nas carteiras dos investidores. Entre os nomes mais lembrados estão os gigantes Itaú (ITUB4), Bradesco (BBDC4), Nubank e Banco do Brasil (BBSA3). Mas o investidor também não deve perder de vista os bancos médios. Em relatório divulgado mais cedo, o Bradesco BBI destacou o Banco…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T20:47:28.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "919bf622862e1121",
+    "manchete": "Rodovias: a carteira de leilões do próximo Governo",
+    "url": "https://braziljournal.com/rodovias-a-carteira-de-leiloes-do-proximo-governo",
+    "resumo": "Seja Lula ou Flávio, o Presidente que subir a rampa em janeiro encontrará na gaveta uma série de projetos de infraestrutura para serem oferecidos ao mercado nos próximos anos. O Ministro dos Transportes, George Santoro, apresentou hoje uma carteira de 36 novos leilões de rodovias que poderiam ser realizados até 2030.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-15T20:35:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f9f9eeb233062e47",
+    "manchete": "Ibovespa cai 1% à espera de Datafolha; dólar sobe",
+    "url": "https://www.moneytimes.com.br/ibovespa-15-10-26-lils/",
+    "resumo": "O Ibovespa (IBOV) fechou o terceiro pregão consecutivo de perdas com os investidores mais cautelosos após pesquisas de intenção de votos mostrarem uma disputa mais acirrada entre Flávio Bolsonaro (PL), favorito do mercado, e o presidente Luiz Inácio Lula da Silva (PT). Nesta quinta-feira (15), o principal índice da…",
+    "fonte": "Money Times",
+    "data": "2026-10-15T20:23:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "84c328af7100dc0f",
+    "manchete": "A aposta da Berkshire na Bending Spoons, uma tech cara para os padrões da casa",
+    "url": "https://braziljournal.com/a-aposta-da-berkshire-na-bending-spoons-uma-tech-cara-para-os-padroes-da-casa",
+    "resumo": "A Berkshire Hathaway anunciou ontem que já investiu US$ 930 milhões na Bending Spoons, um conglomerado de tecnologia italiano que cresceu rápido comprando grandes empresas do setor na baixa . A Bending Spoons disse que a Berkshire aportou US$ 600 milhões no IPO da empresa em julho, e comprou mais US$ 330 milhões em…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-15T18:26:00.000Z",
+    "tags_tema": [
+      "M&A",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d3da935c96c4684b",
+    "manchete": "A tempestade perfeita no Bank of America",
+    "url": "https://braziljournal.com/a-tempestade-perfeita-no-bank-of-america",
+    "resumo": "O Bank of America está sofrendo uma tempestade perfeita – reportando ontem um resultado abaixo do esperado pelo mercado no terceiro trimestre, junto com uma multa bilionária que estava fora do radar dos investidores. Para completar, o segundo maior banco dos Estados Unidos carrega uma perda contábil de cerca de US$…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-15T16:28:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "5117e0dc9236a656",
     "manchete": "UPL aposta em novo químico e deve reduzir para 30% fatia do pós-patente no negócio",
     "url": "https://agfeed.com.br/negocios/upl-aposta-em-novo-quimico-e-deve-reduzir-para-30-fatia-do-pos-patente-no-negocio",
@@ -6462,106 +6966,6 @@
     "importancia": 3
   },
   {
-    "id": "e703d735978eea64",
-    "manchete": "O agro vai escolher um lado. O risco não tem lado",
-    "url": "https://agfeed.com.br/campo-das-ideias/agroambiental/o-agro-vai-escolher-um-lado-o-risco-nao-tem-lado",
-    "resumo": "Na semana do primeiro turno, nenhum dos dois principais programas enfrenta a dependência de insumo que já encareceu a safra 2026/27",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.309Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b12bedff02935093",
-    "manchete": "Céleres incorpora Arkéra, com foco em IA, para acelerar análises do agro",
-    "url": "https://agfeed.com.br/negocios/celeres-incorpora-arkera-com-foco-em-ia-para-acelerar-analises-do-agro",
-    "resumo": "Tradicional consultoria de Uberlândia (MG), com think thank de 24 anos no agronegócio, se une à empresa que atua com inteligência artificial",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.309Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6b36396619824df8",
-    "manchete": "IA, dívida em dólar e controle de custos: como a Girassol está crescendo em um mercado de sementes mais difícil",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/congresso-do-algodao/ia-divida-em-dolar-e-controle-de-custos-como-a-girassol-esta-crescendo-em-um-mercado-de-sementes-mais-dificil",
-    "resumo": "Estratégia combina integração de dados, redução de custos e busca por áreas para arrendamento para sustentar expansão do grupo matogrossense,",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.306Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "72e7bcf50647f733",
-    "manchete": "O apetite da BrasilAgro para voltar às compras",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/o-apetite-da-brasilagro-para-voltar-as-compras",
-    "resumo": "André Guillaumon, CEO da BrasilAgro, avalia que o estresse financeiro de produtores rurais está abrindo oportunidades no mercado de terras",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.305Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cf990790e108a909",
-    "manchete": "A estratégia fora da caixa da Möbius no mercado de terras",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-fora-da-caixa-da-mobius-no-mercado-de-terras",
-    "resumo": "Gestora paulista comprou fazenda em Sinop (MT) por R$ 140 milhões em operação estruturada, buscando oportunidades em terras retomadas",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.305Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "20f973a57b89f089",
-    "manchete": "“O cenário do agro brasileiro está despiorando” “O cenário do agro brasileiro está despiorando”",
-    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/o-cenario-do-agro-brasileiro-esta-despiorando",
-    "resumo": "Em entrevista à série SpeedCast, analista do Itaú BBA, Francisco Queiroz fala dos fundamentos construtivos para o algodão na safra 20276/2077",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.303Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2cfddec3524c3ad0",
-    "manchete": "O indicador que ameaça a recuperação da Cosan: dividendos cobrem só 20% dos juros O indicador que ameaça a recuperação da Cosan: dividendos cobrem só 20% dos juros",
-    "url": "https://agfeed.com.br/negocios/cosan-reduz-dividas-mas-indicador-preocupa",
-    "resumo": "A Cosan reduz dívidas, mas indicador divulgado na Comissão de Valores Mobiliários (CVM) expõe um dos principais desafios de sua recuperação.",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.303Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2d21308a247fceb7",
-    "manchete": "Na Beggio Lorenzo, agricultura regenerativa vem para destravar a produtividade da cana-de-açúcar",
-    "url": "https://agfeed.com.br/agregenerativa/na-beggio-lorenzo-agricultura-regenerativa-vem-para-destravar-a-produtividade-da-cana-de-acucar",
-    "resumo": "Com 300 hectares no interior de SP, empresa aposta em práticas sustentáveis para elevar produção de canaviais, preservar o solo e melhorar a rentabilidade",
-    "fonte": "AgFeed",
-    "data": "2026-10-07T00:39:30.302Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "6d8dadda7227dffc",
     "manchete": "SVN amplia presença regional com mais um M&A e chega a R$ 37 bilhões sob custódia",
     "url": "https://neofeed.com.br/wealth-management/svn-amplia-presenca-regional-com-mais-um-ma-e-chega-a-r-37-bilhoes-sob-custodia/",
@@ -9602,412 +10006,6 @@
     "resumo": "BRUSQUE, Santa Catarina — Encontrar gente caminhando pelas ruas de Brusque pode dar mais trabalho do que parece. Não porque a cidade seja especialmente perigosa. Ao contrário: é considerada a cidade mais segura do Brasil. O problema é que Brusque é uma cidade sobre rodas. No fim do ano passado, dados da Secretaria…",
     "fonte": "Brazil Journal",
     "data": "2026-10-02T09:50:36.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "52a59409cc26ff15",
-    "manchete": "Do Norte ao Sul, um Brasil exausto vai às urnas",
-    "url": "https://braziljournal.com/do-norte-ao-sul-um-brasil-exausto-vai-as-urnas/",
-    "resumo": "O brasileiro chega às urnas mais cansado do que nunca. Este foi o sentimento que o Brazil Journal encontrou em dois pontos diametralmente opostos do espectro eleitoral: Crato, no Ceará, uma das fortalezas de Lula; e Brusque, em Santa Catarina, um dos símbolos da força bolsonarista no Sul. Para se ter uma ideia, 81%…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-02T09:50:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5484aa850899c48a",
-    "manchete": "O caminho das ‘retail techs’ para disputar a próxima camada do consumo digital",
-    "url": "https://startupi.com.br/retail-techs-consumo-digital-brasil-ia/",
-    "resumo": "Startupi O caminho das ‘retail techs’ para disputar a próxima camada do consumo digital Com 58% dos gastos brasileiros realizados online, a oportunidade para startups não está apenas em vender mais, mas em integrar dados, canais e inteligência artificial sem perder confiança",
-    "fonte": "Startupi",
-    "data": "2026-10-02T05:13:40.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb994d139c80668a",
-    "manchete": "Em meio à reorganização, SPX busca R$ 1 bilhão em novo FII para acelerar no real estate",
-    "url": "https://neofeed.com.br/wealth-management/em-meio-a-reorganizacao-spx-busca-r-1-bilhao-em-novo-fii-para-acelerar-no-real-estate/",
-    "resumo": "Frente de real estate da gestora conta atualmente com R$ 3,2 bilhões sob gestão divididos em sete produtos",
-    "fonte": "NeoFeed",
-    "data": "2026-10-02T00:44:34.615Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "421ff2eddab5201b",
-    "manchete": "EXCLUSIVO: A Fictor está em RJ, mas sua ex-empresa de consignado amplia negócios com prefeituras",
-    "url": "https://neofeed.com.br/negocios/exclusivo-a-fictor-esta-em-rj-mas-sua-ex-empresa-de-consignado-amplia-negocios-com-prefeituras/",
-    "resumo": "A Fictor Consignado virou 3RP Consignado, com as marcas Alvo Card, BCBR e EI Card, embora nenhuma dessas empresas apareça no cadastro do Banco Central como instituição de pagamento",
-    "fonte": "NeoFeed",
-    "data": "2026-10-02T00:44:34.614Z",
-    "tags_tema": [
-      "RJ/EJ",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2ce0cd9a0080ca0a",
-    "manchete": "Treasuries batem recorde e mundo descobre que desequilíbrio fiscal nunca foi “problema dos outros”",
-    "url": "https://neofeed.com.br/economia/treasuries-batem-recorde-e-mundo-descobre-que-desequilibrio-fiscal-nunca-foi-problema-dos-outros/",
-    "resumo": "Disparada dos rendimentos das Treasuries dos EUA evidencia o custo crescente da inflação e do endividamento público",
-    "fonte": "NeoFeed",
-    "data": "2026-10-02T00:44:34.614Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4336585e4589b363",
-    "manchete": "Asaas faz sua maior captação em FIDC e injeta R$ 300 milhões no crédito para PMEs",
-    "url": "https://neofeed.com.br/negocios/asaas-faz-sua-maior-captacao-em-fidc-e-injeta-r-300-milhoes-no-credito-para-pmes/",
-    "resumo": "Asaas, plataforma de gestão para pequenas e médias empresas, capta R$ 300 milhões e amplia antecipação de recebíveis, que já representa 90% de sua operação de crédito",
-    "fonte": "NeoFeed",
-    "data": "2026-10-02T00:44:34.614Z",
-    "tags_tema": [
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a98b1753ef1e59b",
-    "manchete": "Lula diz que Flávio Bolsonaro tem 'relação amorosa com Vorcaro' e é 'ligado a milicianos'",
-    "url": "https://www.moneytimes.com.br/lula-diz-que-flavio-bolsonaro-tem-relacao-amorosa-com-vorcaro-e-e-ligado-a-milicianos-gaep/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) atacou, durante entrevista nesta quinta-feira (1) ao Flow Podcast, o senador Flávio Bolsonaro (PL) e afirmou que o adversário \"tem uma relação amorosa\" com Daniel Vorcaro, do Banco Master, e é ligado a milicianos. Chamando o senador de \"menino\" e \"cidadão\", Lula disse que…",
-    "fonte": "Money Times",
-    "data": "2026-10-02T00:35:49.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "768f6ea3dcf36d1a",
-    "manchete": "Sem debate na Globo, Lula e Flávio ocupam lives na reta final da eleição",
-    "url": "https://www.infomoney.com.br/politica/sem-debate-na-globo-lula-e-flavio-ocupam-lives-na-reta-final-da-eleicao/",
-    "resumo": "Presidente manteve entrevista ao Flow, enquanto candidato do PL usou transmissão nas redes para criticar decisões judiciais e pedir mobilização dos eleitores",
-    "fonte": "InfoMoney",
-    "data": "2026-10-02T00:30:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0f95623dfefd932c",
-    "manchete": "Dia de Sorte: confira o resultado do concurso 1312 sorteado nesta quinta-feira (1º)",
-    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1312-sorteado-nesta-quinta-feira-1o/",
-    "resumo": "O prêmio estimado para este concurso era de R$ 1,5 milhão",
-    "fonte": "InfoMoney",
-    "data": "2026-10-02T00:17:04.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "30d10f2d841317fe",
-    "manchete": "Quina hoje, concurso 7132: confira o resultado sorteado nesta quinta-feira (1º)",
-    "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7132-confira-o-resultado-sorteado-nesta-quinta-feira-1o/",
-    "resumo": "O prêmio deste concurso era estipulado em R$ 14,7 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-02T00:10:28.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "062e966bc55b3634",
-    "manchete": "Lotofácil hoje, concurso 3794: confira o resultado sorteado nesta quinta-feira (1º)",
-    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3794-confira-o-resultado-sorteado-nesta-quinta-feira-1o/",
-    "resumo": "O prêmio estimado para este concurso era de R$ 2 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-02T00:07:40.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "087f76e39b539c03",
-    "manchete": "Flávio critica cancelamento do debate, fala em “censura” e pede mobilização nas urnas",
-    "url": "https://www.infomoney.com.br/politica/flavio-critica-cancelamento-do-debate-fala-em-censura-e-pede-mobilizacao-nas-urnas/",
-    "resumo": "Candidato do PL disse que decisões judiciais interferiram na disputa e convocou eleitores a se manifestarem pelo voto no domingo",
-    "fonte": "InfoMoney",
-    "data": "2026-10-02T00:06:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "75e579bce27ccbab",
-    "manchete": "Mega-Sena hoje, concurso 3065: Confira o resultado sorteado nesta quinta-feira (1º)",
-    "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3065-confira-o-resultado-sorteado-nesta-quinta-feira-1o/",
-    "resumo": "O prêmio deste concurso era estimado em R$ 72,2 milhões.",
-    "fonte": "InfoMoney",
-    "data": "2026-10-02T00:03:30.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2b4d29d7943f34bf",
-    "manchete": "Globo cancela debate presidencial após decisões judiciais e cita \"insegurança jurídica\"",
-    "url": "https://www.moneytimes.com.br/globo-cancela-debate-presidencial-apos-decisoes-judiciais-e-cita-inseguranca-juridica/",
-    "resumo": "A TV Globo cancelou nesta quinta-feira (1º) o debate entre os candidatos à Presidência da República que estava previsto para esta noite, três dias antes do primeiro turno das eleições. A emissora atribuiu a decisão a duas notificações judiciais recebidas horas antes do programa, que alteraram regras previamente…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T23:59:20.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "49ef1d3529b4ec30",
-    "manchete": "Globo cancela debate presidencial após decisões do TSE e STF de última hora",
-    "url": "https://www.infomoney.com.br/politica/globo-cancela-debate-presidencial-apos-decisoes-do-tse-e-stf-de-ultima-hora/",
-    "resumo": "Emissora cita insegurança jurídica após ser obrigada a retirar púlpito de Lula e incluir Renan Santos horas antes do programa",
-    "fonte": "InfoMoney",
-    "data": "2026-10-01T23:49:17.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3dd37b54694c6dbd",
-    "manchete": "PMDF apura suspeita de bomba perto do STF após homem abandonar mochila",
-    "url": "https://www.infomoney.com.br/politica/pmdf-apura-suspeita-de-bomba-perto-do-stf-apos-homem-abandonar-mochila/",
-    "resumo": "Esquadrão antibombas foi acionado e área próxima ao Supremo teve perímetro restringido",
-    "fonte": "InfoMoney",
-    "data": "2026-10-01T23:19:54.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d8ac6f8d8d1c567f",
-    "manchete": "Flávio evita risco do último debate, mas abre mão da maior vitrine da reta final",
-    "url": "https://www.infomoney.com.br/politica/flavio-evita-risco-do-ultimo-debate-mas-abre-mao-da-maior-vitrine-da-reta-final/",
-    "resumo": "Senador abre mão da maior exposição televisiva da reta final após TSE proibir púlpito vazio de Lula; presidente troca debate por entrevista ao vivo no Flow",
-    "fonte": "InfoMoney",
-    "data": "2026-10-01T23:10:45.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "26a080be232837c1",
-    "manchete": "Juros futuros têm firme alta com cautela eleitoral",
-    "url": "https://www.moneytimes.com.br/juros-futuros-1-10-26-apsa/",
-    "resumo": "A curva de juros futuros fecharam em firme alta nesta quinta-feira (1º) de olho no cenário eleitoral, com cautela no mercado antes do primeiro turno. Os vencimentos longos percorreram a segunda etapa do pregão com avanço de mais de 10 pontos-base, em um movimento que, de acordo com agentes, foi novamente mais…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T23:02:01.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f5db61274a7c9f02",
-    "manchete": "Flávio Bolsonaro desiste de ir a debate na Globo após Gilmar Mendes obrigar participação de Renan Santos",
-    "url": "https://www.moneytimes.com.br/flavio-bolsonaro-desiste-de-ir-a-debate-na-globo-apos-gilmar-mendes-obrigar-participacao-de-renan-santos-gaep/",
-    "resumo": "O candidato a presidente da República Flávio Bolsonaro (PL) informou, na rede social X, que não irá ao debate da Rede Globo na noite desta quinta-feira (1), \"em função da censura imposta ao evento pelo TSE\". A decisão ocorre após o ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), obrigar a emissora a incluir…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T22:54:48.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "74e44e700a952f29",
-    "manchete": "Flávio Bolsonaro desiste de debate da Globo após decisão sobre cadeira vazia",
-    "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-desiste-de-debate-da-globo-apos-decisao-sobre-cadeira-vazia/",
-    "resumo": "Campanha reavaliou participação depois que ministra do TSE proibiu uso de assento vazio para representar Lula no estúdio",
-    "fonte": "InfoMoney",
-    "data": "2026-10-01T22:39:09.000Z",
-    "tags_tema": [
-      "Private Equity",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "57b0b31c55221454",
-    "manchete": "Fleury (FLRY3) compra laboratórios em SP e MG por R$ 55 milhões",
-    "url": "https://www.moneytimes.com.br/fleury-flry3-compra-laboratorios-em-sp-e-mg-por-r-55-milhoes/",
-    "resumo": "O Fleury (FLRY3) comprou o Unilab Laboratório Clínico. O valor da transação é de R$ 55 milhões, considerando o Enterprise Value (EV), sujeito a ajustes e retenções previstas no contrato. O laboratório atua principalmente na prestação de serviços de análises clínicas e laboratoriais em municípios do interior de São…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T22:30:37.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e2fefcb4d19ce581",
-    "manchete": "Datafolha: Eduardo Paes lidera com 42% no Rio de Janeiro; Douglas Ruas tem 31%; Garotinho, 7%",
-    "url": "https://www.moneytimes.com.br/datafolha-eduardo-paes-lidera-com-42-no-rj-douglas-ruas-tem-31-garotinho-7-gaep/",
-    "resumo": "Pesquisa Datafolha divulgada nesta quinta (1º) mostra Eduardo Paes (PSD) à frente na disputa ao governo do Rio de Janeiro, com 42% das intenções de voto. Já o candidato Douglas Ruas (PL) aparece com 31%, enquanto Anthony Garotinho (Republicanos) tem 7%. William Siri (PSOL): 3%Cyro Garcia (PSTU): 2%Juliete (UP):…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T22:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6dfe80b341f2661e",
-    "manchete": "Lula tem 42% e Flávio Bolsonaro, 38%, no primeiro turno, aponta pesquisa Datafolha; no segundo turno, 48% a 45%",
-    "url": "https://www.moneytimes.com.br/lula-tem-42-e-flavio-bolsonaro-38-no-primeiro-turno-aponta-pesquisa-datafolha-no-segundo-turno-48-a-45-gaep/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL-RJ) permanecem empatados tecnicamente no primeiro e no segundo turnos das eleições presidenciais 2026, segundo pesquisa do Instituto Datafolha divulgada nesta quinta (1). O presidente manteve a vantagem numérica sobre o senador. No primeiro…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T22:22:33.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "13a0afb0f7dd6f34",
-    "manchete": "Vale (VALE3) passará a divulgar relatório de vendas junto com resultados",
-    "url": "https://www.moneytimes.com.br/vale-vale3-passara-a-divulgar-relatorio-de-vendas-junto-com-resultados/",
-    "resumo": "A Vale (VALE3) informou nesta quarta-feira (1º) o calendário de divulgação dos resultados referentes ao terceiro trimestre de 2026 (3T26). Segundo o comunicado ao mercado, a mineradora apresentará o resultado do 3T26 em 29 de outubro de 2026, após o fechamento do mercado. No dia seguinte, 30 de outubro, a companhia…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T22:02:20.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "309b0e97226df1d4",
-    "manchete": "Houlihan Lokey contrata ex-Patria para vertical de capital solutions",
-    "url": "https://braziljournal.com/houlihan-lokey-contrata-ex-patria-para-vertical-de-capital-solutions/",
-    "resumo": "O Houlihan Lokey – o banco de investimento americano conhecido por M&#38;As e reestruturação de dívidas – acaba de contratar Mayra Fregonesi, uma ex-executiva do Patria, para criar uma vertical de capital solutions no País. O papel de Mayra será buscar capital para as transações do banco e também conectar family…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-01T21:57:50.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e116b2cb5ff45442",
-    "manchete": "Um M&#038;A na Mattel?",
-    "url": "https://braziljournal.com/um-ma-na-mattel/",
-    "resumo": "A Authentic Brands está interessada em comprar a Mattel, disse o Wall Street Journal. A house of brands já fez uma primeira abordagem junto à fabricante de brinquedos e estuda uma oferta de pelo menos US$ 20 por ação, o que avaliaria a dona da Barbie e Hot Wheels em mais de US$ 6 bilhões. [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-01T21:52:38.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cb3418b7c93ca1e6",
-    "manchete": "Datafolha: Em empate técnico, Raquel Lyra tem 46% dos votos totais e João Campos, 44%, ao governo de Pernambuco",
-    "url": "https://www.moneytimes.com.br/datafolha-pe-em-empate-tecnico-raquel-lyra-tem-46-dos-votos-totais-e-joao-campos-soma-44-gaep/",
-    "resumo": "A governadora de Pernambuco, Raquel Lyra (PSD), tem 46% das intenções de voto, seguida pelo ex-prefeito do Recife João Campos (PSB), com 44%, segundo pesquisa Datafolha divulgada nesta quinta (1º) Os dois estão tecnicamente empatados, considerando a margem de erro de três pontos porcentuais, para mais ou para menos.…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T21:14:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bae44e5733deda18",
-    "manchete": "Datafolha: Cleitinho tem 40%; Patrus soma 16% e Kalil tem 11% em Minas Gerais",
-    "url": "https://www.moneytimes.com.br/datafolha-mg-cleitinho-tem-49-dos-votos-validos-patrus-soma-20-e-kalil-pontua-13-gaep/",
-    "resumo": "Pesquisa Datafolha divulgada nesta quinta-feira (1º) mostra que o senador Cleitinho Azevedo (Republicanos) tem chance de ser eleito governador de Minas Gerais em primeiro turno. Nos votos totais, ele tem 40%, o mesmo porcentual de uma semana atrás. Em segundo lugar, o deputado federal Patrus Ananias (PT) oscilou de…",
-    "fonte": "Money Times",
-    "data": "2026-10-01T21:06:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f3d1d5b5246ff5a1",
-    "manchete": "Flávio será presidente – pelo menos segundo a Kalshi e Polymarket",
-    "url": "https://braziljournal.com/flavio-sera-presidente-pelo-menos-segundo-a-kalshi-e-polymarket/",
-    "resumo": "Na reta final da mais palpitante eleição dos últimos anos, com os números obscenamente apertados entre os dois principais candidatos, a Polymarket e a Kalshi estão dando a vitória para Flávio Bolsonaro. E os dados históricos mostram que a taxa de acerto das empresas de mercados preditivos nesse estágio da corrida…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-01T19:13:51.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "81e474bb21a4211d",
-    "manchete": "Wellhub coloca mais R$ 100 milhões em FIDC para financiar academias no Brasil",
-    "url": "https://neofeed.com.br/startups/wellhub-coloca-mais-r-100-milhoes-em-fidc-para-financiar-academias-no-brasil/",
-    "resumo": "A plataforma de bem-estar está ampliando o FIDC criado há pouco mais de um ano para financiar projetos de academias",
-    "fonte": "NeoFeed",
-    "data": "2026-10-01T17:02:36.667Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ac7acf49b80a5f0e",
-    "manchete": "Na corrida offshore, Avenue aplica IA em até 85% do que produz na engenharia",
-    "url": "https://neofeed.com.br/videos/revolucao-ia/na-corrida-offshore-avenue-aplica-ia-em-ate-85-do-que-produz-na-engenharia/",
-    "resumo": "Na corrida offshore, Avenue aposta em inteligência artificial para ganhar produtividade, escalar a assessoria e ampliar sua capacidade de atendimento.",
-    "fonte": "NeoFeed",
-    "data": "2026-10-01T17:02:36.667Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "001f78dcc2a8242d",
-    "manchete": "Alphabet embarca na ambição da SpaceX para construir data centers de IA no espaço",
-    "url": "https://neofeed.com.br/inovacao/alphabet-embarca-na-ambicao-da-spacex-para-construir-data-centers-de-ia-no-espaco/",
-    "resumo": "A dona do Google vai embarcar seus chips em um foguete da SpaceX em 1º de outubro, quando o foguete Falcon 9 será lançado em órbita da base aérea na Califórnia",
-    "fonte": "NeoFeed",
-    "data": "2026-10-01T17:02:36.666Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
