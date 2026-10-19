@@ -1,5 +1,493 @@
 [
   {
+    "id": "d8653d63c9b144e8",
+    "manchete": "Seca nos rios do Norte reduz carga de barcaças e acende alerta para o agro Estiagem limita volume transportado em uma operação, já afetou o escoamento da soja em Roraima e pode elevar custos logísticos; tradings dizem que vazante está dentro do padrão histórico, mas El Niño aumenta a incerteza para os próximos meses",
+    "url": "https://www.cnnbrasil.com.br/agro/seca-nos-rios-do-norte-reduz-carga-de-barcacas-e-acende-alerta-para-o-agro/",
+    "resumo": "Estiagem limita volume transportado em uma operação, já afetou o escoamento da soja em Roraima e pode elevar custos logísticos; tradings dizem que vazante está dentro do padrão histórico, mas El Niño aumenta a incerteza para os próximos meses",
+    "fonte": "AgFeed",
+    "data": "2026-10-19T16:59:35.863Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bb0ae5ec430ccfa1",
+    "manchete": "Negócios na SIAL Paris já consideram retomada das vendas de frango à UE Presidente da ABPA, Ricardo Santin, afirma que empresas negociam entregas com compradores europeus enquanto bloco prepara análise técnica; decisão final é esperada apenas para novembro",
+    "url": "https://www.cnnbrasil.com.br/agro/negocios-na-sial-paris-ja-consideram-retomada-das-vendas-de-frango-a-ue/",
+    "resumo": "Presidente da ABPA, Ricardo Santin, afirma que empresas negociam entregas com compradores europeus enquanto bloco prepara análise técnica; decisão final é esperada apenas para novembro",
+    "fonte": "AgFeed",
+    "data": "2026-10-19T16:59:35.862Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0d4a4645b59dd9da",
+    "manchete": "Renegociação das dívidas rurais: os riscos da ampliação de uma medida excepcional Renegociação das dívidas rurais: os riscos da ampliação de uma medida excepcional",
+    "url": "https://agfeed.com.br/campo-das-ideias/direito-de-produzir/renegociacao-das-dividas-rurais-os-riscos-da-ampliacao-de-uma-medida-excepcional",
+    "resumo": "Tão importante quanto alternativas o equacionamento das dívidas atuais é preservar as condições jurídicas para financiar as próximas safras",
+    "fonte": "AgFeed",
+    "data": "2026-10-19T16:59:35.858Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c1dbc9aa68ce0aec",
+    "manchete": "Nestlé investe R$ 150 milhões para fidelizar produtores de leite frente à concentração do mercado Nestlé investe R$ 150 milhões para fidelizar produtores de leite frente à concentração do mercado",
+    "url": "https://agfeed.com.br/negocios/nestle-investe-r-150-milhoes-para-fidelizar-produtores-de-leite-frente-a-concentracao-do-mercado",
+    "resumo": "Nestlé investe R$ 150 milhões em estratégia para fidelizar produtores frente à concentração do mercado de leite",
+    "fonte": "AgFeed",
+    "data": "2026-10-19T16:59:35.858Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5a068ddda390346a",
+    "manchete": "Cosan aprova transferência de 20,33% da Rumo a fundo gerido pelo BTG",
+    "url": "https://agfeed.com.br/negocios/cosan-aprova-transferencia-de-2033-da-rumo-a-fundo-gerido-pelo-btg",
+    "resumo": "Cosan aprova transferência de 20,33% das ações da Rumo para o fundo Maglev FIP, que terá gestão do BTG Pactual.",
+    "fonte": "AgFeed",
+    "data": "2026-10-19T16:59:35.857Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b404df963e463dd4",
+    "manchete": "PicPay dobra carteira de crédito e usa o consignado para fidelizar a base",
+    "url": "https://neofeed.com.br/videos/numeros-falam/picpay-dobra-carteira-de-credito-e-usa-o-consignado-para-fidelizar-a-base/",
+    "resumo": "O CFO do PicPay, André Cazotto, explica por que o banco digital aposta em garantias, conhecimento do cliente e preço para avançar no crédito",
+    "fonte": "NeoFeed",
+    "data": "2026-10-19T16:59:32.156Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "af3acbbf8be13585",
+    "manchete": "RJs do agro recuam 20% no 2º trimestre de 2026, aponta Serasa Experian. A curva começou a virar?",
+    "url": "https://agfeed.com.br/economia/rjs-do-agro-recuam-20-no-2o-trimestre-de-2026-aponta-serasa-experian-a-curva-comecou-a-virar",
+    "resumo": "Levantamento mostra 448 pedidos de RJ no segundo trimestre de 2026, com queda mais acentuada entre produtores rurais PJ",
+    "fonte": "NeoFeed",
+    "data": "2026-10-19T16:59:32.156Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e715212e8d7de500",
+    "manchete": "Com dívida de R$ 827,4 milhões, Ri Happy entra com pedido de recuperação extrajudicial",
+    "url": "https://neofeed.com.br/negocios/com-divida-de-r-8274-milhoes-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial/",
+    "resumo": "A Ri Happy, varejista de brinquedos, vai à Justiça para buscar fôlego financeiro menos de dois meses após a mudança de controle, com a chegada da BluSun Capital",
+    "fonte": "NeoFeed",
+    "data": "2026-10-19T16:59:32.155Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "768e623741725c94",
+    "manchete": "Fundos imobiliários de papel \"enchem a praça\" com R$ 13,3 bilhões em novas ofertas",
+    "url": "https://neofeed.com.br/negocios/fundos-imobiliarios-de-papel-enchem-a-praca-com-r-133-bilhoes-em-novas-ofertas/",
+    "resumo": "Com 21 ofertas em andamento e impulsionados, gestores como a Kinea colocam novas captações na rua para dobrar o volume de 2025",
+    "fonte": "NeoFeed",
+    "data": "2026-10-19T16:59:32.155Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f30654b4e6f5dfb1",
+    "manchete": "Horário da eleição: que horas começa e termina a votação do segundo turno?",
+    "url": "https://www.infomoney.com.br/politica/horario-eleicao-comeca-termina-votacao-segundo-turno/",
+    "resumo": "Votação está marcada para 25 de outubro, das 8h às 17h, para presidente e governadores",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:57:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f3e6dd9e8fae7df9",
+    "manchete": "Coordenadora econômica de Flávio promete regra de transição para Bolsa Família",
+    "url": "https://www.infomoney.com.br/politica/coordenadora-economica-de-flavio-promete-regra-de-transicao-para-bolsa-familia/",
+    "resumo": "Daniella Marques também reforçou que um eventual governo Flávio deve focar em reestruturar dívidas de empresas e famílias",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:55:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ea87d32a75788ef5",
+    "manchete": "Coordenadora econômica da campanha de Flávio promete regra de transição para Bolsa Família",
+    "url": "https://www.moneytimes.com.br/coordenadora-economica-da-campanha-de-flavio-promete-regra-de-transicao-para-bolsa-familia/",
+    "resumo": "A coordenadora econômica da campanha de Flávio Bolsonaro, Daniella Marques, disse em entrevista à CBN Bahia que planeja implementar uma regra de transição de dois anos no Bolsa Família para que os beneficiários abram seus negócios ou aceitem empregos de carteira assinada, com retorno automático ao benefício, caso não…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T16:54:05.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8440834e50dd4d97",
+    "manchete": "Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego",
+    "url": "https://www.infomoney.com.br/mundo/como-anda-a-argentina-de-milei-veja-indices-de-inflacao-pobreza-e-desemprego/",
+    "resumo": "No debate, Flávio não citou o argentino e respondeu que aplicará um “tesouraço” nas contas públicas",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:52:53.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ed323158e7abadc1",
+    "manchete": "Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas",
+    "url": "https://www.infomoney.com.br/politica/paes-volta-ao-jogo-eleitoral-e-prepara-ofensiva-por-lula-apos-derrota-para-ruas/",
+    "resumo": "Em vídeo, Paes reconhece derrota eleitoral no estado mas reforça importância do voto para à presidência neste segundo turno",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:52:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "60480dccfdda13d1",
+    "manchete": "Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno",
+    "url": "https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/",
+    "resumo": "Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:44:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b70ab01095dd8e8d",
+    "manchete": "Compre Embraer (EMBJ3), Axia (AXIA3) e outras 15 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
+    "url": "https://www.moneytimes.com.br/day-trade-itau-bba-19-10-26-apsa/",
+    "resumo": "A ação da Embraer (EMBJ3) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (16) cotadas a R$ 91,65. O potencial de ganho no objetivo um é de 16,66% e o stop sugerido é de R$ 87,49. Confira [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-10-19T16:35:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3e64f15d3aadd3c8",
+    "manchete": "Eurasia: Chance de Flávio Bolsonaro perder no 2º turno aumenta; veja o que mudou",
+    "url": "https://www.moneytimes.com.br/eurasia-reduz-probabilidade-de-chance-de-vitoria-de-flavio-bolsonaro-veja-o-que-mudou-apsa/",
+    "resumo": "A consultoria Eurasia Group reduziu de 80% para 75% as chances de vitória do senador Flávio Bolsonaro (PL) contra o atual presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais, marcado para o próximo domingo, 25 de outubro. A vantagem, segundo comentário escrito por Christopher Garman,…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T16:31:53.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3fe528e2404e6ccb",
+    "manchete": "Grupo Ri Happy entra com pedido de recuperação extrajudicial",
+    "url": "https://www.moneytimes.com.br/grupo-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial/",
+    "resumo": "O Grupo Ri Happy, uma das maiores redes varejistas de brinquedos e produtos infantis do País, protocolou no domingo, 18, um pedido de recuperação extrajudicial, engrossando o grupo de varejistas que buscam esse mecanismo para renegociar dívidas. A empresa não informa o valor da dívida a ser rediscutida, mas destaca,…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T16:25:17.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3e18c29f1e7c235e",
+    "manchete": "Janones: veja os sintomas do problema cardíaco que causou a internação do deputado",
+    "url": "https://www.infomoney.com.br/politica/janones-veja-os-sintomas-do-problema-cardiaco-que-causou-a-internacao-do-deputado/",
+    "resumo": "O quadro do parlamentar é estável e ele está sendo acompanhado por uma equipe médica",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:14:18.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "22f43b6cb6a0d91e",
+    "manchete": "Segundo turno para governador será realizado em cinco Estados e no DF neste domingo",
+    "url": "https://www.infomoney.com.br/politica/segundo-turno-para-governador-sera-realizado-em-cinco-estados-e-no-df-neste-domingo/",
+    "resumo": "Nos demais Estados, os eleitores votarão apenas para definir o próximo presidente da República",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:13:44.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "df87344e5ae50e1b",
+    "manchete": "Ri Happy pede recuperação extrajudicial para renegociar dívidas de mais de R$ 800 mi",
+    "url": "https://www.infomoney.com.br/mercados/ri-happy-pede-recuperacao-extrajudicial-para-renegociar-dividas-de-mais-de-r-800-mi/",
+    "resumo": "Companhia cita juros elevados, perda de poder de compra das famílias e concorrência do e-commerce internacional entre os fatores que pressionaram suas finanças",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:12:59.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "56c34cdf27cd182c",
+    "manchete": "Filipinas convocam embaixador da China após declarações que transmitem “ameaça”",
+    "url": "https://www.infomoney.com.br/mundo/filipinas-convocam-embaixador-da-china-apos-declaracoes-que-transmitem-ameaca/",
+    "resumo": "O embaixador Jing Quan ‌disse à imprensa na semana passada que a China “poderia facilmente vencer” em um confronto com as Filipinas",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:00:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "73c4afeefc711b66",
+    "manchete": "M. Dias (MDIA3): ação sobe após comprar fábrica de pães congelados Grespan",
+    "url": "https://www.infomoney.com.br/mercados/m-dias-mdia3-acao-sobe-apos-comprar-fabrica-de-paes-congelados-grespan/",
+    "resumo": "Aquisição marca a entrada da M. Dias Branco no segmento de pães congelados, categoria complementar ao seu portfólio atual",
+    "fonte": "InfoMoney",
+    "data": "2026-10-19T16:00:00.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb82ebab8df23b79",
+    "manchete": "PepsiCo perde o KFC; ação tem maior desconto para a Coca em 25 anos",
+    "url": "https://braziljournal.com/pepsico-perde-o-kfc-acao-tem-maior-desconto-para-a-coca-em-25-anos",
+    "resumo": "“Tem Coca?” “Só Pepsi.” No KFC dos EUA, esse papo acabou.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-19T15:36:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e374dfc7b728627d",
+    "manchete": "‘Momento Diet Coke’ da cerveja é oportunidade de compra na AB Inbev, diz a Barron’s",
+    "url": "https://braziljournal.com/momento-diet-coke-da-cerveja-e-oportunidade-de-compra-na-ab-inbev-diz-a-barrons",
+    "resumo": "O consumo de álcool no mundo tem caído ano a ano. Nos EUA, por exemplo, as famílias estão gastando só 0,8% de seu orçamento com bebidas alcoólicas – o menor patamar dos últimos 40 anos. Para completar, medicamentos como o Ozempic e Monjauro têm reduzido ainda mais o apetite dos consumidores por álcool – turbinando a…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-19T14:58:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fb113a53ed0c6d66",
+    "manchete": "Suzano (SUZB3) deve superar consenso no 3T26, enquanto Klabin (KLBN11) fica abaixo das projeções do Safra",
+    "url": "https://www.moneytimes.com.br/suzano-suzb3-deve-superar-consenso-no-3t26-enquanto-klabin-klbn11-fica-abaixo-das-projecoes-do-safra/",
+    "resumo": "As empresas de papel e celulose devem apresentar resultados mistos no terceiro trimestre de 2026, segundo prévia do Safra. O banco projeta avanço dos resultados da Suzano (SUZB3) e da Dexco (DXCO3) na comparação trimestral, enquanto espera recuo da Klabin (KLBN11) e da chilena CMPC. Entre os destaques, a Suzano deve…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T14:55:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e21259664f615212",
+    "manchete": "Bolsa Família é antecipado e todos os beneficiários receberão antes do segundo turno das eleições; governo cita efeitos do El Niño",
+    "url": "https://www.moneytimes.com.br/bolsa-familia-antecipado-todos-beneficiarios-receberao-antes-segundo-turno-eleicoes-rsgp/",
+    "resumo": "Os beneficiários do programa Bolsa Família começaram a receber nesta segunda-feira (19) o pagamento com reajuste de 15,04%, como previsto. No entanto, o governo anunciou a antecipação do calendário referente a outubro. Os desembolsos serão unificados a partir da quarta-feira (21). Isso significa que todas as famílias…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T14:54:17.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7840945696c357fe",
+    "manchete": "Safra eleva preço-alvo da Meta em US$ 215 e diz que empresa deve apresentar um 3T26 forte",
+    "url": "https://www.moneytimes.com.br/safra-eleva-preco-alvo-da-meta-em-us-215-e-diz-que-empresa-apresentar-um-3t26-forte-mlem/",
+    "resumo": "O Safra elevou o preço-alvo das ações da Meta Platforms (META) de US$ 835 para US$ 1.050 e manteve a recomendação de outperform, equivalente a compra, para empresa. O novo valor é baseado em 25 vezes o EPS (lucro por ação, na sigla em inglês) estimado para 2028, o que implica potencial de valorização de [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-10-19T14:40:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8619b9b0b06e1310",
+    "manchete": "Fim da escala 6&#215;1 pode consumir até 15% do lucro de empresas do agro, vê BTG; veja quem está mais exposto",
+    "url": "https://www.moneytimes.com.br/fim-da-escala-6x1-pode-consumir-ate-15-do-lucro-de-empresas-do-agro-ve-btg-veja-quem-esta-mais-exposto/",
+    "resumo": "O fim da escala 6&#215;1 no Brasil pode representar uma pressão relevante sobre a rentabilidade de empresas ligadas ao agro, mesmo quando o aumento das despesas parece pequeno em relação ao faturamento. Em alguns casos, os custos adicionais com mão de obra podem consumir dois dígitos do lucro líquido projetado para…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T14:37:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f9764c8381363cf8",
+    "manchete": "Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10",
+    "url": "https://www.moneytimes.com.br/itau-bba-ve-movida-movi3-entre-as-melhores-apostas-para-um-cenario-de-selic-menor-e-eleva-preco-alvo-lils/",
+    "resumo": "Há cerca de seis dias a Movida (MOVI3) divulgou a prévia operacional do terceiro trimestre (3T26), considerada 'fraca' por analistas. O Itaú BBA, por sua vez, atualizou as estimativas e reiterou a visão positiva para a companhia. O banco elevou, nesta segunda-feira (19), o preço-alvo de MOVI3 de R$ 15 para R$ 25 no…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T14:31:57.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "42b17b0bbb239161",
+    "manchete": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
+    "url": "https://www.moneytimes.com.br/safra-passa-a-tesoura-em-precos-alvo-e-rebaixa-recomendacoes-de-fundos-imobiliarios-fiis-igdl/",
+    "resumo": "O Safra rebaixou as recomendações para dois fundos imobiliários (FIIs) de shopping centers, diante de perspectivas distintas para resultados e dividendos. Um deles é o XP Malls (XPML11), que passou de compra para venda, enquanto o segundo é o HSI Malls (HSML11), que saiu de compra para neutro. No caso do primeiro, o…",
+    "fonte": "Money Times",
+    "data": "2026-10-19T14:21:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9da403b91ef9f08a",
+    "manchete": "A inteligência artificial está formando empresas mais eficientes. Mas quem está formando os líderes do futuro?",
+    "url": "https://startupi.com.br/a-inteligencia-artificial-esta-formando-empresas-mais-eficientes-mas-quem-esta-formando-os-lideres-do-futuro/",
+    "resumo": "Startupi A inteligência artificial está formando empresas mais eficientes. Mas quem está formando os líderes do futuro? Processos que antes exigiam dias ou semanas podem ser realizados em minutos. A produtividade cresce, os custos podem diminuir e as empresas descobrem novas possibilidades de eficiência.",
+    "fonte": "Startupi",
+    "data": "2026-10-19T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1b31cb4286070abc",
+    "manchete": "A política do Brasil tirou uma selfie e a imagem que saiu estava queimada",
+    "url": "https://startupi.com.br/politica-selfie-queimada-debate-presidencial-midia/",
+    "resumo": "Startupi A política do Brasil tirou uma selfie e a imagem que saiu estava queimada Debate presidencial mostra que políticos não estão preparados para discutir projetos de país. E emissoras deveriam saber disso.",
+    "fonte": "Startupi",
+    "data": "2026-10-19T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "76503bf3e3b84103",
+    "manchete": "Inovação não é perseguir toda novidade: é saber quais apostas merecem ser feitas",
+    "url": "https://startupi.com.br/inovacao-nao-e-perseguir-toda-novidade-e-saber-quais-apostas-merecem-ser-feitas/",
+    "resumo": "Startupi Inovação não é perseguir toda novidade: é saber quais apostas merecem ser feitas Por Pedro Signorelli, especialista em gestão com ênfase em OKRs.",
+    "fonte": "Startupi",
+    "data": "2026-10-19T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fbdfc5e5a24f2b84",
+    "manchete": "IA pode ajudar o varejo a decidir mais rápido",
+    "url": "https://startupi.com.br/ia-pode-ajudar-o-varejo-a-decidir-mais-rapido/",
+    "resumo": "Startupi IA pode ajudar o varejo a decidir mais rápido Por Luiz Saouda, CTO e cofundador da F360",
+    "fonte": "Startupi",
+    "data": "2026-10-19T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6ef1c45e2bab7e04",
+    "manchete": "Chamada aberta para o uso de IA e telemetria para combater incêndios no agronegócio",
+    "url": "https://startupi.com.br/sompo-hotmilk-desafio-inovacao-prevencao-incendios-maquinas-agricolas/",
+    "resumo": "Startupi Chamada aberta para o uso de IA e telemetria para combater incêndios no agronegócio Sompo e HOTMILK lançam programa de inovação aberta para selecionar startups com soluções tecnológicas de monitoramento e prevenção em colhedoras de cana.",
+    "fonte": "Startupi",
+    "data": "2026-10-19T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "709c7a1233ede53b",
+    "manchete": "Healthtech Skedia capta R$ 63 milhões sob gestão em novos negócios focados na automação financeira de clínicas e hospitais",
+    "url": "https://startupi.com.br/skedia-automacao-financeira-saude-faturamento-clinicas/",
+    "resumo": "Startupi Healthtech Skedia capta R$ 63 milhões sob gestão em novos negócios focados na automação financeira de clínicas e hospitais Empresa utiliza IA e especialistas para otimizar o fluxo de faturamento e combater a perda de receitas médicas.",
+    "fonte": "Startupi",
+    "data": "2026-10-19T06:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "075b44c3ddfbefa9",
+    "manchete": "Novo desafio de inovação busca conectar startups a gargalos estruturais de compras e supply chain",
+    "url": "https://startupi.com.br/procurement-club-festa-forum-gestao-terceiros-startup-challenge-supply-chain/",
+    "resumo": "Startupi Novo desafio de inovação busca conectar startups a gargalos estruturais de compras e supply chain Procurement Club e Level Ventures lançam o Startup Challenge focado em mapear soluções tecnológicas para cinco frentes estratégicas da cadeia de suprimentos.",
+    "fonte": "Startupi",
+    "data": "2026-10-19T06:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "46a26a1fc8106f7f",
     "manchete": "Do kart à F4 italiana, aos 15 anos, Eduardo Salamonde acelera rumo ao sonho da Fórmula 1",
     "url": "https://neofeed.com.br/finde/do-kart-a-f4-italiana-aos-15-anos-eduardo-salamonde-acelera-rumo-ao-sonho-da-formula-1/",
@@ -6671,18 +7159,6 @@
     "importancia": 3
   },
   {
-    "id": "5bd03b4f74bdea9f",
-    "manchete": "“Neurótico”, CEO da Solinftec acelera mudanças para não ser atropelado pelo trem da IA “Neurótico”, CEO da Solinftec acelera mudanças para não ser atropelado pelo trem da IA",
-    "url": "https://agfeed.com.br/agtech/neurotico-ceo-da-solinftec-acelera-mudancas-para-nao-ser-atropelado-pelo-trem-da-ia",
-    "resumo": "Solinftec acelera transformação em inteligência artificial física e prepara novos produtos para transformar o agronegócio",
-    "fonte": "AgFeed",
-    "data": "2026-10-09T17:00:46.517Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "83634b3b61e9480f",
     "manchete": "O crime conhece safras: o roubo de 30 mil garrafas de vinho que abalou a Antinori",
     "url": "https://neofeed.com.br/negocios/o-crime-conhece-safras-o-roubo-de-30-mil-garrafas-de-vinho-que-abalou-a-antinori/",
@@ -7151,18 +7627,6 @@
     "tags_tema": [
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6814b892e333bbfc",
-    "manchete": "À medida em que o etanol de milho avança, biomassa vira desafio e oportunidade À medida em que o etanol de milho avança, biomassa vira desafio e oportunidade",
-    "url": "https://agfeed.com.br/grande-slam-do-agro/teco/a-medida-em-que-o-etanol-de-milho-avanca-biomassa-vira-desafio-e-oportunidade",
-    "resumo": "Etanol de milho avança, mas biomassa exige investimentos bilionários e planejamento que começa anos antes da instalação de novas usinas",
-    "fonte": "AgFeed",
-    "data": "2026-10-09T01:11:30.599Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9570,457 +10034,6 @@
     "tags_tema": [
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "61589fc6403049d2",
-    "manchete": "HBR lança oferta por Helbor a R$ 2,52 por ação",
-    "url": "https://www.infomoney.com.br/mercados/hbr-lanca-oferta-por-helbor-a-r-252-por-acao/",
-    "resumo": "Compra do ⁠controle da ​Helbor pela HBR está condicionada ao ​apoio de mais de dois terços ​das ⁠ações da companhia",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:47:58.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9b269fd2b95cdd7c",
-    "manchete": "Bets: governo vai analisar 48 contas de apostadores com mais de R$ 500 mil em bets",
-    "url": "https://www.infomoney.com.br/brasil/bets-governo-vai-analisar-48-contas-de-apostadores-com-mais-de-r-500-mil-em-bets/",
-    "resumo": "Ministro da fazenda diz que volume dessas contas destoa do perfil da maioria dos usuários que ainda tinham dinheiro nas plataformas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:35:12.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1f9f54603ea98b46",
-    "manchete": "Caiado e Zema anunciam apoio a Flávio na disputa com Lula no 2º turno da eleição",
-    "url": "https://www.infomoney.com.br/politica/caiado-e-zema-anunciam-apoio-a-flavio-na-disputa-com-lula-no-2o-turno-da-eleicao/",
-    "resumo": "Juntos, Caiado e Zema tiveram 2,45% dos votos válidos",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:28:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8a311532e8461e35",
-    "manchete": "Dia de Sorte: confira o resultado do concurso 1315 sorteado nesta segunda-feira (5)",
-    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1315-sorteado-nesta-segunda-feira-5/",
-    "resumo": "O prêmio estimado para este concurso era de R$ 2,6 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:20:06.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f771776ea2dee407",
-    "manchete": "Com salto de 7,7% após primeiro turno, Ibovespa supera disparada de 2022",
-    "url": "https://www.infomoney.com.br/mercados/com-salto-de-77-apos-primeiro-turno-ibovespa-supera-disparada-de-2022/",
-    "resumo": "índice superou encostou nos 210 mil pontos ao longo do dia e fechou pela primeira vez acima dos 200 mil",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:14:02.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f5ee76e46aeeb7a8",
-    "manchete": "Lotomania: confira o resultado do concurso 2984 sorteado nesta segunda-feira (5)",
-    "url": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2984-sorteado-nesta-segunda-feira-5/",
-    "resumo": "Veja as 20 dezenas sorteadas no concurso 2984 da Lotomania e confira o valor estimado do prêmio",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:13:35.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "16f2a8f32c969a79",
-    "manchete": "Lotofácil hoje: confira o resultado do concurso 3797 sorteado nesta ssegunda (5)",
-    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-confira-o-resultado-do-concurso-3797-sorteado-nesta-ssegunda-5/",
-    "resumo": "O prêmio estimado para este concurso é de R$ 2 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:08:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f0348ab671f96a28",
-    "manchete": "Quina hoje, concurso 7135: confira o resultado sorteado nesta segunda (5)",
-    "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7135-confira-o-resultado-sorteado-nesta-segunda-5/",
-    "resumo": "O prêmio deste concurso é estimado em R$ 23,7 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-06T00:04:36.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cd3f90a4764cc1f6",
-    "manchete": "Engenheiro de Marketing: um novo cargo para quem quer (tentar) sobreviver à Era da IA",
-    "url": "https://startupi.com.br/engenheiro-de-marketing-um-novo-cargo-para-quem-quer-tentar-sobreviver-a-era-da-ia/",
-    "resumo": "Startupi Engenheiro de Marketing: um novo cargo para quem quer (tentar) sobreviver à Era da IA Híbrido entre construtor de sistemas e estrategista de marca, função cresce nos EUA — e já pressiona CMOs brasileiros a redesenhar seus times",
-    "fonte": "Startupi",
-    "data": "2026-10-05T23:41:47.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6c70b281843fcd01",
-    "manchete": "BOVA11, Petrobras e BB após o 1º turno: quanto do risco saiu das opções?",
-    "url": "https://www.infomoney.com.br/mercados/opcoes-bova11-petrobras-bb-apos-primeiro-turno/",
-    "resumo": "Volatilidade implícita recua forte depois das urnas; movimento é mais intenso no Banco do Brasil, enquanto vencimentos mais longos ajudam a medir quanto da incerteza ainda ficou no preço",
-    "fonte": "InfoMoney",
-    "data": "2026-10-05T22:56:28.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2cc5a4f6831f1df8",
-    "manchete": "Empresas do Ibovespa ganham R$ 372,14 bilhões em valor de mercado no \"Flávio Day\"",
-    "url": "https://www.infomoney.com.br/mercados/empresas-do-ibovespa-ganham-r-37214-bilhoes-em-valor-de-mercado-no-flavio-day/",
-    "resumo": "Com a alta de 7,7% da sessão de segunda, as empresas do índices somadas totalizaram R$ 5,205 trilhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-05T22:54:06.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "98f53ee1351b349c",
-    "manchete": "Não deu nem tempo: Itaú eleva preço-alvo da XP, mas ação 'come' potencial em um dia com efeito Flávio",
-    "url": "https://www.moneytimes.com.br/nao-deu-nem-tempo-itau-eleva-preco-alvo-da-xp-mas-acao-come-potencial-em-um-dia-com-efeito-flavio/",
-    "resumo": "O Itaú BBA elevou o preço-alvo da XP (XP) de US$ 22 para US$ 27 para o fim de 2027 e reiterou a recomendação de compra para a ação. O problema é que o papel simplesmente saltou 30% nesta segunda-feira, a US$ 28,15, em meio ao trade eleitoral e queimou todo o potencial projetado pela [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-05T22:48:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8cff8c322ea936a6",
-    "manchete": "Juros futuros têm rali com 'trade Flávio' e caem 100 pontos-base",
-    "url": "https://www.moneytimes.com.br/juros-futuros-5-10-26-apsa/",
-    "resumo": "A curva de juros futuros percorreram a segunda etapa do pregão com forte queima de prêmios, que superou 100 pontos-base, ou um ponto porcentual, nos vértices médios e longos. À exceção da ponta curta, os demais vencimentos voltaram a ser negociados abaixo de 13%, em níveis não vistos desde outubro de 2024,…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T22:40:07.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "40c31e1d1188c660",
-    "manchete": "Ibovespa supera pico de 2008 corrigido pela inflação e tem 3ª maior alta diária desde 2020",
-    "url": "https://www.moneytimes.com.br/ibovespa-supera-pico-de-2008-corrigido-pela-inflacao-e-tem-3a-maior-alta-diaria-desde-2020-apsa/",
-    "resumo": "O Ibovespa (IBOV) encerrou o pregão desta segunda-feira (5) em alta de 7,70%, aos 206.911,89 pontos, estabelecendo dois marcos históricos. Além de atingir o maior nível nominal da série analisada, o principal índice da Bolsa brasileira também superou, em termos reais, o pico registrado em 2008 e corrigido pela…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T22:30:00.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b93d1b8f17de90b4",
-    "manchete": "Prio (PRIO3) produz 192,6 mil barris por dia em setembro, alta de 3,5%",
-    "url": "https://www.moneytimes.com.br/prio-prio3-produz-1926-mil-barris-por-dia-em-setembro-alta-de-35-apsa/",
-    "resumo": "A Prio (PRIO3) aumentou sua produção de petróleo e gás em setembro e encerrou o mês com um volume médio de 192,6 mil barris de óleo equivalente por dia, alta de 3,5% em relação a agosto, segundo dados operacionais divulgados pela companhia nesta segunda-feira (5). O crescimento foi impulsionado principalmente pelo…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T22:24:17.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e558c4550a5ba074",
-    "manchete": "Viveo (VVEO3): Incêndio atinge unidade em Blumenau; empresa avalia danos e impacto operacional",
-    "url": "https://www.moneytimes.com.br/viveo-vveo3-incendio-atinge-unidade-em-blumenau-empresa-avalia-danos-e-impacto-operacional/",
-    "resumo": "A Viveo (VVEO3) disse que houve um incêndio por volta das 5h30 em um dos prédios da unidade de produção de adesivos da Cremer, sua controlada integral, localizada em Blumenau (SC). Segundo o fato relevante divulgado nesta segunda-feira (5), o fogo foi controlado com a atuação do Corpo de Bombeiros e da brigada de…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T22:17:36.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d88324328b87e501",
-    "manchete": "Açúcar bruto atinge maior cotação em 19 meses",
-    "url": "https://www.moneytimes.com.br/acucar-bruto-atinge-maior-cotacao-em-19-meses-pads/",
-    "resumo": "Os contratos futuros de açúcar bruto na bolsa ICE subiram 4% nesta segunda-feira, ultrapassando os 20 centavos por libra-peso e atingindo a maior cotação em 19 meses, à medida que aumentavam as preocupações com novas chuvas excessivas relacionadas ao El Niño no Brasil, principal produtor. O primeiro contrato fechou…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T21:51:07.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b2acd7fe324ef6f0",
-    "manchete": "Ibovespa registra maior alta em pregão pós-1º turno desde 2002",
-    "url": "https://www.moneytimes.com.br/ibovespa-registra-maior-alta-em-pregao-pos-1-turno-desde-2002-apsa/",
-    "resumo": "O desempenho do mercado de ações chamou atenção na reabertura dos negócios após o primeiro turno das eleições presidenciais de 2026. Segundo levantamento da consultoria Elos Ayta, o Ibovespa (IBOV) avançou 7,70% no primeiro pregão após a votação, aos 206.911,89 pontos, no maior nível desde 14 de abril. Essa foi a…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T21:49:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d78f83723062b94f",
-    "manchete": "Vale (VALE3) fica de fora do 'trade Flávio' e cai mesmo com disparada do Ibovespa; o que aconteceu?",
-    "url": "https://www.moneytimes.com.br/vale-vale3-fica-de-fora-do-trade-flavio-e-cai-mesmo-com-disparada-do-ibovespa-o-que-aconteceu-lils/",
-    "resumo": "As ações da Vale (VALE3) figuraram entre as únicas sete quedas dos 76 papéis listados no Ibovespa (IBOV) nesta segunda-feira (5). VALE3 encerrou o pregão com baixa de 0,90%, a R$ 71,45, após cair mais de 3% durante o pregão. Já o IBOV a terminou as negociações com alta de 7,70%, aos 206.911,89 pontos, no [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-05T21:44:52.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1da3bff458195c0a",
-    "manchete": "Petrobras (PETR4) dispara e ganha mais de R$ 50 bi com 'trade Flávio'",
-    "url": "https://www.moneytimes.com.br/petrobras-petr4-dispara-e-ganha-mais-de-r-50-bi-com-trade-flavio-lils/",
-    "resumo": "A Petrobras (PETR3;PETR4) atingiu o segundo recorde de valor de mercado consecutivo nesta segunda-feira (5) com a melhora de percepção de risco-país com o resultado do primeiro turno das eleições para a Presidência. Hoje, os papéis preferenciais PETR4 terminaram o dia com alta 8,19%, a R$ 55,36, enquanto os ordinários…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T21:27:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "39b125654b50ac73",
-    "manchete": "De Banco do Brasil (BBSA3) a Sabesp (SBSP3): Os cavalos que esta gestora de ricaços aposta para lucrar no 2º turno",
-    "url": "https://www.moneytimes.com.br/de-banco-do-brasil-bbsa3-a-sabesp-sbsp3-os-cavalos-que-esta-gestora-de-ricacos-aposta-para-lucrar-no-2o-turno-rnda/",
-    "resumo": "A corrida não acabou, mas está muito próxima da reta final — e já tem um claro “azarão”: Flávio Bolsonaro (PL), que surgiu como vencedor do primeiro turno, em um resultado que nenhuma pesquisa conseguiu captar. Não foi a única surpresa. A direita também ampliou sua bancada de senadores e deputados, em sua maior…",
-    "fonte": "Money Times",
-    "data": "2026-10-05T21:25:53.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "307ab1c26831a59c",
-    "manchete": "Equity crowdfunding: captar é só o começo",
-    "url": "https://startupi.com.br/equity-crowdfunding-captar-e-so-o-comeco/",
-    "resumo": "Startupi Equity crowdfunding: captar é só o começo O equity crowdfunding amplia o acesso das startups a capital, mas exige tomar decisões que influenciam a gestão do negócio e as rodadas futuras de investimento.",
-    "fonte": "Startupi",
-    "data": "2026-10-05T21:22:36.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "14886f77b0468748",
-    "manchete": "OPINIÃO. Quem vai entregar previsibilidade?",
-    "url": "https://braziljournal.com/opiniao-quem-vai-entregar-previsibilidade/",
-    "resumo": "Em 2025, o mercado de capitais brasileiro alcançou o recorde de R$ 963 bilhões em ofertas públicas. Desse total, R$ 493 bilhões vieram da emissão de debêntures, que financiaram empresas de 26 setores da economia. No mesmo período, nenhuma empresa abriu capital no país, em um jejum de quase cinco anos interrompido…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T20:57:45.000Z",
-    "tags_tema": [
-      "Dívida/Debêntures"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e6c44f310d0790f1",
-    "manchete": "Adoção da AI nas empresas enfrenta a inércia humana",
-    "url": "https://braziljournal.com/adocao-da-ai-nas-empresas-enfrenta-a-inercia-humana/",
-    "resumo": "Convencer as equipes a adotar AI foi um dos maiores desafios do Magazine Luiza e da CI&#38;T com a nova tecnologia, disseram Frederico Trajano, CEO do Magalu, e Vinicius Martinelli, o vp da empresa de tecnologia. “Cheguei a dizer: não vou substituir um ser humano por AI, vou trocar alguém que não usa AI por [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T20:51:19.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3333a96182ec4e99",
-    "manchete": "Nobel de Medicina premia pesquisa sobre funcionamento do cérebro",
-    "url": "https://braziljournal.com/nobel-de-medicina-premia-pesquisa-sobre-funcionamento-do-cerebro/",
-    "resumo": "Um dos maiores mistérios da medicina, o funcionamento do cérebro sempre foi motivo de fascinação, porém o grande breakthrough para compreender o órgão mais importante do corpo se deu nos últimos 20 anos – e acaba de render um Nobel para os três pesquisadores que desenvolveram a técnica. Karl Deisseroth, Peter Hegemann…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T20:43:52.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bf7ee7ccc7c5e46b",
-    "manchete": "Cansei de ter um sistema nervoso — by Pedro Vinicio",
-    "url": "https://braziljournal.com/cansei-de-ter-um-sistema-nervoso-by-pedro-vinicio/",
-    "resumo": "Cansei de ter um sistema nervoso — by Pedro Vinicio. Notícias e análises sobre economia, negócios e mercado no Brazil Journal.",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T20:00:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4053c7c85e836d24",
-    "manchete": "Petrobras, Cosan, Compass: as favoritas do Bradesco para um Governo Flávio",
-    "url": "https://braziljournal.com/petrobras-cosan-compass-as-favoritas-do-bradesco-para-um-governo-flavio/",
-    "resumo": "O resultado do primeiro turno fez o mercado revisitar suas teses para surfar uma provável mudança no Palácio do Planalto em 2027. No Bradesco BBI, o analista de petróleo e gás Vicente Falanga colocou as ações da Petrobras, Cosan e Compass como suas favoritas diante da nova conjuntura política. No caso da Petrobras, a…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T19:44:46.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0e616e9f1c2c1879",
-    "manchete": "Mercado mata a saudade de um Brasil possível",
-    "url": "https://braziljournal.com/mercado-mata-a-saudade-de-um-brasil-possivel/",
-    "resumo": "A onda conservadora no Senado e a chegada de Flávio Bolsonaro à frente de Lula entregaram exatamente o que se esperava: o dólar spot afundou de R$ 5,21 na sexta-feira para R$ 4,98 na abertura de hoje, os juros longos fecharam 100 bps, e a Bolsa subia 8% no final da manhã. Com Flávio à [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T14:13:34.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a1437cd4fbfefcb7",
-    "manchete": "Emeis sai da América Latina; Opalus compra ativos de home care no Brasil",
-    "url": "https://braziljournal.com/emeis-sai-da-america-latina-opalus-compra-ativos-de-home-care-no-brasil/",
-    "resumo": "A Emeis – uma multinacional francesa que vale € 2 bilhões na Bolsa – acaba de anunciar a venda de todos os seus ativos na América Latina, levantando cerca de R$ 800 milhões com um portfólio que inclui hospitais de transição, casas de repouso e operações de home care no Brasil, Uruguai, Chile, Colômbia e [&#8230;]",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-05T13:19:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ec6e4c587ed0bce6",
-    "manchete": "O espelho brasileiro na guinada regional na política",
-    "url": "https://startupi.com.br/guinada-direita-brasil-lula-2-turno-2026/",
-    "resumo": "Startupi O espelho brasileiro na guinada regional na política Entre medo e entrega: como insegurança, economia frágil e o legado venezuelano empurraram o eleitor brasileiro para a direita. E o que isso significa para o segundo turno.",
-    "fonte": "Startupi",
-    "data": "2026-10-05T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "277774426c560cb9",
-    "manchete": "Plataforma desenvolvida por brasileiro simplifica acesso e análise de dados eleitorais do TSE",
-    "url": "https://startupi.com.br/desenvolvedor-cria-plataforma-dados-eleitorais-tse/",
-    "resumo": "Startupi Plataforma desenvolvida por brasileiro simplifica acesso e análise de dados eleitorais do TSE Criado pelo engenheiro de software Pedro Stanzani, o Eleições.dev estrutura patrimônio e histórico de candidatos para consultas via API e inteligência artificial.",
-    "fonte": "Startupi",
-    "data": "2026-10-05T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46dc72a0bf15d92e",
-    "manchete": "Exponential Summit discute o que separa a IA que gera valor da que apenas queima caixa",
-    "url": "https://startupi.com.br/do-hype-ao-resultado-ia-gera-valor-real/",
-    "resumo": "Startupi Exponential Summit discute o que separa a IA que gera valor da que apenas queima caixa Bruno Machado, vice-presidente de Tecnologias Educacionais e Mindset Digital da Ânima Educação, defende, em entrevista à GZM, que o diferencial competitivo não está na ferramenta mais poderosa, mas na capacidade de integrar…",
-    "fonte": "Startupi",
-    "data": "2026-10-05T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ed5a763c9776c374",
-    "manchete": "Sem poder usar sobrenome de Bolsonaro, Hélio Lopes perde eleição para senador por RR",
-    "url": "https://www.infomoney.com.br/politica/sem-poder-usar-sobrenome-de-bolsonaro-helio-lopes-perde-eleicao-para-senador-por-rr/",
-    "resumo": "Candidato mudou o domicílio eleitoral do Rio de Janeiro para o estado do Norte com o objetivo de concorrer à vaga ao Senado",
-    "fonte": "InfoMoney",
-    "data": "2026-10-04T23:52:03.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "696f872279d0d162",
-    "manchete": "Allyson Bezerra e Cadu de Lula vão para o 2º turno no Rio Grande do Norte",
-    "url": "https://www.infomoney.com.br/politica/rio-grande-do-norte-resultado-1-turno/",
-    "resumo": "O segundo turno acontecerá no dia 25 de outubro",
-    "fonte": "InfoMoney",
-    "data": "2026-10-04T23:51:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e9ac601f6db92796",
-    "manchete": "Ibov acima de 200 mil pontos: quadro eleitoral deve elevar índice, diz especialista",
-    "url": "https://www.infomoney.com.br/mercados/ibov-acima-de-200-mil-pontos-quadro-eleitoral-deve-elevar-indice-diz-especialista/",
-    "resumo": "Segundo Leonardo Mendes, da Manchester Investimentos, a combinação de melhora na percepção fiscal e manutenção de um ambiente institucional favorável à política econômica poderia abrir espaço para uma queda mais rápida dos juros",
-    "fonte": "InfoMoney",
-    "data": "2026-10-04T23:51:23.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5aeccb89a01e3da9",
-    "manchete": "“Embate de alto nível”: Haddad reconhece vitória de Tarcísio em São Paulo",
-    "url": "https://www.infomoney.com.br/politica/embate-de-alto-nivel-haddad-reconhece-vitoria-de-tarcisio-em-sao-paulo/",
-    "resumo": "Ex-ministro da Fazenda afirma que telefonou para o governador reeleito para cumprimentá-lo e defender uma oposição baseada em propostas para o estado",
-    "fonte": "InfoMoney",
-    "data": "2026-10-04T23:48:38.000Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
