@@ -1,5 +1,474 @@
 [
   {
+    "id": "05d11ba0030b5633",
+    "manchete": "Barchart colhe resultados da chegada ao Brasil e “tropicaliza” solução de IA",
+    "url": "https://agfeed.com.br/agtech/barchart-colhe-resultados-da-chegada-ao-brasil-e-tropicaliza-solucao-de-ia",
+    "resumo": "Empresa global de dados sobre commodities, a Barchart, aumentou em 150% a receita com clientes brasileiros nos últimos dois anos",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.455Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "17b6d7f7c2c8f318",
+    "manchete": "A estratégia da startup iBoi para escalar projeto de transformar bois em ativos bilionários",
+    "url": "https://agfeed.com.br/agtech/a-estrategia-da-startup-iboi-para-escalar-projeto-de-transformar-bois-em-ativos-bilionarios",
+    "resumo": "iBoi investe em rastreabilidade bovina e conectividade rural para transformar o gado em garantia de crédito para pecuaristas",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.455Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9e853bda9ff8fe2c",
+    "manchete": "Mantiqueira busca ovos em nova cesta com emissão de R$ 500 milhões em CPR-Fs",
+    "url": "https://agfeed.com.br/negocios/mantiqueira-busca-ovos-em-nova-cesta-com-emissao-de-r-500-milhoes-em-cpr-fs",
+    "resumo": "Mantiqueira prepara captação de R$ 500 milhões com CPR-Fs lastreadas em ovos e fiança bancária do Bradesco",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.454Z",
+    "tags_tema": [
+      "Dívida/Debêntures",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0405dfea40d0a099",
+    "manchete": "Sustentabilidade: o que Flávio Bolsonaro e Lula propõem Planos abordam desmatamento, mercado de carbono e biocombustíveis; candidatos apresentam metas distintas para florestas e medidas para conciliar produção agropecuária e conservação",
+    "url": "https://www.cnnbrasil.com.br/agro/sustentabilidade-o-que-flavio-bolsonaro-e-lula-propoem/",
+    "resumo": "Planos abordam desmatamento, mercado de carbono e biocombustíveis; candidatos apresentam metas distintas para florestas e medidas para conciliar produção agropecuária e conservação",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.453Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ac126559c358d53a",
+    "manchete": "Tomate desafia padrão histórico de preços e surpreende na inflação de 2026 Entre altas expressivas e quedas acentuadas tomate apareceu em praticamente todos relatórios mensais do IPCA; aumento atípico no segundo semestre foi provocado pelo clima desfavorável e redução da área de cultivo no país",
+    "url": "https://www.cnnbrasil.com.br/agro/tomate-desafia-padrao-historico-de-precos-e-surpreende-na-inflacao-de-2026/",
+    "resumo": "Entre altas expressivas e quedas acentuadas tomate apareceu em praticamente todos relatórios mensais do IPCA; aumento atípico no segundo semestre foi provocado pelo clima desfavorável e redução da área de cultivo no país",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.453Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b2e3fd80cbaba92e",
+    "manchete": "Com aval do novo presidente, Grupo Scheffer mira 100 mil hectares no \"Mato Grosso\" da Colômbia",
+    "url": "https://agfeed.com.br/negocios/com-aval-do-novo-presidente-grupo-scheffer-mira-100-mil-hectares-no-mato-grosso-da-colombia",
+    "resumo": "Grupo Scheffer planeja multiplicar operação por mais de 16 vezes em região que governo colombiano quer transformar em nova fronteira agrícola",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.453Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "679aa20088be67a8",
+    "manchete": "A ambição da \"hermana\" Nova no Brasil, com planos para fábrica e receita de R$ 600 milhões no País",
+    "url": "https://agfeed.com.br/negocios/a-ambicao-da-hermana-nova-no-brasil-com-planos-para-fabrica-e-receita-de-r-600-milhoes-no-pais",
+    "resumo": "Fabricante argentina de insumos pretende ampliar participação em fertilizantes especiais e conquistar liderança no mercado de inoculantes",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.449Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "022f93482fb43fee",
+    "manchete": "ARTIGO - Uma potência brasileira na mesa do próximo presidente ARTIGO - Uma potência brasileira na mesa do próximo presidente",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-uma-potencia-brasileira-na-mesa-do-proximo-presidente",
+    "resumo": "O Brasil construiu uma indústria, desenvolveu conhecimento e organizou uma cadeia produtiva de grande alcance em torno do biodiesel",
+    "fonte": "AgFeed",
+    "data": "2026-10-23T15:07:51.449Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d8500ecadf95c7f7",
+    "manchete": "Sete ativos e até R$ 1 bilhão de captação: o fundo imobiliário que une Allos e Kinea",
+    "url": "https://neofeed.com.br/negocios/sete-ativos-e-ate-r-1-bilhao-de-captacao-o-fundo-imobiliario-que-une-allos-e-kinea/",
+    "resumo": "Fundo prevê captar até R$ 1 bilhão para comprar participações em sete shoppings da Allos; companhia quer ampliar crescimento com nova frente de negócios",
+    "fonte": "NeoFeed",
+    "data": "2026-10-23T15:07:50.278Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6a6c628e5c1a412b",
+    "manchete": "Política, fiscal, IPOs e M&As: o mapa do Morgan Stanley para o o mercado de capitais no Brasil",
+    "url": "https://neofeed.com.br/negocios/politica-fiscal-ipos-e-mas-o-mapa-do-morgan-stanley-para-o-o-mercado-de-capitais-no-brasil/",
+    "resumo": "A incerteza em torno das Eleições de 2026 vem condicionando o mercado de capitais brasileiro, sobretudo a retomada das ofertas públicas iniciais de ações (IPOs), que voltaram de forma tímida no início do ano, com Agibank, PicPay e Compass. Para Fábio Medeiros, chefe do investment banking do Morgan Stanley no Brasil, a…",
+    "fonte": "NeoFeed",
+    "data": "2026-10-23T15:07:50.278Z",
+    "tags_tema": [
+      "M&A",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "24377bb596b4e5e4",
+    "manchete": "Sem \"vento de popa\", Bradesco aposta em crédito mais seguro para seguir crescendo",
+    "url": "https://neofeed.com.br/negocios/sem-vento-de-popa-bradesco-aposta-em-credito-mais-seguro-para-seguir-crescendo/",
+    "resumo": "No Bradesco, CEO Marcelo Noronha reconhece pressão de juros e inadimplência, mas vê crédito com garantias e eficiência operacional sustentando lucro em 2027",
+    "fonte": "NeoFeed",
+    "data": "2026-10-23T15:07:50.277Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "618d6a34806c2766",
+    "manchete": "Com US$ 1,7 bi no caixa, empresa do fundador da Uber sai das sombras e amplia aposta na América Latina",
+    "url": "https://neofeed.com.br/startups/com-us-17-bi-no-caixa-empresa-do-fundador-da-uber-sai-das-sombras-e-amplia-aposta-na-america-latina/",
+    "resumo": "Turbinada por um aporte da a16z, a CloudKitchens criada por Travis Kalanick aposta em novos modelos de negócio e quer ganhar escala no Brasil",
+    "fonte": "NeoFeed",
+    "data": "2026-10-23T15:07:50.273Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "db98196c2b5f562b",
+    "manchete": "Alívio no IPCA-15 veio de preços voláteis e inflação em 12 meses passou teto da meta",
+    "url": "https://www.infomoney.com.br/economia/ipca-15-outubro-previa-inflacao-fura-meta/",
+    "resumo": "Embora o índice mensal tenha recuado para 0,32% com a queda na energia elétrica, a pressão contínua sobre alimentos e serviços acende o alerta do mercado para as próximas decisões do Copom",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T15:03:29.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "375b0ea32932d67c",
+    "manchete": "Ibovespa Hoje Ao Vivo: Bolsa oscila com foco em inflação e eleição presidencial",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23102026/",
+    "resumo": "Bolsas dos EUA recuam com sell-off do setor de tecnologia",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T15:02:49.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "19e001553fc40865",
+    "manchete": "Escala 6&#215;1, Casas Bahia e reforma tributária: o que preocupa os FIIs de shoppings?",
+    "url": "https://www.infomoney.com.br/onde-investir/escala-6x1-casas-bahia-e-reforma-tributaria-o-que-preocupa-os-fiis-de-shoppings/",
+    "resumo": "O mercado de shopping centers acompanha uma série de fatores que podem pressionar o desempenho dos empreendimentos.",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "66fc037643b051ed",
+    "manchete": "Small caps vivem mês histórico na bolsa e acumulam alta de mais de 20% em outubro; veja as ações que lideram o rali",
+    "url": "https://www.moneytimes.com.br/small-caps-vivem-mes-historico-na-bolsa-e-acumulam-alta-de-mais-de-20-em-outubro-veja-as-acoes-que-lideram-o-rali-mlem/",
+    "resumo": "Em meio à volatilidade do trade eleitoral, o Índice Small Cap (SMLL) acumula valorização de 20,39% até o dia 22 de outubro. O rali representa a segunda maior alta mensal de sua série histórica, iniciada em setembro de 2005. O único outro momento com desempenho superior foi abril de 2009, quando o indicador avançou…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T14:51:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fbda2a4462eda2b4",
+    "manchete": "Rali com Flávio, reação a Lula: o que o buyside espera para segunda-feira",
+    "url": "https://braziljournal.com/rali-com-flavio-reacao-a-lula-o-que-o-buyside-espera-para-segunda-feira",
+    "resumo": "O buyside ainda vê espaço para um rali dos ativos brasileiros na segunda-feira se Flávio Bolsonaro vencer a eleição, mostra uma pesquisa feita pelo Citi. Mas a reação do mercado deve ser mais intensa – e para o lado negativo – caso Lula seja eleito, na opinião dos investidores ouvidos pelo banco.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-23T14:37:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3946f9730e8a1782",
+    "manchete": "Receita abre hoje consulta a lote residual de restituição do Imposto de Renda 2026",
+    "url": "https://www.infomoney.com.br/minhas-financas/receita-abre-hoje-consulta-a-lote-residual-de-restituicao-do-imposto-de-renda-2026/",
+    "resumo": "Receita abre consulta a lote residual do Imposto de Renda",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:35:13.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5534f363fd43fdfc",
+    "manchete": "Casas Bahia (BHIA3) recruta Camille Faria, ex-Americanas, para liderar negociações com credores",
+    "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-recruta-camille-faria-ex-americanas-para-liderar-negociacoes-com-credores-lmrs/",
+    "resumo": "A Casas Bahia (BHIA3), em recuperação judicial (RJ), anunciou a chegada de Camille Faria, sócia da Althia Partners e ex-CFO da Americanas (AMER3), para liderar a nova fase de reestruturação financeira da companhia. O anúncio ocorre após a Justiça de São Paulo deferir o processamento do pedido de recuperação judicial.…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T14:30:36.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "13e8690f0a948850",
+    "manchete": "Índice Small Caps salta 20% em outubro e tem 2ª maior alta mensal de sua história",
+    "url": "https://www.infomoney.com.br/mercados/indice-small-caps-salta-20-em-outubro-e-tem-2a-maior-alta-mensal-de-sua-historia/",
+    "resumo": "Levantamento da Elos Ayta mostra que o índice acumula seu melhor desempenho mensal em mais de 17 anos",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "58e61861f0dc20f5",
+    "manchete": "Volkswagen pode enfrentar greve histórica na Alemanha em janeiro",
+    "url": "https://www.infomoney.com.br/mercados/volkswagen-pode-enfrentar-greve-historica-na-alemanha-em-janeiro/",
+    "resumo": "Trabalhadores da Volkswagen ameaçam paralisação a partir de janeiro caso empresa não reverta rescisão de acordos trabalhistas históricos",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:27:32.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "358c39ca92e23cf8",
+    "manchete": "Perdeu o fôlego? Bradesco (BBDC4) enfrenta pressão da inadimplência, mas CEO destaca carteira mais segura",
+    "url": "https://www.moneytimes.com.br/perdeu-o-folego-bradesco-bbdc4-enfrenta-pressao-da-inadimplencia-e-ve-desafios-no-cenario-macro-ceo-conta-como-quer-driblar-bdap/",
+    "resumo": "“Vejo um cenário de pressão no crédito e inadimplência no mercado como um todo. Mas temos um mix mais seguro nas nossas carteiras.” Foi assim que Marcelo Noronha, CEO do Bradesco (BBDC4), resumiu as perspectivas para os próximos meses durante a teleconferência de resultados do terceiro trimestre de 2026. Divulgado na…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T14:20:02.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1103cdc9aba3abb5",
+    "manchete": "Musk doa mais de US$ 445 Milhões para o Partido Republicano nas “midterms”",
+    "url": "https://www.infomoney.com.br/mundo/musk-doa-mais-de-us-445-milhoes-para-o-partido-republicano-nas-midterms/",
+    "resumo": "As doações de Musk neste ciclo o colocam muito à frente de outros grandes doadores políticos, incluindo o gestor de fundos hedge George Soros, um contribuinte perene do Partido Democrata",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:13:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8e0a4c327b879482",
+    "manchete": "Mudança nas regras eleitorais a dois dias da eleição pode ocorrer, diz Nunes Marques",
+    "url": "https://www.infomoney.com.br/politica/mudanca-nas-regras-eleitorais-a-dois-dias-da-eleicao-pode-ocorrer-diz-nunes-marques/",
+    "resumo": "Ministro afirma que os desafios trazidos pelas novas tecnologias podem exigir novas medidas da Justiça Eleitoral às vésperas do segundo turno",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:12:42.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a01b2fd414236140",
+    "manchete": "Não sai nem por decreto? Veja quanto rende o prêmio de R$ 230 milhões da Mega-Sena acumulada",
+    "url": "https://www.moneytimes.com.br/mega-sena-nao-sai-nem-por-decreto-veja-quanto-rende-premio-230-milhoes-rsgp/",
+    "resumo": "A Mega-Sena está em uma fase na qual parece não sair nem por decreto. Ontem, ninguém acertou as dezenas válidas pelo concurso 3073 do \"carro-chefe\" das loterias da Caixa Econômica Federal. Os números sorteados foram 03, 13, 23, 28, 41 e 58. Diante disso, o prêmio em jogo subiu para R$ 230 milhões. A dificuldade…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T14:11:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e44e7e732036c80d",
+    "manchete": "BBI destaca Vitru (VTRU3) como principal aposta em educação e aumenta preço-alvo",
+    "url": "https://www.infomoney.com.br/mercados/bbi-destaca-vitru-vtru3-como-principal-aposta-em-educacao-e-aumenta-preco-alvo/",
+    "resumo": "BBI prevê resultados mistos entre as empresas de educação no 3T26, com Vitru e Ânima como destaques positivos",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:07:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0cbdef0e1bf6191e",
+    "manchete": "Trump vai respeitar resultado da eleição mesmo com vitória de Lula, diz Amorim",
+    "url": "https://www.infomoney.com.br/politica/trump-vai-respeitar-resultado-da-eleicao-mesmo-com-vitoria-de-lula-diz-amorim/",
+    "resumo": "Assessor especial da Presidência afirma que republicano reconhecerá o resultado das urnas no Brasil e vê riscos em eventual adesão do país ao Escudo das Américas, coalizão de segurança criada por Trump",
+    "fonte": "InfoMoney",
+    "data": "2026-10-23T14:04:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d595d8b0931c750",
+    "manchete": "Inflação menor, preocupação maior? O que acendeu o alerta no IPCA-15 de outubro",
+    "url": "https://www.moneytimes.com.br/inflacao-menor-preocupacao-maior-alerta-ipca-15-outubro-rsgp/",
+    "resumo": "A alta de 0,32% do IPCA-15 em outubro, abaixo dos 0,44% esperados pelo mercado, trouxe uma surpresa favorável, mas não afastou a preocupação dos economistas com a inflação. Nas avaliações de XP, ASA e Bradesco, o alívio ficou concentrado nas passagens aéreas, enquanto os componentes mais persistentes do índice…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T14:04:15.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b87996fa8bae23b2",
+    "manchete": "Wall Street cai com petróleo na máxima de cinco meses",
+    "url": "https://www.moneytimes.com.br/wall-street-abertura-23-10-26-lils/",
+    "resumo": "Os índices de Wall Street operam em queda no pregão desta sexta-feira (23) com petróleo nas máximas de cinco meses renovando preocupações sobre pressões inflacionárias. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? A continuidade dos preços do petróleo acima de US$ 100 por…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T13:46:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "825b0b89ccfb3a4d",
+    "manchete": "Allos (ALOS3) anuncia acordo para vender participações em sete shoppings a fundo imobiliário; veja quais",
+    "url": "https://www.moneytimes.com.br/allos-alos3-anuncia-acordo-para-vender-participacoes-em-sete-shoppings-a-fundo-imobiliario-veja-quais-igdl/",
+    "resumo": "A Allos (ALOS3) anunciou, na manhã desta sexta-feira (23), que firmou compromisso para vender participações em shopping centers do seu portfólio para o fundo imobiliário Kinea Allos Malls (KAMl11). Segundo fato relevante divulgado ao mercado, a compra está condicionada à captação, pelo KAML11, de, no mínimo, R$ 600…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T13:23:01.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "808fe8fb065cbe46",
+    "manchete": "Bolsa tende a ser menos favorável após o segundo turno; veja em qual ativo investir",
+    "url": "https://www.moneytimes.com.br/bolsa-tende-a-ser-menos-favoravel-apos-segundo-turno-veja-em-qual-ativo-investir-mlem/",
+    "resumo": "Nas duas sextas-feiras seguintes ao primeiro turno, utilizamos este espaço para indicar operações com opções ligadas ao cenário eleitoral. Ambas funcionaram bem e permitiram capturar parte relevante da reprecificação dos ativos brasileiros nas últimas semanas. Desta vez, porém, a escolha será diferente. Isso não…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T13:20:17.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f393d75032ea315f",
+    "manchete": "IPCA-15 fraco impulsiona Ibovespa no último pregão antes do segundo turno; 5 coisas para saber antes de investir hoje (23)",
+    "url": "https://www.moneytimes.com.br/ibovespa-5-coisas-23-10-26-lils/",
+    "resumo": "O Ibovespa (IBOV) opera em alta nos primeiros minutos após a abertura do pregão desta sexta-feira (23), o último antes do segundo turno das eleições presidenciais, em uma disputa acirrada entre Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT). O cenário externo e a disparada dos preços do petróleo…",
+    "fonte": "Money Times",
+    "data": "2026-10-23T13:15:18.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1fc03e4f905c3f40",
+    "manchete": "Retorno aos acionistas? Petz Cobasi (AUAU3) aprova programa de recompra de ações",
+    "url": "https://www.moneytimes.com.br/retorno-aos-acionistas-petz-cobasi-auau3-aprova-programa-de-recompra-de-acoes-lmrs/",
+    "resumo": "O conselho de administração da Petz Cobasi (AUAU3) aprovou a criação de um programa de recompra de até 17,6 milhões de ações, com início em 23 de outubro de 2026 e prazo máximo de liquidação até 23 de abril de 2028. Segundo o fato relevante divulgado nesta sexta-feira (23), o total de ações ordinárias que [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-10-23T12:54:10.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a4096f4f33cde4ed",
+    "manchete": "EUA faz mega acordos com energia de Itaipu para AI e urânio – mas no Paraguai",
+    "url": "https://braziljournal.com/eua-faz-mega-acordos-com-energia-de-itaipu-para-ai-e-uranio-mas-no-paraguai",
+    "resumo": "O vice-Secretário de Estado dos EUA, Christopher Landau, esteve esta semana em Itaipu e anunciou acordos para um enorme projeto de infraestrutura de inteligência artificial e para a exploração de urânio. Tudo no Paraguai.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-23T09:50:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "43729337700d5f41",
+    "manchete": "EDITORIAL. Um dia triste",
+    "url": "https://braziljournal.com/editorial-um-dia-triste",
+    "resumo": "À luz dos acontecimentos recentes envolvendo o nome do Brazil Journal, Flávio Carneiro decidiu se afastar da sociedade e de suas funções executivas na empresa. Ao longo dos últimos cinco anos, Flávio contribuiu decisivamente para o crescimento comercial e estratégico do grupo.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-23T00:56:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e03b39ce449f3e4e",
+    "manchete": "A nova Nokia que pouca gente conhece",
+    "url": "https://braziljournal.com/a-nova-nokia-que-pouca-gente-conhece",
+    "resumo": "A Nokia divulgou hoje o resultado do terceiro trimestre e a ação caiu 15% em Nova York, fechando a US$ 7,88, menos da metade do pico de junho. O lucro operacional subiu 35%. As vendas de redes IP cresceram 43%, e as vendas para clientes de AI e nuvem mais que dobraram. A margem operacional da divisão de infraestrutura…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-23T00:25:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "8eeab09c07b9dd13",
     "manchete": "ARTIGO - Novo marco amplia o papel do seguro rural no financiamento do agro",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-novo-marco-amplia-o-papel-do-seguro-rural-no-financiamento-do-agro",
@@ -5420,18 +5889,6 @@
     "importancia": 3
   },
   {
-    "id": "a33fd0c2228c22f1",
-    "manchete": "Os 7 pecados capitais do agro americano Os 7 pecados capitais do agro americano",
-    "url": "https://agfeed.com.br/campo-das-ideias/agroambiental/os-7-pecados-capitais-do-agro-americano",
-    "resumo": "Os EUA estão mostrando, em tempo real, quanto custa adiar conversas estruturais. Melhor aprender com a conta alheia do que esperar a nossa",
-    "fonte": "AgFeed",
-    "data": "2026-10-16T14:53:40.331Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "502c8f5b5fac6826",
     "manchete": "Oncoclínicas dá passo atrás para tentar \"salvar\" plano de recuperação extrajudicial",
     "url": "https://neofeed.com.br/negocios/oncoclinicas-da-passo-atras-para-tentar-salvar-plano-de-recuperacao-extrajudicial/",
@@ -5868,92 +6325,6 @@
       "Private Equity",
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d8fc5b8a3c513836",
-    "manchete": "Bloqueio europeu a carnes brasileiras faz dsm antecipar estratégias para o mercado nacional",
-    "url": "https://agfeed.com.br/negocios/bloqueio-europeu-a-carnes-brasileiras-faz-dsm-antecipar-estrategias-para-o-mercado-brasileiro",
-    "resumo": "A dsm-firmenich antecipa estratégias em resposta às restrições impostas pela União Europeia às carnes do país desde setembro",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.223Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a655be4832d493a",
-    "manchete": "Kraft Heinz quer dobrar de tamanho no Brasil até 2030, com apoio do campo Com receita bruta próxima de R$ 4 bilhões em 2025, companhia investiu R$ 1 bilhão em cinco anos e ampliou a produção local de tomate para abastecer suas marcas",
-    "url": "https://www.cnnbrasil.com.br/agro/kraft-heinz-quer-dobrar-de-tamanho-no-brasil-ate-2030-com-apoio-do-campo/",
-    "resumo": "Com receita bruta próxima de R$ 4 bilhões em 2025, companhia investiu R$ 1 bilhão em cinco anos e ampliou a produção local de tomate para abastecer suas marcas",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.222Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "87c40e465e1a841c",
-    "manchete": "Fertilizantes: o que Flávio Bolsonaro e Lula propõem para o setor Candidatos defendem reduzir dependência de importações, mas divergem sobre os caminhos; propostas incluem exploração mineral, produção de nitrogenados e incentivo a bioinsumos",
-    "url": "https://www.cnnbrasil.com.br/agro/fertilizantes-o-que-flavio-bolsonaro-e-lula-propoem-para-o-setor/",
-    "resumo": "Candidatos defendem reduzir dependência de importações, mas divergem sobre os caminhos; propostas incluem exploração mineral, produção de nitrogenados e incentivo a bioinsumos",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.222Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "633e9732c1815037",
-    "manchete": "Riza Asset vende terras para comprar melhor",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/riza-asset-vende-terras-para-comprar-melhor",
-    "resumo": "Gestora paulista busca fazer liquidez para aproveitar oportunidades no mercado de terras",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.220Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "05aff11d0de0c45e",
-    "manchete": "Daniel Azevedo Duarte",
-    "url": "https://agfeed.com.br/author/daniel-azevedo-duarte/",
-    "resumo": "Crime organizado avança no agronegócio brasileiro, ameaça cadeias produtivas e pode gerar riscos às exportações, alerta estudo do Insper",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.219Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "397edd1b5ea6d640",
-    "manchete": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
-    "url": "https://agfeed.com.br/financas/como-os-investidores-europeus-veem-o-agro-brasileiro-o-itau-bba-ouviu-deles-mais-perguntas-que-respostas",
-    "resumo": "Em roadshow com investidores estrangeiros na Europa, banco identificou interesse crescente por JBS, MBRF e 3tentos",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.218Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a287373ae9d9df56",
-    "manchete": "FMC piora projeções para o trimestre e anuncia até corte de preços (também no Brasil) para ser competitiva FMC piora projeções para o trimestre e anuncia até corte de preços (também no Brasil) para ser competitiva",
-    "url": "https://agfeed.com.br/negocios/fmc-piora-projecoes-para-o-trimestre-e-anuncia-ate-corte-de-precos-tambem-no-brasil-para-ser-competitiva",
-    "resumo": "FMC reduz previsão de receita para o 3º trimestre e anuncia cortes de preços no Brasil para enfrentar a concorrência",
-    "fonte": "AgFeed",
-    "data": "2026-10-15T23:39:51.218Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9705,353 +10076,6 @@
     "tags_tema": [
       "IPO/Mercado de Capitais"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "254e65bf933fa1f0",
-    "manchete": "A economia começou a perder fôlego e a eleição vai sentir",
-    "url": "https://www.moneytimes.com.br/a-economia-comecou-a-perder-folego-e-a-eleicao-vai-sentir-2/",
-    "resumo": "O último domingo não escolheu o próximo presidente, mas mudou de forma importante o preço do Brasil. Flávio Bolsonaro terminou o primeiro turno com 47,03% dos votos válidos, diante de 45,16% de Luiz Inácio Lula da Silva. Os dois voltam às urnas em 25 de outubro. A diferença, de menos de dois pontos percentuais, não…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T22:31:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4ad83ac350418417",
-    "manchete": "Terra Santa (LAND3): incêndio atinge reserva legal de fazenda em Mato Grosso",
-    "url": "https://www.moneytimes.com.br/terra-santa-land3-incendio-atinge-reserva-legal-de-fazenda-em-mato-grosso-pads/",
-    "resumo": "A Terra Santa Propriedas Agrícolas (LAND3) informou nesta sexta-feira (9) que um incêndio atingiu parte da Fazenda Iporanga, em Nova Maringá, no Mato Grosso. Segundo a companhia, as chamas alcançaram uma área de reserva legal, composta por vegetação nativa, que não integra as terras atualmente arrendadas e destinadas…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T22:25:37.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f8c5dba82f6b8e6b",
-    "manchete": "Eztec (EZTC3) eleva lançamentos em 53% no 3T26, mas vendas ficam estáveis",
-    "url": "https://www.moneytimes.com.br/eztec-eztc3-eleva-lancamentos-em-53-no-3t26-mas-vendas-ficam-estaveis/",
-    "resumo": "A construtora e incorporadora Eztec (EZTC3) anunciou nesta sexta-feira (9) alta de 52,9% nos lançamentos de imóveis no terceiro trimestre ante o mesmo período de 2025, para R$ 726,5 milhões, segundo prévia de resultados do período divulgada ao mercado. Os lançamentos corresponderam a três empreendimentos no período,…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T22:09:40.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c5b9691439518697",
-    "manchete": "Juros futuros caem com 'trade eleitoral' e ignoram IPCA elevado",
-    "url": "https://www.moneytimes.com.br/juros-futuros-9-10-26-apsa/",
-    "resumo": "Os juros futuros fecharam em baixa nesta sexta-feira (9), ainda se ajustando à expectativa consolidada no mercado de que há grandes chances de alternância de poder em 2027. As taxas operaram em queda firme, após as primeiras pesquisas para o segundo turno da eleição presidencial indicarem que a vantagem do senador…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T21:57:39.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c40dfa2f8b0f0630",
-    "manchete": "Três policiais morrem após avião da PM cair em Santana do Paraíso, em Minas Gerais",
-    "url": "https://www.infomoney.com.br/brasil/tres-policiais-morrem-apos-aviao-da-pm-cair-em-santana-do-paraiso-em-minas-gerais/",
-    "resumo": "Acidente ocorreu na tarde desta sexta-feira, próximo ao aeroporto de Ipatinga, no Vale do Aço; bombeiros foram acionados e ainda não há informações sobre vítimas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T21:54:37.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ffe0761515ce11f3",
-    "manchete": "Alavancada, CSN (CSNA3) encaminha venda de subsidiária alemã; veja valores",
-    "url": "https://www.moneytimes.com.br/alavancada-csn-csna3-encaminha-venda-de-subsidiaria-alema-veja-valores/",
-    "resumo": "Enfim, a CSN (CSNA3) fechou a venda de sua operação de aços longos na Alemanha, a Stahlwerk Thüringen GmbH (SWT), em uma transação avaliada em € 550 milhões, sujeita a ajustes. A operação faz parte da estratégia da companhia para reduzir seu nível de endividamento. Há meses o mercado especula sobre possíveis vendas da…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T21:53:09.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1f3440debac231ef",
-    "manchete": "Terremoto de 7,7 sacode Panamá, deixa rastro de danos e paralisa serviços",
-    "url": "https://www.infomoney.com.br/mundo/forte-terremoto-de-magnitude-80-e-sentido-no-panama-diz-servico-geologico-dos-eua/",
-    "resumo": "Tremor provocou cortes de energia, suspensão de aulas e do metrô, além de danos a imóveis; autoridades registraram diversas réplicas e avaliam possíveis vítimas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T21:50:21.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb50d101da58b86d",
-    "manchete": "PM mata sequestrador e resgata 13 crianças em escola municipal de Curitiba",
-    "url": "https://www.infomoney.com.br/brasil/pm-mata-sequestrador-e-resgata-13-criancas-em-escola-municipal-de-curitiba/",
-    "resumo": "Caso aconteceu em um Centro Municipal de Educação Infantil (CMEI) no Bairro São Braz",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T21:46:27.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "11a88679c66d895b",
-    "manchete": "Guia do transporte seguro: como evitar golpes ao sair do Galeão? Veja oito dicas",
-    "url": "https://www.infomoney.com.br/consumo/guia-do-transporte-seguro-como-evitar-golpes-ao-sair-do-galeao-veja-oito-dicas/",
-    "resumo": "Na quinta-feira, uma operação da Polícia Civil mirou taxistas que usavam dispositivo eletrônico no taxímetro para inflar o preço das corridas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T21:35:01.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "113354a872139caf",
-    "manchete": "Porta-voz de Lula diz que 'tesouraço' de Flávio seria igual ao de Milei na Argentina",
-    "url": "https://www.infomoney.com.br/politica/porta-voz-de-lula-diz-que-tesouraco-de-flavio-seria-igual-ao-de-milei-na-argentina/",
-    "resumo": "Senador disse também que a população brasileira não pode esquecer da gestão de Bolsonaro na pandemia de covid-19",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T21:31:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9783133ef73f8305",
-    "manchete": "Santander (SANB11) pagará R$ 1,5 bilhão em juros sobre o capital próprio",
-    "url": "https://www.moneytimes.com.br/santander-sanb11-pagara-r-15-bilhao-em-juros-sobre-o-capital-proprio-2/",
-    "resumo": "O Santander (SANB11) aprovou nesta sexta-feira (9) a distribuição de R$ 1,5 bilhão em juros sobre o capital próprio (JCP), conforme ata divulgada ao mercado. O montante bruto corresponde a R$ 0,19095423791 por ação ordinária, R$ 0,21004966171 por ação preferencial e R$ 0,40100389962 por unit. Após a retenção de…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T21:24:03.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a660bfc0bacf79d1",
-    "manchete": "A semana do agro na Bolsa após o 1º turno: Camil (CAML3) dispara 25% e outras 5 ações sobem mais de 10%; um papel perde 5%",
-    "url": "https://www.moneytimes.com.br/a-semana-do-agro-na-bolsa-apos-o-1o-turno-camil-caml3-dispara-25-e-outras-5-acoes-sobem-mais-de-10-um-papel-perde-5/",
-    "resumo": "A primeira semana após o primeiro turno das eleições terminou com ganhos para a maioria das ações do agronegócio acompanhadas pelo Agro Times. O resultado das urnas, com Flávio Bolsonaro (PL) à frente de Luiz Inácio Lula da Silva (PT) na disputa presidencial, colocou as perspectivas para a política econômica no centro…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T20:46:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "31f59213fc887cc7",
-    "manchete": "Milho despenca em Chicago após USDA elevar a previsão de produtividade nos EUA",
-    "url": "https://www.moneytimes.com.br/milho-despenca-em-chicago-apos-usda-elevar-a-previsao-de-produtividade-nos-eua-pads/",
-    "resumo": "Os contratos futuros do milho negociados nos EUA despencaram em até o limite diário de negociação nesta sexta-feira e encerraram o dia com queda acentuada, depois que o Departamento de Agricultura dos EUA (USDA) surpreendeu os operadores com um aumento inesperado na previsão para a safra norte-americana de 2026. O…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T20:44:00.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2c8773940833a83e",
-    "manchete": "Ibovespa tem duplo recorde aos 209 mil pontos e avança quase 9% na semana após 1º turno; dólar cai e fica abaixo de R$ 5",
-    "url": "https://www.moneytimes.com.br/ibovespa-9-10-26-lils/",
-    "resumo": "O Ibovespa (IBOV) estendeu os ganhos da véspera com o 'trade Flávio' e a melhora do humor externo, renovando as máximas históricas. Nesta sexta-feira (9), o principal índice da bolsa brasileira terminou as negociações com alta de 1,38%, aos 209.066,90 pontos, em novo recorde nominal de fechamento. Durante o pregão, o…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T20:31:04.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "83634b3b61e9480f",
-    "manchete": "O crime conhece safras: o roubo de 30 mil garrafas de vinho que abalou a Antinori",
-    "url": "https://neofeed.com.br/negocios/o-crime-conhece-safras-o-roubo-de-30-mil-garrafas-de-vinho-que-abalou-a-antinori/",
-    "resumo": "Tradicional vinícola italiana foi alvo de um dos maiores roubos de vinho da história, perdendo quase 30 mil garrafas, um prejuízo de € 5 milhões",
-    "fonte": "NeoFeed",
-    "data": "2026-10-09T17:00:45.527Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6fcc0a0c9077a3b4",
-    "manchete": "Muito além do STF: o raio-X econômico que explica a onda conservadora nas urnas",
-    "url": "https://neofeed.com.br/experts/muito-alem-do-stf-o-raio-x-economico-que-explica-a-onda-conservadora-nas-urnas/",
-    "resumo": "Ajuste fiscal domina expectativas de mercado e deve estar entre prioridades nos debates rumo ao segundo turno para tentar restaurar confiança em baixa entre consumidores e empresários, identificada pelo Ibre FGV, CNC e CNI",
-    "fonte": "NeoFeed",
-    "data": "2026-10-09T17:00:45.526Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb0770384ecc5cdf",
-    "manchete": "GPA vai atrás das \"heranças do passado\" e de fantasmas de mais de R$ 15 bilhões",
-    "url": "https://neofeed.com.br/negocios/gpa-vai-atras-das-herancas-do-passado-e-de-fantasmas-de-mais-de-r-15-bilhoes/",
-    "resumo": "Alexandre Santoro, CEO do GPA, diz que empresa precisa lidar com passivos trabalhistas e tributários e readequar tamanho da operação",
-    "fonte": "NeoFeed",
-    "data": "2026-10-09T17:00:45.526Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0c4ecb9cc10539f0",
-    "manchete": "Trump quer mudar o termo \"IA\", mas ciência rebate e faz distinção; entenda",
-    "url": "https://www.infomoney.com.br/mundo/trump-quer-chamar-ia-de-superinteligencia/",
-    "resumo": "A decisão levanta questões sobre o uso de um conceito científico ainda hipotético",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T17:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2e2e173aadd49477",
-    "manchete": "Lula prometeu frente ampla, mas entregou governo petista, avalia analista",
-    "url": "https://www.infomoney.com.br/politica/lula-prometeu-frente-ampla-mas-entregou-governo-petista-avalia-analista/",
-    "resumo": "Bárbara Baião, da XP, afirma que concentração do governo em nomes do PT dificultou diálogo com eleitores de centro e centro-direita",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T17:00:00.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e34d68ff6dd0c62b",
-    "manchete": "FIIs ensaiam a terceira maior alta semanal da história; veja fundos que mais subiram",
-    "url": "https://www.infomoney.com.br/onde-investir/fiis-ensaiam-a-terceira-maior-alta-semanal-da-historia-veja-fundos-que-mais-subiram/",
-    "resumo": "Às 14h, o Ifix — índice dos FIIs mais líquidos da Bolsa — acumulava valorização de 5,42%",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T16:59:59.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "752cf4437f3e0eda",
-    "manchete": "OPINIÃO. Os três terremotos desta eleição",
-    "url": "https://braziljournal.com/opiniao-os-tres-terremotos-desta-eleicao",
-    "resumo": "A direita venceu o primeiro turno de domingo. Isso o leitor já sabe. O que vale a pena entender é por que ela venceu , e de quem tirou os votos. As duas respostas, reconstruídas a partir de um levantamento do Ranking dos Políticos sobre os resultados nas 27 unidades da federação, dizem mais sobre o Brasil de 2027 do…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-09T16:54:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9ecb294cdef49f5e",
-    "manchete": "OPINIÃO. Dicas práticas de como falar com o investidor global",
-    "url": "https://braziljournal.com/opiniao-dicas-praticas-de-como-falar-com-o-investidor-global",
-    "resumo": "Há mais de vinte anos converso diariamente com investidores internacionais sobre o Brasil. Entre os clientes da Arko Advice estão sete dos dez maiores fundos do mundo em ativos sob gestão. Só na semana desta eleição, falei com centenas de gestores em eventos organizados pela Arko e por instituições financeiras, como o…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-09T16:53:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "37ba064e2d57dfa9",
-    "manchete": "A AI pode ter consciência? A Anthropic tentou convencer o Papa",
-    "url": "https://braziljournal.com/a-ai-pode-ter-consciencia-a-anthropic-tentou-convencer-o-papa",
-    "resumo": "“Nesta era da inteligência artificial, é urgente distinguir a arte humana daquilo que as máquinas produzem,” disse o Papa Leão XIV. Em um comentário postado nas redes sociais na semana passada, o Pontífice mais uma vez procurou traçar uma linha bem definida separando as realizações dos seres humanos das da…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-09T16:52:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6629ce13e285e1a0",
-    "manchete": "Governo estima que oferta de diesel no Brasil supere demanda em 6% em outubro",
-    "url": "https://www.infomoney.com.br/economia/governo-estima-que-oferta-de-diesel-no-brasil-supere-demanda-em-6-em-outubro/",
-    "resumo": "Demanda para este ⁠mês ‌está estimada atualmente em 3,95 ⁠bilhões de litros, enquanto a oferta prevista é de 4,18 bilhões de litros",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T16:44:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b01f49c288717153",
-    "manchete": "Moretti: governo vai zerar tributação sobre gasolina e impacto passa para R$ 2,8 bi",
-    "url": "https://www.infomoney.com.br/economia/moretti-governo-vai-zerar-tributacao-sobre-gasolina-e-impacto-passa-para-r-28-bi/",
-    "resumo": "Medida será válida por um período de um mês e, segundo o governo, será mantida a premissa de \"neutralidade fiscal\"",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T16:43:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d7cd728de7ff03f1",
-    "manchete": "Governo estima que oferta de diesel no Brasil supere demanda em 6% em outubro",
-    "url": "https://www.moneytimes.com.br/governo-estima-que-oferta-de-diesel-no-brasil-supere-demanda-em-6-em-outubro-igdl/",
-    "resumo": "A oferta de diesel no Brasil deverá superar a demanda em 6% em outubro, afirmou nesta sexta-feira (9) o secretário de petróleo e gás do Ministério de Minas e Energia, Renato Dutra, buscando reduzir preocupações em meio à alta nos preços internacionais. Segundo ele, a demanda do combustível mais consumido e importado…",
-    "fonte": "Money Times",
-    "data": "2026-10-09T16:38:14.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "45b1e60c8cf7fba8",
-    "manchete": "Check-in com ChatGPT? Passageiros da Gol poderão usar IA para embarcar em voos",
-    "url": "https://www.infomoney.com.br/consumo/check-in-chatgpt-passageiros-gol/",
-    "resumo": "O serviço será gratuito e disponibilizado ainda em outubro",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T16:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "29a402ed56ac0859",
-    "manchete": "Ibovespa Hoje Ao Vivo: Bolsa sobe e renova máxima histórica, aos 209,7 mil",
-    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/",
-    "resumo": "Bolsas dos EUA sobem com otimismo com IA e queda no petróleo",
-    "fonte": "InfoMoney",
-    "data": "2026-10-09T16:24:08.000Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
