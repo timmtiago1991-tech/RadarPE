@@ -1,5 +1,273 @@
 [
   {
+    "id": "693df99de95153b1",
+    "manchete": "A ofensiva do novo CEO da Adama para crescer no Brasil (com inovação e mais crédito)",
+    "url": "https://agfeed.com.br/negocios/a-ofensiva-do-novo-ceo-da-adama-para-crescer-no-brasil-com-inovacao-e-mais-credito",
+    "resumo": "João Aleixo, CEO da Adama no Brasil, reforça estratégia de inovação e prevê cenário “estressado” por mais “um ou dois anos”",
+    "fonte": "AgFeed",
+    "data": "2026-10-24T14:01:30.767Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "20f973a57b89f089",
+    "manchete": "“O cenário do agro brasileiro está despiorando”",
+    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/o-cenario-do-agro-brasileiro-esta-despiorando",
+    "resumo": "Em entrevista à série SpeedCast, analista do Itaú BBA, Francisco Queiroz fala dos fundamentos construtivos para o algodão na safra 20276/2077",
+    "fonte": "AgFeed",
+    "data": "2026-10-24T14:01:30.755Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05cb8e0d362afc84",
+    "manchete": "Ele vendeu um Fiat Uno para comprar novilhas. Hoje, produz quase 10 mil litros de leite por dia",
+    "url": "https://agfeed.com.br/caminhos-do-agro/producao-de-leite",
+    "resumo": "Um Fiat Uno e a decisão de insistir na produção de leite foram o ponto de partida para transformar a vida do produtor Gilson Pereira Cardoso.",
+    "fonte": "AgFeed",
+    "data": "2026-10-24T14:01:30.752Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "696db0517594d186",
+    "manchete": "O poder dos seguidores: redes sociais viram o principal campo de batalha da eleição",
+    "url": "https://neofeed.com.br/insiders/o-poder-dos-seguidores-redes-sociais-viram-o-principal-campo-de-batalha-da-eleicao/",
+    "resumo": "Redes sociais viram a principal fonte de informação política do brasileiro e transformam influenciadores nas maiores forças de voto do Congresso",
+    "fonte": "NeoFeed",
+    "data": "2026-10-24T14:01:30.099Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1d4eb81903befeef",
+    "manchete": "Na infraestrutura, uma carteira bilionária de projetos (e sem \"filés\") à espera do novo presidente",
+    "url": "https://neofeed.com.br/economia/na-infraestrutura-uma-carteira-bilionaria-de-projetos-e-sem-files-a-espera-do-novo-presidente/",
+    "resumo": "Com os ativos de maior apelo comercial já concedidos, o próximo governo terá de apostar em PPPs para atrair o capital privado.",
+    "fonte": "NeoFeed",
+    "data": "2026-10-24T14:01:30.099Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "db9c83540e2817ac",
+    "manchete": "Startups: Com aporte de US$ 200M, Warhound quer pôr cães “tunados” na guerra",
+    "url": "https://www.infomoney.com.br/business/startups-com-aporte-de-us-200m-warhound-quer-por-caes-tunados-na-guerra/",
+    "resumo": "Com envolvimento da Anduril e da Colossal, que quer reviver os mamutes, startup aposta em criar os soldados caninos do futuro",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T14:01:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68da84c289ba205d",
+    "manchete": "A sexta de dez: Americanas avança na venda do Natural da Terra para o Oba",
+    "url": "https://www.infomoney.com.br/mercados/a-sexta-de-dez-americanas-avanca-na-venda-do-natural-da-terra-para-o-oba/",
+    "resumo": "As lojas foram vendidas como parte do plano de recuperação judicial da companhia",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T13:47:42.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "03d1efada296a7c9",
+    "manchete": "A receita da memória afiada na velhice: netos, esporte e voluntariado",
+    "url": "https://www.infomoney.com.br/saude/a-receita-da-memoria-afiada-na-velhice-netos-esporte-e-voluntariado/",
+    "resumo": "Pesquisa mostrou que cuidar dos netos e participar de clubes esportivos pode ajudar a prevenir perda de memória",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T13:29:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d91719458949f3c6",
+    "manchete": "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado",
+    "url": "https://www.infomoney.com.br/consumo/mega-sena-sorteia-premio-acumulado-em-r-230-milhoes-neste-sabado/",
+    "resumo": "Mega-Sena sorteia prêmio acumulado em R$ 230 milhões neste sábado",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T13:14:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dddbfbb1af9e7291",
+    "manchete": "\"Startups brasileiras precisam aprender a vender\", diz Edson, da Astella",
+    "url": "https://www.infomoney.com.br/business/startups-brasileiras-precisam-aprender-a-vender-diz-edson-da-astella/",
+    "resumo": "Prestes a lançar 6º fundo, Astella foca em empresas de IA; para o investidor, crescimento só vem com conhecimento sobre \"ciência das vendas\"",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T12:57:10.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4ef6d3b0afd30a7a",
+    "manchete": "Azul (AZUL3) obtém financiamento de até R$ 2 bilhões com garantia da União para pagar combustível",
+    "url": "https://www.moneytimes.com.br/azul-azul3-obtem-financiamento-de-ate-r-2-bilhoes-com-garantia-da-uniao-para-pagar-combustivel/",
+    "resumo": "A Azul (AZUL3) celebrou uma operação de financiamento de até R$ 2 bilhões, com cobertura do risco de crédito pela União, para custear exclusivamente a compra de combustível de aviação destinado às operações regulares domésticas. Em fato relevante divulgado neste sábado (24), a companhia informou que a operação foi…",
+    "fonte": "Money Times",
+    "data": "2026-10-24T12:47:02.000Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1c2a1bf915db962a",
+    "manchete": "Casas Bahia negocia empréstimo de R$ 300 milhões para não parar as operações",
+    "url": "https://www.infomoney.com.br/mercados/casas-bahia-negocia-emprestimo-de-r-300-milhoes-para-nao-parar-as-operacoes/",
+    "resumo": "Varejista teve pedido de recuperação aceito pela Justiça esta semana",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T12:45:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f547147c8db0e736",
+    "manchete": "BC mira o crédito no Pix: oferta só com 24h de intervalo e consentimento prévio",
+    "url": "https://www.infomoney.com.br/minhas-financas/bc-mira-o-credito-no-pix-oferta-so-com-24h-de-intervalo-e-consentimento-previo-2/",
+    "resumo": "Para todos os clientes, o BC decidiu que as instituições deverão oferecer mecanismo claro para o bloqueio de propagandas e ofertas ativas; norma entra em vigor em 31 de março de 2027",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T12:41:40.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb331da5a47bbbde",
+    "manchete": "Líder da Coreia do Norte pede “revolução” ao exigir unidades militares mais fortes",
+    "url": "https://www.infomoney.com.br/mundo/lider-da-coreia-do-norte-pede-revolucao-ao-exigir-unidades-militares-mais-fortes/",
+    "resumo": "Em um discurso, Kim Jong Un pediu que todas as companhias se preparassem plenamente para que “a meta ⁠do ​fortalecimento militar ​da nova era” pudesse ser alcançada",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T12:13:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9398381ddc5b718e",
+    "manchete": "Adere quer dobrar receita com fita adesiva que vai do sapato ao arranha-céu",
+    "url": "https://www.infomoney.com.br/business/adere-quer-dobrar-receita-com-fita-adesiva-que-vai-do-sapato-ao-arranha-ceu/",
+    "resumo": "Com mais de mil produtos, Adere atende usos pouco visíveis na indústria e investe na produção, no varejo e nas exportações para crescer",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T11:45:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6ce5edbda13193dc",
+    "manchete": "Uma década de dados em cada análise: como a Valora usa IA no crédito",
+    "url": "https://www.infomoney.com.br/onde-investir/uma-decada-de-dados-em-cada-analise-como-a-valora-usa-ia-no-credito/",
+    "resumo": "Com R$ 36 bilhões sob gestão, a Valora usa inteligência artificial para examinar dados e identificar desvios no comportamento dos fundos",
+    "fonte": "InfoMoney",
+    "data": "2026-10-24T11:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7231a90146209077",
+    "manchete": "Magazine Luiza (MGLU3) salta 14%, enquanto WEG (WEGE3) é a pior ação da semana; veja o que rolou no Ibovespa",
+    "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-43-lils-2/",
+    "resumo": "O Ibovespa (IBOV) terminou a última semana antes do segundo turno das eleições à Presidência em ligeira queda, estendendo as perdas da semana anterior. O principal índice da bolsa brasileira acumulou queda de 0,17% na semana e encerrou a última sessão aos 205.082,56 pontos. Já o dólar à vista terminou a R$ 4,9931, com…",
+    "fonte": "Money Times",
+    "data": "2026-10-24T10:20:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "867621417d7d9802",
+    "manchete": "Debate da Globo: Em bloco livre, Lula e Flávio Bolsonaro trocam acusações sobre patrimônio, Master e supostos favorecimentos",
+    "url": "https://www.moneytimes.com.br/debate-da-globo-em-bloco-livre-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-patrimonio-master-e-supostos-favorecimentos/",
+    "resumo": "O último bloco do debate presidencial deste domingo (23) entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foi dominado por ataques pessoais, acusações de corrupção e questionamentos sobre patrimônio, deixando em segundo plano os temas de governo. Lula abriu o bloco citando uma denúncia envolvendo uma área…",
+    "fonte": "Money Times",
+    "data": "2026-10-24T02:59:24.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "29f08f3289f96600",
+    "manchete": "Debate da Globo: Lula e Flávio Bolsonaro trocam ataques sobre endividamento, educação e segurança pública em debate",
+    "url": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-ataques-sobre-endividamento-educacao-e-seguranca-publica-em-debate-rnda/",
+    "resumo": "O terceiro bloco do debate presidencial deste sexta-feira (23) foi marcado por embates sobre o endividamento das famílias brasileiras, educação em tempo integral e segurança pública. Ao escolher o tema endividamento dos brasileiros, o candidato do PL, Flávio Bolsonaro, criticou a situação financeira das famílias e…",
+    "fonte": "Money Times",
+    "data": "2026-10-24T02:33:40.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "40af93437763dfeb",
+    "manchete": "Em bloco da 'desculpa', Lula e Flávio Bolsonaro duelam sobre dívida pública, juros e SUS; candidatos divergem sobre papel do Estado",
+    "url": "https://www.moneytimes.com.br/em-bloco-da-desculpa-lula-e-flavio-bolsonaro-duelam-sobre-divida-publica-juros-e-sus-candidatos-divergem-sobre-papel-do-estado/",
+    "resumo": "O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi quando Flávio Bolsonaro pediu…",
+    "fonte": "Money Times",
+    "data": "2026-10-24T02:08:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "75969738fe9a18ed",
+    "manchete": "Debate da Globo: Lula e Flávio Bolsonaro trocam acusações sobre infraestrutura, agronegócio e poder de compra",
+    "url": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/",
+    "resumo": "Em um debate com mais proposta e menos ataques, temas econômicos dominaram o primeiro bloco. No embate da TV Globo realizado nesta sexta-feira (23), o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) travaram um embate marcado por acusações sobre infraestrutura, inflação, agronegócio e…",
+    "fonte": "Money Times",
+    "data": "2026-10-24T01:42:29.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "a287373ae9d9df56",
     "manchete": "FMC piora projeções para o trimestre e anuncia até corte de preços (também no Brasil) para ser competitiva",
     "url": "https://agfeed.com.br/negocios/fmc-piora-projecoes-para-o-trimestre-e-anuncia-ate-corte-de-precos-tambem-no-brasil-para-ser-competitiva",
@@ -5801,56 +6069,6 @@
     "importancia": 3
   },
   {
-    "id": "f5ccbd3013d152aa",
-    "manchete": "A estratégia da Adama para voltar a crescer",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-da-adama-para-voltar-a-crescer",
-    "resumo": "Multinacional de defensivos agrícolas prevê lançar 25 novos produtos nos próximos cinco anos e testa modelo alternativo de crédito",
-    "fonte": "AgFeed",
-    "data": "2026-10-16T23:32:58.869Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ed2ebfbdf1b56652",
-    "manchete": "Será o fim da novela Funrural?",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/sera-o-fim-da-novela-funrural",
-    "resumo": "STF considera inconstitucional cobrança anterior a 2018, em disputa de R$ 17,2 bi, mas ausência de modulação deixa dúvidas sobre decisão",
-    "fonte": "AgFeed",
-    "data": "2026-10-16T23:32:58.869Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "405a672e4d7a55a2",
-    "manchete": "M. Dias Branco compra 80% da paulista Grespan e inclui pão no cardápio M. Dias Branco compra 80% da paulista Grespan e inclui pão no cardápio",
-    "url": "https://agfeed.com.br/negocios/m-dias-branco-compra-80-da-paulista-grespan-e-inclui-pao-no-cardapio",
-    "resumo": "Multinacional brasileira de massas e biscoitos M. Dias Branco adquiriu o controle da Grespan, que fatura R$ 139 milhões por ano",
-    "fonte": "AgFeed",
-    "data": "2026-10-16T23:32:58.866Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f8ee44f502d54386",
-    "manchete": "“Tem muita coisa vindo por aí, inclusive a nova geração de biológicos” “Tem muita coisa vindo por aí, inclusive a nova geração de biológicos”",
-    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/tem-muita-coisa-vindo-por-ai-inclusive-a-nova-geracao-de-biologicos",
-    "resumo": "Diretor de P&D da AgriConnection, Rogério Duarte detalha um investimento de R$ 50 milhões em 20 novas formulações",
-    "fonte": "AgFeed",
-    "data": "2026-10-16T23:32:58.866Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "9ada71e2d7e09244",
     "manchete": "Michael Dell sobreviveu à bolha das pontocom e sabe como \"processar\" a turbulência da IA",
     "url": "https://neofeed.com.br/negocios/michael-dell-sobreviveu-a-bolha-das-pontocom-e-sabe-como-processar-a-turbulencia-da-ia/",
@@ -9862,214 +10080,6 @@
     "resumo": "Equipe do petista aponta problemas envolvendo propaganda eleitoral nas redes sociais; empresa americana disse que as alegações são falsas",
     "fonte": "InfoMoney",
     "data": "2026-10-10T21:31:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cc7d022bec261f63",
-    "manchete": "Meta: Alegações da campanha do Lula são falsas e não encontram respaldo nos fatos",
-    "url": "https://www.infomoney.com.br/politica/meta-alegacoes-da-campanha-do-lula-sao-falsas-e-nao-encontram-respaldo-nos-fatos/",
-    "resumo": "Campanha do candidato à reeleição acusou a empresa de tentativa de interferir no processo eleitoral",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T21:26:15.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5e81375f52aa5fc8",
-    "manchete": "Nvidia vale US$ 5 tri, mas funcionários pagam o próprio almoço",
-    "url": "https://www.infomoney.com.br/business/global/nvidia-vale-us-5-tri-mas-funcionarios-pagam-o-proprio-almoco/",
-    "resumo": "Lanches e café não são gratuitos para funcionários em uma das empresas mais valiosas do mundo",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T21:15:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c930964cd2bbc99c",
-    "manchete": "Camilo Santana: Cabe discussão do Congresso sobre reeleição",
-    "url": "https://www.infomoney.com.br/politica/camilo-santana-cabe-discussao-do-congresso-sobre-reeleicao/",
-    "resumo": "Senador fez afirmação ao ser questionado sobre proposta de Flávio Bolsonaro (PL) de acabar com o mecanismo",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T21:11:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "23d282f8eb6346a8",
-    "manchete": "Viúvo de Brigitte Bardot pediu para ficar fora do testamento e agora se arrepende",
-    "url": "https://www.infomoney.com.br/mundo/viuvo-de-brigitte-bardot-pediu-para-ficar-fora-do-testamento-e-agora-se-arrepende/",
-    "resumo": "Bernard d'Ormale diz que precisou deixar propriedade em que morava com a atriz em Saint-Tropez",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T20:45:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "09a2b31f7c85ab64",
-    "manchete": "Para CEO da Palantir, só técnicos e 'neurodivergentes' têm futuro da era da IA",
-    "url": "https://www.infomoney.com.br/business/global/para-ceo-da-palantir-so-tecnicos-e-neurodivergentes-tem-futuro-da-era-da-ia/",
-    "resumo": "Alex Karp, que convive com dislexia, afirma que questão cognitiva pode ser vantagem em mundo movido pela tecnologia",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T20:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "acb070971d574584",
-    "manchete": "Eleito governador do RJ, Douglas Ruas celebra: 'o povo escolheu a renovação'",
-    "url": "https://www.infomoney.com.br/politica/eleito-governador-do-rj-douglas-ruas-celebra-o-povo-escolheu-a-renovacao/",
-    "resumo": "Vitória foi confirmada após retotalização dos votos pelo Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ)",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T20:17:50.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9bcbdf19beac449e",
-    "manchete": "'Uptober’: conheça o ‘evento’ que pode fazer o bitcoin desencadear altas expressivas em outubro",
-    "url": "https://www.moneytimes.com.br/uptober-conheca-o-evento-que-pode-fazer-o-bitcoin-desencadear-altas-expressivas-em-outubro-lbrdbb108/",
-    "resumo": "“Uptober” é como o mês de outubro ficou conhecido entre os investidores e entusiastas das criptomoedas. O termo é uma contração de up (para cima em inglês), com october (outubro no mesmo idioma), e foi cunhado pela frequência com a qual o bitcoin (BTC) encerra o mês no positivo. Esse é também o período com [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-10T16:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1374c4b892065369",
-    "manchete": "Quem diria! A salsicha virou produto premium a preço de picanha",
-    "url": "https://neofeed.com.br/finde/quem-diria-a-salsicha-virou-produto-premium-a-preco-de-picanha/",
-    "resumo": "Com carnes selecionadas e condimentos naturais, charcutarias artesanais ajudam a mudar a má fama da salsicha",
-    "fonte": "NeoFeed",
-    "data": "2026-10-10T15:53:00.531Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a6795ab2fea5a67b",
-    "manchete": "Em Cuba, a La Bodeguita del Medio guarda a história nas paredes e a solidão nas mesas",
-    "url": "https://neofeed.com.br/finde/em-cuba-a-la-bodeguita-del-medio-guarda-a-historia-nas-paredes-e-a-solidao-nas-mesas/",
-    "resumo": "Símbolo de Havana e famoso por seus mojitos, o bar atravessa a crise do turismo cubano entre lembranças de visitantes célebres e a espera por clientes que raramente chegam",
-    "fonte": "NeoFeed",
-    "data": "2026-10-10T15:53:00.531Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a4206dadb129c13f",
-    "manchete": "Como um pesquisador brasileiro criou um algoritmo que simulou (e acertou) o resultado do 1º turno",
-    "url": "https://neofeed.com.br/finde/como-um-pesquisador-brasileiro-criou-um-algoritmo-que-simulou-e-acertou-o-resultado-do-1o-turno/",
-    "resumo": "Apenas 32 minutos após o fechamento das urnas, o modelo criado por Rodrigo Mahlmeister já cravava o resultado final",
-    "fonte": "NeoFeed",
-    "data": "2026-10-10T15:53:00.530Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2cbf8fa56be8cdd6",
-    "manchete": "ARTIGO: Se a direção não está dada, cabe a nós construí-la",
-    "url": "https://neofeed.com.br/insiders/artigo-se-a-direcao-nao-esta-dada-cabe-a-nos-construi-la/",
-    "resumo": "É hora de a sociedade assumir a responsabilidade de construir uma visão de futuro para o Brasil, buscando clareza e diálogo sobre prioridades, sem esperar que ela venha pronta do próximo governo",
-    "fonte": "NeoFeed",
-    "data": "2026-10-10T15:53:00.530Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5cdd6205e94a6662",
-    "manchete": "Títulos do Tesouro disparam até 13% em uma semana e batem Ibovespa",
-    "url": "https://www.infomoney.com.br/onde-investir/titulos-do-tesouro-disparam-ate-13-em-uma-semana-e-batem-ibovespa/",
-    "resumo": "Valorização vem do forte recuo das taxas, que é maior nos prefixados; comparação com a Bolsa, porém, só vale ao olhar para ganhos brutos",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T15:40:43.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "53d3a5075d078630",
-    "manchete": "Bitcoin (BTC) avança aos US$ 82 mil; veja preços das criptomoedas neste sábado (10)",
-    "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-aos-us-82-mil-veja-precos-das-criptomoedas-neste-sabado-10-lils/",
-    "resumo": "O bitcoin (BTC) opera em leve alta neste sábado (19), mantendo o patamar de US$ 82 mil, em recuperação das perdas recentes. Ao longo da semana, o BTG foi pressionado por uma onda de liquidações. O movimento também atingiu outras moedas de maior capitalização, em um ambiente de menor apetite ao risco entre…",
-    "fonte": "Money Times",
-    "data": "2026-10-10T15:29:33.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "934c4ba637ed5467",
-    "manchete": "Small caps podem liderar nova onda de alta da Bolsa em 2027; veja ações com maior potencial",
-    "url": "https://www.moneytimes.com.br/small-caps-podem-liderar-nova-onda-de-alta-da-bolsa-em-2027-veja-acoes-com-maior-potencial-lils/",
-    "resumo": "As small caps, ações de empresas de menor capitalização de mercado, foram as 'grandes vencedoras' do primeiro turno das eleições. Na semana, o índice SMLL disparou 20,14% frente a valorização de 8,82% do Ibovespa (IBOV) e na avaliação da Eleven Financial, o movimento de fortes ganhos deve continuar no curto prazo.…",
-    "fonte": "Money Times",
-    "data": "2026-10-10T15:16:52.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8aa809de7d219fb3",
-    "manchete": "José Sarney é internado em UTI após procedimento abdominal",
-    "url": "https://www.infomoney.com.br/politica/jose-sarney-e-internado-em-uti-apos-procedimento-abdominal/",
-    "resumo": "Ex-presidente foi internado nesta sexta e não tem previsão de alta",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T15:13:51.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "190d67cf339b0297",
-    "manchete": "Rússia mira residências ucranianas enquanto conversas entre Kiev e EUA são encurtadas",
-    "url": "https://www.infomoney.com.br/mundo/russia-mira-residencias-ucranianas-enquanto-conversas-entre-kiev-e-eua-sao-encurtadas/",
-    "resumo": "Ao menos 17 pessoas morreram em ataques contra prédios residenciais",
-    "fonte": "InfoMoney",
-    "data": "2026-10-10T15:04:13.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1cea00f6b23cc325",
-    "manchete": "Ibovespa pode subir mais 14% e chegar aos 235 mil pontos em 2027, projeta Eleven",
-    "url": "https://www.moneytimes.com.br/ibovespa-pode-subir-mais-14-e-chegar-aos-235-mil-pontos-em-2027-projeta-eleven-lils/",
-    "resumo": "Após o salto de 8,8% do Ibovespa (IBOV) na semana seguinte ao primeiro turno das eleições presidenciais, a Eleven Financial vê espaço para novas altas no curto prazo. Com Flávio Bolsonaro (PL) à frente do Luiz Inácio Lula da Silva (PT) no primeiro turno das eleições e abrir uma vantagem de 2,2 milhões de votos…",
-    "fonte": "Money Times",
-    "data": "2026-10-10T14:55:16.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
