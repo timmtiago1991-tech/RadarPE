@@ -1,5 +1,502 @@
 [
   {
+    "id": "5f2d554016eb73c5",
+    "manchete": "Análise: Lula terá de superar resistência do agro e negociar com Congresso Crédito rural, dívidas dos produtores, seguro, infraestrutura e segurança jurídica estarão entre as principais cobranças do setor; bancada ruralista fortalecida amplia o desafio político do presidente reeleito.",
+    "url": "https://www.cnnbrasil.com.br/blogs/fernanda-pressinott/agro/analise-lula-tera-de-superar-resistencia-do-agro-e-negociar-com-congresso/",
+    "resumo": "Crédito rural, dívidas dos produtores, seguro, infraestrutura e segurança jurídica estarão entre as principais cobranças do setor; bancada ruralista fortalecida amplia o desafio político do presidente reeleito.",
+    "fonte": "AgFeed",
+    "data": "2026-10-26T16:48:35.128Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c499d7d85e47675b",
+    "manchete": "Ministério confirma novo foco de Newcastle em granja de Santa Catarina Caso foi identificado em Coronel Freitas, dentro da área de restrição sanitária; 28 equipes já vistoriaram 352 propriedades rurais na região",
+    "url": "https://www.cnnbrasil.com.br/agro/ministerio-confirma-novo-foco-de-newcastle-em-granja-de-santa-catarina/",
+    "resumo": "Caso foi identificado em Coronel Freitas, dentro da área de restrição sanitária; 28 equipes já vistoriaram 352 propriedades rurais na região",
+    "fonte": "AgFeed",
+    "data": "2026-10-26T16:48:35.128Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8548f660ff06e7f7",
+    "manchete": "Lula 4: o que Lula e seu programa de governo prometem ao agro — e as questões que ficam no ar",
+    "url": "https://agfeed.com.br/economia/lula-4-o-que-lula-e-seu-programa-de-governo-prometem-ao-agro-e-as-questoes-que-ficam-no-ar",
+    "resumo": "No programa de governo de Lula, o agronegócio deixa de aparecer atrelado à reforma agrária e passa a ser descrito como pilar econômico",
+    "fonte": "AgFeed",
+    "data": "2026-10-26T16:48:35.123Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "359ec43e570e72e9",
+    "manchete": "Atlas dá mais um passo em projeto de US$ 1,1 bi para tirar fertilizante de água (literalmente) Atlas dá mais um passo em projeto de US$ 1,1 bi para tirar fertilizante de água (literalmente)",
+    "url": "https://agfeed.com.br/negocios/atlas-da-mais-um-passo-em-projeto-de-us-11-bi-para-tirar-fertilizante-de-agua-literalmente",
+    "resumo": "Atlas Fertilizantes avança na engenharia para instalação de planta com tecnologia inovadora em Uberaba, que prevê produzir a partir de 2031",
+    "fonte": "AgFeed",
+    "data": "2026-10-26T16:48:35.123Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0fbaa935ffcd8c77",
+    "manchete": "Lula 4: Todos os homens e mulheres do presidente",
+    "url": "https://neofeed.com.br/poder/lula-4-todos-os-homens-e-mulheres-do-presidente/",
+    "resumo": "Com o vice-presidente Geraldo Alckmin ganhando mais protagonismo, o governo redesenha a Esplanada para reaproximar o PIB e enfrentar um Congresso mais conservador",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.821Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "16bd3b499738b63e",
+    "manchete": "Os juízes que bagunçaram a eleição brasileira mais acirrada da história",
+    "url": "https://neofeed.com.br/poder/os-juizes-que-baguncaram-a-eleicao-brasileira-mais-acirrada-da-historia/",
+    "resumo": "Confusão no segundo turno das eleições 2026 no Brasil devido à falta de transporte público gerou críticas ao Judiciário e pode resultar em questionamentos judiciais",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.821Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ca1e7f785bc8a2ff",
+    "manchete": "Lula lá pela quarta vez para governar um país pressionado",
+    "url": "https://neofeed.com.br/poder/lula-la-pela-quarta-vez-para-governar-um-pais-pressionado/",
+    "resumo": "Com uma virada inédita no segundo turno, o presidente reeleito inicia seu quarto mandato diante de desafios fiscais, de segurança e climáticos que disputarão espaço em um governo de recursos escassos",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.820Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "83e30e9e137cf4d1",
+    "manchete": "O xadrez da direita: os rumos do bolsonarismo após sua segunda derrota no Planalto",
+    "url": "https://neofeed.com.br/poder/o-xadrez-da-direita-os-rumos-do-bolsonarismo-apos-sua-segunda-derrota-no-planalto/",
+    "resumo": "Com Flávio Bolsonaro sem mandato e Jair em prisão domiciliar, o campo conservador aposta no fortalecimento do Congresso e também no peso dos governadores. Tarcísio de Freitas e Michelle Bolsonaro ganham força",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.820Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1b597b4cb5d4c5fb",
+    "manchete": "O dia seguinte da eleição: o choque de realidade entre o Planalto e a Faria Lima",
+    "url": "https://neofeed.com.br/negocios/o-dia-seguinte-da-eleicao-o-choque-de-realidade-entre-o-planalto-e-a-faria-lima/",
+    "resumo": "Vitória de Lula devolve incerteza fiscal aos preços, pressiona o câmbio e força gestores a buscarem proteção em papéis líquidos e opções de venda",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.815Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "acd17207441cdc4f",
+    "manchete": "Reeleito, Lula promete embate com big techs, acena para empresários e mira exército digital no governo",
+    "url": "https://neofeed.com.br/poder/reeleito-lula-promete-embate-com-big-techs-acena-para-empresarios-e-mira-exercito-digital-no-governo/",
+    "resumo": "Lula promete regular big techs, investir em economia digital e educação, e governar para todos após sua reeleição.",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.815Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "06af6c34c02592b7",
+    "manchete": "Itaú compra NeoSpace por R$ 2,9 bilhões e avança na inteligência artificial",
+    "url": "https://neofeed.com.br/negocios/itau-compra-neospace-por-r-29-bilhoes-e-avanca-na-inteligencia-artificial/",
+    "resumo": "Banco compra a startup brasileira fundada em 2023 para avançar na inteligência artificial generativa com uma tecnologia própria",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.814Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "df48fb8c169a6dc4",
+    "manchete": "O pacote de bondades de Lula cabe no Orçamento?",
+    "url": "https://neofeed.com.br/poder/o-pacote-de-bondades-de-lula-cabe-no-orcamento/",
+    "resumo": "Enquanto o Ministério do Planejamento fala em \"impacto zero\" e remanejamento de R$ 20 bilhões, analistas da IFI calculam que as novas despesas elevam o risco de um déficit de R$ 86 bilhões em 2027",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.814Z",
+    "tags_tema": [
+      "Dívida/Debêntures"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "589f7de3a5ee728d",
+    "manchete": "Milton Maluhy Filho explica por que o Itaú desembolsou R$ 2,92 bilhões pela NeoSpace",
+    "url": "https://neofeed.com.br/negocios/milton-maluhy-filho-explica-por-que-o-itau-desembolsou-r-292-bilhoes-pela-neospace/",
+    "resumo": "Com a aquisição da startup, o maior banco do país aposta em modelos treinados com seus próprios dados para não depender das big techs e avançar na transição para o \"banco conversacional\". O CEO do Itaú detalha a estratégia ao NeoFeed",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.813Z",
+    "tags_tema": [
+      "M&A",
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2c0fb601e8d59c11",
+    "manchete": "Bolsa despenca com vitória de Lula, mas passado mostra que ressaca eleitoral pode ser curta",
+    "url": "https://neofeed.com.br/negocios/bolsa-despenca-com-vitoria-de-lula-mas-passado-mostra-que-ressaca-eleitoral-pode-ser-curta/",
+    "resumo": "Levantamento da Elos Ayta mostra que Ibovespa caiu após quatro dos seis segundos turnos desde 2002, mas acabou fechando a semana em alta",
+    "fonte": "NeoFeed",
+    "data": "2026-10-26T16:48:28.812Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "df77b560467821cb",
+    "manchete": "Tesouro recompra R$ 7,1 bi em títulos prefixados em meio à disparada das taxas",
+    "url": "https://www.infomoney.com.br/onde-investir/tesouro-recompra-r-71-bi-em-titulos-prefixados-em-meio-a-disparada-das-taxas/",
+    "resumo": "Ao recomprar títulos ⁠em posse do mercado, o Tesouro atua para suavizar a disparada das taxas",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T16:44:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f9c55bb361a72fd",
+    "manchete": "O que Lula 4 herdará de Lula 3",
+    "url": "https://braziljournal.com/o-que-lula-4-herdara-de-lula-3",
+    "resumo": "Já se vão 24 anos desde a primeira vitória de Lula – e agora, como em 2002, o Presidente iniciará um novo mandato sob profunda desconfiança dos mercados. Lula 3 recebeu uma dívida do setor público equivalente a 72% e legou a Lula 4 um endividamento que já supera 82% do PIB.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-26T16:38:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "43101d835d9ad396",
+    "manchete": "Bolsa em circuit breaker: qual a última vez que o mecanismo foi acionado?",
+    "url": "https://www.infomoney.com.br/mercados/bolsa-em-circuit-breaker-qual-a-ultima-vez-que-o-mecanismo-foi-acionado/",
+    "resumo": "Negociações no Ibovespa ficaram suspensas por 30 minutos após forte queda das ações",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T16:36:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c869b8c1b9d0146e",
+    "manchete": "Tesouro Direto abre com taxas acima de 8% + IPCA e preços em queda de mais de 20%",
+    "url": "https://www.moneytimes.com.br/tesouro-direto-abre-com-taxas-acima-de-8-ipca-e-precos-em-queda-de-mais-de-20-julw/",
+    "resumo": "O Tesouro Direto abriu nesta segunda-feira (26) na hora do almoço após permanecer a manhã inteira com as negociações suspensas em razão da alta volatilidade no mercado de juros futuros, em reação à vitória do presidente Luiz Inácio Lula da Silva (PT) nas eleições presidenciais. Após a atualização dos preços e taxas…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T16:33:57.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "75e2ad822fd2d9f9",
+    "manchete": "BBI eleva projeção de juros reais e revisa preços-alvo de utilities após eleições",
+    "url": "https://www.infomoney.com.br/mercados/bbi-eleva-projecao-de-juros-reais-e-revisa-precos-alvo-de-utilities-apos-eleicoes/",
+    "resumo": "Banco mantém recomendações, destaca Eneva, Axia, Sabesp e Copel e vê menor atratividade das ações caso os juros reais de longo prazo avancem para 8%.",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T16:11:25.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "54fb8fb823341a03",
+    "manchete": "O que fazer com as ações após tombo do Ibovespa? Lúcio Moscareli, da Voga, diz se é hora de comprar",
+    "url": "https://www.moneytimes.com.br/o-que-fazer-com-as-acoes-apos-tombo-do-ibovespa-socio-da-voga-recomenda-cautela-e-dolar-mlem/",
+    "resumo": "A reeleição de Luiz Inácio Lula da Silva (PT) no domingo (26) caiu como uma bomba sobre os mercados brasileiros nesta segunda-feira (26): o Ibovespa já chegou a cair mais de 17% e o dólar disparou para a casa dos R$ 5,50. Mas nem tudo está perdido para quem investe em ações. Para Lúcio Moscareli, [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-10-26T16:08:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d27c5106412ea285",
+    "manchete": "Taxas do Tesouro superam 2020 e têm maior alta da série histórica com vitória de Lula",
+    "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-26102026/",
+    "resumo": "Tesouro Prefixado 2032 vai a 15,78% e supera o salto de março de 2020, mesmo após intervenção do Tesouro Nacional; IPCA+ tem a segunda maior alta da série",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T16:05:16.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d18e1cdf52acd129",
+    "manchete": "Dólar sobe 9% após vitória de Lula e pode ter 5ª maior alta desde o Plano Real",
+    "url": "https://www.infomoney.com.br/mercados/dolar-sobe-9-apos-vitoria-de-lula-e-pode-ter-5a-maior-alta-desde-o-plano-real/",
+    "resumo": "A maior alta da série ocorreu em 15 de janeiro de 1999, quando a moeda americana avançou 11,10% em um único dia",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T16:04:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "72308b02bdf85452",
+    "manchete": "Bolsa tomba 15% após vitória de Lula e registra uma das maiores quedas da história",
+    "url": "https://www.infomoney.com.br/mercados/bolsa-tomba-15-apos-vitoria-de-lula-e-registra-uma-das-maiores-quedas-da-historia/",
+    "resumo": "Maior queda da série ocorreu em 10 de setembro de 1998, quando o índice recuou 15,83%, em meio à crise financeira russa",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T16:03:57.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c35a7caf9b3f3f88",
+    "manchete": "Durigan promete mudança na lei para buscar o centro da meta fiscal ainda este ano",
+    "url": "https://www.moneytimes.com.br/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/",
+    "resumo": "O ministro da Fazenda, Dario Durigan, disse nesta segunda-feira, 26, em entrevista ao Broadcast (sistema de notícias em tempo real do Grupo Estado), que ainda este ano deve promover uma mudança na lei ou mesmo na Constituição para buscar o centro da meta fiscal. \"Nós vamos mudar a lei ou, se necessário, a Constituição…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T16:03:52.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ceca3083b7c5f819",
+    "manchete": "TSE: apenas 34 mil votos foram registrados após as 17h no segundo turno",
+    "url": "https://www.infomoney.com.br/politica/so-003-dos-votos-foram-registrados-apos-as-17h-alvo-de-criticas-de-flavio/",
+    "resumo": "Dados do TSE mostram que 34,3 mil eleitores votaram depois do horário original",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T15:58:58.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "571425bb1147c712",
+    "manchete": "Weg anuncia aquisição da Power Controls Solutions da L&#038;S, nos EUA, por US$ 11 milhões",
+    "url": "https://www.infomoney.com.br/mercados/weg-anuncia-aquisicao-da-power-controls-solutions-da-ls-nos-eua-por-us-11-milhoes/",
+    "resumo": "Operação da PCS fica em Rothschild, Wisconsin (EUA), e é especializada no fornecimento de reguladores de velocidade e sistemas de excitação para usinas de geração de energia",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T15:58:57.000Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "148a1a37bd182cec",
+    "manchete": "Vale (VALE3) acompanha dólar e dispara após resultado das eleições",
+    "url": "https://www.infomoney.com.br/mercados/vale-vale3-desempenho-eleicoes-segundo-turno-262102026/",
+    "resumo": "Enquanto isso, vitória de Lula derruba a Bolsa no pregão desta segunda-feira",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T15:58:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5f579226a6cd7116",
+    "manchete": "Holanda promete até US$ 500 milhões para fundo florestal liderado pelo Brasil",
+    "url": "https://www.infomoney.com.br/mundo/holanda-promete-ate-us-500-milhoes-para-fundo-florestal-liderado-pelo-brasil/",
+    "resumo": "Contribuição será destinada ao Fundo Florestas Tropicais para Sempre (TFFF), iniciativa liderada pelo Brasil que pretende remunerar países pela preservação de florestas tropicais",
+    "fonte": "InfoMoney",
+    "data": "2026-10-26T15:51:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c765a663d5052bb7",
+    "manchete": "Serenidade em tempos de volatilidade: por que internacionalizar investimentos pode proteger seu patrimônio",
+    "url": "https://www.moneytimes.com.br/serenidade-em-tempos-de-volatilidade-por-que-internacionalizar-investimentos-pode-proteger-seu-patrimonio-mlem/",
+    "resumo": "Em momentos de maior aversão ao risco, como o que atravessamos agora, é natural que a volatilidade dos mercados provoque desconforto e desperte dúvidas sobre o posicionamento das carteiras. Ainda assim, é justamente nessas circunstâncias que a serenidade se torna uma das principais aliadas do investidor. Movimentos…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T15:50:03.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4104c075c2e9b54f",
+    "manchete": "A reação de CEO da Petrobras (PETR4) após vitória de Lula; 'a hora é de comprar'",
+    "url": "https://www.moneytimes.com.br/a-reacao-de-ceo-da-petrobras-petr4-apos-vitoria-de-lula-a-hora-e-de-comprar-rnda/",
+    "resumo": "A presidente da Petrobras (PETR4), Magda Chambriard, afirmou nesta segunda-feira que a forte queda nas ações da estatal após a reeleição do presidente Luiz Inácio Lula da Silva foi um \"movimento especulativo\" e não reflete os fundamentos da empresa. Em entrevista à Reuters, Chambriard disse que a Petrobras continua…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T15:47:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a5adc8b1f98980f4",
+    "manchete": "Tesouro faz intervenção de R$ 15 bilhões após suspender leilões; entenda",
+    "url": "https://www.moneytimes.com.br/tesouro-faz-intervencao-de-r-15-bilhoes-apos-suspender-leiloes-entenda-jcav/",
+    "resumo": "O Tesouro Nacional anunciou nesta segunda-feira (26) um leilão extraordinário para recomprar até 15 milhões de títulos prefixados, no primeiro pregão após a reeleição de Luiz Inácio Lula da Silva (PT). A medida ocorre em meio à volatilidade no mercado. A operação contempla as Notas do Tesouro Nacional série F (NTN-F)…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T15:27:56.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d47ca422ac4d11b8",
+    "manchete": "Sinalização de ajuste fiscal será determinante para recuperação de ativos brasileiros, avalia economista-chefe da Nomos",
+    "url": "https://www.moneytimes.com.br/sinalizacao-ajuste-fiscal-sera-determinante-para-recuperacao-ativos-brasileiros-avalia-economista-chefe-nomos-apsa/",
+    "resumo": "O circuit breaker da Nolsa brasileira acaba de ser acionado pela 24ª vez desde sua criação, em 1997. O gatilho do acionamento foi a reeleição do presidente Luiz Inácio Lula da Silva (PT) para um quarto mandato. Para o economista-chefe da Nomos, Beto Saadia, o movimento não é uma reação \"porque o mercado odeia o…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T15:24:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e05ce38e9942c19c",
+    "manchete": "‘Bloody Monday’: B3 e CSN desabam 40%, BTG e BB mergulham 30%",
+    "url": "https://braziljournal.com/bloody-monday-b3-e-csn-desabam-40-btg-e-bb-mergulham-30",
+    "resumo": "Salve-se quem puder. Como esperado, o Ibovespa desabou desde a abertura, com os investidores desfazendo as posições que haviam montado nas últimas semanas.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-26T15:10:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05edd27433f954cc",
+    "manchete": "Contágio: mercados argentinos despencam após reeleição de Lula no Brasil",
+    "url": "https://www.moneytimes.com.br/mercados-argentinos-despencam-apos-reeleicao-de-lula-no-brasil/",
+    "resumo": "O mercado financeiro argentino registrava queda nesta segunda-feira, acompanhando o recuo nos mercados de seu principal parceiro econômico, o Brasil, após a confirmação da vitória do presidente Luiz Inácio Lula da Silva (PT) sobre o senador Flávio Bolsonaro (PL) no segundo turno da eleição presidencial no domingo. O…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T15:06:56.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1afffda91adb5377",
+    "manchete": "Anthropic entra com pedido de IPO mesmo com valuation abaixo de US$ 1 trilhão; veja números da empresa",
+    "url": "https://www.moneytimes.com.br/anthropic-entra-com-pedido-de-ipo-mesmo-com-valuation-abaixo-de-us-1-trilhao-veja-numeros-da-empresa-rens/",
+    "resumo": "A Anthropic publicou junto à SEC, a CVM dos Estados Unidos, o tão aguardado pedido de oferta inicial de ações (IPO, na sigla em inglês) sob o ticker ANT. Apesar do otimismo envolvendo o setor de inteligência artificial, a Anthropic foi avaliada em cerca de US$ 965 bilhões em maio deste ano — abaixo do [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-10-26T15:05:30.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5e292368d05ef0bc",
+    "manchete": "Fundos imobiliários desabam após vitória de Lula e disparada dos juros; veja o que esperar dos FIIs",
+    "url": "https://www.moneytimes.com.br/ifix-desaba-8-com-disparada-dos-juros-apos-vitoria-de-lula-veja-o-que-esperar-dos-fiis-igdl/",
+    "resumo": "O IFIX, principal índice de fundos imobiliários (FIIs) da bolsa brasileira (B3), opera em forte queda nesta segunda-feira (26), em meio à disparada dos juros futuros após a reeleição do presidente Luiz Inácio Lula da Silva (PT), confirmada no domingo (25). Por volta das 11h20 (horário de Brasília), o indicador recuava…",
+    "fonte": "Money Times",
+    "data": "2026-10-26T14:52:52.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c066125d6ea8fdf5",
+    "manchete": "BTG projeta queda de 30% do Ibovespa em dólar e juro real em 8%",
+    "url": "https://braziljournal.com/btg-projeta-queda-de-30-do-ibovespa-em-dolar-e-juro-real-em-8",
+    "resumo": "O BTG Pactual prevê um selloff de ativos brasileiros nas próximas semanas. O banco projeta uma queda de 17% do Ibovespa para cerca de 170 mil pontos – o patamar em que estava no fim de agosto e abaixo dos 192 mil pontos antes do primeiro turno. Para o investidor estrangeiro, o estrago deve ser maior: combinada à…",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-26T13:37:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4f82c5ffed9a1782",
+    "manchete": "EDITORIAL. Sem margem de manobra",
+    "url": "https://braziljournal.com/editorial-sem-margem-de-manobra",
+    "resumo": "É difícil explicar para as pessoas não versadas no funcionamento da economia as diversas implicações da reeleição que o Presidente Lula conquistou ontem. Mas o mais assustador é que talvez ele mesmo não as compreenda.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-26T04:09:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1a5f828ab4d5324d",
+    "manchete": "“Ações domésticas boas devem cair 20-30%”. Gestores preveem segunda caótica",
+    "url": "https://braziljournal.com/acoes-domesticas-boas-devem-cair-20-30-gestores-preveem-segunda-caotica",
+    "resumo": "Com o EWZ em baixa de quase 20% depois da vitória surpreendente de Lula, gestores projetam uma segunda-feira caótica nos mercados. “As ações domésticas boas, como shoppings e empresas de energia, devem cair uns 20 a 30%. Varejistas, 60%. Bancos, 15%,” disse um gestor de fundos de ações.",
+    "fonte": "Brazil Journal",
+    "data": "2026-10-26T03:02:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "1ee293d2a9101f19",
     "manchete": "Veja o resultado das eleições para governador nos estados que disputaram 2º turno",
     "url": "https://www.infomoney.com.br/politica/veja-o-resultado-das-eleicoes-para-governador-2-turno/",
@@ -6544,30 +7041,6 @@
     "importancia": 3
   },
   {
-    "id": "3eae580e5922da9a",
-    "manchete": "Inteligência Artificial cria 'boom de genéticas' e encoraja novas companhias a competir com gigantes",
-    "url": "https://agfeed.com.br/negocios/inteligencia-artificial-cria-boom-de-geneticas-e-encoraja-novas-companhias-a-competir-com-gigantes",
-    "resumo": "Inteligência Artificial cria 'boom genético' e encoraja empresas como a paulista Shull a competir com gigantes no mercado de sementes",
-    "fonte": "AgFeed",
-    "data": "2026-10-17T13:45:28.899Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "809c658435cc50e5",
-    "manchete": "Congresso do Algodão 2026",
-    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/",
-    "resumo": "Autor Luiz Fernando Sá Sócio-fundador e diretor editorial do AgFeed Ver todos os posts",
-    "fonte": "AgFeed",
-    "data": "2026-10-17T13:45:28.899Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "9e509eaff280084a",
     "manchete": "Irã e Egito discutem situação de Ormuz e conflito no Iêmen em encontro de chanceleres",
     "url": "https://www.infomoney.com.br/mercados/ira-e-egito-discutem-situacao-de-ormuz-e-conflito-no-iemen-em-encontro-de-chanceleres/",
@@ -9618,474 +10091,6 @@
     "resumo": "A liderança nacional em taxa de abstenção no primeiro turno das eleições de 2026 ficou com o município de Rio Vermelho (MG), onde 40,09% dos eleitores aptos deixaram de votar. Com o não comparecimento de 4.079 votantes, dos 10.175 eleitores aptos e 12.641 habitantes, a cidade mineira registrou um índice de ausência…",
     "fonte": "Money Times",
     "data": "2026-10-13T15:04:32.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0b759efc035146ed",
-    "manchete": "Embraer (EMBJ3) assina Pool com a Latam para dar suporte a novas 24 aeronaves",
-    "url": "https://www.moneytimes.com.br/embraer-embj3-assina-pool-com-a-latam-para-dar-suporte-a-novas-24-aeronaves-lmrs/",
-    "resumo": "A Embraer (EMBJ3) e a Latam assinaram um acordo do Programa Pool para dar suporte à introdução de 24 aeronaves Embraer E195-E2 encomendadas pela companhia aérea. Segundo o comunicado, além dos 24 pedidos confirmados, o Grupo Latam também detém 50 opções de compra. De acordo com a Embraer, o acordo prevê suporte de…",
-    "fonte": "Money Times",
-    "data": "2026-10-13T15:01:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "63c22987f676644f",
-    "manchete": "Mercado Livre (MELI): Citi corta preço-alvo de olho no balanço do 3T26; o que esperar?",
-    "url": "https://www.moneytimes.com.br/mercado-livre-meli-citi-corta-preco-alvo-de-de-olho-no-balanco-do-3t26-o-que-esperar-lmrs/",
-    "resumo": "O Citi elevou a recomendação do Mercado Livre (MELI;MELI34) de Neutra/Alto Risco para Neutra, dada a menor volatilidade do papel e uma visibilidade ligeiramente melhor sobre a trajetória das margens. Ao mesmo tempo, o banco cortou o preço-alvo de US$ 2.150 para US$ 2.100, de olho em um potencial limitado de…",
-    "fonte": "Money Times",
-    "data": "2026-10-13T14:49:01.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "061d90c35e90cd2f",
-    "manchete": "Dylan, a ‘wealth tech’ (com AI) de Felipe Miranda",
-    "url": "https://braziljournal.com/dylan-a-wealth-tech-com-ai-de-felipe-miranda",
-    "resumo": "Meses depois de sair da Empiricus, Felipe Miranda está montando a wealthtech Dylan, que vai oferecer consultoria financeira usando AI a quem tem pelo menos R$ 100 mil para investir. “Na Empiricus a gente tornou os relatórios de research acessíveis a um público amplo de investidores. Agora quero fazer a mesma coisa com…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-13T09:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b95c17048f9caecf",
-    "manchete": "O Patria mirou no carbono. Acertou no avocado",
-    "url": "https://braziljournal.com/o-patria-mirou-no-carbono-acertou-no-avocado",
-    "resumo": "Nas colinas de Águas de Santa Bárbara, um município de cerca de 7 mil habitantes no interior de São Paulo, o Patria Investimentos está testando uma nova tese climática para o seu Reforest Fund. O Patria entrou no mercado de capital natural olhando para uma das apostas mais recorrentes da transição climática: o…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-13T09:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "098dae925185f8b4",
-    "manchete": "Novas regras para o curtailment: quem ganha e quem perde?",
-    "url": "https://braziljournal.com/novas-regras-para-o-curtailment-quem-ganha-e-quem-perde",
-    "resumo": "Os cortes forçados na geração de usinas eólicas e solares que se tornaram o principal problema do setor elétrico viraram alvo de uma nova disputa. A Agência Nacional de Energia Elétrica (Aneel) acaba de aprovar uma regulamentação que iguala o curtailment das renováveis ao tratamento dado às restrições na geração de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-13T09:50:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "26194daa2fc94d22",
-    "manchete": "Tokenização de crédito: a próxima chance do empreendedor captar sem bater na porta de bancos",
-    "url": "https://startupi.com.br/tokenizacao-credito-empreendedor-captar/",
-    "resumo": "Startupi Tokenização de crédito: a próxima chance do empreendedor captar sem bater na porta de bancos O mercado cresceu 10 vezes em um ano abrindo caminhos para startups e pequenas empresas usarem a tecnologia para acessar investimento e distribuir ativos com custos baixos.",
-    "fonte": "Startupi",
-    "data": "2026-10-13T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9a722b15a5ce8d9a",
-    "manchete": "Testes no campo real: PUCPR direciona R$ 4 milhões para aproximar startups e multinacionais do agronegócio",
-    "url": "https://startupi.com.br/pucpr-investe-4-milhoes-hub-agrotech-parana/",
-    "resumo": "Startupi Testes no campo real: PUCPR direciona R$ 4 milhões para aproximar startups e multinacionais do agronegócio Integrado a uma fazenda de 200 hectares na Região Metropolitana de Curitiba, novo hub de inovação prevê inauguração em 2027 e já atrai interesse de marcas como CNH e Embrapa.",
-    "fonte": "Startupi",
-    "data": "2026-10-13T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "24d0804b77fb833e",
-    "manchete": "Agentes de IA batem à porta do varejo. Mas, nem todo mundo quer abrir",
-    "url": "https://startupi.com.br/agentes-de-ia-batem-a-porta-do-varejo-mas-nem-todo-mundo-quer-abrir/",
-    "resumo": "Startupi Agentes de IA batem à porta do varejo. Mas, nem todo mundo quer abrir Enquanto a Meta aposta no \"comércio agêntico\" e redes como QVC abrem as portas, Amazon, eBay e Tapestry levantam barreiras. Para os varejistas brasileiros, a hora de decidir é agora",
-    "fonte": "Startupi",
-    "data": "2026-10-13T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4dc2e7138f23047f",
-    "manchete": "Gestão via inteligência artificial: pai e filho criam startup para levar consultoria de grandes empresas às PMEs",
-    "url": "https://startupi.com.br/cotech-consultoria-empresarial-ia-pmes-marcos-lucas-adam/",
-    "resumo": "Startupi Gestão via inteligência artificial: pai e filho criam startup para levar consultoria de grandes empresas às PMEs A fórmula familiar da Cotech para combinar experiência corporativa e IA em busca de automatizar planos de ação estratégicos no mercado de PMEs.",
-    "fonte": "Startupi",
-    "data": "2026-10-13T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "11b9fd18e3382575",
-    "manchete": "Suíça 'elea Foundation' faz primeiro investimento no Brasil e aporta na HRTech Leapy",
-    "url": "https://startupi.com.br/leapy-recebe-aporte-elea-foundation-primeiro-investimento-brasil/",
-    "resumo": "Startupi Suíça 'elea Foundation' faz primeiro investimento no Brasil e aporta na HRTech Leapy Recurso se soma à rodada Seed de R$ 12 milhões captada pela edtech brasileira e apoiará a expansão de programas de formação de jovens talentos para o mercado corporativo.",
-    "fonte": "Startupi",
-    "data": "2026-10-13T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bef081348840d033",
-    "manchete": "Clube Ben investe na Cashbanx e aposta em cashback para impulsionar ecossistema de fidelização",
-    "url": "https://startupi.com.br/clube-ben-crescimento-investimento-cashbanx-cashback/",
-    "resumo": "Startupi Clube Ben investe na Cashbanx e aposta em cashback para impulsionar ecossistema de fidelização Após registrar crescimento de 48% nos últimos 12 meses, empresa de loyalty realiza aporte em startup financeira e projeta ultrapassar 200 clientes até o fim de 2026.",
-    "fonte": "Startupi",
-    "data": "2026-10-13T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4675c49b844f3c70",
-    "manchete": "Startup Awards 2026 abre votação popular para escolher os finalistas do ecossistema de inovação",
-    "url": "https://startupi.com.br/startup-awards-2026-votacao-popular-finalistas/",
-    "resumo": "Startupi Startup Awards 2026 abre votação popular para escolher os finalistas do ecossistema de inovação Público pode votar até 21 de outubro em categorias regionais e nacionais que reconhecem fundadores, fundos e hubs de tecnologia no país.",
-    "fonte": "Startupi",
-    "data": "2026-10-13T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f53b3fbb7d5a4a5f",
-    "manchete": "Zuckerberg diz ter alcançado rivais na corrida da IA e prepara nova ofensiva bilionária",
-    "url": "https://neofeed.com.br/inovacao/zuckerberg-diz-ter-alcancado-rivais-na-corrida-da-ia-e-prepara-nova-ofensiva-bilionaria/",
-    "resumo": "O CEO da Meta afirma que o novo modelo Muse Wonder coloca a empresa na fronteira da inteligência artificial",
-    "fonte": "NeoFeed",
-    "data": "2026-10-13T02:33:29.676Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dcd10ac0c7cdd7e5",
-    "manchete": "Atriz de 'Legalmente Loira' é presa após agredir comissárias em avião",
-    "url": "https://www.infomoney.com.br/mundo/atriz-de-legalmente-loira-e-presa-apos-agredir-comissarias-em-aviao/",
-    "resumo": "O episódio aconteceu quando a artista fazia um voo da Delta Air Lines de Los Angeles com destino ao Aeroporto Internacional JFK, em Nova York",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T23:15:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a593fe29b47c3447",
-    "manchete": "UE condena 'em termos enérgicos' ataques houthis a infraestruturas na Arábia Saudita",
-    "url": "https://www.infomoney.com.br/mundo/ue-condena-em-termos-energicos-ataques-houthis-a-infraestruturas-na-arabia-saudita/",
-    "resumo": "Um ataque ao aeroporto de Riad matou pelo menos 13 pessoas e feriu mais de 300",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T23:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "85623e50874b22d2",
-    "manchete": "Polícia faz perícia em bolo após suspeita de contaminação por substância desconhecida",
-    "url": "https://www.infomoney.com.br/brasil/policia-faz-pericia-em-bolo-apos-suspeita-de-contaminacao-por-substancia-desconhecida/",
-    "resumo": "Tortas seriam distribuídas em um evento para crianças em Oswaldo Cruz, na Zona Norte do Rio",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T22:45:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "21dbe2bff9625bb3",
-    "manchete": "'Exército do Lula': Nunes Marques apontou descumprimento de acordo com TSE pela Meta",
-    "url": "https://www.infomoney.com.br/politica/exercito-do-lula-nunes-marques-apontou-descumprimento-de-acordo-com-tse-pela-meta/",
-    "resumo": "Procurada, a Meta informou que não comentou",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T22:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6174bf8d1b8c788c",
-    "manchete": "Carro elétrico português mira o Brasil com desafio de criar versão nacional; conheça",
-    "url": "https://www.infomoney.com.br/business/carro-eletrico-portugues-mira-o-brasil-com-desafio-de-criar-versao-nacional-conheca/",
-    "resumo": "Iniciativa ocorre em um momento em que o país atingiu a marca de 1 milhão de veículos leves eletrificados em circulação",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T22:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5c90f5707dcb6ef7",
-    "manchete": "Quaest/DF: Celina Leão (PP) tem 53% das intenções de voto e Leandro Grass (PT), 33% no 2º turno",
-    "url": "https://www.moneytimes.com.br/quaest-df-celina-leao-pp-tem-53-das-intencoes-de-voto-e-leandro-grass-pt-33-no-2o-turno/",
-    "resumo": "A governadora do Distrito Federal, Celina Leão (PP), tem 53% das intenções de voto no segundo turno da eleição para o governo do DF, ante 33% do candidato do PT, Leandro Grass, segundo pesquisa Quaest divulgada nesta segunda-feira, 12. Os votos em branco, nulos ou de eleitores que não pretendem votar somam 8%,…",
-    "fonte": "Money Times",
-    "data": "2026-10-12T22:18:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0b69d612797f1b7f",
-    "manchete": "Lançamentos de mísseis da Coreia do Norte não representam ameaça imediata, dizem EUA",
-    "url": "https://www.infomoney.com.br/mundo/lancamentos-de-misseis-da-coreia-do-norte-nao-representam-ameaca-imediata-dizem-eua/",
-    "resumo": "A Coreia ​do Norte disparou vários mísseis balísticos em direção ‌ao mar ​ao largo de sua costa leste ⁠nesta segunda-feira, ​informaram ​as forças armadas da ⁠Coreia ​do Sul,",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T22:08:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "013f5edc3314bb91",
-    "manchete": "O Bitcoin voltou a subir, mas a Strategy pode ficar fora da festa",
-    "url": "https://braziljournal.com/o-bitcoin-voltou-a-subir-mas-a-strategy-pode-ficar-fora-da-festa",
-    "resumo": "O banco canadense TD Cowen publicou na semana passada seus novos preços-alvo para o Bitcoin: US$ 280 mil em 2029 e US$ 109 mil ainda neste ano. Mas no mesmo relatório, o banco cometeu o que, para muitos bitcoiners, se assemelha a uma heresia: criticar o papa do Bitcoin, Michael Saylor, o fundador e CEO da Strategy, a…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-12T22:05:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a1e53a50edf61e0",
-    "manchete": "Ainda sem o Clarity Act, Wall Street acelera tokenização, diz a Barron’s",
-    "url": "https://braziljournal.com/ainda-sem-o-clarity-act-wall-street-acelera-tokenizacao-diz-a-barrons",
-    "resumo": "O Clarity Act, a legislação que deverá dar segurança jurídica para a negociação e posse de criptomoedas nos EUA, emperrou no Senado. Mas Wall Street agora tem pressa para embarcar na era da tokenização. O assunto foi capa da Barron’s desta semana.",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-12T22:04:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4f42de59732721d9",
-    "manchete": "Como estabilizar uma economia? Os vencedores do Nobel têm a fórmula",
-    "url": "https://braziljournal.com/como-estabilizar-uma-economia-os-vencedores-do-nobel-tem-a-formula",
-    "resumo": "O Prêmio Nobel de Economia de 2026 foi para os economistas americanos Robert E. Hall e Michael Woodford, cuja pesquisa ajudou a formular políticas usadas para lidar com economias em crise. Hall, um professor na Universidade de Stanford, e Woodford, que leciona política econômica em Columbia, desenvolveram a teoria de…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-12T22:04:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "428423c22ed76a15",
-    "manchete": "Haddad avalia que campanha de Lula deve dialogar com futuro na reta final",
-    "url": "https://www.infomoney.com.br/politica/haddad-avalia-que-campanha-de-lula-deve-dialogar-com-futuro-na-reta-final/",
-    "resumo": "Em entrevista a GloboNews, ex-ministro da Fazenda comentou sobre o caso do Banco Master e avaliou o cenário do segundo turno",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T21:55:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3afb6a32029132bf",
-    "manchete": "Ataques mantêm aeroporto de capital saudita fechado esta semana",
-    "url": "https://www.infomoney.com.br/mundo/ataques-mantem-aeroporto-de-capital-saudita-fechado-esta-semana/",
-    "resumo": "Os houthis afirmaram em um comunicado que atacaram uma base aérea em Khamis Mushait, no sudoeste do reino, com um drone",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T21:40:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "886442c93e79600e",
-    "manchete": "Meta lança modelos de IA Muse Wonder em desafio a Anthropic e OpenAI",
-    "url": "https://www.moneytimes.com.br/meta-lanca-modelos-de-ia-muse-wonder-em-desafio-a-anthropic-e-openai/",
-    "resumo": "A Meta lançou nesta segunda-feira o Muse Wonder e o Muse Wonder Full, descrevendo-os como seus modelos de inteligência artificial mais avançados, em um momento em que a empresa de mídia social busca competir de forma mais agressiva com OpenAI e Anthropic. As ações da Meta subiram cerca de 4% no meio da tarde em…",
-    "fonte": "Money Times",
-    "data": "2026-10-12T21:32:43.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d3cba52ba39cbd80",
-    "manchete": "Situação climática no Amazonas é \"mais grave do que o imaginado\", diz ministro",
-    "url": "https://www.infomoney.com.br/brasil/situacao-climatica-no-amazonas-e-mais-grave-do-que-o-imaginado-diz-ministro/",
-    "resumo": "João Paulo Capobianco apontou que existem pontos de fogo em áreas preservadas e de difícil acesso",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T21:25:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f8c90e9d70aea07f",
-    "manchete": "Campanha de Flávio enviará novo relatório ao TSE sobre canal 'Exército do Lula'",
-    "url": "https://www.infomoney.com.br/politica/campanha-de-flavio-enviara-novo-relatorio-ao-tse-sobre-canal-exercito-do-lula/",
-    "resumo": "A manifestação ocorre após a área técnica do Tribunal Superior Eleitoral (TSE) ter relatado que não encontrou fake news no grupo coordenado pelo deputado federal André Janones (Rede-MG)",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T21:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c75fe86712025f73",
-    "manchete": "TSE alega problema técnico em propaganda de Flávio sem som e diz que haverá nova exibição",
-    "url": "https://www.moneytimes.com.br/tse-alega-problema-tecnico-em-propaganda-de-flavio-sem-som-e-diz-que-havera-nova-exibicao/",
-    "resumo": "O Tribunal Superior Eleitoral (TSE) declarou que houve um \"problema técnico\" na exibição da propaganda eleitoral do candidato do PL à Presidência da República, Flávio Bolsonaro, e que o material vai ser transmitido novamente. A manifestação ocorreu em nota nesta segunda-feira, 12. Mais cedo, Flávio reclamou da falta…",
-    "fonte": "Money Times",
-    "data": "2026-10-12T20:46:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3da88025f232cf11",
-    "manchete": "Bolsas de NY fecham sem direção em dia de liquidez reduzida e geopolítica no radar",
-    "url": "https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-em-dia-de-liquidez-reduzida-e-geopolitica-no-radar/",
-    "resumo": "As bolsas de Nova York fecharam sem direção única nesta segunda-feira,12, operando com liquidez reduzida devido a um feriado nos EUA e com investidores monitorando os desdobramentos geopolíticos antes da divulgação da inflação ao consumidor de setembro americana. O Dow Jones subiu 0,38%, em 51.850,31 pontos; o S&#38;P…",
-    "fonte": "Money Times",
-    "data": "2026-10-12T20:36:11.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "858f739a1b785965",
-    "manchete": "Ler o mundo como ele é também forma bons investidores",
-    "url": "https://www.moneytimes.com.br/ler-o-mundo-como-ele-e-tambem-forma-bons-investidores/",
-    "resumo": "De vez em quando eu acho que a gente precisa falar de outras coisas antes de falar de mercado. E meu trabalho lá no Market Makers tem me mostrado diariamente que nos formar como melhor cidadãos, pais, maridos, executivos, nos forma também melhores investidores a reboque. Por isso, esses dois livros que indico hoje…",
-    "fonte": "Money Times",
-    "data": "2026-10-12T19:53:15.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ead184cffa059681",
-    "manchete": "ARTIGO: O empreendedor e a teoria da relatividade",
-    "url": "https://neofeed.com.br/insiders/artigo-o-empreendedor-e-a-teoria-da-relatividade/",
-    "resumo": "A vocação dá força para transformar a realidade, mas o sucesso só se completa com a retribuição à sociedade que sustenta essas conquistas",
-    "fonte": "NeoFeed",
-    "data": "2026-10-12T19:49:28.497Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a61d6d98a2df7ccc",
-    "manchete": "O “milagre” do padre que salvou as finanças da PUC-Rio. E com o apoio de Armínio Fraga",
-    "url": "https://neofeed.com.br/finde/o-milagre-do-padre-que-salvou-as-financas-da-puc-rio-e-com-o-apoio-de-arminio-fraga/",
-    "resumo": "No comando da PUC-RJ desde 2022, padre Anderson Antonio Pedroso revisou contratos, cortou privilégios e fez a receita chegar a R$ 1,3 bilhão",
-    "fonte": "NeoFeed",
-    "data": "2026-10-12T19:49:28.496Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "17913e18e0b52581",
-    "manchete": "André Freitas, da Hedge, critica meta de inflação de 3% e defende produtos incentivados",
-    "url": "https://neofeed.com.br/videos/cafe-investidor/andre-freitas-da-hedge-critica-meta-de-inflacao-de-3-e-defende-produtos-incentivados/",
-    "resumo": "Em entrevista ao Café com Investidor, André Freitas, CEO da Hedge, afirma que a meta de inflação força o BC a manter juros altos",
-    "fonte": "NeoFeed",
-    "data": "2026-10-12T19:49:28.496Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ce1acf919d2387f5",
-    "manchete": "Da mesada à herança: como preparar os filhos para gerir o dinheiro da família",
-    "url": "https://neofeed.com.br/videos/da-mesada-a-heranca-como-preparar-os-filhos-para-gerir-o-dinheiro-da-familia/",
-    "resumo": "No Wealth Point, executivas da Planejar e do Multifamily Office Alooc discutem quando começar a educação financeira e os desafios de preparar herdeiros para administrar a riqueza familiar",
-    "fonte": "NeoFeed",
-    "data": "2026-10-12T19:49:28.496Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "816900e16686a861",
-    "manchete": "Paquistão acusa governo provincial suspenso de colaborar com Talibã paquistanês",
-    "url": "https://www.infomoney.com.br/mundo/paquistao-acusa-governo-provincial-suspenso-de-colaborar-com-taliba-paquistanes/",
-    "resumo": "O ministro da Informação, Attaullah Tarar, afirmou que o governo dispunha de \"provas sólidas\" para embasar suas alegações",
-    "fonte": "InfoMoney",
-    "data": "2026-10-12T19:40:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "928124b13be52ac9",
-    "manchete": "Petróleo fecha em alta com ataques houthis contra sauditas e falha de cessar-fogo na Ucrânia",
-    "url": "https://www.moneytimes.com.br/petroleo-fecha-em-alta-com-ataques-houthis-contra-sauditas-e-falha-de-cessar-fogo-na-ucrania/",
-    "resumo": "O petróleo fechou em alta nesta segunda-feira, 12, em meio à intensificação de ataques dos Houthis contra a Arábia Saudita e a novas hostilidades da Rússia contra alvos energéticos ucranianos, mesmo após o presidente dos EUA, Donald Trump, declarar um \"cessar-fogo energético\" entre os dois países. Negociado na…",
-    "fonte": "Money Times",
-    "data": "2026-10-12T19:39:40.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
