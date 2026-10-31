@@ -1,5 +1,344 @@
 [
   {
+    "id": "6ca51ab3ca075482",
+    "manchete": "ARTIGO - Desafios internacionais para o próximo presidente eleito",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-desafios-internacionais-para-o-proximo-presidente-eleito",
+    "resumo": "Quem quer que seja o escolhido não pode descuidar de questões do direito internacional e suas implicações em temas como mudanças climáticas e comércio global",
+    "fonte": "AgFeed",
+    "data": "2026-10-31T15:45:11.971Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ef8a3dbfecc69e5b",
+    "manchete": "Yara vê lucro cair 38% com gás caro e demanda adiada - com Brasil como ponto de atenção",
+    "url": "https://agfeed.com.br/negocios/yara-ve-lucro-cair-38-com-gas-caro-e-demanda-adiada-com-brasil-como-ponto-de-atencao",
+    "resumo": "Yara registra queda de 38% no lucro no 3º trimestre, pressionada pelo gás natural caro e por margens menores no Brasil",
+    "fonte": "AgFeed",
+    "data": "2026-10-31T15:45:11.971Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "461bca7bff067383",
+    "manchete": "Com 700 startups na carteira, PwC eleva hub AgTech Innovation a plataforma global de soluções",
+    "url": "https://agfeed.com.br/agtech/com-700-startups-na-carteira-pwc-eleva-hub-agtech-innovation-a-plataforma-global-de-solucoes",
+    "resumo": "PwC internacionaliza hub AgTech Innovation e conecta cerca de 700 startups brasileiras do agro a clientes globais",
+    "fonte": "AgFeed",
+    "data": "2026-10-31T15:45:11.971Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a63af337ed605dd3",
+    "manchete": "AgLíderes: O plano da Vitalforce para chegar ao top 5 dos biológicos no Brasil, segundo Sheilla Albuquerque",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-o-plano-da-vitalforce-para-chegar-ao-top-5-dos-biologicos-no-brasil-segundo-sheilla-albuquerque",
+    "resumo": "Sheilla Albuquerque, CEO da Vitalforce, fala sobre os desafios da “crise de crédito” e da expectativa de crescer dois dígitos",
+    "fonte": "AgFeed",
+    "data": "2026-10-31T15:45:11.959Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "acfea03e3b6e81e9",
+    "manchete": "O “caminho das flores” do Veiling, de Holambra, para alcançar R$ 3 bi de receita até 2030",
+    "url": "https://agfeed.com.br/negocios/o-caminho-das-flores-do-veiling-de-holambra-para-alcancar-r-3-bi-de-receita-ate-2030",
+    "resumo": "Veiling Holambra projeta faturar R$ 3 bilhões até 2030 e estuda exportar flores e plantas ornamentais a partir de 2028",
+    "fonte": "AgFeed",
+    "data": "2026-10-31T15:45:11.955Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6dd8a47ccd70e1ac",
+    "manchete": "Como a analógica Vanguart conquistou os pulsos do \"grupo dos sete\" da OpenAI",
+    "url": "https://neofeed.com.br/finde/como-a-analogica-vanguart-conquistou-os-pulsos-do-grupo-dos-sete-da-openai/",
+    "resumo": "Fundada em 2017, a Vanguart combinou ousadia criativa, produção ultralimitada e uma estratégia de relacionamento com grandes colecionadores para conquistar seu lugar no seleto grupo da alta relojoaria independente",
+    "fonte": "NeoFeed",
+    "data": "2026-10-31T15:45:11.335Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "48a3b30a671caab9",
+    "manchete": "Sócrates ainda está aqui, agora pelas lentes de Walter Salles",
+    "url": "https://neofeed.com.br/finde/socrates-ainda-esta-aqui-agora-pelas-lentes-de-walter-salles/",
+    "resumo": "Em série de cinco episódios, o cineasta revisita a trajetória do craque que fez do futebol também um instrumento de luta pela democracia",
+    "fonte": "NeoFeed",
+    "data": "2026-10-31T15:45:11.334Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a0be0cb1117d0011",
+    "manchete": "Da reação do mercado após vitória de Lula à recomendação de venda para o Banco do Brasil: confira as mais lidas da semana",
+    "url": "https://www.moneytimes.com.br/da-reacao-do-mercado-apos-vitoria-de-lula-a-recomendacao-de-venda-para-o-banco-do-brasil-confira-as-mais-lidas-da-semana-lmrs/",
+    "resumo": "Da reação do mercado após a reeleição de Luiz Inácio Lula da Silva (PT) à recomendação de venda e perspectivas negativas do Citi para o Banco do Brasil (BBAS3), a semana reuniu notícias que chamaram a atenção dos leitores do Money Times. Entre os temas mais lidos, também ganharam destaque as atualizações do Relatório…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T15:28:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9a2a549d5c07bd71",
+    "manchete": "Hack de US$ 6,3 bi na Binance mobilizou 'sala de guerra' com 100 pessoas",
+    "url": "https://www.infomoney.com.br/business/hack-binance-6-bilhoes-sala-guerra-bastidores/",
+    "resumo": "Ataque levou funcionários, investigadores, empresas de blockchain e autoridades a uma corrida global para rastrear os hackers e congelar bilhões de dólares em ativos",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T15:28:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "87346bdb9c176172",
+    "manchete": "Quem é Mulher Banana, ícone do funk que morreu neste sábado",
+    "url": "https://www.infomoney.com.br/brasil/quem-e-mulher-banana-icone-do-funk-que-morreu/",
+    "resumo": "Cantora Julyana Barbosa fez sucesso no Furacão 2000",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T15:24:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "81569c05d8c25b29",
+    "manchete": "Bitcoin (BTC) avança neste sábado (31), aos US$ 77 mil; veja os preços das criptomoedas",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/",
+    "resumo": "As maiores criptomoedas do mundo operam majoritariamente no positivo neste sábado (31), com desempenho misto ao longo da semana. Por volta das 11h50 (horário de Brasília), o bitcoin (BTC) subia 0,58% nas últimas 24 horas, a US$ 77,410.50. Na semana, a cripto registrava recuo de 3,40%. Já o ethereum (ETH) subia 0,77%…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T15:05:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e2f18f72652989f1",
+    "manchete": "Uso de inteligência artificial já supera o TikTok e o Facebook para buscar informações sobre investimentos; aprenda como usar IA para investir em aula gratuita",
+    "url": "https://www.moneytimes.com.br/uso-de-inteligencia-artificial-ja-supera-o-tiktok-e-o-facebook-para-buscar-informacoes-sobre-investimentos-aprenda-como-usar-ia-para-investir-em-aula-gratuita-lbrdjm049/",
+    "resumo": "Masterclass gratuita ensina como transformar os seus investimentos com o Claude",
+    "fonte": "Money Times",
+    "data": "2026-10-31T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "22d0466d6405f693",
+    "manchete": "BB Seguridade (BBSE3) e mais 4 ações para ter na carteira de curto prazo, segundo a Terra Investimentos",
+    "url": "https://www.moneytimes.com.br/bb-seguridade-bbse3-e-mais-4-acoes-para-ter-na-carteira-de-curto-praz-segundo-a-terra-investimentos-lmrs/",
+    "resumo": "A Terra Investimentos realizou duas alterações na carteira recomendada semanal de ações para o período de 30 de outubro a 6 de novembro, após uma semana de fortes quedas no Ibovespa (IBOV). Os papéis da Cemig (CMIG4) e Marcopolo (POMO4) deixam o portfólio, abrindo espaço para a entrada de BB Seguridade (BBSE3) e…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T14:52:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0c586350856f81be",
+    "manchete": "Burnham considera desculpas pela escravidão e propõe aliviar dívidas na Commonwealth",
+    "url": "https://www.infomoney.com.br/mundo/reino-unido-desculpas-escravidao-andy-burnham/",
+    "resumo": "Premiê britânico oferece diálogo sobre o legado do tráfico de escravizados, mas rejeita reparações financeiras; tema estará no centro de cúpula no Caribe",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T14:50:48.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "512e7a96c47f03f6",
+    "manchete": "Empresas cripto se preparam para nova regulação do Banco Central e mercado se consolida",
+    "url": "https://www.moneytimes.com.br/empresas-cripto-se-preparam-para-nova-regulacao-do-banco-central-e-mercado-se-consolida-lmrs/",
+    "resumo": "As empresas de ativos virtuais se preparam para atuar em um mercado mais regulado. Terminou na sexta-feira (30) o prazo para solicitarem autorização ao Banco Central (BC) e continuar em atividade no Brasil. As companhias enquadradas como Prestadoras de Serviços de Ativos Virtuais (PSAVs) podem fazer compra, venda,…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T14:45:35.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "79ccb84354938263",
+    "manchete": "Geleiras recuam e expõem 250 munições da 1ª Guerra após mais de 100 anos",
+    "url": "https://www.infomoney.com.br/mundo/geleiras-italia-municoes-primeira-guerra-dolomitas/",
+    "resumo": "Exército italiano recolheu projéteis, granadas e outros artefatos que permaneceram cobertos por neve e gelo nas Dolomitas",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T14:45:17.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2e266da35f3f7555",
+    "manchete": "Mercado cripto entra em nova fase após fim do prazo para licença do BC",
+    "url": "https://www.infomoney.com.br/negocios/regulacao-cripto-banco-central-mercado-nova-fase/",
+    "resumo": "Exchanges, fintechs e instituições financeiras avançam na adequação às novas regras, enquanto custos regulatórios devem acelerar a consolidação do setor",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T14:33:23.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b0d7c3086f20694b",
+    "manchete": "Sinal em qualquer lugar? Conheça as operadoras com internet via satélite no Brasil",
+    "url": "https://www.infomoney.com.br/consumo/operadoras-internet-satelite-brasil/",
+    "resumo": "No Brasil, não há muitas empresas que oferecem esse tipo de serviço",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T14:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e5df677c822665ba",
+    "manchete": "Governo Lula já procurou PSD e relação pode se aprofundar, diz Kassab",
+    "url": "https://www.moneytimes.com.br/governo-lula-ja-procurou-psd-e-relacao-pode-se-aprofundar-diz-kassab-lmrs/",
+    "resumo": "O presidente do PSD, Gilberto Kassab, disse em entrevista ao jornal O Globo que a derrota de Flávio Bolsonaro (PL) e o quarto mandato de Luiz Inácio Lula da Silva (PT) se explicam, sobretudo, por erros do candidato da direita e pela exploração dessas fragilidades pela campanha petista. Ele disse que o governo Lula já…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T14:29:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2cb4f2377dc43c21",
+    "manchete": "Ebola mata mais de 5 mil no Congo; 1 em cada 3 mortos não recebeu atendimento",
+    "url": "https://www.infomoney.com.br/mundo/ebola-congo-5-mil-mortes-bundibugyo/",
+    "resumo": "Surto causado pelo vírus Bundibugyo tem letalidade próxima de 50%, já é o segundo mais mortal da história e se espalhou para outros países africanos",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T14:24:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7a89a1349f80d52f",
+    "manchete": "Cinara Fredo pode ser 1ª mulher na Defesa após indicação de Múcio",
+    "url": "https://www.infomoney.com.br/politica/cinara-wagner-fredo-ministerio-defesa-indicacao-mucio/",
+    "resumo": "Atual secretária-geral da pasta foi indicada pelo ministro para substituí-lo; Lula ainda não tomou uma decisão sobre o comando da Defesa",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T14:15:50.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d3bf9408b5fed411",
+    "manchete": "Eduardo Braga será relator da alíquota da CBS; CAE convidará Durigan",
+    "url": "https://www.infomoney.com.br/politica/eduardo-braga-relator-aliquota-cbs-senado/",
+    "resumo": "Comissão do Senado começa a debater o novo tributo em 11 de novembro; TCU calculou alíquota de referência de 11,3468%",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T13:58:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ad4b2669b0a0a3f9",
+    "manchete": "Kassab diz que governo procurou PSD e vincula aproximação a medidas econômicas",
+    "url": "https://www.infomoney.com.br/politica/kassab-psd-governo-lula-aproximacao-medidas-economicas/",
+    "resumo": "Presidente do PSD afirma que relação com Lula pode se aprofundar se Planalto sinalizar ao centro e adotar medidas que deem tranquilidade à economia",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T13:49:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d139743cbf49803",
+    "manchete": "TIM (TIMS3) aprova incorporação da I-Systems e simplifica estrutura de fibra óptica",
+    "url": "https://www.moneytimes.com.br/tim-tims3-aprova-incorporacao-da-i-systems-e-simplifica-estrutura-de-fibra-optica-lmrs/",
+    "resumo": "A TIM (TIMS3) informou na sexta-feira (30) que o conselho de administração aprovou a proposta de incorporação da I-Systems Soluções de Infraestrutura, subsidiária integral da companhia, com posterior extinção da empresa incorporada e sucessão universal pela operadora. A companhia também convocou uma assembleia geral…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T13:42:13.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1af5519b0ad259b8",
+    "manchete": "O ajuste fiscal de Lula 4 e o agronegócio: uma “sopa de letrinhas” apimentada",
+    "url": "https://www.moneytimes.com.br/o-ajuste-fiscal-de-lula-4-e-o-agronegocio-uma-sopa-de-letrinhas-apimentada-pads/",
+    "resumo": "Mal se fecharam as urnas do segundo turno da eleição presidencial, que conferiu um quarto mandato ao atual presidente da República, começaram os movimentos do governo Lula 4 em direção ao único “ajuste fiscal” conhecido pela atual gestão: o aumento exponencial da tributação sobre quem produz riquezas. E, como o…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T13:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7ea52bfd1e52e1ba",
+    "manchete": "Braskem (BRKM5) informa transação com parte relacionada e detalha compra de gás da Petrobras (PETR4)",
+    "url": "https://www.moneytimes.com.br/braskem-brkm5-informa-transacao-com-parte-relacionada-e-detalha-compra-de-gas-da-petrobras-petr4-lmrs/",
+    "resumo": "A Braskem (BRKM5) comunicou ao mercado uma transação entre partes relacionadas envolvendo sua controlada integral, a Voqen Energia Ltda., e a Petrobras (PETR4). Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia destaca que a operação é regida pelo Contrato de Condições Gerais para Compra e Venda de…",
+    "fonte": "Money Times",
+    "data": "2026-10-31T12:40:47.000Z",
+    "tags_tema": [
+      "M&A",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fc6d037ba775f1d2",
+    "manchete": "B3 amplia horário de negociação a partir de terça-feira (3); veja",
+    "url": "https://www.moneytimes.com.br/b3-amplia-horario-de-negociacao-a-partir-de-terca-feira-3-veja-lmrs/",
+    "resumo": "A partir da próxima terça-feira, 3 de novembro, a B3 ampliará os horários de negociação dos mercados de bolsa e de balcão organizado. As mudanças ocorrem por conta do fim do horário de verão nos Estados Unidos e afetam os mercados de ações e derivativos. No caso do mercado à vista de ações, a negociação [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-10-31T12:31:11.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "84528b3505dc670a",
     "manchete": "A estratégia da Aurora na produção de pescados",
     "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-estrategia-da-aurora-na-producao-de-pescados",
@@ -6096,60 +6435,6 @@
     "importancia": 3
   },
   {
-    "id": "ac126559c358d53a",
-    "manchete": "Tomate desafia padrão histórico de preços e surpreende na inflação de 2026 Entre altas expressivas e quedas acentuadas tomate apareceu em praticamente todos relatórios mensais do IPCA; aumento atípico no segundo semestre foi provocado pelo clima desfavorável e redução da área de cultivo no país",
-    "url": "https://www.cnnbrasil.com.br/agro/tomate-desafia-padrao-historico-de-precos-e-surpreende-na-inflacao-de-2026/",
-    "resumo": "Entre altas expressivas e quedas acentuadas tomate apareceu em praticamente todos relatórios mensais do IPCA; aumento atípico no segundo semestre foi provocado pelo clima desfavorável e redução da área de cultivo no país",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.453Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b2e3fd80cbaba92e",
-    "manchete": "Com aval do novo presidente, Grupo Scheffer mira 100 mil hectares no \"Mato Grosso\" da Colômbia",
-    "url": "https://agfeed.com.br/negocios/com-aval-do-novo-presidente-grupo-scheffer-mira-100-mil-hectares-no-mato-grosso-da-colombia",
-    "resumo": "Grupo Scheffer planeja multiplicar operação por mais de 16 vezes em região que governo colombiano quer transformar em nova fronteira agrícola",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.453Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "679aa20088be67a8",
-    "manchete": "A ambição da \"hermana\" Nova no Brasil, com planos para fábrica e receita de R$ 600 milhões no País",
-    "url": "https://agfeed.com.br/negocios/a-ambicao-da-hermana-nova-no-brasil-com-planos-para-fabrica-e-receita-de-r-600-milhoes-no-pais",
-    "resumo": "Fabricante argentina de insumos pretende ampliar participação em fertilizantes especiais e conquistar liderança no mercado de inoculantes",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.449Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "022f93482fb43fee",
-    "manchete": "ARTIGO - Uma potência brasileira na mesa do próximo presidente ARTIGO - Uma potência brasileira na mesa do próximo presidente",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-uma-potencia-brasileira-na-mesa-do-proximo-presidente",
-    "resumo": "O Brasil construiu uma indústria, desenvolveu conhecimento e organizou uma cadeia produtiva de grande alcance em torno do biodiesel",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.449Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "d8500ecadf95c7f7",
     "manchete": "Sete ativos e até R$ 1 bilhão de captação: o fundo imobiliário que une Allos e Kinea",
     "url": "https://neofeed.com.br/negocios/sete-ativos-e-ate-r-1-bilhao-de-captacao-o-fundo-imobiliario-que-une-allos-e-kinea/",
@@ -6619,18 +6904,6 @@
     "resumo": "A Nokia divulgou hoje o resultado do terceiro trimestre e a ação caiu 15% em Nova York, fechando a US$ 7,88, menos da metade do pico de junho. O lucro operacional subiu 35%. As vendas de redes IP cresceram 43%, e as vendas para clientes de AI e nuvem mais que dobraram. A margem operacional da divisão de infraestrutura…",
     "fonte": "Brazil Journal",
     "data": "2026-10-23T00:25:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8eeab09c07b9dd13",
-    "manchete": "ARTIGO - Novo marco amplia o papel do seguro rural no financiamento do agro",
-    "url": "https://agfeed.com.br/campo-das-ideias/artigo-novo-marco-amplia-o-papel-do-seguro-rural-no-financiamento-do-agro",
-    "resumo": "O setor precisa de medidas que transformem o seguro em parte permanente da estratégia de crédito e gestão de risco agropecuários",
-    "fonte": "AgFeed",
-    "data": "2026-10-22T23:58:15.469Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
@@ -9874,276 +10147,6 @@
     "resumo": "Militares participavam de um treinamento na Base das Forças Canadenses de Wainwright quando o incêndio começou",
     "fonte": "InfoMoney",
     "data": "2026-10-18T21:35:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "11451dab27fd3990",
-    "manchete": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
-    "url": "https://www.infomoney.com.br/economia/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil/",
-    "resumo": "Portal da ANM mostra dados da indústria extrativa",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T21:18:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7caade863fd4450b",
-    "manchete": "McLaren vai vender cinco carros de F1 pilotados por campeões – e um por Brad Pitt",
-    "url": "https://www.infomoney.com.br/consumo/mclaren-vai-vender-cinco-carros-de-f1-pilotados-por-campeoes-e-um-por-brad-pitt/",
-    "resumo": "“Esses carros foram construídos para serem dirigidos e competir, e queremos ⁠vê-los sendo usados e apreciados\", disse o presidente-executivo da McLaren Racing, ⁠Zak ‌Brown",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T20:36:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0f1ed479714fae65",
-    "manchete": "Papa Leão promete retorno gradual às funções em 1º evento desde cirurgia de câncer",
-    "url": "https://www.infomoney.com.br/mundo/papa-leao-promete-retorno-gradual-as-funcoes-em-1o-evento-desde-cirurgia-de-cancer/",
-    "resumo": "Papa sorriu de uma janela do Palácio Apostólico do Vaticano enquanto falava aos peregrinos abaixo com voz firme e clara neste domingo",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T20:16:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6fcd0fd564c711c2",
-    "manchete": "Anthropic destinará 5% de ações a fundo voltado ao alívio do impacto da IA",
-    "url": "https://www.infomoney.com.br/mercados/anthropic-destinara-5-de-acoes-a-fundo-voltado-ao-alivio-do-impacto-da-ia/",
-    "resumo": "O fundo também poderia apoiar doações a organizações sem fins lucrativos e distribuições diretas a populações específicas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T20:15:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dab84af31738cc4b",
-    "manchete": "Calendário econômico: segundo turno das eleições e IPCA-15 têm as atenções da semana",
-    "url": "https://www.infomoney.com.br/mercados/calendario-economico-segundo-turno-das-eleicoes-e-ipca-15-tem-as-atencoes-da-semana/",
-    "resumo": "Tudo o que o investidor precisa saber antes de operar na semana",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T20:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb399511232c4b79",
-    "manchete": "Brasileirão 2026: Onde assistir a Bahia x Flamengo?",
-    "url": "https://www.infomoney.com.br/esportes/bahia-flamengo-brasileirao-2026-onde-assistir/",
-    "resumo": "O Bahia joga com o líder do campeonato",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T19:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d63b4b3ae744efd7",
-    "manchete": "Macron condena cenas “chocantes” de violência em toda a França",
-    "url": "https://www.infomoney.com.br/mundo/macron-condena-cenas-chocantes-de-violencia-em-toda-a-franca/",
-    "resumo": "Ele afirmou que prefeitos e prefeitas terão autoridade ⁠para proibir certas ​reuniões quando necessário",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T19:42:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6fdcf5d57781ab95",
-    "manchete": "Flávio Bolsonaro comemora entrevista de Roberta Luchsinger e deputada do PL quer proteção para testemunha",
-    "url": "https://www.moneytimes.com.br/flavio-bolsonaro-comemora-entrevista-de-roberta-luchsinger-e-deputada-do-pl-quer-protecao-para-testemunha/",
-    "resumo": "Flávio Bolsonaro (PL), candidato que disputa o segundo turno da Presidência da República contra Luiz Inácio Lula da Silva (PT), comemorou a entrevista dada pela lobista Roberta Luchsinger à CNN Brasil, em que ela disse que Lula \"continua mentindo\", o chamou de \"mau-caráter\" e ainda faz ataques a Fábio Luís Lula da…",
-    "fonte": "Money Times",
-    "data": "2026-10-18T14:18:10.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dbcbda2e0a1f9203",
-    "manchete": "Dominique Crenn, chef três estrelas Michelin, desafia a cultura do medo e o machismo na alta gastronomia",
-    "url": "https://neofeed.com.br/finde/dominique-crenn-chef-tres-estrelas-michelin-desafia-a-cultura-do-medo-e-o-machismo-na-alta-gastronomia/",
-    "resumo": "Primeira mulher nos Estados Unidos a receber a distinção máxima do Michelin, a chef francesa Dominique Crenn fala ao NeoFeed sobre a presença feminina nas cozinhas, sustentabilidade e como transforma memórias em comida",
-    "fonte": "NeoFeed",
-    "data": "2026-10-18T14:02:25.005Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f64b5e82c3758805",
-    "manchete": "A startup que construiu uma empresa inteira em torno da uva Chardonnay",
-    "url": "https://neofeed.com.br/finde/a-startup-que-construiu-uma-empresa-inteira-em-torno-da-uva-chardonnay/",
-    "resumo": "A The Wine Lab Brazil leva ao vinho um modelo de negócio digital ainda pouco comum no setor, mas que começa a se firmar como tendência",
-    "fonte": "NeoFeed",
-    "data": "2026-10-18T14:02:25.005Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b9fc8393a956dc4f",
-    "manchete": "O país que nasceu devendo",
-    "url": "https://www.moneytimes.com.br/o-pais-que-nasceu-devendo/",
-    "resumo": "Todo brasileiro já nasce devendo. A gente costuma usar a frase para falar de imposto, de boleto, de parcela no cartão. Mas ela vale, ao pé da letra, para o próprio país. Para o mercado, o grande tema desta eleição é o ajuste fiscal. Não como fim em si, mas por tudo o que ele [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-18T14:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1896e6ceb2409e57",
-    "manchete": "TSE muda mais de 4 mil locais de votação para o segundo turno; veja como consultar",
-    "url": "https://www.infomoney.com.br/politica/tse-muda-mais-de-4-mil-locais-de-votacao-para-o-segundo-turno-veja-como-consultar/",
-    "resumo": "Alterações atingem 0,87% das seções do país e foram motivadas por obras, ajustes de acessibilidade e danos provocados por chuvas; veja como conferir o endereço, quais documentos levar e como justificar a ausência",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T13:47:30.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5d91152d941d8bf2",
-    "manchete": "Manifestante de 67 anos é atropelado em ato pró-Lula em BH; motorista é preso",
-    "url": "https://www.infomoney.com.br/brasil/manifestante-de-67-anos-e-atropelado-em-ato-pro-lula-em-bh-motorista-e-preso/",
-    "resumo": "Vítima sofreu fraturas no tornozelo, e o motorista, que deixou o local sem prestar socorro, disse ter acelerado depois que manifestantes atiraram objetos contra o carro",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T13:41:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "718a1cb082c4543b",
-    "manchete": "\"Não é hora de vender Bolsa\": Inter eleva projeção do Ibovespa para 240 mil pontos",
-    "url": "https://www.moneytimes.com.br/nao-e-hora-de-vender-bolsa-inter-eleva-projecao-do-ibovespa-para-240-mil-pontos-lils/",
-    "resumo": "O Ibovespa (IBOV) continua 'barato', na avaliação do Inter. Na última semana, o banco elevou a projeção do principal índice da bolsa brasileira de 204 mil para 240 mil pontos, em meio à volatilidade das ações diante do período eleitoral. A nova estimativa prevê uma valorização potencial de 17% sobre os níveis atuais.…",
-    "fonte": "Money Times",
-    "data": "2026-10-18T13:13:06.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "59a998d8221fcc70",
-    "manchete": "Da França a Portugal: o que está por trás dos protestos que tomam a Europa?",
-    "url": "https://www.infomoney.com.br/mundo/da-franca-a-portugal-o-que-esta-por-tras-dos-protestos-que-tomam-a-europa/",
-    "resumo": "Mobilizações em ao menos sete países não formam um movimento único, mas têm queixas em comum, como escolas sem recursos, aluguéis em alta e governos pressionados a cortar gastos",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T13:09:22.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5755737dc0bef35c",
-    "manchete": "Montanha russa de preços do bitcoin (BTC) e as mais lidas da semana no Crypto Times",
-    "url": "https://www.moneytimes.com.br/montanha-russa-de-precos-do-bitcoin-btc-e-as-mais-lidas-da-semana-no-crypto-times-rens/",
-    "resumo": "Olá, investidor e investidora de cripto! Sejam muito bem-vindos a mais uma edição da nossa coluna semanal do Crypto Times, a editoria de bitcoin (BTC) e criptomoedas do Money Times. Para se inscrever e receber em primeira mão em todas as manhãs de sábado, basta se inscrever no box abaixo: O mercado de criptomoedas…",
-    "fonte": "Money Times",
-    "data": "2026-10-18T13:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "efc5dbe67a8ea684",
-    "manchete": "Cortes em auxílios sociais podem gerar retração em cidades do interior, diz estudo",
-    "url": "https://www.infomoney.com.br/economia/cortes-em-auxilios-sociais-podem-gerar-retracao-em-cidades-do-interior-diz-estudo/",
-    "resumo": "Estudo diz que benefícios têm grande peso nas economias de municípios",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T12:43:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6f1a5988ba673ac1",
-    "manchete": "França vira \"zona de guerra\" após protestos com 1.800 presos; veja imagens",
-    "url": "https://www.infomoney.com.br/mundo/franca-vira-zona-de-guerra-apos-protestos-com-1-800-presos-veja-imagens/",
-    "resumo": "Mobilização que começou com estudantes do ensino médio ganhou apoio de sindicatos e ex-\"coletes amarelos\"; governo descarta estado de emergência e promete punir responsáveis pelos distúrbios",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T12:40:56.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fcbb1d5a8e2d4e01",
-    "manchete": "Debate da Band entre Lula e Flávio Bolsonaro vai acontecer? Veja data, horário e onde assistir",
-    "url": "https://www.moneytimes.com.br/debate-da-band-entre-lula-e-flavio-bolsonaro-veja-data-horario-e-onde-assistir-rnda/",
-    "resumo": "O debate entre o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL), candidatos à Presidência da República no segundo turno das eleições de 2026, será realizado neste domingo (18), às 20h (horário de Brasília), nos estúdios da TV Bandeirantes, em São Paulo. O encontro será o primeiro debate…",
-    "fonte": "Money Times",
-    "data": "2026-10-18T12:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6c5f5b1d1c66c233",
-    "manchete": "PIB do EUA pode atingir US$ 44 trilhões até 2030 com avanço da IA; diz cofundador da Anthropic",
-    "url": "https://www.moneytimes.com.br/pib-do-eua-pode-atingir-us-44-trilhoes-ate-2030-com-avanco-da-ia-diz-cofundador-da-anthropic/",
-    "resumo": "O cofundador da Anthropic, Jack Clark, afirmou que modelagens econômicas internas da empresa indicam que o Produto Interno Bruto (PIB) dos Estados Unidos (EUA) poderia chegar a US$ 44 trilhões até 2030, sob determinadas condições ligadas ao avanço da inteligência artificial (IA), durante uma apresentação nas reuniões…",
-    "fonte": "Money Times",
-    "data": "2026-10-18T12:23:03.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "eb5c4b11e357cafb",
-    "manchete": "Empresas estudam pontos para \"carros voadores\" em SP",
-    "url": "https://www.infomoney.com.br/business/empresas-estudam-pontos-para-carros-voadores-em-sp/",
-    "resumo": "A estratégia inicial é criar uma infraestrutura enxuta, capaz de viabilizar o serviço sem exigir tarifas elevadas para remunerar os investimentos",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T12:11:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ac73a6da96e77639",
-    "manchete": "Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram Lula",
-    "url": "https://www.infomoney.com.br/politica/ministerio-da-justica-aciona-mp-e-anpd-contra-a-meta-por-falhas-que-afetaram-lula/",
-    "resumo": "Segundo a Secretaria Nacional de Direitos Digitais, vinculada ao Ministério da Justiça, \"os critérios de moderação da empresa operam sem transparência para o usuário e sem observabilidade para a autoridade\"",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T12:00:00.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
