@@ -1,5 +1,168 @@
 [
   {
+    "id": "022f93482fb43fee",
+    "manchete": "ARTIGO - Uma potência brasileira na mesa do próximo presidente ARTIGO - Uma potência brasileira na mesa do próximo presidente",
+    "url": "https://agfeed.com.br/campo-das-ideias/artigo-uma-potencia-brasileira-na-mesa-do-proximo-presidente",
+    "resumo": "O Brasil construiu uma indústria, desenvolveu conhecimento e organizou uma cadeia produtiva de grande alcance em torno do biodiesel",
+    "fonte": "AgFeed",
+    "data": "2026-11-01T00:04:51.023Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "679aa20088be67a8",
+    "manchete": "A ambição da \"hermana\" Nova no Brasil, com planos para fábrica e receita de R$ 600 milhões no País",
+    "url": "https://agfeed.com.br/negocios/a-ambicao-da-hermana-nova-no-brasil-com-planos-para-fabrica-e-receita-de-r-600-milhoes-no-pais",
+    "resumo": "Fabricante argentina de insumos pretende ampliar participação em fertilizantes especiais e conquistar liderança no mercado de inoculantes",
+    "fonte": "AgFeed",
+    "data": "2026-11-01T00:04:51.023Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b2e3fd80cbaba92e",
+    "manchete": "Com aval do novo presidente, Grupo Scheffer mira 100 mil hectares no \"Mato Grosso\" da Colômbia",
+    "url": "https://agfeed.com.br/negocios/com-aval-do-novo-presidente-grupo-scheffer-mira-100-mil-hectares-no-mato-grosso-da-colombia",
+    "resumo": "Grupo Scheffer planeja multiplicar operação por mais de 16 vezes em região que governo colombiano quer transformar em nova fronteira agrícola",
+    "fonte": "AgFeed",
+    "data": "2026-11-01T00:04:51.022Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9cd003a5cc9a368c",
+    "manchete": "França registra mais de 560 prisões em protestos e confrontos isolados com a polícia",
+    "url": "https://www.infomoney.com.br/mundo/franca-registra-mais-de-560-prisoes-em-protestos-e-confrontos-isolados-com-a-policia/",
+    "resumo": "Cerca de 320 mil pessoas participaram dos protestos, de acordo com estimativas do governo",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T22:56:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "853fa812e7d6581a",
+    "manchete": "G20 encerra reunião de chanceleres sem consenso sobre segurança internacional",
+    "url": "https://www.infomoney.com.br/mundo/g20-encerra-reuniao-de-chanceleres-sem-consenso-sobre-seguranca-internacional/",
+    "resumo": "O grupo não divulgou um comunicado conjunto e apresentou apenas uma declaração da presidência, sem mencionar acordos alcançados",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T22:47:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e79b83d968c15237",
+    "manchete": "França tem confrontos isolados à medida que tensões aumentam após marchas",
+    "url": "https://www.infomoney.com.br/mundo/franca-tem-confrontos-isolados-a-medida-que-tensoes-aumentam-apos-marchas/",
+    "resumo": "A polícia de choque avançou para dispersar pequenos grupos de agitadores no final da marcha em Paris, lançou gás lacrimogêneo em Lyon, a terceira maior cidade da França, e em Toulouse, no sudoeste",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T22:14:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d0d90b9dd6ac06d8",
+    "manchete": "Agência russa diz que EUA fizeram alerta sobre possível ataque terrorista em Moscou",
+    "url": "https://www.infomoney.com.br/mundo/agencia-russa-diz-que-eua-fizeram-alerta-sobre-possivel-ataque-terrorista-em-moscou/",
+    "resumo": "A embaixada dos EUA ⁠em Moscou informou, separadamente, que estava “ciente de uma ameaça crível sobre um evento com grande número de vítimas”",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T22:02:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0cb591b54000c6d9",
+    "manchete": "Irã discute rever doutrina nuclear se guerra for retomada, diz autoridade",
+    "url": "https://www.infomoney.com.br/mundo/ira-discute-rever-doutrina-nuclear-se-guerra-for-retomada-diz-autoridade/",
+    "resumo": "Segundo secretário iraniano, nenhuma decisão foi tomada até o momento",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T21:48:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f4e87a2a6abaccb2",
+    "manchete": "Ministro argentino defende livre comércio e critica barreiras ambientais no G20",
+    "url": "https://www.infomoney.com.br/mundo/ministro-argentino-defende-livre-comercio-e-critica-barreiras-ambientais-no-g20/",
+    "resumo": "Pablo Quirno esteve na reunião de chanceleres do G20",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T21:29:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "05c21e369283a1b5",
+    "manchete": "Palmeiras x Estudiantes: Conmebol define horário da final da Libertadores; veja",
+    "url": "https://www.infomoney.com.br/esportes/palmeiras-estudiantes-final-libertadores-horario/",
+    "resumo": "O Palmeiras disputará a decisão pelo segundo ano consecutivo, depois de terminar a edição de 2025 com o vice-campeonato",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T21:15:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0c3972023583c37a",
+    "manchete": "Anita Harley: ação de R$ 11,2 mil contra herdeira da Pernambucanas é encerrada",
+    "url": "https://www.infomoney.com.br/brasil/anita-harley-acao-de-r-112-mil-contra-herdeira-da-pernambucanas-e-encerrada/",
+    "resumo": "Processo tratava de cobrança de dívida por manutenção de elevador em mansão, segundo a colunista Fábia de Oliveira",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T20:50:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4ecb24fba4ee7c5d",
+    "manchete": "Após roubo no Louvre e uma série de furtos, museus menores da Europa estão em alerta",
+    "url": "https://www.infomoney.com.br/mundo/apos-roubo-no-louvre-e-uma-serie-de-furtos-museus-menores-da-europa-estao-em-alerta/",
+    "resumo": "Uma pesquisa de 2024 revelou que apenas uma em cada quatro instituições culturais ⁠possuía um ‌plano de emergência e prevenção de riscos,",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T20:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dc7f84fc25b46c79",
+    "manchete": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+    "url": "https://www.infomoney.com.br/business/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas/",
+    "resumo": "O plano foi estruturado com a participação do Itaú, da Akron e da Vega, apontados pela empresa como financiadores centrais da operação",
+    "fonte": "InfoMoney",
+    "data": "2026-10-31T19:48:22.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "6ca51ab3ca075482",
     "manchete": "ARTIGO - Desafios internacionais para o próximo presidente eleito",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-desafios-internacionais-para-o-proximo-presidente-eleito",
@@ -6382,59 +6545,6 @@
     "importancia": 3
   },
   {
-    "id": "05d11ba0030b5633",
-    "manchete": "Barchart colhe resultados da chegada ao Brasil e “tropicaliza” solução de IA",
-    "url": "https://agfeed.com.br/agtech/barchart-colhe-resultados-da-chegada-ao-brasil-e-tropicaliza-solucao-de-ia",
-    "resumo": "Empresa global de dados sobre commodities, a Barchart, aumentou em 150% a receita com clientes brasileiros nos últimos dois anos",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.455Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "17b6d7f7c2c8f318",
-    "manchete": "A estratégia da startup iBoi para escalar projeto de transformar bois em ativos bilionários",
-    "url": "https://agfeed.com.br/agtech/a-estrategia-da-startup-iboi-para-escalar-projeto-de-transformar-bois-em-ativos-bilionarios",
-    "resumo": "iBoi investe em rastreabilidade bovina e conectividade rural para transformar o gado em garantia de crédito para pecuaristas",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.455Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9e853bda9ff8fe2c",
-    "manchete": "Mantiqueira busca ovos em nova cesta com emissão de R$ 500 milhões em CPR-Fs",
-    "url": "https://agfeed.com.br/negocios/mantiqueira-busca-ovos-em-nova-cesta-com-emissao-de-r-500-milhoes-em-cpr-fs",
-    "resumo": "Mantiqueira prepara captação de R$ 500 milhões com CPR-Fs lastreadas em ovos e fiança bancária do Bradesco",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.454Z",
-    "tags_tema": [
-      "Dívida/Debêntures",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0405dfea40d0a099",
-    "manchete": "Sustentabilidade: o que Flávio Bolsonaro e Lula propõem Planos abordam desmatamento, mercado de carbono e biocombustíveis; candidatos apresentam metas distintas para florestas e medidas para conciliar produção agropecuária e conservação",
-    "url": "https://www.cnnbrasil.com.br/agro/sustentabilidade-o-que-flavio-bolsonaro-e-lula-propoem/",
-    "resumo": "Planos abordam desmatamento, mercado de carbono e biocombustíveis; candidatos apresentam metas distintas para florestas e medidas para conciliar produção agropecuária e conservação",
-    "fonte": "AgFeed",
-    "data": "2026-10-23T15:07:51.453Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "d8500ecadf95c7f7",
     "manchete": "Sete ativos e até R$ 1 bilhão de captação: o fundo imobiliário que une Allos e Kinea",
     "url": "https://neofeed.com.br/negocios/sete-ativos-e-ate-r-1-bilhao-de-captacao-o-fundo-imobiliario-que-une-allos-e-kinea/",
@@ -10030,124 +10140,6 @@
     "tags_tema": [
       "Venture Capital"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fbdfc5e5a24f2b84",
-    "manchete": "IA pode ajudar o varejo a decidir mais rápido",
-    "url": "https://startupi.com.br/ia-pode-ajudar-o-varejo-a-decidir-mais-rapido/",
-    "resumo": "Startupi IA pode ajudar o varejo a decidir mais rápido Por Luiz Saouda, CTO e cofundador da F360",
-    "fonte": "Startupi",
-    "data": "2026-10-19T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6ef1c45e2bab7e04",
-    "manchete": "Chamada aberta para o uso de IA e telemetria para combater incêndios no agronegócio",
-    "url": "https://startupi.com.br/sompo-hotmilk-desafio-inovacao-prevencao-incendios-maquinas-agricolas/",
-    "resumo": "Startupi Chamada aberta para o uso de IA e telemetria para combater incêndios no agronegócio Sompo e HOTMILK lançam programa de inovação aberta para selecionar startups com soluções tecnológicas de monitoramento e prevenção em colhedoras de cana.",
-    "fonte": "Startupi",
-    "data": "2026-10-19T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "709c7a1233ede53b",
-    "manchete": "Healthtech Skedia capta R$ 63 milhões sob gestão em novos negócios focados na automação financeira de clínicas e hospitais",
-    "url": "https://startupi.com.br/skedia-automacao-financeira-saude-faturamento-clinicas/",
-    "resumo": "Startupi Healthtech Skedia capta R$ 63 milhões sob gestão em novos negócios focados na automação financeira de clínicas e hospitais Empresa utiliza IA e especialistas para otimizar o fluxo de faturamento e combater a perda de receitas médicas.",
-    "fonte": "Startupi",
-    "data": "2026-10-19T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "075b44c3ddfbefa9",
-    "manchete": "Novo desafio de inovação busca conectar startups a gargalos estruturais de compras e supply chain",
-    "url": "https://startupi.com.br/procurement-club-festa-forum-gestao-terceiros-startup-challenge-supply-chain/",
-    "resumo": "Startupi Novo desafio de inovação busca conectar startups a gargalos estruturais de compras e supply chain Procurement Club e Level Ventures lançam o Startup Challenge focado em mapear soluções tecnológicas para cinco frentes estratégicas da cadeia de suprimentos.",
-    "fonte": "Startupi",
-    "data": "2026-10-19T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46a26a1fc8106f7f",
-    "manchete": "Do kart à F4 italiana, aos 15 anos, Eduardo Salamonde acelera rumo ao sonho da Fórmula 1",
-    "url": "https://neofeed.com.br/finde/do-kart-a-f4-italiana-aos-15-anos-eduardo-salamonde-acelera-rumo-ao-sonho-da-formula-1/",
-    "resumo": "O piloto paulista Eduardo Salamonde, uma das promessas do automobilismo brasileiro, conta ao NeoFeed como se prepara para a nova categoria",
-    "fonte": "NeoFeed",
-    "data": "2026-10-18T23:07:27.139Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7b143d64ef718ca8",
-    "manchete": "O álbum de fotografias de Auschwitz que esconde o terror por trás dos sorrisos",
-    "url": "https://neofeed.com.br/finde/o-album-de-fotografias-de-auschwitz-que-esconde-o-terror-por-tras-dos-sorrisos/",
-    "resumo": "Fotos de oficiais e funcionários nazistas em momentos de lazer em Auschwitz inspiram peça que chega à Broadway e traz ao presente o debate sobre ética, culpa e cumplicidade",
-    "fonte": "NeoFeed",
-    "data": "2026-10-18T23:07:27.139Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6e1937cadc7e7289",
-    "manchete": "Flávio e Lula se enfrentam no primeiro debate após apoiadores ocuparem as ruas",
-    "url": "https://www.infomoney.com.br/politica/flavio-e-lula-se-enfrentam-no-primeiro-debate-apos-apoiadores-ocuparem-as-ruas/",
-    "resumo": "O debate em São Paulo está marcado para começar às 20h e será transmitido pela emissora Band",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T22:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a95645b9abbb52eb",
-    "manchete": "Um terço dos fãs se endivida para ir a shows e gasta mais de R$ 1.000 no passeio",
-    "url": "https://www.infomoney.com.br/minhas-financas/um-terco-dos-fas-se-endivida-para-ir-a-shows-e-gasta-mais-de-r-1-000-no-passeio/",
-    "resumo": "Pesquisa da Serasa mostra que 83% dos frequentadores organizam as finanças antes de eventos musicais, mas alimentação, transporte e hospedagem ficam mais caros do que o previsto",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T22:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "62c5166add275780",
-    "manchete": "Incêndio em base militar no Canadá deixa 4 mortos e dezenas de feridos",
-    "url": "https://www.infomoney.com.br/mundo/incendio-em-base-militar-no-canada-deixa-4-mortos-e-dezenas-de-feridos/",
-    "resumo": "Militares participavam de um treinamento na Base das Forças Canadenses de Wainwright quando o incêndio começou",
-    "fonte": "InfoMoney",
-    "data": "2026-10-18T21:35:00.000Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
