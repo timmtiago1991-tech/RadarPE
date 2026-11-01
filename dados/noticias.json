@@ -1,5 +1,352 @@
 [
   {
+    "id": "df7141c8f497c1d4",
+    "manchete": "Uma pasta esquecida por 50 anos devolve à luz o encontro de Hélio Oiticica e Silviano Santiago",
+    "url": "https://neofeed.com.br/finde/uma-pasta-esquecida-por-50-anos-devolve-a-luz-o-encontro-de-helio-oiticica-e-silviano-santiago/",
+    "resumo": "Guardado por mais de cinco décadas, o livro XXXV finalmente chega ao público como um laboratório de experimentação visual e literária, fruto do diálogo entre dois grandes nomes da cultura brasileira",
+    "fonte": "NeoFeed",
+    "data": "2026-11-01T16:49:14.349Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d57b08b0a6c54aa7",
+    "manchete": "O planeta muda e o vinho revê seus preconceitos contra as uvas híbridas",
+    "url": "https://neofeed.com.br/finde/o-planeta-muda-e-o-vinho-reve-seus-preconceitos-contra-as-uvas-hibridas/",
+    "resumo": "Com o caos climático e o maior risco de doenças nos vinhedos, as uvas PIWIs, antes desprezadas, combinam sustentabilidade no campo e qualidade na taça",
+    "fonte": "NeoFeed",
+    "data": "2026-11-01T16:49:14.348Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0e5e15aa72a4ccfd",
+    "manchete": "Muito além dos 42 quilômetros da Maratona de Nova York",
+    "url": "https://neofeed.com.br/finde/muito-alem-dos-42-quilometros-da-maratona-de-nova-york/",
+    "resumo": "Entre os cerca de 60 mil participantes da Maratona de Nova York, a ser realizada neste domingo, 200 são atletas com deficiência da Achilles International, organização que promove a inclusão por meio do esporte há mais de quatro décadas",
+    "fonte": "NeoFeed",
+    "data": "2026-11-01T16:49:14.348Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "badf34003d43c9a7",
+    "manchete": "O negócio que une Mercedes e Vaticano há quase um século",
+    "url": "https://neofeed.com.br/finde/o-negocio-que-une-mercedes-e-vaticano-ha-quase-um-seculo/",
+    "resumo": "Uma exposição nos Museus Vaticanos revela como a parceria entre a montadora alemã e a Santa Sé atravessou gerações de pontífices",
+    "fonte": "NeoFeed",
+    "data": "2026-11-01T16:49:14.347Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "56b8bcee6893b49b",
+    "manchete": "Funcionários da Disney e Universal são presos em operação contra tráfico humano",
+    "url": "https://www.infomoney.com.br/mundo/funcionarios-da-disney-e-universal-sao-presos-em-operacao-contra-trafico-humano/",
+    "resumo": "Ação contra exploração sexual infantil e tráfico humano na Flórida deteve 17 trabalhadores dos parques temáticos; polícia identificou 11 possíveis vítimas de tráfico",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T16:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cab653eb63d460c0",
+    "manchete": "Grêmio x Atlético-MG: veja onde assistir à Copa do Brasil",
+    "url": "https://www.infomoney.com.br/esportes/gremio-x-atletico-mg-veja-onde-assistir-a-copa-do-brasil/",
+    "resumo": "Quem vencer no acumulado entre as duas partidas (ida e volta) enfrenta o ganhador entre Palmeiras e Vasco na final",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T16:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "95b4096f7551909d",
+    "manchete": "\"Uma invenção só faz sentido quando oferece algo de valor às pessoas”, diz Wozniak",
+    "url": "https://www.infomoney.com.br/business/uma-invencao-so-faz-sentido-quando-oferece-algo-de-valor-as-pessoas-diz-wozniak/",
+    "resumo": "Cofundador da Apple, Steve Wozniak encerrou o G4 Valley contando como a parceria com Steve Jobs e paixão pela engenharia conduziu sua vida",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T16:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "865bea10337277e3",
+    "manchete": "Após derrota de Flávio, quais caminhos podem tirar Bolsonaro da prisão?",
+    "url": "https://www.infomoney.com.br/politica/apos-derrota-de-flavio-quais-caminhos-podem-tirar-bolsonaro-da-prisao/",
+    "resumo": "Revisão criminal e Lei da Dosimetria estão nas mãos do STF, enquanto Alcolumbre articula possível acordo para conceder indulto ou anistia ao ex-presidente",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T16:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f0e6843f94a1bda",
+    "manchete": "Copa do Brasil: onde assistir a Palmeiras x Vasco?",
+    "url": "https://www.infomoney.com.br/esportes/palmeiras-vasco-copa-brasil-onde-assistir/",
+    "resumo": "Quem vencer essa fase enfrenta o ganhador entre Grêmio e Atlético-MG na final",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T16:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "74f6ff0a1231ff1d",
+    "manchete": "Dia de Sorte hoje, concurso 1337: Confira o resultado sorteado neste domingo (1)",
+    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-hoje-concurso-1337-confira-o-resultado-sorteado-neste-domingo-1/",
+    "resumo": "Próximo sorteio está programado para terça-feira, com prêmio estimado de R$ 1,7 milhão",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T15:22:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "745bc0a5112ca647",
+    "manchete": "Conheça o avião que transporta até 107 toneladas de equipamentos da Fórmula 1",
+    "url": "https://www.infomoney.com.br/brasil/conheca-o-aviao-que-transporta-ate-107-toneladas-de-equipamentos-da-formula-1/",
+    "resumo": "Boeing 777 cargueiro tem quase 65 metros de envergadura e participa da operação que levará cerca de 800 toneladas de materiais ao GP de São Paulo",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T15:22:12.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "30d82dff44dbdad4",
+    "manchete": "Após ataque hacker, Binance retoma saques em fase inicial neste domingo (1)",
+    "url": "https://www.moneytimes.com.br/apos-ataque-hacker-binance-retoma-saques-em-fase-inicial-neste-domingo-lmrs/",
+    "resumo": "A Binance informou que se preparava para retomar a primeira fase de saques neste domingo (1), entre 3h e 6h de Brasília, após o ataque hacker que levou à suspensão temporária do serviço. Segundo a plataforma, os depósitos seguem abertos e não foram afetados. Em atualização publicada no site oficial, a corretora…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T15:13:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d7fa48551be37e4",
+    "manchete": "Lula 4 ou 'Dilma 3'? Rogério Xavier, da SPX Capital, alerta para riscos da política econômica",
+    "url": "https://www.moneytimes.com.br/lula-4-ou-dilma-3-rogerio-xavier-da-spx-capital-alerta-para-riscos-da-politica-economica-lmrs/",
+    "resumo": "O presidente Lula entrará no seu quarto mandato com dívida pública elevada, rigidez orçamentária, juros reais altos e uma economia privada endividada. Rogério Xavier, um dos sócios-fundadores da SPX Capital, questiona como o governo reagirá diante de um cenário de conflito entre suas ambições políticas e as restrições…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T15:09:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d04b0f15d3912505",
+    "manchete": "Lotofácil hoje, concurso 3819: Confira o resultado sorteado neste domingo (1)",
+    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3819-confira-o-resultado-sorteado-neste-domingo-1/",
+    "resumo": "Próximo sorteio está programado para ocorrer na terça-feira, com prêmio estimado em R$ 9,5 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T14:56:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dda8a0072391870e",
+    "manchete": "Queda da Selic? Copom e payroll dividem atenções em semana mais curta no Brasil; veja a agenda",
+    "url": "https://www.moneytimes.com.br/queda-da-selic-copom-e-payroll-dividem-atencoes-em-semana-mais-curta-no-brasil-veja-a-agenda/",
+    "resumo": "A semana começa com feriado no Brasil, mas reserva dois eventos capazes de mexer com os mercados: a decisão de juros do Comitê de Política Monetária (Copom), na quarta-feira (4), e o relatório de emprego dos Estados Unidos, o payroll, na sexta-feira (6). Com a pausa de Finados na segunda-feira (2), os investidores…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T14:50:00.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "43b66677427e47d1",
+    "manchete": "Universidade expulsa estudantes de Medicina por ofensas a bolsistas após eleições",
+    "url": "https://www.infomoney.com.br/brasil/universidade-expulsa-estudantes-de-medicina-por-ofensas-a-bolsistas-apos-eleicoes/",
+    "resumo": "Os estudantes punidos teriam feito comentários elitistas e de teor nazista contra colegas bolsistas",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T14:49:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "341d193666fc67b3",
+    "manchete": "Justiça rejeita ação de US$ 10 bi de Trump contra 'WSJ' por carta a Epstein",
+    "url": "https://www.infomoney.com.br/mundo/justica-rejeita-acao-de-us-10-bi-de-trump-contra-wsj-por-carta-a-epstein/",
+    "resumo": "A reportagem, publicada no ano passado, descrevia uma carta de conteúdo sexualmente sugestivo, acompanhada do desenho de uma silhueta de mulher, que teria o nome de Trump",
+    "fonte": "InfoMoney",
+    "data": "2026-11-01T14:48:03.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bd8fa6267dd7cb47",
+    "manchete": "Eleição do Congresso nos EUA põe à prova Trump e sua influência no mundo",
+    "url": "https://www.moneytimes.com.br/eleicao-do-congresso-nos-eua-poe-a-prova-trump-e-sua-influencia-no-mundo-lmrs/",
+    "resumo": "Quando forem às urnas na terça-feira (3), os norte-americanos renovarão os 435 deputados da Câmara e 35 dos 100 senadores. Definirão 36 governadores, 6.139 cadeiras nos legislativos estaduais, milhares de prefeitos, conselheiros municipais, inspetores escolares, juízes, promotores e xerifes. Opinarão sobre temas…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T14:18:03.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7ff9db24f52f9459",
+    "manchete": "Bitcoin (BTC) avança neste domingo (1), mas registra queda na semana; veja os preços das criptomoedas",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-domingo-1-mas-registra-queda-na-semana-veja-os-precos-das-criptomoedas-lmrs/",
+    "resumo": "As maiores criptomoedas do mundo operam majoritariamente no positivo neste domingo (1), com desempenho misto ao longo da semana. Por volta das 11h (horário de Brasília), o bitcoin (BTC) apresentava leve alta de 0,55% nas últimas 24 horas, a US$ 77,830.77. Na semana, a cripto registrava recuo de 3,06%. Já o ethereum…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T14:13:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1c11d1188a1650c6",
+    "manchete": "Proibição das bets começa a impulsionar vendas no varejo; veja quem ganha para o BTG Pactual",
+    "url": "https://www.moneytimes.com.br/proibicao-das-bets-comeca-a-impulsionar-vendas-no-varejo-quem-ganha-para-btg-mlem/",
+    "resumo": "A proibição das plataformas de apostas online, mais conhecidas como bets, no Brasil já começa a impulsionar vendas em supermercados e no varejo, segundo o BTG Pactual. Em relatório publicado na quinta-feira (29), o banco cita dados divulgados pela Associação Brasileira de Supermercados (ABRAS) no mesmo dia. Segundo a…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T13:00:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3027c66efd439e4f",
+    "manchete": "Retornos de até 12%: 5 ações para ter na carteira de dividendos de novembro, segundo a Ágora Investimentos",
+    "url": "https://www.moneytimes.com.br/retornos-de-ate-12-5-acoes-para-ter-na-carteira-de-dividendos-de-novembro-segundo-a-agora-investimentos-lmrs/",
+    "resumo": "A Ágora Investimentos realizou uma alteração na carteira recomendada de dividendos para o mês de novembro, retirando as ações da Allos (ALOS3) e incluindo Telefônica Brasil (VIVT3) no lugar. De acordo com a equipe de analistas da casa, a dona da Vivo combina uma sólida geração de caixa, baixa sensibilidade ao cenário…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T11:59:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eb9ad9d4beae972e",
+    "manchete": "Chilli Beans pede recuperação extrajudicial para renegociar R$ 340 milhões em dívidas",
+    "url": "https://www.moneytimes.com.br/chilli-beans-pede-recuperacao-extrajudicial-para-renegociar-r-340-milhoes-em-dividas-lmrs/",
+    "resumo": "A Chilli Beans pretende renegociar R$ 340 milhões em dívidas com bancos por meio de um processo de recuperação extrajudicial. A proposta da rede de óculos e relógios prevê a entrada de até R$ 50 milhões em novos recursos, provenientes dos próprios credores, para dar suporte à reorganização financeira. O plano foi…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T11:11:16.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "52893304928ced3c",
+    "manchete": "Fuga de Flávio Bolsonaro para os EUA enfraquece oposição e pode beneficiar Lula, avaliam analistas",
+    "url": "https://www.moneytimes.com.br/analise-lula-deve-colher-os-frutos-da-fuga-de-flavio-bolsonaro/",
+    "resumo": "Flávio Bolsonaro fez um favor ao presidente Luiz Inácio Lula da Silva ao fugir de seus problemas com a Justiça no Brasil para se autoproclamar o líder do país a partir dos Estados Unidos, avaliam analistas políticos e autoridades brasileiras. A viagem de Bolsonaro, que ocorreu depois que o candidato derrotado à…",
+    "fonte": "Money Times",
+    "data": "2026-11-01T11:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ad7ffe6bf5e05b45",
+    "manchete": "Dudu Salamonde “é du Brasiiiil”",
+    "url": "https://braziljournal.com/dudu-salamonde-e-du-brasiiiil",
+    "resumo": "Neste domingo, no México, Kimi Antonelli pode se tornar campeão mundial de Fórmula 1, aos 20 anos. Os italianos da Minardi Management, a agência que ajudou a descobri-lo quando ele ainda era criança, agora apostam num brasileiro de 15.",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-01T03:12:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2765bdbc4d46a824",
+    "manchete": "Item de colecionador: o que a AI não produz",
+    "url": "https://braziljournal.com/item-de-colecionador-o-que-a-ai-nao-produz",
+    "resumo": "A Dynamo publicou esta semana sua Carta 130, O Tácito do Tempo . O texto não é sobre relógios – é sobre negócios que se sustentam em confiança, hábito e conhecimento tácito. A gestora admite que demorou a entender a natureza relacional da rede de varejistas da Technos, sua antiga investida, e promete contar o caso na…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-01T03:12:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "07c516221122e053",
+    "manchete": "OPINIÃO. Coragem. O Brasil é isso aí",
+    "url": "https://braziljournal.com/opiniao-coragem-o-brasil-e-isso-ai",
+    "resumo": "Há um número impressionante de pessoas inconsoláveis com o resultado das eleições. Algumas parecem genuinamente deprimidas. Outras exibem um desalento que normalmente se reserva à perda de um ente querido. Há quem fale em deixar o País, quem tenha perdido a vontade de investir, e até quem pareça ter desistido de…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-01T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d8d727b0c0c23ca6",
+    "manchete": "Supremos dilemas: os casos mais difíceis do mundo",
+    "url": "https://braziljournal.com/supremos-dilemas-os-casos-mais-dificeis-do-mundo",
+    "resumo": "“A Suprema Corte dos Estados Unidos é uma instituição amaldiçoada por Deus Todo-Poderoso”. A frase é de autoria do polêmico pastor pentecostal e televangelista Jimmy Swaggart, e sua agressividade é uma demonstração de como o poder das supremas cortes nacionais é capaz de impactar suas respectivas sociedades, mexer em…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-01T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "90607ad7a495232d",
+    "manchete": "Quem escolhe o nosso livre-arbítrio",
+    "url": "https://braziljournal.com/quem-escolhe-o-nosso-livre-arbitrio",
+    "resumo": "O livre-arbítrio existe? Somos realmente autores das nossas escolhas, ou elas são determinadas por forças que não controlamos? Essa antiga questão filosófica ganhou uma nova dimensão com a neurociência, que desafia nossas ideias de liberdade, responsabilidade, mérito e culpa. Pense em dois presos em Israel. O primeiro…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-01T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "022f93482fb43fee",
     "manchete": "ARTIGO - Uma potência brasileira na mesa do próximo presidente ARTIGO - Uma potência brasileira na mesa do próximo presidente",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-uma-potencia-brasileira-na-mesa-do-proximo-presidente",
@@ -9782,364 +10129,6 @@
     "fonte": "NeoFeed",
     "data": "2026-10-19T16:59:32.156Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "af3acbbf8be13585",
-    "manchete": "RJs do agro recuam 20% no 2º trimestre de 2026, aponta Serasa Experian. A curva começou a virar?",
-    "url": "https://agfeed.com.br/economia/rjs-do-agro-recuam-20-no-2o-trimestre-de-2026-aponta-serasa-experian-a-curva-comecou-a-virar",
-    "resumo": "Levantamento mostra 448 pedidos de RJ no segundo trimestre de 2026, com queda mais acentuada entre produtores rurais PJ",
-    "fonte": "NeoFeed",
-    "data": "2026-10-19T16:59:32.156Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e715212e8d7de500",
-    "manchete": "Com dívida de R$ 827,4 milhões, Ri Happy entra com pedido de recuperação extrajudicial",
-    "url": "https://neofeed.com.br/negocios/com-divida-de-r-8274-milhoes-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial/",
-    "resumo": "A Ri Happy, varejista de brinquedos, vai à Justiça para buscar fôlego financeiro menos de dois meses após a mudança de controle, com a chegada da BluSun Capital",
-    "fonte": "NeoFeed",
-    "data": "2026-10-19T16:59:32.155Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "768e623741725c94",
-    "manchete": "Fundos imobiliários de papel \"enchem a praça\" com R$ 13,3 bilhões em novas ofertas",
-    "url": "https://neofeed.com.br/negocios/fundos-imobiliarios-de-papel-enchem-a-praca-com-r-133-bilhoes-em-novas-ofertas/",
-    "resumo": "Com 21 ofertas em andamento e impulsionados, gestores como a Kinea colocam novas captações na rua para dobrar o volume de 2025",
-    "fonte": "NeoFeed",
-    "data": "2026-10-19T16:59:32.155Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f30654b4e6f5dfb1",
-    "manchete": "Horário da eleição: que horas começa e termina a votação do segundo turno?",
-    "url": "https://www.infomoney.com.br/politica/horario-eleicao-comeca-termina-votacao-segundo-turno/",
-    "resumo": "Votação está marcada para 25 de outubro, das 8h às 17h, para presidente e governadores",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:57:11.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f3e6dd9e8fae7df9",
-    "manchete": "Coordenadora econômica de Flávio promete regra de transição para Bolsa Família",
-    "url": "https://www.infomoney.com.br/politica/coordenadora-economica-de-flavio-promete-regra-de-transicao-para-bolsa-familia/",
-    "resumo": "Daniella Marques também reforçou que um eventual governo Flávio deve focar em reestruturar dívidas de empresas e famílias",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:55:35.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ea87d32a75788ef5",
-    "manchete": "Coordenadora econômica da campanha de Flávio promete regra de transição para Bolsa Família",
-    "url": "https://www.moneytimes.com.br/coordenadora-economica-da-campanha-de-flavio-promete-regra-de-transicao-para-bolsa-familia/",
-    "resumo": "A coordenadora econômica da campanha de Flávio Bolsonaro, Daniella Marques, disse em entrevista à CBN Bahia que planeja implementar uma regra de transição de dois anos no Bolsa Família para que os beneficiários abram seus negócios ou aceitem empregos de carteira assinada, com retorno automático ao benefício, caso não…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T16:54:05.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8440834e50dd4d97",
-    "manchete": "Como anda a Argentina de Milei? Veja índices de inflação, pobreza e desemprego",
-    "url": "https://www.infomoney.com.br/mundo/como-anda-a-argentina-de-milei-veja-indices-de-inflacao-pobreza-e-desemprego/",
-    "resumo": "No debate, Flávio não citou o argentino e respondeu que aplicará um “tesouraço” nas contas públicas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:52:53.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ed323158e7abadc1",
-    "manchete": "Paes volta ao jogo eleitoral e prepara ofensiva por Lula, após derrota para Ruas",
-    "url": "https://www.infomoney.com.br/politica/paes-volta-ao-jogo-eleitoral-e-prepara-ofensiva-por-lula-apos-derrota-para-ruas/",
-    "resumo": "Em vídeo, Paes reconhece derrota eleitoral no estado mas reforça importância do voto para à presidência neste segundo turno",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:52:49.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "60480dccfdda13d1",
-    "manchete": "Não votou no 1º turno? Veja o que diz a lei eleitoral sobre votação no 2º turno",
-    "url": "https://www.infomoney.com.br/politica/nao-votou-1-turno-pode-votar-no-2/",
-    "resumo": "Justiça Eleitoral considera cada turno de votação uma eleição independente para efeito de comparecimento da eleitora ou do eleitor à urna eletrônica",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:44:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b70ab01095dd8e8d",
-    "manchete": "Compre Embraer (EMBJ3), Axia (AXIA3) e outras 15 ações para ganhar mais de 5% nesta semana, segundo Itaú BBA",
-    "url": "https://www.moneytimes.com.br/day-trade-itau-bba-19-10-26-apsa/",
-    "resumo": "A ação da Embraer (EMBJ3) é uma das recomendações de compra em day trade do Íon Itaú/Itaú BBA para esta semana. As ações da empresa fecharam a sessão da última sexta-feira (16) cotadas a R$ 91,65. O potencial de ganho no objetivo um é de 16,66% e o stop sugerido é de R$ 87,49. Confira [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-19T16:35:45.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3e64f15d3aadd3c8",
-    "manchete": "Eurasia: Chance de Flávio Bolsonaro perder no 2º turno aumenta; veja o que mudou",
-    "url": "https://www.moneytimes.com.br/eurasia-reduz-probabilidade-de-chance-de-vitoria-de-flavio-bolsonaro-veja-o-que-mudou-apsa/",
-    "resumo": "A consultoria Eurasia Group reduziu de 80% para 75% as chances de vitória do senador Flávio Bolsonaro (PL) contra o atual presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições presidenciais, marcado para o próximo domingo, 25 de outubro. A vantagem, segundo comentário escrito por Christopher Garman,…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T16:31:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3fe528e2404e6ccb",
-    "manchete": "Grupo Ri Happy entra com pedido de recuperação extrajudicial",
-    "url": "https://www.moneytimes.com.br/grupo-ri-happy-entra-com-pedido-de-recuperacao-extrajudicial/",
-    "resumo": "O Grupo Ri Happy, uma das maiores redes varejistas de brinquedos e produtos infantis do País, protocolou no domingo, 18, um pedido de recuperação extrajudicial, engrossando o grupo de varejistas que buscam esse mecanismo para renegociar dívidas. A empresa não informa o valor da dívida a ser rediscutida, mas destaca,…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T16:25:17.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3e18c29f1e7c235e",
-    "manchete": "Janones: veja os sintomas do problema cardíaco que causou a internação do deputado",
-    "url": "https://www.infomoney.com.br/politica/janones-veja-os-sintomas-do-problema-cardiaco-que-causou-a-internacao-do-deputado/",
-    "resumo": "O quadro do parlamentar é estável e ele está sendo acompanhado por uma equipe médica",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:14:18.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "22f43b6cb6a0d91e",
-    "manchete": "Segundo turno para governador será realizado em cinco Estados e no DF neste domingo",
-    "url": "https://www.infomoney.com.br/politica/segundo-turno-para-governador-sera-realizado-em-cinco-estados-e-no-df-neste-domingo/",
-    "resumo": "Nos demais Estados, os eleitores votarão apenas para definir o próximo presidente da República",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:13:44.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "df87344e5ae50e1b",
-    "manchete": "Ri Happy pede recuperação extrajudicial para renegociar dívidas de mais de R$ 800 mi",
-    "url": "https://www.infomoney.com.br/mercados/ri-happy-pede-recuperacao-extrajudicial-para-renegociar-dividas-de-mais-de-r-800-mi/",
-    "resumo": "Companhia cita juros elevados, perda de poder de compra das famílias e concorrência do e-commerce internacional entre os fatores que pressionaram suas finanças",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:12:59.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "56c34cdf27cd182c",
-    "manchete": "Filipinas convocam embaixador da China após declarações que transmitem “ameaça”",
-    "url": "https://www.infomoney.com.br/mundo/filipinas-convocam-embaixador-da-china-apos-declaracoes-que-transmitem-ameaca/",
-    "resumo": "O embaixador Jing Quan ‌disse à imprensa na semana passada que a China “poderia facilmente vencer” em um confronto com as Filipinas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:00:14.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "73c4afeefc711b66",
-    "manchete": "M. Dias (MDIA3): ação sobe após comprar fábrica de pães congelados Grespan",
-    "url": "https://www.infomoney.com.br/mercados/m-dias-mdia3-acao-sobe-apos-comprar-fabrica-de-paes-congelados-grespan/",
-    "resumo": "Aquisição marca a entrada da M. Dias Branco no segmento de pães congelados, categoria complementar ao seu portfólio atual",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T16:00:00.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "eb82ebab8df23b79",
-    "manchete": "PepsiCo perde o KFC; ação tem maior desconto para a Coca em 25 anos",
-    "url": "https://braziljournal.com/pepsico-perde-o-kfc-acao-tem-maior-desconto-para-a-coca-em-25-anos",
-    "resumo": "“Tem Coca?” “Só Pepsi.” No KFC dos EUA, esse papo acabou.",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-19T15:36:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e374dfc7b728627d",
-    "manchete": "‘Momento Diet Coke’ da cerveja é oportunidade de compra na AB Inbev, diz a Barron’s",
-    "url": "https://braziljournal.com/momento-diet-coke-da-cerveja-e-oportunidade-de-compra-na-ab-inbev-diz-a-barrons",
-    "resumo": "O consumo de álcool no mundo tem caído ano a ano. Nos EUA, por exemplo, as famílias estão gastando só 0,8% de seu orçamento com bebidas alcoólicas – o menor patamar dos últimos 40 anos. Para completar, medicamentos como o Ozempic e Monjauro têm reduzido ainda mais o apetite dos consumidores por álcool – turbinando a…",
-    "fonte": "Brazil Journal",
-    "data": "2026-10-19T14:58:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fb113a53ed0c6d66",
-    "manchete": "Suzano (SUZB3) deve superar consenso no 3T26, enquanto Klabin (KLBN11) fica abaixo das projeções do Safra",
-    "url": "https://www.moneytimes.com.br/suzano-suzb3-deve-superar-consenso-no-3t26-enquanto-klabin-klbn11-fica-abaixo-das-projecoes-do-safra/",
-    "resumo": "As empresas de papel e celulose devem apresentar resultados mistos no terceiro trimestre de 2026, segundo prévia do Safra. O banco projeta avanço dos resultados da Suzano (SUZB3) e da Dexco (DXCO3) na comparação trimestral, enquanto espera recuo da Klabin (KLBN11) e da chilena CMPC. Entre os destaques, a Suzano deve…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T14:55:27.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e21259664f615212",
-    "manchete": "Bolsa Família é antecipado e todos os beneficiários receberão antes do segundo turno das eleições; governo cita efeitos do El Niño",
-    "url": "https://www.moneytimes.com.br/bolsa-familia-antecipado-todos-beneficiarios-receberao-antes-segundo-turno-eleicoes-rsgp/",
-    "resumo": "Os beneficiários do programa Bolsa Família começaram a receber nesta segunda-feira (19) o pagamento com reajuste de 15,04%, como previsto. No entanto, o governo anunciou a antecipação do calendário referente a outubro. Os desembolsos serão unificados a partir da quarta-feira (21). Isso significa que todas as famílias…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T14:54:17.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7840945696c357fe",
-    "manchete": "Safra eleva preço-alvo da Meta em US$ 215 e diz que empresa deve apresentar um 3T26 forte",
-    "url": "https://www.moneytimes.com.br/safra-eleva-preco-alvo-da-meta-em-us-215-e-diz-que-empresa-apresentar-um-3t26-forte-mlem/",
-    "resumo": "O Safra elevou o preço-alvo das ações da Meta Platforms (META) de US$ 835 para US$ 1.050 e manteve a recomendação de outperform, equivalente a compra, para empresa. O novo valor é baseado em 25 vezes o EPS (lucro por ação, na sigla em inglês) estimado para 2028, o que implica potencial de valorização de [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-19T14:40:22.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8619b9b0b06e1310",
-    "manchete": "Fim da escala 6&#215;1 pode consumir até 15% do lucro de empresas do agro, vê BTG; veja quem está mais exposto",
-    "url": "https://www.moneytimes.com.br/fim-da-escala-6x1-pode-consumir-ate-15-do-lucro-de-empresas-do-agro-ve-btg-veja-quem-esta-mais-exposto/",
-    "resumo": "O fim da escala 6&#215;1 no Brasil pode representar uma pressão relevante sobre a rentabilidade de empresas ligadas ao agro, mesmo quando o aumento das despesas parece pequeno em relação ao faturamento. Em alguns casos, os custos adicionais com mão de obra podem consumir dois dígitos do lucro líquido projetado para…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T14:37:54.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f9764c8381363cf8",
-    "manchete": "Itaú BBA vê Movida (MOVI3) entre as melhores apostas para um cenário de Selic menor e eleva preço-alvo em R$ 10",
-    "url": "https://www.moneytimes.com.br/itau-bba-ve-movida-movi3-entre-as-melhores-apostas-para-um-cenario-de-selic-menor-e-eleva-preco-alvo-lils/",
-    "resumo": "Há cerca de seis dias a Movida (MOVI3) divulgou a prévia operacional do terceiro trimestre (3T26), considerada 'fraca' por analistas. O Itaú BBA, por sua vez, atualizou as estimativas e reiterou a visão positiva para a companhia. O banco elevou, nesta segunda-feira (19), o preço-alvo de MOVI3 de R$ 15 para R$ 25 no…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T14:31:57.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "42b17b0bbb239161",
-    "manchete": "Safra passa a tesoura em preços-alvo e rebaixa recomendações de fundos imobiliários (FIIs)",
-    "url": "https://www.moneytimes.com.br/safra-passa-a-tesoura-em-precos-alvo-e-rebaixa-recomendacoes-de-fundos-imobiliarios-fiis-igdl/",
-    "resumo": "O Safra rebaixou as recomendações para dois fundos imobiliários (FIIs) de shopping centers, diante de perspectivas distintas para resultados e dividendos. Um deles é o XP Malls (XPML11), que passou de compra para venda, enquanto o segundo é o HSI Malls (HSML11), que saiu de compra para neutro. No caso do primeiro, o…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T14:21:23.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9da403b91ef9f08a",
-    "manchete": "A inteligência artificial está formando empresas mais eficientes. Mas quem está formando os líderes do futuro?",
-    "url": "https://startupi.com.br/a-inteligencia-artificial-esta-formando-empresas-mais-eficientes-mas-quem-esta-formando-os-lideres-do-futuro/",
-    "resumo": "Startupi A inteligência artificial está formando empresas mais eficientes. Mas quem está formando os líderes do futuro? Processos que antes exigiam dias ou semanas podem ser realizados em minutos. A produtividade cresce, os custos podem diminuir e as empresas descobrem novas possibilidades de eficiência.",
-    "fonte": "Startupi",
-    "data": "2026-10-19T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1b31cb4286070abc",
-    "manchete": "A política do Brasil tirou uma selfie e a imagem que saiu estava queimada",
-    "url": "https://startupi.com.br/politica-selfie-queimada-debate-presidencial-midia/",
-    "resumo": "Startupi A política do Brasil tirou uma selfie e a imagem que saiu estava queimada Debate presidencial mostra que políticos não estão preparados para discutir projetos de país. E emissoras deveriam saber disso.",
-    "fonte": "Startupi",
-    "data": "2026-10-19T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "76503bf3e3b84103",
-    "manchete": "Inovação não é perseguir toda novidade: é saber quais apostas merecem ser feitas",
-    "url": "https://startupi.com.br/inovacao-nao-e-perseguir-toda-novidade-e-saber-quais-apostas-merecem-ser-feitas/",
-    "resumo": "Startupi Inovação não é perseguir toda novidade: é saber quais apostas merecem ser feitas Por Pedro Signorelli, especialista em gestão com ênfase em OKRs.",
-    "fonte": "Startupi",
-    "data": "2026-10-19T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
