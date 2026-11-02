@@ -1,5 +1,323 @@
 [
   {
+    "id": "a9da82da051d2194",
+    "manchete": "Nem a geladeira está salva: hackers invadem sistemas e atacam supermercados na Europa",
+    "url": "https://neofeed.com.br/insiders/nem-a-geladeira-esta-salva-hackers-invadem-sistemas-e-atacam-supermercados-na-europa/",
+    "resumo": "Depois de casos no Japão e na França, chegou a vez de redes da Bélgica, de Luxemburgo, da Estônia e da Suécia sofrerem com ciberataques que aqueceram os freezers a 50 graus",
+    "fonte": "NeoFeed",
+    "data": "2026-11-02T20:22:57.874Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b63368d7df245a4b",
+    "manchete": "Boa Safra quer \"colher\" metade do resultado em outras culturas",
+    "url": "https://neofeed.com.br/videos/numeros-falam/boa-safra-quer-colher-metade-do-resultado-em-outras-culturas/",
+    "resumo": "Boa Safra aposta em milho, sorgo e sementes de pastagem para reduzir a sazonalidade e ocupar durante mais tempo os ativos construídos para a soja",
+    "fonte": "NeoFeed",
+    "data": "2026-11-02T20:22:57.874Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1c244222f7cddf13",
+    "manchete": "Na corrida da IA, os EUA inovam e a China escala. Mas há uma terceira disputa em aberto",
+    "url": "https://neofeed.com.br/inovacao/na-corrida-da-ia-os-eua-inovam-e-a-china-escala-mas-ha-uma-terceira-disputa-em-aberto/",
+    "resumo": "Autora do livro A nova China: para além do socialismo e do capitalismo e professora da London School of Economics por 15 anos, Keyu Jin diz ao NeoFeed como a China equilibra Estado e mercado e sugere ao Brasil abrir a economia",
+    "fonte": "NeoFeed",
+    "data": "2026-11-02T20:22:57.873Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c5c90895b1b0f7c5",
+    "manchete": "OPINIÃO: As reservas internacionais não podem virar cheque especial para baixar juros",
+    "url": "https://neofeed.com.br/insiders/opiniao-as-reservas-internacionais-nao-podem-virar-cheque-especial-para-baixar-juros/",
+    "resumo": "A proposta de Lara Resende promete economizar juros. O risco é pagar a conta com as reservas e com a estabilidade que ele próprio ajudou a construir",
+    "fonte": "NeoFeed",
+    "data": "2026-11-02T20:22:57.872Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9e70d74e42570221",
+    "manchete": "'Viva o equilíbrio fiscal', diz governador cotado para a Fazenda sobre secretário",
+    "url": "https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/",
+    "resumo": "O petista afirmou que o Piauí é o primeiro lugar do Brasil em taxa de investimentos públicos em relação à receita",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T20:22:42.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "53637fc6c46b180c",
+    "manchete": "Petróleo despenca com expectativa de diálogo entre Irã e EUA e decisão da Opep+",
+    "url": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-de-mais-de-7-com-expectativa-de-dialogo-entre-eua-e-ira-sobre-guerra-jcav/",
+    "resumo": "Os contratos futuros do petróleo fecharam em forte queda nesta segunda-feira, 2, diante das expectativas de diálogo entre Irã e EUA, por mediadores, para alcançar uma resolução para o conflito no Oriente Médio e reabrir o Estreito de Ormuz. Investidores também digerem a decisão da Organização de Países Exportadores de…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T20:18:37.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "501c66b5ef8f0420",
+    "manchete": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
+    "url": "https://www.moneytimes.com.br/ate-um-dos-mais-otimistas-pisou-no-freio-inter-eleva-projecao-da-selic-e-ve-pausa-nos-cortes-jcav/",
+    "resumo": "Um dos bancos que mais apostavam na continuidade da queda dos juros entre as instituições acompanhadas pelo Money Times durante o ano, o Inter passou a prever uma interrupção dos cortes antes do esperado. O banco agora estima que a Selic encerre 2026 em 13,50%, ante os 13,25% projetados anteriormente, diante da piora…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T20:02:42.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0aabfe391ce337b8",
+    "manchete": "Montadoras nos EUA pedem proibição permanente de carros chineses",
+    "url": "https://www.infomoney.com.br/business/montadoras-nos-eua-pedem-proibicao-permanente-de-carros-chineses/",
+    "resumo": "Grandes montadoras pedem ao Congresso dos EUA que aprove proibição permanente de veículos chineses",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T19:42:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2c1e53b891107e69",
+    "manchete": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
+    "url": "https://www.moneytimes.com.br/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-diz-estudo-do-fed-de-san-francisco/",
+    "resumo": "O fenômeno climático El Niño, que pode causar um aumento recorde nas temperaturas oceânicas nos próximos meses, representa um “risco significativo” de aumento da inflação nos Estados Unidos em 2027, embora também deva contribuir para a geração de empregos, de acordo com uma pesquisa publicada nesta segunda-feira pelo…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T19:38:03.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aafcb089512adc77",
+    "manchete": "Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra",
+    "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-otimismo-sobre-dialogo-entre-eua-e-ira-para-encerrar-guerra/",
+    "resumo": "O mercado também monitora sinais do futuro da trajetória de juros pelo Federal Reserve (Fed), à espera da publicação do payroll no fim desta semana",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T19:36:47.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "720e94a62f660bd6",
+    "manchete": "Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo",
+    "url": "https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/",
+    "resumo": "O grupo norte-coreano acusado do maior roubo de criptomoedas da história é uma organização estatal de hackers de elite, treinados desde cedo para caçar \"grandes presas\". A inteligência artificial agora lhes deu uma nova ferramenta poderosa para inflar os cofres de Kim Jong Un e financiar sua expansão militar",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T19:31:23.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "674576aeaaae0b47",
+    "manchete": "El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA",
+    "url": "https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/",
+    "resumo": "Estudo do Fed de San Francisco estima que o episódio atual já possa ter elevado níveis gerais de preços em 0,3 ponto percentual",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T19:15:31.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ea7171d6e27cde5d",
+    "manchete": "OPINIÃO. Juros por decreto. Lágrimas a prazo",
+    "url": "https://braziljournal.com/opiniao-juros-por-decreto-lagrimas-a-prazo",
+    "resumo": "Passada a eleição, o mercado cobra ajuste fiscal, a imprensa descreve um presidente pouco disposto a fazê-lo, e nesse vácuo grassa a ideia mais sedutora de todas: a de sair do buraco sem cortar nada. A versão mais recente desse tipo de ideia tem autor ilustre e, por algumas horas, pareceu ter as portas do Planalto…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-02T19:07:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "163069bf783954d8",
+    "manchete": "Ouro sobe quase 2% com derrocada dos preços do petróleo",
+    "url": "https://www.moneytimes.com.br/ouro-2-11-26-lils/",
+    "resumo": "O ouro fechou em alta nesta segunda-feira (2), revertendo parte das perdas recentes, impulsionado pelo otimismo para uma resolução da guerra no Oriente Médio diante de sinalizações de diálogo por parte dos EUA e do Irã. O mercado também monitora sinais do futuro da trajetória de juros pelo Federal Reserve (Fed, o…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T19:00:52.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5542921eaa4e8dab",
+    "manchete": "Snap faz acordo com adolescentes em caso sobre depressão e transtornos alimentares",
+    "url": "https://www.infomoney.com.br/business/snap-faz-acordo-com-adolescentes-em-caso-sobre-depressao-e-transtornos-alimentares/",
+    "resumo": "Os autores da ação já haviam chegado a um acordo com a Meta, o TikTok e o YouTube, da Alphabet",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T18:51:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "789739a678981cf3",
+    "manchete": "Petróleo cai mais de 7% enquanto Irã sinaliza abertura para negociações de paz",
+    "url": "https://www.infomoney.com.br/mercados/petroleo-cai-mais-de-4-com-esperanca-de-paz-goldman-projeta-us-140/",
+    "resumo": "Os negociadores iranianos encerraram ‌as negociações com mediadores do Catar, que visavam pôr fim à guerra com os Estados Unidos",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T18:44:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "24ad28531cf80ead",
+    "manchete": "Estatal de petróleo dos Emirados Árabes faz parceria com OpenAI para uso em operações",
+    "url": "https://www.infomoney.com.br/mercados/estatal-de-petroleo-dos-emirados-arabes-faz-parceria-com-openai-para-uso-em-operacoes/",
+    "resumo": "O acordo foi formalizado em Abu Dhabi durante a Exposição e Conferência Internacional de Petróleo de Abu Dhabi (ADIPEC), com a presença do CEO da OpenAI, Sam Altman",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T18:40:06.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8f64efa399799bc5",
+    "manchete": "Petróleo despenca mais de 8% e Brent ameaça perder o nível de US$ 100 com sinalizações sobre acordo de paz entre Irã e EUA",
+    "url": "https://www.moneytimes.com.br/petroleo-intradia-2-11-26-lils/",
+    "resumo": "Os preços do petróleo recuam mais de 8% na tarde desta segunda-feira (2), à medida que as negociações entre autoridades do Irã e do Catar alimentaram esperanças de um fim à guerra no Oriente Médio. Por volta 15h40 (horário de Brasília), o contrato mais líquido do Brent, negociado para janeiro, caía 8,23%, a US$ 104,09…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T18:39:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6b9b668d3a8c5728",
+    "manchete": "Do que é feito o celular? Conheça os minerais presentes nos smartphones",
+    "url": "https://www.infomoney.com.br/mercados/do-que-e-feito-o-celular-conheca-os-minerais-presentes-nos-smartphones/",
+    "resumo": "Veja os minerais presentes nos smartphones, suas funções e a participação do Brasil na produção de matérias-primas",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T18:36:05.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6cf02892ce9edc59",
+    "manchete": "Como um e-mail para Lemann no Natal virou uma gigante avaliada em US$ 2 bi",
+    "url": "https://www.infomoney.com.br/business/historia-qi-tech-pedro-mac-dowell/",
+    "resumo": "Pedro Mac Dowell queria resolver um problema que conhecia como cliente dos bancos. A ideia virou uma empresa que atende marcas como Vivo e Wellhub",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T18:25:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "11b76a68bc521cd5",
+    "manchete": "Investidores poderão comprar um pedaço da Islândia: dona da Blue Lagoon prepara IPO",
+    "url": "https://www.moneytimes.com.br/investidores-poderao-comprar-um-pedaco-da-islandia-dona-da-blue-lagoon-prepara-ipo-sama/",
+    "resumo": "IPO da Blue Lagoon busca 100 milhões de euros para resorts, turismo em geleiras e possível compra da Arctic Adventures",
+    "fonte": "Money Times",
+    "data": "2026-11-02T18:15:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "986513bca775541f",
+    "manchete": "O que Wall Street espera das eleições nos EUA? O histórico do S&#038;P 500 dá pistas",
+    "url": "https://www.moneytimes.com.br/o-que-wall-street-espera-das-eleicoes-nos-eua-o-historico-do-sp-500-da-pistas/",
+    "resumo": "As eleições de meio de mandato (midterms) nos Estados Unidos acontecem nesta terça-feira (3) após semanas de apreensão nos mercados. Na semana passada, o S&#38;P 500 teve um saldo negativo de 0,6% em meio a ajuste de posições. Apesar da maior aversão a risco, o S&#38;P 500 tende a apresentar um \"bom desempenho\" após…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T18:04:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a3c1f86cb24fef62",
+    "manchete": "Bolsas da Europa têm saldo positivo com expectativa de avanço nas negociações EUA-Irã e tombo do petróleo",
+    "url": "https://www.moneytimes.com.br/europa-2-11-26-lils/",
+    "resumo": "As bolsas da Europa encerraram o primeiro pregão da semana e do mês em alta com alívio nos preços do petróleo. O índice pan-europeu Stoxx 600 encerrou as negociações com alta de 0,45%, aos 649,65 pontos. Entre os principais índices, o DAX, de Frankfurt, avançou 0,64%, a 25.982,87 pontos; o FTSE 100, de Londres,…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T17:08:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "43870f5eadc78364",
+    "manchete": "Clientes da Binance retiram quase R$ 5 bilhões após ataque cibernético",
+    "url": "https://www.moneytimes.com.br/clientes-da-binance-retiram-quase-r-5-bilhoes-apos-ataque-cibernetico/",
+    "resumo": "Os clientes da Binance retiraram, ao todo, US$ 4,72 bilhões da maior corretora de criptomoedas do mundo desde que ela reabriu, depois que hackers roubaram cerca de US$ 6,3 bilhões em criptomoedas da plataforma, no que pode ser considerado o maior roubo financeiro da história. A corretora congelou os saques por cerca…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T16:44:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68313d6fae3d3721",
+    "manchete": "Anthropic, do Claude, planeja captar até US$ 3,5 bi no Japão em IPO nos EUA",
+    "url": "https://www.moneytimes.com.br/anthropic-do-claude-planeja-captar-ate-us-35-bi-no-japao-em-ipo-nos-eua/",
+    "resumo": "A Anthropic, desenvolvedora do chatbot Claude, planeja levantar até US$ 3,5 bilhões no Japão como parte de sua oferta pública inicial de ações (IPO) nos Estados Unidos. Os termos da operação, incluindo o número de ações destinadas ao mercado japonês, devem ser definidos entre novembro de 2026 e abril de 2027, conforme…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T16:30:20.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "943f38b6b9cbefb4",
     "manchete": "Quiet ambition e a sucessão que os herdeiros não querem seguir",
     "url": "https://neofeed.com.br/insiders/quiet-ambition-e-o-bastao-que-os-herdeiros-nao-querem-pegar/",
@@ -9792,342 +10110,6 @@
     "resumo": "O deputado federal André Janones (Rede-MG) anunciou que receberá alta hospitalar ainda nesta terça-feira (20) após ser internado por causa de uma arritmia cardíaca. Em publicação nas redes sociais, o parlamentar afirmou que deixará o Hospital Vila Nova Star, em São Paulo, às 13h13. \"Sairei pela porta da frente do…",
     "fonte": "Money Times",
     "data": "2026-10-20T13:51:37.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2bcd82f912815931",
-    "manchete": "Weg (WEGE3) divulga resultados do 3T26 amanhã; hora de comprar ações?",
-    "url": "https://www.moneytimes.com.br/weg-wege3-divulga-resultados-do-3t26-amanha-hora-de-comprar-acoes/",
-    "resumo": "A Weg divulga resultados amanhã e não devemos ter números espetaculares. O aumento nos custos de cobre, aço e alumínio, além de um câmbio ainda desfavorável e dos impactos das tarifas implementadas por Donald Trump nos Estados Unidos, devem continuar pressionando a comparação anual, assim como temos observado nos…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T13:48:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b7da7142c3a1e505",
-    "manchete": "Ciência como teste eleitoral: quem responde ao Brasil que precisa de inovação?",
-    "url": "https://startupi.com.br/candidatos-ciencia-eleicoes-2026-sbpc-perguntas/",
-    "resumo": "Startupi Ciência como teste eleitoral: quem responde ao Brasil que precisa de inovação? A SBPC transformou dez perguntas em um termômetro de compromisso com ciência, tecnologia, clima e soberania. Para empresas, a resposta — ou o silêncio — dos presidenciáveis ajuda a antecipar riscos regulatórios, oportunidades de…",
-    "fonte": "Startupi",
-    "data": "2026-10-20T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "381cc5544e997db8",
-    "manchete": "O Brasil quer criar IA ou apenas consumi-la?",
-    "url": "https://startupi.com.br/o-brasil-quer-criar-ia-ou-apenas-consumi-la/",
-    "resumo": "Startupi O Brasil quer criar IA ou apenas consumi-la? Por Tulio Vinicius Duarte Christofoletti, vice-presidente de Ecossistema da ACATE (Associação Catarinense de Tecnologia)",
-    "fonte": "Startupi",
-    "data": "2026-10-20T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f30f2be46979880e",
-    "manchete": "Holding ARKA lança Brain003 e entra no mercado de inteligência de dados com IA",
-    "url": "https://startupi.com.br/brain003-inteligencia-de-dados-e-ia/",
-    "resumo": "Startupi Holding ARKA lança Brain003 e entra no mercado de inteligência de dados com IA Nova empresa nasce com acesso a uma base de 21 bilhões de registros e aposta no modelo de inteligência acionável para otimizar campanhas e decisões de negócios.",
-    "fonte": "Startupi",
-    "data": "2026-10-20T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e0b7e7268e5b7007",
-    "manchete": "Como construir uma fintech do zero e chegar ao breakeven (sem inflar a operação)",
-    "url": "https://startupi.com.br/como-construir-uma-fintech-do-zero-e-chegar-ao-breakeven-sem-inflar-a-operacao/",
-    "resumo": "Startupi Como construir uma fintech do zero e chegar ao breakeven (sem inflar a operação) Por Felipe Sabino, CEO da Aurex",
-    "fonte": "Startupi",
-    "data": "2026-10-20T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1f00d8306a0cd7ab",
-    "manchete": "Grupo Caldeira OTC e Urban anunciam fusão para consolidar plataforma institucional de ativos virtuais",
-    "url": "https://startupi.com.br/fusao-grupo-caldeira-otc-e-urban-plataforma-ativos-virtuais/",
-    "resumo": "Startupi Grupo Caldeira OTC e Urban anunciam fusão para consolidar plataforma institucional de ativos virtuais Nova operação nasce sob a marca Urban, unindo tecnologia proprietária, liquidez e atendimento operacional após movimentar mais de R$ 21 bilhões em 2026.",
-    "fonte": "Startupi",
-    "data": "2026-10-20T06:59:00.000Z",
-    "tags_tema": [
-      "M&A",
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "91cae70e3e0cfe56",
-    "manchete": "Desafios do empreendedorismo em casal exigem divisão de papéis e alinhamento de propósito",
-    "url": "https://startupi.com.br/como-empreender-em-casal-gestao-e-equilibrio/",
-    "resumo": "Startupi Desafios do empreendedorismo em casal exigem divisão de papéis e alinhamento de propósito Fundadores da Eureka Coworking compartilham estratégias para gerenciar empresas a dois mantendo o equilíbrio entre demandas profissionais e familiares.",
-    "fonte": "Startupi",
-    "data": "2026-10-20T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9c1af180d4ba985b",
-    "manchete": "Após rali de 12%, varejo precisa provar que pode transformar juros menores em lucro",
-    "url": "https://neofeed.com.br/negocios/apos-rali-de-12-varejo-precisa-provar-que-pode-transformar-juros-menores-em-lucro/",
-    "resumo": "Análise do BTG aponta que alta das ações de empresas do varejo após o primeiro turno eleitoral foi impulsionada pela expansão dos múltiplos",
-    "fonte": "NeoFeed",
-    "data": "2026-10-20T00:17:46.565Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bdb99e520e2340d0",
-    "manchete": "Na JSL, a ordem é reduzir a dívida e gerar caixa",
-    "url": "https://neofeed.com.br/negocios/na-jsl-a-ordem-e-reduzir-a-divida-e-gerar-caixa/",
-    "resumo": "Sob o comando de Guilherme Sampaio, a companhia foca no controle da dívida, fortalece a geração de caixa e avança na intralogística para ampliar a presença nos clientes",
-    "fonte": "NeoFeed",
-    "data": "2026-10-20T00:17:46.564Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "86f13950d769ade2",
-    "manchete": "Protestos em ebulição na Europa expõem a falência do Estado de bem-estar social",
-    "url": "https://neofeed.com.br/economia/protestos-em-ebulicao-na-europa-expoem-a-falencia-do-estado-de-bem-estar-social/",
-    "resumo": "Manifestações na França, Espanha, Portugal e Itália revelam a exaustão de um modelo que já não consegue responder ao custo de vida explosivo",
-    "fonte": "NeoFeed",
-    "data": "2026-10-20T00:17:46.560Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ea56e6f0a6c4ce00",
-    "manchete": "Inter compra fatia da Wiz Co por R$ 409,5 milhões e fica com 100% de sua seguradora",
-    "url": "https://neofeed.com.br/negocios/inter-compra-fatia-da-wiz-co-por-r-4095-milhoes-e-fica-com-100-de-sua-seguradora/",
-    "resumo": "Corretora vende participação na empresa de seguros do Inter, em meio aos esforços de simplificação de sua operação",
-    "fonte": "NeoFeed",
-    "data": "2026-10-20T00:17:46.559Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c6d647f8975043d3",
-    "manchete": "Quase quatro anos após fraude bilionária, Americanas sai da recuperação judicial",
-    "url": "https://neofeed.com.br/negocios/quase-quatro-anos-apos-fraude-bilionaria-americanas-sai-da-recuperacao-judicial/",
-    "resumo": "A Justiça do Rio de Janeiro decreta fim da recuperação judicial da Americanas três dias depois de 12 ex-executivos da varejista se tornarem réus pela fraude contábil revelada em 2023",
-    "fonte": "NeoFeed",
-    "data": "2026-10-20T00:17:46.558Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "90cc9657dd5f6587",
-    "manchete": "Lotofácil hoje, concurso 3808: confira o resultado sorteado nesta segunda (19)",
-    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3808-confira-o-resultado-sorteado-nesta-segunda-19/",
-    "resumo": "O prêmio estimado para este concurso era de R$ 2 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T00:13:30.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f824533ef5da0e05",
-    "manchete": "Quina hoje, concurso 7146: confira o resultado sorteado nesta segunda-feira (19)",
-    "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7146-confira-o-resultado-sorteado-nesta-segunda-feira-19/",
-    "resumo": "O prêmio deste concurso era estimado em R$ 50 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T00:08:10.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "67f5468908fac48d",
-    "manchete": "Raízen (RAIZ4): CVM aprova pedido de conversão de registro de subsidiária em meio à reestruturação financeira",
-    "url": "https://www.moneytimes.com.br/raizen-raiz4-subsidiaria-tem-pedido-de-conversao-de-registro-aprovado-pela-cvm-apsa/",
-    "resumo": "A Raízen Energia, subsidiária da Raízen (RAIZ4), informou nesta segunda-feira (19) que a Comissão de Valores Mobiliários (CVM) aprovou o pedido de conversão de seu registro de emissor de valores mobiliários da categoria B para a categoria A, em mais uma etapa do processo de reestruturação do grupo. Segundo fato…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T23:18:57.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1a3ce284b2b67aca",
-    "manchete": "Inter (INTR) coloca R$ R$ 409,5 milhões 'na mesa' e leva Inter Seguros",
-    "url": "https://www.moneytimes.com.br/inter-intr-coloca-r-r-4095-milhoes-na-mesa-e-leva-inter-seguros/",
-    "resumo": "O Inter (INTR) comprou 39,75% restantes da Inter Seguros que pertencem à Wiz Co Participações e Corretagem de Seguros. O negócio está avaliado em R$ 409,5 milhões, valor que será pago no fechamento da operação. Com a conclusão, o banco passará a ser o único acionista da empresa, que reúne mais de 9 milhões de [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-19T23:15:21.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9582fb867c07fe97",
-    "manchete": "Milei diz que Argentina está próxima de produzir 1 mi de barris de petróleo por dia",
-    "url": "https://www.infomoney.com.br/mundo/milei-diz-que-argentina-esta-proxima-de-produzir-1-mi-de-barris-de-petroleo-por-dia/",
-    "resumo": "Presidente argentino atribuiu a evolução a mudanças regulatórias promovidas por seu governo",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T23:07:29.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d724070988e01db0",
-    "manchete": "Casas Bahia (BHIA3): Acionistas ratificam recuperação judicial; veja próximas etapas",
-    "url": "https://www.moneytimes.com.br/casas-bahia-bhia3-acionistas-ratificam-recuperacao-judicial-veja-proximas-etapas-apsa/",
-    "resumo": "Os acionistas da Casas Bahia (BHIA3) aprovaram, em Assembleia Geral Extraordinária realizada nesta segunda-feira (19), a ratificação do pedido de recuperação judicial apresentado pela companhia e por determinadas subsidiárias em 16 de agosto deste ano. Segundo comunicado divulgado ao mercado, a aprovação reforça a…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T23:06:25.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "487cb74ea7560481",
-    "manchete": "Americanas (AMER3): Após 3 anos, varejista coloca ponto final em recuperação judicial",
-    "url": "https://www.moneytimes.com.br/americanas-amer3-apos-3-anos-varejista-coloca-ponto-final-em-recuperacao-judicial/",
-    "resumo": "A Americanas (AMER3), varejista que foi colhida por uma das maiores fraudes contábeis da história, colocou um ponto final em sua recuperação judicial após a Justiça aprovar o fim do processo. Tudo começou em 19 de janeiro de 2023, poucas semanas depois de a empresa comunicar um rombo de R$ 20 bilhões, o dobro do…",
-    "fonte": "Money Times",
-    "data": "2026-10-19T23:03:28.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0074e00002365a5f",
-    "manchete": "Ri Happy: o que muda para o consumidor após o pedido de recuperação extrajudicial?",
-    "url": "https://www.infomoney.com.br/minhas-financas/ri-happy-o-que-muda-para-o-consumidor-apos-o-pedido-de-recuperacao-extrajudicial/",
-    "resumo": "Especialistas afirmam que empresa continua obrigada a entregar pedidos, cumprir garantias e respeitar o Código de Defesa do Consumidor",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T22:38:14.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "56c17e3398df74d9",
-    "manchete": "AMER3: Justiça do RJ aprova fim de recuperação judicial da Americanas",
-    "url": "https://www.infomoney.com.br/mercados/amer3-justica-do-rj-aprova-fim-de-recuperacao-judicial-da-americanas/",
-    "resumo": "\"Com a conclusão dessa etapa, a companhia segue comprometida com o crescimento de suas operações, o fortalecimento sustentável do seu modelo de negócio e o desenvolvimento da experiência de seus clientes\", afirmou a Americanas em fato relevante",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T22:37:02.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "75cd4b751e66d262",
-    "manchete": "'Ainda Estou Aqui', novelas e séries: Globo levará 18 produções à Netflix",
-    "url": "https://www.infomoney.com.br/consumo/ainda-estou-aqui-novelas-e-series-globo-levara-18-producoes-a-netflix/",
-    "resumo": "Maior acordo de licenciamento entre as empresas prevê a chegada de filmes, novelas e séries da Globo ao catálogo da plataforma até 2027",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T22:05:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "367571cbce8d061f",
-    "manchete": "Brasil precisará de quase mil novos aviões para atender demanda até 2045, diz Airbus",
-    "url": "https://www.infomoney.com.br/business/brasil-precisara-de-quase-mil-novos-avioes-para-atender-demanda-ate-2045-diz-airbus/",
-    "resumo": "Projeção da Airbus indica que a expansão da classe média e o avanço das viagens domésticas exigirão uma frota muito maior nas próximas duas décadas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T22:04:01.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4b0d69f26bc07740",
-    "manchete": "Trump diz que Zelensky deveria deixar negociações sobre guerra na Ucrânia",
-    "url": "https://www.infomoney.com.br/mundo/trump-diz-que-zelensky-deveria-deixar-negociacoes-sobre-guerra-na-ucrania/",
-    "resumo": "Presidente dos EUA afirma que é \"hora de outra pessoa\" representar Kiev nas conversas de paz, critica o líder ucraniano e sinaliza disposição para dialogar com Putin e Xi Jinping",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T22:00:25.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8db2a48493151c76",
-    "manchete": "Dona de Gol e Avianca evita expansão agressiva e aposta em parcerias para crescer",
-    "url": "https://www.infomoney.com.br/business/dona-de-gol-e-avianca-evita-expansao-agressiva-e-aposta-em-parcerias-para-crescer/",
-    "resumo": "Em meio à alta dos combustíveis e dos juros, grupo prioriza alianças estratégicas, reforça aposta no Rio como hub internacional e planeja a renovação da frota de longo curso",
-    "fonte": "InfoMoney",
-    "data": "2026-10-19T21:57:43.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
