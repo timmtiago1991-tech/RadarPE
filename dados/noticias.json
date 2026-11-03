@@ -1,5 +1,180 @@
 [
   {
+    "id": "ec948d8249ff7f52",
+    "manchete": "A Bolsa não dorme mais? Como a negociação de ações fora do pregão está mudando Wall Street",
+    "url": "https://neofeed.com.br/wealth-management/a-bolsa-nao-dorme-mais-como-a-negociacao-de-acoes-fora-do-pregao-esta-mudando-wall-street/",
+    "resumo": "Na bolsa 24x7, investidores asiáticos puxam a demanda, com negociações de madrugada disparando 359% nos EUA",
+    "fonte": "NeoFeed",
+    "data": "2026-11-03T02:53:18.560Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e2768be9bb0400ab",
+    "manchete": "Vendas da Apple superam estimativas, mas China segue como ponto fraco",
+    "url": "https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/",
+    "resumo": "A receita cresceu 12%, para US$ 114,5 bilhões, no quarto trimestre fiscal, encerrado em 26 de setembro, informou a empresa em comunicado nesta segunda-feira",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T22:41:38.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "04b7eeece0790c8e",
+    "manchete": "Palantir vê lucro mais que dobrar no 3º trimestre e eleva projeções para 2026",
+    "url": "https://www.infomoney.com.br/mercados/palantir-ve-lucro-mais-que-dobrar-no-3o-trimestre-e-eleva-projecoes-para-2026/",
+    "resumo": "A receita da companhia de software e inteligência artificial (IA) disparou 96% na comparação anual, para US$ 2,31 bilhões, superando a expectativa de US$ 2,18 bilhões do mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T22:37:55.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "54294d1ccd1ccaa8",
+    "manchete": "Selic a 7,5% para conter a dívida? Proposta de Lara Resende ganha apoio no PT e provoca reação",
+    "url": "https://www.moneytimes.com.br/selic-a-75-para-conter-a-divida-proposta-de-lara-resende-ganha-apoio-no-pt-e-provoca-reacao-jcav/",
+    "resumo": "Uma proposta para reduzir os juros e frear o crescimento da dívida pública colocou o economista André Lara Resende, um dos formuladores do Plano Real, no centro do debate sobre os rumos da política econômica. As ideias ganharam apoio de integrantes do PT e repercutiram após notícias de um possível encontro com o…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T22:35:00.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a960d7f3c991ad75",
+    "manchete": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom",
+    "url": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom/",
+    "resumo": "O deputado federal Lindbergh Farias (PT-RJ) criticou nesta segunda-feira, 2, a mudança nas projeções dos analistas para a taxa básica de juros após o segundo turno das eleições",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T22:15:22.000Z",
+    "tags_tema": [
+      "Curva de Juros",
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "efee73d80f3690c4",
+    "manchete": "Trump admite indultos a aliados e promete vetos se democratas vencerem eleição",
+    "url": "https://www.infomoney.com.br/mundo/trump-admite-indultos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/",
+    "resumo": "Questionado sobre a possibilidade de perdoar antecipadamente aliados diante de ameaças de investigações, Trump citou o antecessor Joe Biden",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T22:13:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ace1cd1bde70c4e0",
+    "manchete": "Wall Street vira com petróleo em queda, IA sob pressão e Apple no radar",
+    "url": "https://www.moneytimes.com.br/sp-500-fecha-em-baixa-e-apple-recua-antes-de-relatorio-trimestral-jcav/",
+    "resumo": "O S&#38;P 500 fechou em baixa nesta segunda-feira, com os preços do petróleo despencando devido ao otimismo em relação a um possível acordo de paz entre os Estados Unidos e o Irã, enquanto as ações da Apple registraram queda antes do relatório trimestral da fabricante do iPhone e com os investidores aguardando as…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T21:32:25.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0d9b504f7685f521",
+    "manchete": "Bolsas de NY fecham mistas com queda do petróleo, em semana de payroll e midterms",
+    "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/",
+    "resumo": "A Apple recuava 0,42% antes de divulgar balanço após fechamento do mercado",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T21:22:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ed031e63a7086895",
+    "manchete": "Aprovação de Trump fica perto da mínima histórica antes da eleição de meio de mandato, mostra pesquisa da Reuters/Ipsos",
+    "url": "https://www.moneytimes.com.br/aprovacao-de-trump-fica-perto-da-minima-historica-antes-da-eleicao-de-meio-de-mandato-mostra-pesquisa-da-reuters-ipsos-jcav/",
+    "resumo": "O índice de aprovação do presidente Donald Trump se manteve próximo do mínimo histórico, com uma ampla parcela do eleitorado norte-americano vendo seu voto nas eleições legislativas de terça-feira como uma forma de se opor ao presidente republicano, de acordo com uma pesquisa da Reuters/Ipsos concluída na…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T21:19:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "254c8fa6d2b92f6d",
+    "manchete": "Safra ajusta carteira após queda de 10% e aposta em ações de dividendos; confira",
+    "url": "https://www.moneytimes.com.br/safra-ajusta-carteira-apos-queda-de-10-e-aposta-em-acoes-de-dividendos-confira-jcav/",
+    "resumo": "Após a queda de 10,05% de sua carteira de ações em outubro, o Safra decidiu reduzir o risco e ampliar o espaço de empresas pagadoras de dividendos para novembro. O banco fez quatro trocas na seleção Top 10 e diminuiu a participação da Vale (VALE3). Entram Itaúsa (ITSA4), Suzano (SUZB3), TIM (TIMS3) e Eneva (ENEV3),…",
+    "fonte": "Money Times",
+    "data": "2026-11-02T21:12:04.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5cca9efedcda342b",
+    "manchete": "Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos",
+    "url": "https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/",
+    "resumo": "Os resultados da pesquisa nacional de cinco dias também mostraram sinais de que a disputa entre democratas e republicanos pode estar ficando mais acirrada à medida que o dia da eleição se aproxima",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T20:57:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "876fb7c5825cbc3f",
+    "manchete": "Brasileirão 2026: Onde assistir RB-Bragantino x Santos?",
+    "url": "https://www.infomoney.com.br/esportes/brasileirao-onde-assistir-santos-rb-bragantino/",
+    "resumo": "O jogo acontece na casa do RB-Bragantino",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T20:50:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c00f5bb71482718c",
+    "manchete": "Índice de ADRs brasileiros cai em dia de queda de petróleo e bolsas mistas em NY",
+    "url": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-sobe-em-dia-de-queda-de-petroleo-e-altas-em-ny/",
+    "resumo": "O movimento acompanha os principais índices nos EUA. As bolsas de Nova York abriram em alta nesta segunda-feira, 2",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T20:31:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3710b88016accb25",
+    "manchete": "Criptomoedas: bitcoin opera em queda após ataque à Binance, à espera de midterms",
+    "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-queda-apos-ataque-a-binance-a-espera-de-midterms/",
+    "resumo": "No Brasil, a corretora Mercado Bitcoin também relatou um ataque, que contabilizou perdas de US$ 50 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-11-02T20:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "a9da82da051d2194",
     "manchete": "Nem a geladeira está salva: hackers invadem sistemas e atacam supermercados na Europa",
     "url": "https://neofeed.com.br/insiders/nem-a-geladeira-esta-salva-hackers-invadem-sistemas-e-atacam-supermercados-na-europa/",
@@ -9933,183 +10108,6 @@
     "resumo": "Apesar da diferença entre candidaturas, tema é apoiado por ambos os eleitorados",
     "fonte": "InfoMoney",
     "data": "2026-10-20T14:40:13.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "362546b26a1af331",
-    "manchete": "Flávio promete restabelecer benefício fiscal do Perse, programa encerrado por Lula",
-    "url": "https://www.infomoney.com.br/politica/flavio-promete-restabelecer-beneficio-fiscal-do-perse-programa-encerrado-por-lula/",
-    "resumo": "Flávio promete restabelecer benefício fiscal do Perse, programa encerrado pelo governo Lula",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T14:38:10.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2dcdc3b00fd6501f",
-    "manchete": "CSN (CSNA3): IPO da divisão de cimentos à vista? Possibilidade não está na mesa por ora, diz analista da Genial",
-    "url": "https://www.moneytimes.com.br/csn-csna3-ipo-da-divisao-de-cimentos-a-vista-analista-da-genial-ve-baixa-probabilidade-por-ora-apsa/",
-    "resumo": "A dificuldade de transformar seus ativos em valor para os acionistas continua a ser um dos principais fatores de preocupação dos investidores da CSN (CSNA3). Diante da demora para destravar a venda da CSN Cimentos, prometida desde o começo do ano, a Coluna do Broadcast ventilou a possibilidade de uma oferta pública…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T14:33:16.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9998b877ac9ff156",
-    "manchete": "O maior risco da Bolsa americana é estar fora dela, avalia XP Asset",
-    "url": "https://www.infomoney.com.br/onde-investir/o-maior-risco-da-bolsa-americana-e-estar-fora-dela-avalia-xp-asset/",
-    "resumo": "Para César Florido, da XP Asset, ficar sem exposição ao mercado global significa abrir mão de oportunidades de crescimento; ele explica onde vê potencial e quais erros o investidor brasileiro deve evitar",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T14:24:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c794de82dc648b73",
-    "manchete": "Americanas (AMER3): ação dispara 25% na bolsa com fim da recuperação judicial",
-    "url": "https://www.moneytimes.com.br/americanas-amer3-acoes-disparam-25-com-fim-da-recuperacao-judicial-lmrs/",
-    "resumo": "As ações da Americanas (AMER3) dispararam no início do pregão desta terça-feira (20). O movimento coincide com o encerramento do processo de recuperação judicial que a varejista enfrentava desde 2023. O anúncio do fim da recuperação judicial ocorreu na noite de segunda-feira (19) e já era aguardado pela administração.…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T14:19:20.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "62aedf1cc1a27500",
-    "manchete": "Ação da GM desaba após previsão de lucro ficar aquém das expectativas de Wall Street",
-    "url": "https://www.infomoney.com.br/mercados/acao-da-gm-desaba-apos-previsao-de-lucro-ficar-aquem-das-expectativas-de-wall-street/",
-    "resumo": "A companhia informou que o lucro trimestral antes de juros e impostos, excluindo itens não recorrentes (Ebit ajustado), cresceu 22% em relação ao ano anterior, para US$4,1 bilhões",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T14:17:19.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "06d93f4c110fac59",
-    "manchete": "Reino Unido amplia apoio militar à Arábia Saudita contra os houthis",
-    "url": "https://www.infomoney.com.br/mundo/reino-unido-amplia-apoio-militar-a-arabia-saudita-contra-os-houthis/",
-    "resumo": "O Reino Unido também enviará uma aeronave de transporte militar e um número não especificado de conselheiros militares para a Arábia Saudita",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T14:16:12.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8261c18325d34072",
-    "manchete": "Taxas dos DIs caem com percepção de que Flávio segue à frente de Lula na eleição",
-    "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-caem-com-percepcao-de-que-flavio-segue-a-frente-de-lula-na-eleicao/",
-    "resumo": "O movimento está em sintonia com o exterior, onde os rendimentos dos Treasuries de longo prazo também cediam",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T14:16:12.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4b01f7383265bfe6",
-    "manchete": "Cosan (CSAN3) muda estratégia e prioriza venda de fatia da Compass (PASS3) em vez da Rumo (RAIL3), diz site",
-    "url": "https://www.moneytimes.com.br/cosan-csan3-muda-estrategia-e-prioriza-venda-de-fatia-da-compass-pass3-em-vez-da-rumo-rail3-diz-site/",
-    "resumo": "A Cosan (CSAN3), conglomerado controlado pelo empresário Rubens Ometto, decidiu concentrar esforços na venda de uma participação minoritária na Compass (PASS3), empresa de distribuição de gás natural que controla a Comgás, após o esfriamento das negociações para alienar uma fatia da Rumo (RAIL3). As informações são do…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T14:15:09.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "198b6ca4e2e0f662",
-    "manchete": "Flávio Bolsonaro pode ter Congresso a favor se vencer eleições — mas ajuste fiscal exige mais que apoio político, diz Genial",
-    "url": "https://www.moneytimes.com.br/flavio-boolsonaro-pode-ter-o-congresso-a-favor-mas-o-ajuste-fiscal-exige-mais-diz-genial-jcav/",
-    "resumo": "Uma possível vitória de Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais, marcada para o dia 25 de outubro, pode abrir espaço para o tão esperado ajuste fiscal, na visão da Genial Investimentos. A equipe de macroeconomia sustenta sua tese em três pilares com um Congresso mais favorável à aprovação de…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T14:14:49.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a1beedf25c7932bb",
-    "manchete": "Dividendo de 11,4%: Fundo imobiliário recebe recomendação de compra da XP, mas com um alerta",
-    "url": "https://www.moneytimes.com.br/xp-recomenda-compra-de-fundo-imobiliario-mas-alerta-para-exposicao-ao-gpa-veja-potencial-de-alta-igdl/",
-    "resumo": "O fundo imobiliário Guardian Real Estate (GARE11) entrou na cobertura da XP Investimentos com recomendação de compra e preço-alvo de R$ 9,33 por cota, o que representa potencial de valorização (upside) de 7,4% frente ao valor atual, de R$ 8,69. Em relatório, a corretora destacou a previsibilidade dos rendimentos do…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T14:11:01.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "12744d26dd099f9c",
-    "manchete": "Por que locais de votação mudaram para o 2º turno? Entenda decisão do TSE",
-    "url": "https://www.infomoney.com.br/politica/por-que-locais-de-votacao-mudaram-para-o-2o-turno-entenda-decisao-do-tse/",
-    "resumo": "Justiça Eleitoral aponta problemas estruturais, condições climáticas e segurança para justificar alterações",
-    "fonte": "InfoMoney",
-    "data": "2026-10-20T14:09:15.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "86fddfe2bf7f1b4e",
-    "manchete": "Você deve se preocupar com a inflação nos EUA?",
-    "url": "https://www.moneytimes.com.br/voce-deve-se-preocupar-com-a-inflacao-nos-eua/",
-    "resumo": "Desde junho, quando assumiu o comando do Federal Reserve (Fed), o banco central dos Estados Unidos, o economista americano Kevin Warsh estabeleceu um estilo de comunicação diferente de Jerome Powell, seu antecessor. Ao contrário de Powell, que se esforçava para sinalizar ao mercado o que o banco central poderia fazer,…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T14:01:34.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f11f0ff94e1c8813",
-    "manchete": "Wall Street opera sem direção única com liquidação de IA e barril do petróleo a US$ 110",
-    "url": "https://www.moneytimes.com.br/wall-street-abertura-20-10-26-lils/",
-    "resumo": "Os índices de Wall Street operam sem direção única nesta terça-feira (20) com uma nova onda de liquidação do setor de inteligência artificial (IA) Confira o desempenho dos índices após a abertura: O que movimenta Wall Street hoje? O cenário geopolítico volta ao foco. Os preços do petróleo voltaram às máximas de cinco…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T13:52:46.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ab29e21e837dc590",
-    "manchete": "Internado por arritmia cardíaca, Janones diz que sai do hospital hoje — e quer aproveitar até o horário para voltar à campanha de Lula",
-    "url": "https://www.moneytimes.com.br/janones-anuncia-alta-hospitalar-para-esta-terca-feira-apos-internacao-por-arritmia-cardiaca-davs/",
-    "resumo": "O deputado federal André Janones (Rede-MG) anunciou que receberá alta hospitalar ainda nesta terça-feira (20) após ser internado por causa de uma arritmia cardíaca. Em publicação nas redes sociais, o parlamentar afirmou que deixará o Hospital Vila Nova Star, em São Paulo, às 13h13. \"Sairei pela porta da frente do…",
-    "fonte": "Money Times",
-    "data": "2026-10-20T13:51:37.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
