@@ -1,5 +1,367 @@
 [
   {
+    "id": "5bd03b4f74bdea9f",
+    "manchete": "“Neurótico”, CEO da Solinftec acelera mudanças para não ser atropelado pelo trem da IA",
+    "url": "https://agfeed.com.br/agtech/neurotico-ceo-da-solinftec-acelera-mudancas-para-nao-ser-atropelado-pelo-trem-da-ia",
+    "resumo": "Solinftec acelera transformação em inteligência artificial física e prepara novos produtos para transformar o agronegócio",
+    "fonte": "AgFeed",
+    "data": "2026-11-07T16:29:01.237Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8ccd520cefa8429d",
+    "manchete": "“Com a inflação, o têxtil é o primeiro a ser prejudicado”",
+    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/com-a-inflacao-o-textil-e-o-primeiro-a-ser-prejudicado",
+    "resumo": "Diretor de algodão da ADM, Alex Kurre alerta para o risco de a inflação causada pela alta do petróleo impactar a demanda pelo algodão",
+    "fonte": "AgFeed",
+    "data": "2026-11-07T16:29:01.236Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "baf8cfad4bc91e46",
+    "manchete": "Os jovens que querem revolucionar o mercado de insumos",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/os-jovens-que-querem-revolucionar-o-mercado-de-insumos",
+    "resumo": "Agtech Vereda aposta em um modelo sem lojas físicas, estoques próprios ou concessão de crédito, conectando diretamente fabricantes e produtores rurais com apoio de soluções digitais e IA",
+    "fonte": "AgFeed",
+    "data": "2026-11-07T16:29:01.236Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1ef2c14fac28e4f5",
+    "manchete": "A busca (e os créditos) do Google para levar o agro brasileiro para as suas nuvens",
+    "url": "https://agfeed.com.br/agtech/a-busca-e-os-creditos-do-google-para-levar-o-agro-brasileiro-para-as-suas-nuvens",
+    "resumo": "O Google Cloud quer ampliar sua presença no agronegócio brasileiro e já tem acesso ao ecossistema com 700 startups do AgTech Innovation Hub",
+    "fonte": "AgFeed",
+    "data": "2026-11-07T16:29:01.235Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3d5cef4364fb6b4f",
+    "manchete": "Elizabeth Holmes, da Theranos, troca o figurino, mas mantém o roteiro",
+    "url": "https://neofeed.com.br/finde/elizabeth-holmes-da-theranos-troca-o-figurino-mas-mantem-o-roteiro/",
+    "resumo": "O documentário Tudo Pode Ser Visto mostra a fundadora da Theranos, condenada a 11 anos e três meses de prisão, tenta sustentar sua inocência",
+    "fonte": "NeoFeed",
+    "data": "2026-11-07T16:28:56.442Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "042a92e2283ff0b2",
+    "manchete": "A brasileira que criou um sorvete vegano considerado um dos melhores da França",
+    "url": "https://neofeed.com.br/finde/a-brasileira-que-criou-um-sorvete-vegano-considerado-um-dos-melhores-da-franca/",
+    "resumo": "A mineira Roberta Costa uniu arte e ingredientes sustentáveis para transformar a La Crèma no novo hotspot do Quartier Latin",
+    "fonte": "NeoFeed",
+    "data": "2026-11-07T16:28:56.442Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "365d78d3e559e0d5",
+    "manchete": "Viajar ou provar que esteve lá? Exposição ri da nossa obsessão por fotografar tudo sem viver nada",
+    "url": "https://neofeed.com.br/finde/viajar-ou-provar-que-esteve-la-exposicao-ri-da-nossa-obsessao-por-fotografar-tudo-sem-viver-nada/",
+    "resumo": "Mostra reúne quase 50 imagens nas quais o britânico Martin Parr transformou filas, poses e praias lotadas em retratos bem-humorados",
+    "fonte": "NeoFeed",
+    "data": "2026-11-07T16:28:56.442Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fae2187eb1e05986",
+    "manchete": "De Roma para o mundo: pijama de € 200 deixa o quarto e conquista Hollywood e o TikTok",
+    "url": "https://neofeed.com.br/finde/de-roma-para-o-mundo-pijama-de-e-200-deixa-o-quarto-e-conquista-hollywood-e-o-tiktok/",
+    "resumo": "Preferida de celebridades como Zendaya e Gwyneth Paltrow, a Schostal já vestiu membros da realeza, políticos e empresários italianos",
+    "fonte": "NeoFeed",
+    "data": "2026-11-07T16:28:56.442Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6a44af82708fbe20",
+    "manchete": "Catar diz que mantém esforços de mediação entre EUA e Irã para evitar uma escalada",
+    "url": "https://www.infomoney.com.br/mundo/catar-diz-que-mantem-esforcos-de-mediacao-entre-eua-e-ira-para-evitar-uma-escalada/",
+    "resumo": "Governo dos EUA continua disposto a encontrar uma solução mesmo após as eleições de meio de mandato",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T16:23:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6e5b1f8c8d67e729",
+    "manchete": "Ex-presidente do Paraguai enfrenta promotores após impeachment e prisão domiciliar",
+    "url": "https://www.infomoney.com.br/mundo/ex-presidente-do-paraguai-enfrenta-promotores-apos-impeachment-e-prisao-domiciliar/",
+    "resumo": "Santiago Peña presta depoimento no Ministério Público em meio à crise política e financeira desencadeada pelo colapso do banco ueno",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T16:10:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fb739951af378000",
+    "manchete": "Dólar sobe 10% após eleição; bancos veem exagero e Congresso como contrapeso",
+    "url": "https://www.infomoney.com.br/mercados/dolar-pos-eleicao-lula-bancos-estrangeiros-projecoes/",
+    "resumo": "Commerzbank projeta dólar a R$ 5,20, Wells Fargo vê preço justo de R$ 5,30 e Goldman Sachs mantém cautela diante das incertezas fiscais",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T16:07:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c3d172f56c45702c",
+    "manchete": "Gonet quer barrar ações contra fim das bets até decisão definitiva do STF",
+    "url": "https://www.infomoney.com.br/mercados/gonet-stf-suspensao-acoes-proibicao-bets/",
+    "resumo": "Procurador-geral aponta insegurança jurídica após decisões que permitiram a retomada temporária de plataformas de apostas; pedido será analisado por Luiz Fux",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T15:56:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7cc0baa7f056524c",
+    "manchete": "Enem 2026: candidatos vivem expectativa sobre o tema da redação",
+    "url": "https://www.infomoney.com.br/brasil/enem-2026-candidatos-vivem-expectativa-sobre-o-tema-da-redacao/",
+    "resumo": "Mais de 5 milhões de estudantes fazem primeira prova no domingo",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T15:39:34.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "af0450a6d26b61a7",
+    "manchete": "Uruguai libera produtos avícolas do Brasil após 19 dias, exceto de Santa Catarina",
+    "url": "https://www.infomoney.com.br/mercados/uruguai-retoma-importacao-aves-brasil-santa-catarina/",
+    "resumo": "Decisão encerra restrições comerciais de alcance nacional; embargos restantes afetam cerca de 3% das exportações brasileiras de produtos avícolas",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T15:32:44.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8f190df75d49cc6c",
+    "manchete": "Fórmula 1 seguirá em Interlagos até 2035; acordo prevê novos investimentos",
+    "url": "https://www.infomoney.com.br/business/formula-1-interlagos-contrato-2035-sao-paulo/",
+    "resumo": "Contrato do GP de São Paulo foi prorrogado por cinco anos; prefeitura prevê melhorias no autódromo para aprimorar a experiência dos torcedores",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T15:21:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ec7aa69ff2d0e2c4",
+    "manchete": "Cinco estados concentram sinais de aumento dos casos de Covid-19",
+    "url": "https://www.infomoney.com.br/saude/cinco-estados-concentram-sinais-de-aumento-dos-casos-de-covid-19/",
+    "resumo": "Outras regiões também são impactadas pelo crescimento de infecções provocadas por metapneumovírus e rinovírus",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T15:20:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "df7edbbd0fc3b41e",
+    "manchete": "Vale-refeição e alimentação mudam hoje: veja o que muda com as novas regras",
+    "url": "https://www.infomoney.com.br/consumo/vale-refeicao-e-alimentacao-mudam-hoje-veja-o-que-muda-com-as-novas-regras/",
+    "resumo": "Interoperabilidade do PAT promete ampliar a aceitação dos cartões, mas especialistas alertam que adaptação será gradual e ainda pode haver recusas",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T15:19:44.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6bdec0223c2fb160",
+    "manchete": "Casas Bahia (BHIA3) adia divulgação do balanço do 3º trimestre; veja nova data",
+    "url": "https://www.moneytimes.com.br/casas-bahia-adia-divulgacao-do-balanco-do-3o-trimestre-para-10-12-jcav/",
+    "resumo": "O Grupo Casas Bahia (BHIA3), em recuperação judicial, adiou de 11 de novembro para 10 de dezembro a divulgação das demonstrações financeiras do terceiro trimestre de 2026. Em comunicado à Comissão de Valores Mobiliários (CVM), a companhia informou que precisa de prazo adicional para concluir a elaboração, consolidação…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T15:16:18.000Z",
+    "tags_tema": [
+      "RJ/EJ",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "eaff73175a74e51d",
+    "manchete": "Não quero mais que os humilhados sejam exaltados — by Pedro Vinicio",
+    "url": "https://braziljournal.com/nao-quero-mais-que-os-humilhados-sejam-exaltados-by-pedro-vinicio",
+    "resumo": "Não quero mais que os humilhados sejam exaltados — by Pedro Vinicio. Notícias e análises sobre economia, negócios e mercado no Brazil Journal.",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-07T15:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "471ee4d507e4887a",
+    "manchete": "Meta nega viés ao TSE e detalha alcance de Lula, Flávio e Nikolas no Instagram",
+    "url": "https://www.infomoney.com.br/politica/meta-tse-instagram-vies-politico-lula-flavio-nikolas/",
+    "resumo": "Empresa contesta acusações de favorecimento político e afirma que diferenças de alcance refletem estratégias de publicação, engajamento e visualizações repetidas",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T14:59:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4b2ffc3429ba1531",
+    "manchete": "Entra Itaú (ITUB4) e Axia Energia (AXIA3): 5 ações para bater o Ibovespa na semana, segundo a Terra Investimentos",
+    "url": "https://www.moneytimes.com.br/entra-itau-itub4-e-axia-energia-axia3-5-acoes-para-bater-o-ibovespa-na-semana-lmrs/",
+    "resumo": "A Terra Investimentos realizou dois ajustes na carteira recomendada semanal de ações, retirando Suzano (SUZB3) e MBRF (MBRF3) e abrindo espaço para a entrada de Axia Energia (AXIA3) e Itaú (ITUB4). No caso da Suzano, a exclusão ocorre após a ação atingir o objetivo em R$ 52,30. Já MBRF atingiu o mecanismo de stop…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T14:50:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ee172fd8f091be15",
+    "manchete": "VR e VA podem ser aceitos em mais maquininhas a partir deste sábado",
+    "url": "https://www.moneytimes.com.br/vr-e-va-podem-ser-aceitos-em-mais-maquininhas-a-partir-deste-sabado-jcav/",
+    "resumo": "Os cartões de vale-refeição (VR) e vale-alimentação (VA) terão mudanças a partir deste sábado (7). A principal delas é a implementação da interoperabilidade, que prevê a aceitação de cartões de diferentes operadoras em qualquer maquininha habilitada para processar esse tipo de pagamento, desde que o estabelecimento…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T14:19:15.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "235d2eaef246b6d5",
+    "manchete": "Quer dividendos em novembro? XP revela suas 11 ações favoritas para o mês",
+    "url": "https://www.moneytimes.com.br/quer-dividendos-em-novembro-xp-revela-suas-11-acoes-favoritas-para-o-mes-jcav/",
+    "resumo": "A XP Investimentos fez duas mudanças em sua carteira recomendada de ações pagadoras de dividendos para novembro de 2026. A corretora aumentou a participação da Caixa Seguridade (CXSE3) e reduziu a exposição à B3 (B3SA3), em meio à perspectiva de juros elevados por mais tempo. A participação da Caixa Seguridade passou…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T14:10:05.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7e0acbb3a3a3ff6e",
+    "manchete": "Bitcoin (BTC) tenta se recuperar após onda azul nos EUA e payroll; veja a cotação deste sábado (7)",
+    "url": "https://www.moneytimes.com.br/bitcoin-btc-tenta-se-recuperar-apos-onda-azul-nos-eua-e-payroll-veja-a-cotacao-deste-sabado-7-jcav/",
+    "resumo": "O bitcoin (BTC) opera próximo da estabilidade neste sábado (7), cotado a US$ 75.841,68, com leve alta de 0,3% nas últimas 24 horas. Apesar da recuperação discreta, a maior criptomoeda do mundo ainda acumula queda de 2,2% nos últimos sete dias. O movimento ocorre em meio à cautela dos investidores após a chamada \"onda…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T13:48:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0d3752e0168ac7c7",
+    "manchete": "Lucro dos três maiores bancos soma R$ 22,6 bi no 3º trimestre, alta de 2,4% em um ano",
+    "url": "https://www.moneytimes.com.br/lucro-dos-tres-maiores-bancos-soma-r-226-bi-no-3o-trimestre-alta-de-24-em-um-ano-jcav/",
+    "resumo": "Os três principais bancos privados de varejo do País &#8211; Itaú Unibanco, Bradesco e Santander Brasil &#8211; registraram lucro combinado de R$ 22,61 bilhões no terceiro trimestre, de acordo com dados compilados pela Broadcast, sistema de notícias em tempo real do Grupo Estado. O número representa crescimento de…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T13:32:49.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3548612305a90899",
+    "manchete": "XP tira bancos da carteira e reforça carteira 'defensiva' para novembro; confira as ações",
+    "url": "https://www.moneytimes.com.br/xp-tira-bancos-da-carteira-e-reforca-carteira-defensiva-para-novembro-confira-as-acoes-jcav/",
+    "resumo": "A XP Investimentos promoveu mudanças em sua carteira Top Ações para novembro, reforçando o perfil defensivo do portfólio diante de um cenário macroeconômico mais desafiador. A corretora incluiu JBS (JBSS32), WEG (WEGE3) e Caixa Seguridade (CXSE3), elevou a participação de Rede D'Or (RDOR3) e reduziu exposição a ativos…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T13:26:35.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fc2a658a605d5e3a",
+    "manchete": "C&#038;A (CEAB3) dispara 23,82%, enquanto Brava Energia (BRAV3) é a pior ação da semana; veja o que rolou no Ibovespa",
+    "url": "https://www.moneytimes.com.br/ca-ceab3-dispara-2382-enquanto-brava-energia-brav3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
+    "resumo": "O Ibovespa (IBOV) conseguiu rever ter as quedas dos últimos pregões e fechou em alta. O principal índice da bolsa brasileira acumulou ganho de 0,30% na semana e encerrou a última sessão aos 168.498,45 pontos, com valorização de 1,39%. Já o dólar à vista terminou a R$ 5,5087, com alta de 1,18% ante o real [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-11-07T13:24:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9c1948acd07ec021",
+    "manchete": "A força do governo Lula no 'cabo de guerra' do etanol com Trump, segundo Amaury Pekelman",
+    "url": "https://www.moneytimes.com.br/a-forca-do-governo-lula-no-cabo-de-guerra-do-etanol-com-trump-segundo-amaury-pekelman-pads/",
+    "resumo": "A disputa comercial envolvendo o etanol voltou ao centro das atenções nos últimos anos em meio às negociações entre Brasil e Estados Unidos, com o biocombustível sendo um dos principais pontos disputados pelas nações. Para Amaury Pekelman, presidente da União Nacional do Etanol de Milho (Unem), a postura do governo…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T13:07:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5bab944cfcb0622c",
+    "manchete": "Bancos na berlinda, dividendos no radar e XP cautelosa: as 5 notícias mais lidas da semana",
+    "url": "https://www.moneytimes.com.br/bancos-na-berlinda-dividendos-no-radar-e-xp-cautelosa-as-5-noticias-mais-lidas-da-semana-jcav/",
+    "resumo": "A semana foi marcada por revisões nas recomendações de ações, preocupações com o cenário econômico brasileiro e a busca dos investidores por oportunidades na Bolsa após a turbulência provocada pelas eleições presidenciais. Entre os destaques, o tombo de quase 40% das ações do Bradesco (BBDC4) e as perspectivas para os…",
+    "fonte": "Money Times",
+    "data": "2026-11-07T12:39:27.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "c73d8f664b5e7857",
     "manchete": "Mubadala e FS miram a dívida da Raízen — e, com ela, o controle da bioenergia no País",
     "url": "https://agfeed.com.br/negocios/mubadala-e-fs-miram-a-divida-da-raizen-e-com-ela-o-controle-da-bioenergia-no-pais",
@@ -6613,30 +6975,6 @@
     "importancia": 3
   },
   {
-    "id": "433b12ac8cd0370b",
-    "manchete": "Bunge quase dobra lucro líquido com ajuda do Brasil e da Viterra",
-    "url": "https://agfeed.com.br/negocios/bunge-quase-dobra-lucro-liquido-com-ajuda-do-brasil-e-da-viterra",
-    "resumo": "A Bunge quase dobrou seu lucro líquido no 3º trimestre de 2026, beneficiada pelo desempenho no Brasil, e pela integração com a Viterra",
-    "fonte": "AgFeed",
-    "data": "2026-10-29T16:56:31.663Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2f276df31f0b475b",
-    "manchete": "AGCO reporta retração global de 8,6% nas vendas, com destaque negativo ao Brasil AGCO reporta retração global de 8,6% nas vendas, com destaque negativo ao Brasil",
-    "url": "https://agfeed.com.br/negocios/agco-reporta-retracao-global-de-86-nas-vendas-com-destaque-negativo-ao-brasil",
-    "resumo": "A AGCO, fabricante das marcas Massey Ferguson, Fendt e Valtra, registrou queda de 8,6% nas vendas no terceiro trimestre de 2026",
-    "fonte": "AgFeed",
-    "data": "2026-10-29T16:56:31.663Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "1aef40e2db20cf98",
     "manchete": "Crédito mais arriscado, oportunidade maior: o dilema da Creditas para 2027",
     "url": "https://neofeed.com.br/startups/credito-mais-arriscado-oportunidade-maior-o-dilema-da-creditas-para-2027/",
@@ -7066,18 +7404,6 @@
       "Venture Capital",
       "Regulação"
     ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "52c4b7e2c1f98ca3",
-    "manchete": "Mounjaro das plantas? As apostas da Yara para que os bioinsumos respondam por 30% das suas margens Mounjaro das plantas? As apostas da Yara para que os bioinsumos respondam por 30% das suas margens",
-    "url": "https://agfeed.com.br/negocios/mounjaro-das-plantas-as-apostas-da-yara-para-que-os-bioinsumos-respondam-por-30-das-suas-margens",
-    "resumo": "Multinacional de fertilizantes Yara acelera pesquisas com microrganismos vivos em centro de pesquisas da Alemanha para avançar em bioinsumos",
-    "fonte": "AgFeed",
-    "data": "2026-10-29T00:52:28.937Z",
-    "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9770,328 +10096,6 @@
     "fonte": "InfoMoney",
     "data": "2026-10-25T13:17:33.000Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "75a44e7974fb4af5",
-    "manchete": "Eventual vitória de Flávio consolidaria 'onda azul' da direita, diz jornal La Nación",
-    "url": "https://www.infomoney.com.br/mundo/eventual-vitoria-de-flavio-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion/",
-    "resumo": "Jornais no exterior repercutem eleições no Brasil",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T13:01:41.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "15d6e8e2e2733a9b",
-    "manchete": "O trade eleitoral não acaba neste domingo (25): Resultado das urnas pode abrir espaço para buscar lucros de até três dígitos no mercado de opções",
-    "url": "https://www.moneytimes.com.br/o-trade-eleitoral-nao-acaba-neste-domingo-25-resultado-das-urnas-pode-abrir-espaco-para-buscar-lucros-de-ate-tres-digitos-no-mercado-de-opcoes-lbrdis626/",
-    "resumo": "O mercado brasileiro segue impulsionado pelo rali eleitoral. A avaliação é de que o resultado da disputa pode implicar uma trajetória diferente para a taxa básica de juros, a Selic. Nas últimas pesquisas de intenção de voto, o senador Flávio Bolsonaro apareceu numericamente à frente do presidente Lula. Mas, na…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T13:00:00.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "566287be3672e680",
-    "manchete": "Eventual vitória de Flávio Bolsonaro consolidaria 'onda azul' da direita, diz jornal La Nación",
-    "url": "https://www.moneytimes.com.br/eventual-vitoria-de-flavio-bolsonaro-consolidaria-onda-azul-da-direita-diz-jornal-la-nacion-igdl/",
-    "resumo": "Uma eventual vitória de Flávio Bolsonaro (PL) nas eleições presidenciais do Brasil consolidaria o que alguns, entre eles, o presidente da Argentina, Javier Milei, chamam de uma \"onda azul\" de governos de direita na região, escreveu o jornal argentino La Nación. \"Será o filho do ex-presidente Jair Bolsonaro, condenado…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T12:54:59.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9f8a3ffde9364bb7",
-    "manchete": "Eleitores poderão enfrentar temporal e ventos de até 100 km/hora, alerta INMET",
-    "url": "https://www.infomoney.com.br/brasil/eleitores-poderao-enfrentar-temporal-e-ventos-de-ate-100-km-hora-alerta-inmet/",
-    "resumo": "O alerta inclui São Paulo, Paraná, Rio de Janeiro, sul de Minas Gerais e Mato Grosso",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T12:52:02.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2fe9892012a9ada6",
-    "manchete": "Flávio Bolsonaro vota no Rio, pede comparecimento às urnas e diz que vai 'reorganizar' o Brasil se eleito",
-    "url": "https://www.moneytimes.com.br/flavio-bolsonaro-vota-no-rio-pede-comparecimento-as-urnas-e-diz-que-vai-reorganizar-o-brasil-se-eleito-igdl/",
-    "resumo": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, votou em uma escola municipal em Vila Isabel, na zona norte do Rio, na manhã deste domingo (25). O candidato do PL chegou à escola por volta das 8h20 (horário de Brasília) e votou ao lado de aliados, como o governador eleito do Rio de [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-25T12:18:23.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5cfff237ad7efc23",
-    "manchete": "Margem de vitória e aceitação do resultado: o que pode influenciar o mercado após a eleição, segundo Goldman Sachs",
-    "url": "https://www.moneytimes.com.br/margem-de-vitoria-e-aceitacao-do-resultado-o-que-pode-influenciar-o-mercado-apos-a-eleicao-segundo-o-goldman-sachs-igdl/",
-    "resumo": "A margem de vitória do presidente eleito após a divulgação do resultado do segundo turno da eleição presidencial, logo mais à noite, é um dos principais pontos a ser monitorado pelos investidores, na opinião dos economistas do banco Goldman Sachs. \"Uma diferença inferior a 1 ponto porcentual em relação ao segundo…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T12:07:38.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "93e536c0f4f50383",
-    "manchete": "Eleições 2026: Quem vence entre Lula (PT) e Flávio Bolsonaro (PL)? Veja o que o agregador de pesquisas aponta",
-    "url": "https://www.moneytimes.com.br/eleicoes-2026-quem-vence-entre-lula-pt-e-flavio-bolsonaro-pl-veja-o-que-o-agregador-de-pesquisas-aponta-rens/",
-    "resumo": "O segundo turno das eleições 2026 acontece neste domingo (25) a partir das 8h e término estimado às 17h (horário de Brasília). Quem estiver na fila até as esse horário poderá votar normalmente. Acre, Amazonas, Distrito Federal, Espírito Santo, Rio de Janeiro, Rio Grande do Norte e Tocantins encaram um segundo turno…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T12:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9c4a5c0936294347",
-    "manchete": "Mega-Sena acumula e próximo prêmio será de R$ 300 milhões",
-    "url": "https://www.moneytimes.com.br/mega-sena-acumula-e-proximo-premio-sera-de-r-300-milhoes-igdl/",
-    "resumo": "Ninguém acertou acertou as seis dezenas do Concurso 3.074 da Mega-Sena, sorteado no sábado (24). O prêmio acumulou novamente e está estimado em R$ 300 milhões para a nova rodada. Os últimos números sorteados foram: 02 &#8211; 03 &#8211; 20 &#8211; 25 &#8211; 39 &#8211; 57. A quina teve 175 apostas ganhadoras. Cada uma…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T11:51:56.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7080ffbe56de9524",
-    "manchete": "Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro",
-    "url": "https://www.moneytimes.com.br/lula-tem-805-dos-votos-na-nova-zelandia-contra-194-de-flavio-bolsonaro-igdl/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) recebeu 80,54% dos votos na Nova Zelândia no segundo turno da eleição presidencial, contra 19,46% do senador Flávio Bolsonaro (PL). Os dados foram apurados pelo Estadão na madrugada deste domingo (25), com base nos boletins de urna das cinco seções eleitorais de Wellington,…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T11:40:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7d614f658a8050fd",
-    "manchete": "Lula x Flávio: o que dizem as últimas pesquisas na véspera da eleição",
-    "url": "https://www.infomoney.com.br/politica/lula-x-flavio-o-que-dizem-as-ultimas-pesquisas-na-vespera-da-eleicao/",
-    "resumo": "Datafolha, Quaest, AtlasIntel, CNT/MDA e Gerp colocam Flávio numericamente à frente, mas mostram uma disputa apertada na chegada às urnas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T22:54:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8dbcaa973b77a449",
-    "manchete": "Flávio tem 49,9% e Lula, 48,4%, na última AtlasIntel antes das urnas",
-    "url": "https://www.infomoney.com.br/politica/flavio-tem-499-e-lula-484-na-ultima-atlasintel-antes-das-urnas/",
-    "resumo": "Diferença é de 1,6 ponto percentual; Lula oscila para cima na reta final enquanto aprovação do governo sobe e desaprovação recua",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T22:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "68eab9ae5be8e6ff",
-    "manchete": "Lula e Flávio Bolsonaro encerram segundo turno empatados, aponta pesquisa AtlasIntel/Bloomberg",
-    "url": "https://www.moneytimes.com.br/pesquisa-atlasintel-bloomberg-24-de-outubro-gaep/",
-    "resumo": "Pesquisa AtlasIntel/Bloomberg divulgada neste sábado (24), aponta o senador Flávio Bolsonaro (PL-RJ) com 49,9% e presidente Luiz Inácio Lula da Silva (PT) com 48,4% dos votos no segundo turno das eleições presidenciais. Outros 1,7% ainda estão indecisos e declaram votos em branco e nulo. O cenário é de empate técnico…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T22:30:00.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "41355b95e92c1fe4",
-    "manchete": "Na véspera da eleição, Quaest mostra Flávio 46% e Lula 45%",
-    "url": "https://www.infomoney.com.br/politica/na-vespera-da-eleicao-quaest-mostra-flavio-46-e-lula-45/",
-    "resumo": "O levantamento também mostra que 92% dos eleitores dizem que a escolha do voto já é definitiva",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T22:21:07.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3339930c70c0e4f9",
-    "manchete": "Quaest: Flávio Bolsonaro, com 46%, e Lula, com 45%, mantêm empate técnico",
-    "url": "https://www.moneytimes.com.br/quaest-flavio-bolsonaro-com-46-e-lula-com-45-mantem-empate-tecnico-gaep/",
-    "resumo": "A última pesquisa Quaest para o segundo turno da eleição presidencial 2026, divulgada neste sábado (24), traz Flávio Bolsonaro (PL) com 46% e Luiz Inácio Lula da Silva (PT) com 45% das intenções de voto. Nenhum dos candidatos, brancos e nulos somariam 9%. Restam ainda 8% de indecisos ou que preferiram não responder. O…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T22:18:24.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7b57fb73655c4254",
-    "manchete": "Pesquisa Atlas: Pazolini tem 51,2% dos votos válidos ao governo do ES; Ferraço marca 47,4%",
-    "url": "https://www.moneytimes.com.br/pesquisa-atlas-pazolini-tem-512-dos-votos-validos-ao-governo-do-es-ferraco-marca-474/",
-    "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra o candidato Lorenzo Pazolini (Republicanos) à frente de Ricardo Ferraço (MDB) nas intenções de votos válidos ao governo do Espírito Santo. Pazolini tem 51,2% dos votos, enquanto o emedebista marca 48,8%. A margem de erro da sondagem é de 2 pontos…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T22:15:16.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e18d5d139f9faf5e",
-    "manchete": "Datafolha: Celina Leão tem 59% e Leandro Grass 41% dos votos válidos no DF",
-    "url": "https://www.moneytimes.com.br/datafolha-celina-leao-tem-59-e-leandro-grass-41-dos-votos-validos-no-df/",
-    "resumo": "Pesquisa Datafolha divulgada neste sábado, 24, mostra a governadora do Distrito Federal, Celina Leão (PP), com 59% dos votos válidos, enquanto Leandro Grass (PT) registra 41% na disputa pelo segundo turno. Os votos válidos excluem brancos, nulos e indecisos e são utilizados pela Justiça Eleitoral para definir o…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T22:12:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5a00ca63da90def4",
-    "manchete": "Datafolha: Lula lidera entre menos propensos a votar; Flávio, entre os mais propensos",
-    "url": "https://www.infomoney.com.br/politica/datafolha-lula-lidera-entre-menos-propensos-a-votar-flavio-entre-os-mais-propensos/",
-    "resumo": "Modelo que considera distância do local de votação e comparecimento no primeiro turno mostra cenário inverso entre quem tem menor probabilidade de ir às urnas",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T21:54:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3e6e5dab0d30b36f",
-    "manchete": "Datafolha: Flávio Bolsonaro tem 51% e Lula, 49%, dos votos válidos",
-    "url": "https://www.moneytimes.com.br/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-gaep/",
-    "resumo": "A última pesquisa do Instituto Datafolha sobre o segundo turno das eleições presidenciais 2026, divulgada neste sábado (24), mostra o senador Flávio Bolsonaro (PL-RJ) com 51% e o presidente Luiz Inácio Lula da Silva (PT) com 49% dos votos válidos. No levantamento anterior, publicado na última quinta-feira (22), ambos…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T21:45:54.000Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "db3b7ab4768be5ab",
-    "manchete": "Santos x Bahia: Veja onde assistir ao jogo do Brasileirão",
-    "url": "https://www.infomoney.com.br/esportes/santos-bahia-onde-assistir-brasileirao-2026/",
-    "resumo": "O Santos é o mandante do jogo de hoje",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T21:45:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6cde28b8ff2f4cf1",
-    "manchete": "MP Eleitoral pede encerramento do processo sobre sigilo de Lula e de Flávio",
-    "url": "https://www.moneytimes.com.br/mp-eleitoral-pede-encerramento-do-processo-sobre-sigilo-de-lula-e-de-flavio/",
-    "resumo": "Após a decisão do ministro André Mendonça, segundo o qual ‘não cabe à Justiça Eleitoral definir o que cada candidato quer ou não divulgar’, o Ministério Público Eleitoral defendeu o encerramento do processo sobre a abertura do sigilo dos candidatos à Presidência, Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL).…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T21:43:40.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9b7b190b3a943f88",
-    "manchete": "Datafolha: Flávio 51%, Lula 49% em votos válidos; empate técnico permanece",
-    "url": "https://www.infomoney.com.br/politica/datafolha-final-flavio-51-lula-49-em-votos-validos-empate-tecnico-permanece/",
-    "resumo": "Recorte por probabilidade de comparecimento revela vantagem de Flávio entre quem tem maior propensão a votar",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T21:42:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fe3085d1121bdfa6",
-    "manchete": "Pesquisa Atlas no Acre: Mailza tem 60,4% dos votos válidos; Alan Rick, 39,6%",
-    "url": "https://www.moneytimes.com.br/pesquisa-atlas-no-acre-mailza-tem-604-dos-votos-validos-alan-rick-396/",
-    "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, sobre o segundo turno da disputa pelo governo do Acre aponta vitória de Mailza Assis (PP), com 60,4% das intenções de votos válidos, que excluem brancos e nulos, contra 39,6% de Alan Rick (Republicanos). A margem de erro é de 3 pontos porcentuais. O resultado…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T21:34:43.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ef0f83c6c72f5446",
-    "manchete": "Atlas no Amazonas: Omar Aziz tem 56,9% dos votos válidos e Maria do Carmo, 43,1%",
-    "url": "https://www.moneytimes.com.br/atlas-no-amazonas-omar-aziz-tem-569-dos-votos-validos-e-maria-do-carmo-431/",
-    "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra que o senador Omar Aziz (PSD) tem 56,9% dos votos válidos contra 43,1% da candidata Professora Maria do Carmo (PL) na disputa pelo governo do Amazonas. A margem de erro é de 2 pontos porcentuais. Nos votos totais, Aziz tem 55,4% das intenções e Maria do…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T21:32:25.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2a326d1b6de7d5ba",
-    "manchete": "Pesquisa Atlas: Cadu de Lula tem 51,1% e Allyson, 48,9% dos votos válidos no RN",
-    "url": "https://www.moneytimes.com.br/pesquisa-atlas-cadu-de-lula-tem-511-e-allyson-489-dos-votos-validos-no-rn/",
-    "resumo": "Pesquisa Atlas/PollsterGraph divulgada neste sábado, 24, mostra o ex-secretário estadual da Fazenda Cadu de Lula (PT) com 51,1% dos votos válidos na disputa pelo governo do Rio Grande do Norte enquanto o ex-prefeito de Mossoró Allyson Bezerra (União Brasil) registra 48,9%. Os dois estão tecnicamente empatados,…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T21:25:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0c3a232abcd6857b",
-    "manchete": "Segundo turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar",
-    "url": "https://www.moneytimes.com.br/segundo-turno-comeca-no-exterior-brasileiros-na-nova-zelandia-sao-os-primeiros-a-votar/",
-    "resumo": "Brasileiros que vivem na Nova Zelândia são os primeiros a depositarem seus votos neste segundo turno das eleições 2026. Foram abertas às 16 horas deste sábado (de Brasília) as cinco seções de Wellington, capital neozelandesa. Há 3,1 mil eleitores aptos a votar por lá. A votação no exterior respeita o horário local,…",
-    "fonte": "Money Times",
-    "data": "2026-10-24T21:22:52.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5d3aa33cd4e92532",
-    "manchete": "Na véspera do 2º turno, Gerp mostra 49% para Flávio contra 46% de Lula",
-    "url": "https://www.infomoney.com.br/politica/na-vespera-do-2o-turno-gerp-mostra-49-para-flavio-contra-46-de-lula/",
-    "resumo": "Rodada final mostra redução da vantagem do senador em relação à pesquisa de quarta-feira",
-    "fonte": "InfoMoney",
-    "data": "2026-10-24T21:13:58.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
