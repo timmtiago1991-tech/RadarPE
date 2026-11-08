@@ -1,5 +1,153 @@
 [
   {
+    "id": "433b12ac8cd0370b",
+    "manchete": "Bunge quase dobra lucro líquido com ajuda do Brasil e da Viterra Bunge quase dobra lucro líquido com ajuda do Brasil e da Viterra",
+    "url": "https://agfeed.com.br/negocios/bunge-quase-dobra-lucro-liquido-com-ajuda-do-brasil-e-da-viterra",
+    "resumo": "A Bunge quase dobrou seu lucro líquido no 3º trimestre de 2026, beneficiada pelo desempenho no Brasil, e pela integração com a Viterra",
+    "fonte": "AgFeed",
+    "data": "2026-11-08T00:31:57.647Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f276df31f0b475b",
+    "manchete": "AGCO reporta retração global de 8,6% nas vendas, com destaque negativo ao Brasil",
+    "url": "https://agfeed.com.br/negocios/agco-reporta-retracao-global-de-86-nas-vendas-com-destaque-negativo-ao-brasil",
+    "resumo": "A AGCO, fabricante das marcas Massey Ferguson, Fendt e Valtra, registrou queda de 8,6% nas vendas no terceiro trimestre de 2026",
+    "fonte": "AgFeed",
+    "data": "2026-11-08T00:31:57.647Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fee4771b90ea4f9e",
+    "manchete": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
+    "url": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
+    "resumo": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T22:36:00.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bb185f7d8ffe5963",
+    "manchete": "Reação contra a IA se espalha pela Europa com protestos contra data centers",
+    "url": "https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/",
+    "resumo": "Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T22:23:05.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e304fa49e1bc8544",
+    "manchete": "Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º",
+    "url": "https://www.infomoney.com.br/esportes/veja-o-grid-de-largada-do-gp-de-sp-norris-na-pole-camara-em-11o-e-bortoleto-em-19o/",
+    "resumo": "Piloto da McLaren dominou o fim de semana do Grande Prêmio de São Paulo de Fórmula 1",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T21:38:53.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f8c12bc13074b48",
+    "manchete": "Relações Exteriores do Paraguai diz que país \"sai fortalecido\" de crise do Ueno Bank",
+    "url": "https://www.infomoney.com.br/mundo/relacoes-exteriores-do-paraguai-diz-que-pais-sai-fortalecido-de-crise-do-ueno-bank/",
+    "resumo": "Manifestação ocorre enquanto governos estrangeiros começam a se pronunciar sobre a mudança na Presidência",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T21:24:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9ec20455ca3a3bc0",
+    "manchete": "Trump diz que ordenou investigação contra democratas e os acusa de extorsão",
+    "url": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
+    "resumo": "Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T20:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d5d02a5f1bcd2159",
+    "manchete": "Anvisa selecionará até 8 IFAs fabricados no Brasil para certificação",
+    "url": "https://www.infomoney.com.br/brasil/anvisa-selecionara-ate-8-ifas-fabricados-no-brasil-para-certificacao/",
+    "resumo": "Agência abriu chamamento público para seleção dos Insumos Farmacêuticos Ativos",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T20:15:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e53891d2c7f58f46",
+    "manchete": "Lula pede 'prontidão' ao 'Exército' de Janones e confirma live na Turquia",
+    "url": "https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/",
+    "resumo": "Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T20:11:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c5c544eab4e14251",
+    "manchete": "Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente",
+    "url": "https://www.infomoney.com.br/mundo/trump-convida-ceo-do-ufc-para-secretario-de-imprensa-e-amanda-nunes-para-assistente/",
+    "resumo": "Em publicação nas redes sociais, presidente dos EUA sugere equipe formada por lutadores e ex-lutadores",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T19:53:55.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4b8e85e08c84cc1a",
+    "manchete": "Polônia: Sobe para 6 número de mortos em ataque a tiros na Cracóvia",
+    "url": "https://www.infomoney.com.br/mundo/polonia-sobe-para-6-numero-de-mortos-em-ataque-a-tiros-na-cracovia/",
+    "resumo": "Atirador foi baleado durante um confronto com policiais e levado ao hospital para uma cirurgia",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T19:34:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9966d5b73d52a5ae",
+    "manchete": "Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam",
+    "url": "https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/",
+    "resumo": "Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9)",
+    "fonte": "InfoMoney",
+    "data": "2026-11-07T19:16:09.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "5bd03b4f74bdea9f",
     "manchete": "“Neurótico”, CEO da Solinftec acelera mudanças para não ser atropelado pelo trem da IA",
     "url": "https://agfeed.com.br/agtech/neurotico-ceo-da-solinftec-acelera-mudancas-para-nao-ser-atropelado-pelo-trem-da-ia",
@@ -6599,18 +6747,6 @@
     "importancia": 3
   },
   {
-    "id": "d31f6386c7cdd5bd",
-    "manchete": "FMC tem prejuízo de US$ 2 bilhões no 3º trimestre e vê receita despencar 80% após ajustes comerciais",
-    "url": "https://agfeed.com.br/negocios/fmc-tem-prejuizo-de-us-2-bilhoes-no-3o-trimestre-e-ve-receita-despencar-80-apos-ajustes-comerciais",
-    "resumo": "Fabricante americana de defensivos agrícolas contabiliza impacto de US$ 672 milhões no Ebitda após rever preços e descontos",
-    "fonte": "AgFeed",
-    "data": "2026-10-30T00:55:49.353Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "e429ae9b8c713f90",
     "manchete": "Nem petróleo, nem juros: por que a inteligência artificial virou o verdadeiro motor da economia global",
     "url": "https://neofeed.com.br/economia/nem-petroleo-nem-juros-por-que-a-inteligencia-artificial-virou-o-verdadeiro-motor-da-economia-global/",
@@ -6929,46 +7065,6 @@
     "data": "2026-10-29T17:53:00.000Z",
     "tags_tema": [
       "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "14af23b71faf6e7e",
-    "manchete": "“Não podemos mais pensar em milagres”: Cotribá aprova liquidação em nova tentativa de recuperação “Não podemos mais pensar em milagres”: Cotribá aprova liquidação em nova tentativa de recuperação",
-    "url": "https://agfeed.com.br/negocios/nao-podemos-mais-pensar-em-milagres-cotriba-aprova-liquidacao-em-nova-tentativa-de-recuperacao",
-    "resumo": "Com dívidas bilionárias, Cotribá busca renegociar débitos, preservar ativos e manter operações após fracasso de pedidos de RJ",
-    "fonte": "AgFeed",
-    "data": "2026-10-29T16:56:31.671Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9ec778ec43244d61",
-    "manchete": "“Temos a meta de dobrar em 5 anos, então precisamos acelerar”",
-    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/temos-a-meta-de-dobrar-em-5-anos-entao-precisamos-acelerar",
-    "resumo": "CEO da Globachem, Koen Quaghebeur detalha a estratégia da empresa belga, que fatura US$ 350 milhões e espera chegar a US$ 1 bi em dez anos",
-    "fonte": "AgFeed",
-    "data": "2026-10-29T16:56:31.665Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2622ef199908b309",
-    "manchete": "De olho na alavancagem, Amaggi abre caixa e recompra R$ 1,3 bilhão em títulos sustentáveis De olho na alavancagem, Amaggi abre caixa e recompra R$ 1,3 bilhão em títulos sustentáveis",
-    "url": "https://agfeed.com.br/negocios/de-olho-na-alavancagem-amaggi-abre-caixa-e-recompra-r-13-bilhao-em-titulos-sustentaveis",
-    "resumo": "Amaggi recompra R$ 1,3 bilhão em títulos sustentáveis com vencimento em 2028 para reduzir dívidas e reorganizar seu endividamento.",
-    "fonte": "AgFeed",
-    "data": "2026-10-29T16:56:31.664Z",
-    "tags_tema": [
-      "Economia Real"
     ],
     "tags_empresa": [],
     "relevante": true,
@@ -9999,102 +10095,6 @@
     "resumo": "Presidente votou em São Bernardo do Campo, agradeceu apoio recebido durante a campanha e defendeu respeito ao resultado das urnas",
     "fonte": "InfoMoney",
     "data": "2026-10-25T14:01:37.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4666c6acbafcb88b",
-    "manchete": "Vereadora do PT leva pedrada no rosto em carreata pró-Lula em Minas Gerais",
-    "url": "https://www.infomoney.com.br/brasil/vereadora-do-pt-leva-pedrada-no-rosto-em-carreata-pro-lula-em-minas-gerais/",
-    "resumo": "Vídeos nas redes sociais mostram manifestantes contrários jogando garrafas de vidro, tijolos e outros objetos no carro de som, segundo a assessoria da vereadora",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T13:42:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "606cc54cc3b62caa",
-    "manchete": "Lula vota no ABC Paulista e diz que ‘Brasil não vai eleger um mentiroso’",
-    "url": "https://www.moneytimes.com.br/lula-vota-no-abc-paulista-e-diz-que-brasil-nao-vai-eleger-um-mentiroso-igdl/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) votou na manhã deste domingo (25) em São Bernardo do Campo, em São Paulo, e disse ser grato pela mobilização popular vista nas ruas ao redor do país nas últimas semanas, ressaltando que acha que o Brasil “não vai eleger um mentiroso”, em referência ao senador Flávio [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-10-25T13:41:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9151302a9b9c0b8a",
-    "manchete": "Voto no Exterior: Flávio inverte resultado e fica na frente de Lula na Malásia",
-    "url": "https://www.infomoney.com.br/politica/voto-no-exterior-flavio-inverte-resultado-e-fica-na-frente-de-lula-na-malasia/",
-    "resumo": "País possui apenas uma seção eleitoral e 170 eleitores aptos a votar, mas candidato do PL obteve 17 votos a mais do que no 1º turno no país, enquanto petista fez 3 votos a menos",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T13:37:14.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9fd725d6eac1da61",
-    "manchete": "Durigan: 'medidas anunciadas desde o 1º turno respeitam responsabilidade fiscal'",
-    "url": "https://www.infomoney.com.br/mercados/durigan-medidas-anunciadas-desde-o-1o-turno-respeitam-responsabilidade-fiscal/",
-    "resumo": "\"Estamos trabalhando dentro do mesmo limite fiscal, não tem expansão fiscal. Nós garantimos superávit em 2027\", afirmou.",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T13:37:03.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e33d355d7d8b05ba",
-    "manchete": "‘Clima excelente nas ruas’ pode pesar a favor de Lula, afirma Haddad ao votar em SP",
-    "url": "https://www.moneytimes.com.br/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula-igdl/",
-    "resumo": "Fernando Haddad (PT), ex-ministro da Fazenda e ex-candidato ao governo estadual de São Paulo, afirmou que o “clima excelente nas ruas” pode pesar favoravelmente ao presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições. Ele votou na manhã deste domingo (25) em um colégio na Zona Sul de São Paulo.…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T13:32:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7d728a46ab9c8258",
-    "manchete": "4Intelligence: Flávio tem 82% de chance de se eleger presidente",
-    "url": "https://www.infomoney.com.br/politica/4intelligence-flavio-tem-82-de-chance-de-se-eleger-presidente/",
-    "resumo": "Pesquisas de intenção de voto divulgadas no sábado não alteraram a situação da disputa presidencial: Flávio Bolsonaro permanece ligeiramente à frente de Lula",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T13:28:02.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8c3317837fb0fc79",
-    "manchete": "Durigan vota em SP e afirma que 'medidas anunciadas desde o primeiro turno respeitam responsabilidade fiscal'",
-    "url": "https://www.moneytimes.com.br/durigan-vota-em-sp-e-afirma-que-medidas-anunciadas-desde-o-primeiro-turno-respeitam-responsabilidade-fiscal-igdl/",
-    "resumo": "O ministro da Fazenda e coordenador econômico do candidato à reeleição Luiz Inácio Lula da Silva (PT), Dario Durigan, disse, após votar em colégio na região da Avenida Paulista, em São Paulo, que as medidas anunciadas pelo governo, como subsídios aos combustíveis, o fim das apostas esportivas on-line (bets) e o…",
-    "fonte": "Money Times",
-    "data": "2026-10-25T13:21:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "004c1d74e6c7398a",
-    "manchete": "Haddad vota em SP e afirma que 'clima excelente nas ruas' pode pesar a favor de Lula",
-    "url": "https://www.infomoney.com.br/politica/haddad-vota-em-sp-e-afirma-que-clima-excelente-nas-ruas-pode-pesar-a-favor-de-lula/",
-    "resumo": "Ele citou, como pontos a favor do presidente Lula, \"a onda dos últimos dias, a manifestação popular, praticamente em todas as grandes cidades do País, o apreço que o povo do interior tem pelo presidente Lula, sobretudo no Nordeste\"",
-    "fonte": "InfoMoney",
-    "data": "2026-10-25T13:17:33.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
