@@ -1,5 +1,313 @@
 [
   {
+    "id": "076b2fac2d798ad3",
+    "manchete": "Como Regina Casé levou a favela e o funk para o horário nobre e ajudou a mudar a TV brasileira",
+    "url": "https://neofeed.com.br/finde/como-regina-case-levou-a-favela-e-o-funk-para-o-horario-nobre-e-ajudou-a-mudar-a-tv-brasileira/",
+    "resumo": "Em cartaz com o espetáculo Viva! Vida!, a atriz e apresentadora fala sobre carreira, maternidade, envelhecimento e inteligência artificial",
+    "fonte": "NeoFeed",
+    "data": "2026-11-15T17:13:40.764Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1cce59f5ad26d95b",
+    "manchete": "O vinho alemão busca seu lugar fora da garrafa azul",
+    "url": "https://neofeed.com.br/finde/o-vinho-alemao-busca-seu-lugar-fora-da-garrafa-azul/",
+    "resumo": "Associada à bebida adocicada que foi febre nos anos 1980, a Alemanha adota novas regras que valorizam o local de cultivo das uvas",
+    "fonte": "NeoFeed",
+    "data": "2026-11-15T17:13:40.764Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8f9caabe12e11af7",
+    "manchete": "Irã ataca base dos EUA no Barein com drones; reino diz ter interceptado ofensiva",
+    "url": "https://www.infomoney.com.br/mundo/ira-ataca-base-dos-eua-no-barein-com-drones-reino-diz-ter-interceptado-ofensiva/",
+    "resumo": "Guarda Revolucionária diz ter lançado seis drones contra radar americano; ataque ocorre em meio a incertezas sobre um acordo para encerrar a guerra, que já dura quase nove meses",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T17:11:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4d82264dd0f1f0af",
+    "manchete": "Filipinas e Austrália assinam acordo militar em meio a tensões com a China",
+    "url": "https://www.infomoney.com.br/mundo/filipinas-e-australia-assinam-acordo-militar-em-meio-a-tensoes-com-a-china/",
+    "resumo": "Acordo reduz a burocracia para operações conjuntas e reforça a dissuasão filipina no Mar do Sul da China, onde Manila e Pequim têm disputas territoriais",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:54:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d8491539e9ca7bee",
+    "manchete": "Infantino encontra Lula nas Filipinas e marca reunião sobre a Copa Feminina de 2027",
+    "url": "https://www.infomoney.com.br/mundo/infantino-encontra-lula-nas-filipinas-e-marca-reuniao-sobre-a-copa-feminina-de-2027/",
+    "resumo": "Presidente da Fifa parabenizou Lula pela reeleição durante a cúpula da Asean, em Manila, e disse que os dois vão se reunir em breve para tratar do torneio no Brasil",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:51:52.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5ed864e8f44f6927",
+    "manchete": "De Cusco à Amazônia: papa Leão 14 faz maratona de 12 horas pelo Peru",
+    "url": "https://www.infomoney.com.br/mundo/de-cusco-a-amazonia-papa-leao-14-faz-maratona-de-12-horas-pelo-peru/",
+    "resumo": "No penúltimo dia da viagem pela América do Sul, que já reuniu cerca de 12 milhões de pessoas, o papa deve falar sobre o desmatamento ilegal na floresta",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:48:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0f90b1901591710e",
+    "manchete": "Voos nos EUA só voltam ao normal neste domingo; FAA culpa roteador por paralisação",
+    "url": "https://www.infomoney.com.br/mundo/roteador-com-falha-causou-maior-paralisacao-aerea-nos-eua-desde-o-11-de-setembro/",
+    "resumo": "Governo atribui pane à instalação de roteadores por empresa contratada pela FAA; mais de 15 mil voos foram cancelados na sexta e no sábado",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:43:06.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "609d6227fc5b83ad",
+    "manchete": "Trump culpa Biden por pane no tráfego aéreo e pede verba urgente ao Congresso",
+    "url": "https://www.infomoney.com.br/mundo/trump-culpa-biden-por-pane-no-trafego-aereo-e-pede-verba-urgente-ao-congresso/",
+    "resumo": "Presidente americano diz que parte do sistema tem 50 anos e promete construir “o melhor do mundo” se o dinheiro for aprovado",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:36:40.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e5495c3588af311d",
+    "manchete": "Trump, Xi e Putin: o que esperar da viagem do presidente americano à Ásia",
+    "url": "https://www.infomoney.com.br/mundo/trump-xi-e-putin-o-que-esperar-da-viagem-do-presidente-americano-a-asia/",
+    "resumo": "Após perder a maioria no Congresso nas eleições de meio de mandato, o presidente americano passa pelas Filipinas e vai à cúpula da Apec, onde verá Xi e Putin",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:31:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8985612c969c13a7",
+    "manchete": "Otan não fará cúpula de líderes em 2027; entenda por que a aliança reduziu encontros",
+    "url": "https://www.infomoney.com.br/mundo/otan-nao-fara-cupula-de-lideres-em-2027-entenda-por-que-a-alianca-reduziu-encontros/",
+    "resumo": "Em meio a tensões sobre gastos militares, Irã e guerra na Ucrânia, a aliança também cortou encontros de ministros; Mark Rutte diz que cúpulas ocorrem “quando houver necessidade”",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:28:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9d026e264a70fde7",
+    "manchete": "Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez",
+    "url": "https://www.infomoney.com.br/politica/apos-asean-e-cop-31-lula-embarca-para-madri-para-encontro-com-pedro-sanchez/",
+    "resumo": "O presidente participou da cúpula da Asean, em Manila, e da COP 31, na Turquia, e chega a Madri na noite deste domingo",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T16:26:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2534dc39bfa725da",
+    "manchete": "Dia de Sorte acumula e prêmio principal do próximo sorteio vai a R$ 900 mil",
+    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-acumula-e-premio-principal-do-proximo-sorteio-vai-a-r-900-mil/",
+    "resumo": "O próximo sorteio acontece na segunda-feira, 16 de novembro",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T15:55:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5ce6fae983ce96f3",
+    "manchete": "EUA: Trump cobra Congresso por aprovação de verbas para modernizar sistema de tráfego aéreo",
+    "url": "https://www.moneytimes.com.br/eua-trump-cobra-congresso-por-aprovacao-de-verbas-para-modernizar-sistema-de-trafego-aereo-lmrs/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, cobrou do Congresso norte-americano a aprovação de verbas para modernizar o sistema de aviação do país. Em postagem feita há pouco na rede social Truth Social, ele afirmou: \"Temos o conhecimento e o plano para o Sistema de Controle de Voo, precisamos que o Congresso…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T15:10:24.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c875b276f5c06fc8",
+    "manchete": "Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk",
+    "url": "https://www.moneytimes.com.br/peticao-para-retorno-de-jensen-huang-a-nvidia-supera-100-mil-assinaturas-e-ganha-apoio-de-elon-musk-lmrs/",
+    "resumo": "Uma petição em favor de Jensen Huang já ultrapassou 100 mil assinaturas e reuniu alguns dos principais nomes da indústria de tecnologia. Criada por acionistas e funcionários atuais e antigos da Nvidia, a petição questiona a saída do executivo e pede que ele possa retornar ao comando da companhia enquanto uma…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T15:01:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "19616eedb8764049",
+    "manchete": "Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores",
+    "url": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/",
+    "resumo": "A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setembro, divulgado na…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T14:50:00.000Z",
+    "tags_tema": [
+      "Economia Real",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d3bf2b19443feda1",
+    "manchete": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
+    "url": "https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/",
+    "resumo": "A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalmente em caixa. O…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T13:31:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b299871212adb33c",
+    "manchete": "Bitcoin recua neste domingo (15) e acumula perdas na semana; veja os preços das criptomoedas",
+    "url": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/",
+    "resumo": "As maiores criptomoedas do mundo operam majoritariamente no negativo neste domingo (15), com desempenho também negativo ao longo da semana. Por volta das 9h30 (horário de Brasília), o bitcoin (BTC) apresentava queda de 2,52% nas últimas 24 horas, a US$ 65,416.76. Na semana, a cripto registrava recuo de 13,78%. Já o…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T13:24:56.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3924e9d261d5cba4",
+    "manchete": "Trump: investidores de todo o mundo odiaram ver o que aconteceu no dia da eleição",
+    "url": "https://www.moneytimes.com.br/trump-investidores-de-todo-o-mundo-odiaram-ver-o-que-aconteceu-no-dia-da-eleicao-lmrs/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que investidores não gostaram do resultado das eleições de meio de mandato no país e que o mercado de ações perdeu U$ 3 trilhões. A votação terminou com uma mudança histórica no Congresso norte-americano: a vitória dos democratas impôs uma derrota ao presidente…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T13:09:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "020fc79489fb10ea",
+    "manchete": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
+    "url": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15), em declaração à imprensa, em Manila, nas Filipinas, a necessidade de o Brasil deixar de ser uma nação \"eternamente em desenvolvimento\" e passe a figurar entre os países desenvolvidos. Para isso, o petista destacou a importância de investimentos…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T12:51:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8c8a213214940985",
+    "manchete": "ABC Brasil (ABCB3) fecha compra da Angá Asset; transação pode alcançar R$ 690 milhões",
+    "url": "https://www.moneytimes.com.br/abc-brasil-abcb3-fecha-compra-da-anga-asset-transacao-pode-alcancar-r-690-milhoes-lmrs/",
+    "resumo": "O Banco ABC Brasil (ABCB3) assinou contrato de compra e venda de quotas para a aquisição de participação na Angá Controle Holding, que consolida os investimentos da Angá Asset Management, gestora independente com aproximadamente R$ 24 bilhões sob gestão, mostra fato relevante divulgado na noite de sábado (14). De…",
+    "fonte": "Money Times",
+    "data": "2026-11-15T12:03:14.000Z",
+    "tags_tema": [
+      "M&A",
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "270a5a43ad26c7c7",
+    "manchete": "OPINIÃO. Ao vencedor, as alíquotas. Ao contribuinte, a inflação",
+    "url": "https://braziljournal.com/opiniao-ao-vencedor-as-aliquotas-ao-contribuinte-a-inflacao",
+    "resumo": "“Ao vencedor, as batatas”, ensinava Quincas Borba. Passado o furor da virada eleitoral, é chegado aquele momento inconveniente em que o novo governo terá de lidar com uma herança que dificilmente vai designar como maldita, mas já reconhece como complicada. Boa parte do estoque de batatas que precisarão ser descascadas…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-15T03:10:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "06f78bbda1e9b738",
+    "manchete": "Mais gente neste País deveria estar no xadrez",
+    "url": "https://braziljournal.com/mais-gente-neste-pais-deveria-estar-no-xadrez",
+    "resumo": "Mais atual do que nunca, o xadrez vai ganhar uma celebração anual em São Paulo, começando no próximo sábado. Idealizado pelo Instituto Giovanni Vescovi – a organização filantrópica que leva o nome de um dos grandes enxadristas brasileiros e é liderada pelo próprio – o primeiro Festival IGV ocorre no Museu do…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-15T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f472d7cfbe23d1e8",
+    "manchete": "OPINIÃO. Um Governo negacionista exige um Senado independente",
+    "url": "https://braziljournal.com/opiniao-um-governo-negacionista-exige-um-senado-independente",
+    "resumo": "Dilma está de volta. As péssimas ideias econômicas da Presidente destituída – que levaram o País à maior crise desde a década de 1930 – estão voltando agora com o Governo Lula.",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-15T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6e69f54d51cfded6",
+    "manchete": "Thiago Chagas, o comediante salvo por Fernanda Montenegro",
+    "url": "https://braziljournal.com/thiago-chagas-o-comediante-salvo-por-fernanda-montenegro",
+    "resumo": "Raras são as imitações feitas por humoristas que escapam da crítica excessiva ou de um deboche duvidoso. A personagem Dona Fernandona, criada pelo ator carioca Thiago Chagas em homenagem à atriz Fernanda Montenegro, é uma exceção.",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-15T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0684fb7cf3c2879a",
+    "manchete": "Londres-Paris? O Eurostar vai ganhar concorrência",
+    "url": "https://braziljournal.com/londres-paris-o-eurostar-vai-ganhar-concorrencia",
+    "resumo": "O Eurostar – o único serviço ferroviário que opera trens de passageiros entre Londres e a Europa continental desde a inauguração do Eurotúnel, em 1994 – está prestes a perder seu monopólio. A britânica Virgin e a italiana FS Group se preparam para começar a colocar seus próprios trens no túnel até o fim da década, num…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-15T03:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "a5311e29a3b3d034",
     "manchete": "CNH vende controle da divisão de construção e fecha o foco no agro",
     "url": "https://agfeed.com.br/negocios/cnh-vende-controle-da-divisao-de-construcao-e-fecha-o-foco-no-agro",
@@ -9815,323 +10123,6 @@
     "fonte": "NeoFeed",
     "data": "2026-11-03T02:53:18.560Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e2768be9bb0400ab",
-    "manchete": "Vendas da Apple superam estimativas, mas China segue como ponto fraco",
-    "url": "https://www.infomoney.com.br/mercados/vendas-da-apple-superam-estimativas-mas-china-segue-como-ponto-fraco/",
-    "resumo": "A receita cresceu 12%, para US$ 114,5 bilhões, no quarto trimestre fiscal, encerrado em 26 de setembro, informou a empresa em comunicado nesta segunda-feira",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T22:41:38.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "04b7eeece0790c8e",
-    "manchete": "Palantir vê lucro mais que dobrar no 3º trimestre e eleva projeções para 2026",
-    "url": "https://www.infomoney.com.br/mercados/palantir-ve-lucro-mais-que-dobrar-no-3o-trimestre-e-eleva-projecoes-para-2026/",
-    "resumo": "A receita da companhia de software e inteligência artificial (IA) disparou 96% na comparação anual, para US$ 2,31 bilhões, superando a expectativa de US$ 2,18 bilhões do mercado",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T22:37:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "54294d1ccd1ccaa8",
-    "manchete": "Selic a 7,5% para conter a dívida? Proposta de Lara Resende ganha apoio no PT e provoca reação",
-    "url": "https://www.moneytimes.com.br/selic-a-75-para-conter-a-divida-proposta-de-lara-resende-ganha-apoio-no-pt-e-provoca-reacao-jcav/",
-    "resumo": "Uma proposta para reduzir os juros e frear o crescimento da dívida pública colocou o economista André Lara Resende, um dos formuladores do Plano Real, no centro do debate sobre os rumos da política econômica. As ideias ganharam apoio de integrantes do PT e repercutiram após notícias de um possível encontro com o…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T22:35:00.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a960d7f3c991ad75",
-    "manchete": "Parlamentares governistas aumentam críticas a juros altos antes de reunião do Copom",
-    "url": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom/",
-    "resumo": "O deputado federal Lindbergh Farias (PT-RJ) criticou nesta segunda-feira, 2, a mudança nas projeções dos analistas para a taxa básica de juros após o segundo turno das eleições",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T22:15:22.000Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "efee73d80f3690c4",
-    "manchete": "Trump admite indultos a aliados e promete vetos se democratas vencerem eleição",
-    "url": "https://www.infomoney.com.br/mundo/trump-admite-indultos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/",
-    "resumo": "Questionado sobre a possibilidade de perdoar antecipadamente aliados diante de ameaças de investigações, Trump citou o antecessor Joe Biden",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T22:13:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ace1cd1bde70c4e0",
-    "manchete": "Wall Street vira com petróleo em queda, IA sob pressão e Apple no radar",
-    "url": "https://www.moneytimes.com.br/sp-500-fecha-em-baixa-e-apple-recua-antes-de-relatorio-trimestral-jcav/",
-    "resumo": "O S&#38;P 500 fechou em baixa nesta segunda-feira, com os preços do petróleo despencando devido ao otimismo em relação a um possível acordo de paz entre os Estados Unidos e o Irã, enquanto as ações da Apple registraram queda antes do relatório trimestral da fabricante do iPhone e com os investidores aguardando as…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T21:32:25.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0d9b504f7685f521",
-    "manchete": "Bolsas de NY fecham mistas com queda do petróleo, em semana de payroll e midterms",
-    "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-abrem-em-alta-com-queda-do-petroleo-em-semana-de-agenda-cheia/",
-    "resumo": "A Apple recuava 0,42% antes de divulgar balanço após fechamento do mercado",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T21:22:33.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ed031e63a7086895",
-    "manchete": "Aprovação de Trump fica perto da mínima histórica antes da eleição de meio de mandato, mostra pesquisa da Reuters/Ipsos",
-    "url": "https://www.moneytimes.com.br/aprovacao-de-trump-fica-perto-da-minima-historica-antes-da-eleicao-de-meio-de-mandato-mostra-pesquisa-da-reuters-ipsos-jcav/",
-    "resumo": "O índice de aprovação do presidente Donald Trump se manteve próximo do mínimo histórico, com uma ampla parcela do eleitorado norte-americano vendo seu voto nas eleições legislativas de terça-feira como uma forma de se opor ao presidente republicano, de acordo com uma pesquisa da Reuters/Ipsos concluída na…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T21:19:08.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "254c8fa6d2b92f6d",
-    "manchete": "Safra ajusta carteira após queda de 10% e aposta em ações de dividendos; confira",
-    "url": "https://www.moneytimes.com.br/safra-ajusta-carteira-apos-queda-de-10-e-aposta-em-acoes-de-dividendos-confira-jcav/",
-    "resumo": "Após a queda de 10,05% de sua carteira de ações em outubro, o Safra decidiu reduzir o risco e ampliar o espaço de empresas pagadoras de dividendos para novembro. O banco fez quatro trocas na seleção Top 10 e diminuiu a participação da Vale (VALE3). Entram Itaúsa (ITSA4), Suzano (SUZB3), TIM (TIMS3) e Eneva (ENEV3),…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T21:12:04.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5cca9efedcda342b",
-    "manchete": "Aprovação de Trump fica perto da mínima histórica, mostra pesquisa da Reuters/Ipsos",
-    "url": "https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/",
-    "resumo": "Os resultados da pesquisa nacional de cinco dias também mostraram sinais de que a disputa entre democratas e republicanos pode estar ficando mais acirrada à medida que o dia da eleição se aproxima",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T20:57:35.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "876fb7c5825cbc3f",
-    "manchete": "Brasileirão 2026: Onde assistir RB-Bragantino x Santos?",
-    "url": "https://www.infomoney.com.br/esportes/brasileirao-onde-assistir-santos-rb-bragantino/",
-    "resumo": "O jogo acontece na casa do RB-Bragantino",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T20:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c00f5bb71482718c",
-    "manchete": "Índice de ADRs brasileiros cai em dia de queda de petróleo e bolsas mistas em NY",
-    "url": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-sobe-em-dia-de-queda-de-petroleo-e-altas-em-ny/",
-    "resumo": "O movimento acompanha os principais índices nos EUA. As bolsas de Nova York abriram em alta nesta segunda-feira, 2",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T20:31:20.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3710b88016accb25",
-    "manchete": "Criptomoedas: bitcoin opera em queda após ataque à Binance, à espera de midterms",
-    "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-opera-em-queda-apos-ataque-a-binance-a-espera-de-midterms/",
-    "resumo": "No Brasil, a corretora Mercado Bitcoin também relatou um ataque, que contabilizou perdas de US$ 50 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T20:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a9da82da051d2194",
-    "manchete": "Nem a geladeira está salva: hackers invadem sistemas e atacam supermercados na Europa",
-    "url": "https://neofeed.com.br/insiders/nem-a-geladeira-esta-salva-hackers-invadem-sistemas-e-atacam-supermercados-na-europa/",
-    "resumo": "Depois de casos no Japão e na França, chegou a vez de redes da Bélgica, de Luxemburgo, da Estônia e da Suécia sofrerem com ciberataques que aqueceram os freezers a 50 graus",
-    "fonte": "NeoFeed",
-    "data": "2026-11-02T20:22:57.874Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b63368d7df245a4b",
-    "manchete": "Boa Safra quer \"colher\" metade do resultado em outras culturas",
-    "url": "https://neofeed.com.br/videos/numeros-falam/boa-safra-quer-colher-metade-do-resultado-em-outras-culturas/",
-    "resumo": "Boa Safra aposta em milho, sorgo e sementes de pastagem para reduzir a sazonalidade e ocupar durante mais tempo os ativos construídos para a soja",
-    "fonte": "NeoFeed",
-    "data": "2026-11-02T20:22:57.874Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1c244222f7cddf13",
-    "manchete": "Na corrida da IA, os EUA inovam e a China escala. Mas há uma terceira disputa em aberto",
-    "url": "https://neofeed.com.br/inovacao/na-corrida-da-ia-os-eua-inovam-e-a-china-escala-mas-ha-uma-terceira-disputa-em-aberto/",
-    "resumo": "Autora do livro A nova China: para além do socialismo e do capitalismo e professora da London School of Economics por 15 anos, Keyu Jin diz ao NeoFeed como a China equilibra Estado e mercado e sugere ao Brasil abrir a economia",
-    "fonte": "NeoFeed",
-    "data": "2026-11-02T20:22:57.873Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c5c90895b1b0f7c5",
-    "manchete": "OPINIÃO: As reservas internacionais não podem virar cheque especial para baixar juros",
-    "url": "https://neofeed.com.br/insiders/opiniao-as-reservas-internacionais-nao-podem-virar-cheque-especial-para-baixar-juros/",
-    "resumo": "A proposta de Lara Resende promete economizar juros. O risco é pagar a conta com as reservas e com a estabilidade que ele próprio ajudou a construir",
-    "fonte": "NeoFeed",
-    "data": "2026-11-02T20:22:57.872Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9e70d74e42570221",
-    "manchete": "'Viva o equilíbrio fiscal', diz governador cotado para a Fazenda sobre secretário",
-    "url": "https://www.infomoney.com.br/politica/viva-o-equilibrio-fiscal-diz-governador-cotado-para-a-fazenda-sobre-secretario/",
-    "resumo": "O petista afirmou que o Piauí é o primeiro lugar do Brasil em taxa de investimentos públicos em relação à receita",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T20:22:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "53637fc6c46b180c",
-    "manchete": "Petróleo despenca com expectativa de diálogo entre Irã e EUA e decisão da Opep+",
-    "url": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-de-mais-de-7-com-expectativa-de-dialogo-entre-eua-e-ira-sobre-guerra-jcav/",
-    "resumo": "Os contratos futuros do petróleo fecharam em forte queda nesta segunda-feira, 2, diante das expectativas de diálogo entre Irã e EUA, por mediadores, para alcançar uma resolução para o conflito no Oriente Médio e reabrir o Estreito de Ormuz. Investidores também digerem a decisão da Organização de Países Exportadores de…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T20:18:37.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "501c66b5ef8f0420",
-    "manchete": "Até um dos mais otimistas pisou no freio: Inter eleva projeção da Selic e vê pausa nos cortes",
-    "url": "https://www.moneytimes.com.br/ate-um-dos-mais-otimistas-pisou-no-freio-inter-eleva-projecao-da-selic-e-ve-pausa-nos-cortes-jcav/",
-    "resumo": "Um dos bancos que mais apostavam na continuidade da queda dos juros entre as instituições acompanhadas pelo Money Times durante o ano, o Inter passou a prever uma interrupção dos cortes antes do esperado. O banco agora estima que a Selic encerre 2026 em 13,50%, ante os 13,25% projetados anteriormente, diante da piora…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T20:02:42.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0aabfe391ce337b8",
-    "manchete": "Montadoras nos EUA pedem proibição permanente de carros chineses",
-    "url": "https://www.infomoney.com.br/business/montadoras-nos-eua-pedem-proibicao-permanente-de-carros-chineses/",
-    "resumo": "Grandes montadoras pedem ao Congresso dos EUA que aprove proibição permanente de veículos chineses",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T19:42:59.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2c1e53b891107e69",
-    "manchete": "El Niño representa “risco significativo” de aumento da inflação em 2027, diz estudo do Fed de San Francisco",
-    "url": "https://www.moneytimes.com.br/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-diz-estudo-do-fed-de-san-francisco/",
-    "resumo": "O fenômeno climático El Niño, que pode causar um aumento recorde nas temperaturas oceânicas nos próximos meses, representa um “risco significativo” de aumento da inflação nos Estados Unidos em 2027, embora também deva contribuir para a geração de empregos, de acordo com uma pesquisa publicada nesta segunda-feira pelo…",
-    "fonte": "Money Times",
-    "data": "2026-11-02T19:38:03.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "aafcb089512adc77",
-    "manchete": "Ouro fecha em alta com otimismo sobre diálogo entre EUA e Irã para encerrar guerra",
-    "url": "https://www.infomoney.com.br/mercados/ouro-fecha-em-alta-com-otimismo-sobre-dialogo-entre-eua-e-ira-para-encerrar-guerra/",
-    "resumo": "O mercado também monitora sinais do futuro da trajetória de juros pelo Federal Reserve (Fed), à espera da publicação do payroll no fim desta semana",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T19:36:47.000Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "720e94a62f660bd6",
-    "manchete": "Coreia do Norte turbina hackers com IA: roubo de US$ 6,3 bi da Binance é só o começo",
-    "url": "https://www.infomoney.com.br/mundo/coreia-do-norte-turbina-hackers-com-ia-roubo-de-us-63-bi-da-binance-e-so-o-comeco/",
-    "resumo": "O grupo norte-coreano acusado do maior roubo de criptomoedas da história é uma organização estatal de hackers de elite, treinados desde cedo para caçar \"grandes presas\". A inteligência artificial agora lhes deu uma nova ferramenta poderosa para inflar os cofres de Kim Jong Un e financiar sua expansão militar",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T19:31:23.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "674576aeaaae0b47",
-    "manchete": "El Niño representa “risco significativo” de aumento da inflação em 2027 nos EUA",
-    "url": "https://www.infomoney.com.br/mundo/el-nino-representa-risco-significativo-de-aumento-da-inflacao-em-2027-nos-eua/",
-    "resumo": "Estudo do Fed de San Francisco estima que o episódio atual já possa ter elevado níveis gerais de preços em 0,3 ponto percentual",
-    "fonte": "InfoMoney",
-    "data": "2026-11-02T19:15:31.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
