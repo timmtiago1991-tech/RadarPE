@@ -1,5 +1,155 @@
 [
   {
+    "id": "090fe0d8ccce5a91",
+    "manchete": "O manual de Jamie Dimon: as cinco regras de gestão do CEO do J.P. Morgan",
+    "url": "https://neofeed.com.br/finde/o-manual-de-jamie-dimon-as-cinco-regras-de-gestao-do-ceo-do-j-p-morgan/",
+    "resumo": "À frente do J.P. Morgan Chase, Jamie Dimon defende a liberdade para discordar do chefe e a importância de reconhecer os próprios erros",
+    "fonte": "NeoFeed",
+    "data": "2026-11-16T00:58:49.837Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "df0ed507a78e21e3",
+    "manchete": "A IA não vai salvar nem destruir o mundo: a visão de uma ex-assessora da Casa Branca",
+    "url": "https://neofeed.com.br/inovacao/a-ia-nao-vai-salvar-nem-destruir-o-mundo-a-visao-de-uma-ex-assessora-da-casa-branca/",
+    "resumo": "No Web Summit Lisboa, Carmem Domingues, ex-assessora de IA na Casa Branca durante o governo Joe Biden, defende o tecnorrealismo, critica a corrida corporativa por tokens e vê pouca chance de regulação séria nos EUA",
+    "fonte": "NeoFeed",
+    "data": "2026-11-16T00:58:49.837Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c9a6951c9ed6cfb2",
+    "manchete": "Quando sai o gabarito oficial do Enem 2026? Veja a data prevista pelo Inep",
+    "url": "https://www.infomoney.com.br/brasil/quando-sai-o-gabarito-oficial-do-enem-2026-veja-a-data-prevista-pelo-inep/",
+    "resumo": "Respostas oficiais devem ser publicadas em até dez dias úteis após o segundo dia de provas; resultado sai em meados de janeiro de 2027",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T22:01:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2e708aa7d07a59de",
+    "manchete": "Enem 2026: carros elétricos, genética e meio ambiente marcam 2º dia; veja o que caiu",
+    "url": "https://www.infomoney.com.br/brasil/enem-2026-carros-eletricos-genetica-e-meio-ambiente-marcam-2o-dia-veja-o-que-caiu/",
+    "resumo": "Segundo professores de cursinhos e escolas, a prova de Matemática e Ciências da Natureza teve forte presença da temática ambiental e exigiu muita interpretação de texto",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:41:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0acbc98ba8f6397a",
+    "manchete": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
+    "url": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/",
+    "resumo": "Estatal tem queda nas receitas com encomendas e envios internacionais e gasta R$ 2,5 bilhões com juros; governo prevê aporte de R$ 6 bilhões em 2027",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:38:01.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7cb83bcdae1adb06",
+    "manchete": "Piores incêndios em 11 anos levam Indonésia a pedir desculpas a Cingapura e Malásia",
+    "url": "https://www.infomoney.com.br/mundo/piores-incendios-em-11-anos-levam-indonesia-a-pedir-desculpas-a-cingapura-e-malasia/",
+    "resumo": "Na cúpula da Asean, Prabowo Subianto prometeu medidas firmes contra empresas ligadas às queimadas e a criação de um novo órgão de prevenção",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:34:40.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "629d5173aa6a502f",
+    "manchete": "Inflação nos EUA está ‘caminhando na direção errada’, alerta dirigente do Fed",
+    "url": "https://www.infomoney.com.br/economia/inflacao-nos-eua-esta-caminhando-na-direcao-errada-alerta-dirigente-do-fed/",
+    "resumo": "Presidente do Fed de Kansas City, Jeff Schmid diz que o BC americano tem ferramentas para conter os preços; mercados já precificam alta de 0,25 ponto em dezembro",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:32:13.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b3083fdb3a6f3162",
+    "manchete": "Irã pressiona EUA em duas frentes: drones no Barein e avanço houthi no Iêmen",
+    "url": "https://www.infomoney.com.br/mundo/ira-pressiona-eua-em-duas-frentes-drones-no-barein-e-avanco-houthi-no-iemen/",
+    "resumo": "Forças apoiadas pela Arábia Saudita recuam de Bab el-Mandeb, rota estratégica do petróleo, enquanto Teerã lança drones contra base americana; diplomacia segue travada",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:24:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b06aafa2b8951629",
+    "manchete": "Calendário econômico da semana: ata do Fomc e dados das atividades são destaque",
+    "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/",
+    "resumo": "Tudo o que o investidor precisa saber antes de operar na semana",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:10:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5db837d83379110f",
+    "manchete": "Eleição do Brasil passa em testes que apontaram fraudes eleitorais na Rússia",
+    "url": "https://www.infomoney.com.br/brasil/eleicao-do-brasil-passa-em-testes-que-apontaram-fraudes-eleitorais-na-russia/",
+    "resumo": "Parte dos métodos é utilizada pelo Tribunal de Contas da União (TCU) para detectar fraudes em obras e licitações",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "331c61ed93e7f3bd",
+    "manchete": "Irã considera inviáveis respostas dos EUA a suas condições para acordo",
+    "url": "https://www.infomoney.com.br/mundo/ira-considera-inviaveis-respostas-dos-eua-a-suas-condicoes-para-acordo/",
+    "resumo": "Washington propôs adiar a implementação de algumas exigências iranianas, deixando-as para uma etapa futura, segundo o vice-ministro das Relações Exteriores do Irã",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T20:05:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "306ace96642e561b",
+    "manchete": "Site do Inep sofre ataques de hackers no 2º dia do Enem, diz ministro da Educação",
+    "url": "https://www.infomoney.com.br/brasil/enem-2026-ministro-da-educacao-diz-que-pagina-do-inep-e-alvo-de-ataques-hackers/",
+    "resumo": "Leonardo Barchini disse a Alckmin, presidente em exercício, que os ataques estão sendo controlados; MEC ainda não informou a natureza nem o alcance das ações",
+    "fonte": "InfoMoney",
+    "data": "2026-11-15T19:55:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "076b2fac2d798ad3",
     "manchete": "Como Regina Casé levou a favela e o funk para o horário nobre e ajudou a mudar a TV brasileira",
     "url": "https://neofeed.com.br/finde/como-regina-case-levou-a-favela-e-o-funk-para-o-horario-nobre-e-ajudou-a-mudar-a-tv-brasileira/",
@@ -9955,173 +10105,6 @@
     "resumo": "A vitória de Lula nas eleições de 2026 mudou as perspectivas para o mercado brasileiro e levou o Itaú a reduzir o otimismo com a Bolsa. Mas, na avaliação de Martin Iglesias, líder em recomendação de investimentos do Itaú Unibanco, o momento não pede uma saída apressada dos ativos locais nem uma mudança radical das…",
     "fonte": "Money Times",
     "data": "2026-11-03T16:03:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "362eb22693bc75c9",
-    "manchete": "Canva aposta na educação brasileira pública e privada para democratizar o acesso à inteligência artificial",
-    "url": "https://startupi.com.br/canva-aposta-na-educacao-brasileira-publica-e-privada-para-democratizar-o-acesso-a-inteligencia-artificial/",
-    "resumo": "Startupi Canva aposta na educação brasileira pública e privada para democratizar o acesso à inteligência artificial Em uma conversa especial com a GZM, Alberto Ceresa, Country Manager do Canva no Brasil, destaca iniciativas voltadas às escolas públicas e defende a criatividade como competência essencial para o futuro.",
-    "fonte": "Startupi",
-    "data": "2026-11-03T10:50:31.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d7f628dcf6aabc2f",
-    "manchete": "Como startups estão apostando fichas no mundo da cybersegurança",
-    "url": "https://startupi.com.br/como-startups-estao-apostando-fichas-no-mundo-da-cyberseguranca/",
-    "resumo": "Startupi Como startups estão apostando fichas no mundo da cybersegurança Num mercado com menos negócios fechados e cheques cada vez maiores, fundadores de cibersegurança disputam capital, compradores e um possível exit bilionário. A janela existe, mas é mais seletiva.",
-    "fonte": "Startupi",
-    "data": "2026-11-03T10:37:25.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ff1def32ff5538bc",
-    "manchete": "Leilão de transmissão mantém deságios – mas alguns elevam cautela",
-    "url": "https://braziljournal.com/leilao-de-transmissao-mantem-desagios-mas-alguns-elevam-cautela",
-    "resumo": "O leilão de concessões de transmissão de energia realizado sexta-feira na B3 parecia ocorrer quase num mundo paralelo ao caos que reinou no mercado financeiro desde as eleições. Apesar da implosão da Bolsa e do salto nos juros longos, todos os oito projetos – com um capex total estimado em R$ 8,9 bilhões – receberam…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-03T09:50:00.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "453a7b514bccde49",
-    "manchete": "OPINIÃO. Coragem. Porque o Brasil não é “isso aí”",
-    "url": "https://braziljournal.com/opiniao-coragem-porque-o-brasil-nao-e-isso-ai",
-    "resumo": "Há um número impressionante de pessoas incomodadas com quem ficou inconsolável com o resultado das eleições. O argumento costuma vir embrulhado em serenidade: não adianta sofrer, o Brasil sempre foi assim, governos passam, empresas continuam funcionando e a vida segue. Parece sabedoria. Em boa medida, é resignação…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-03T09:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5f27346e0f486643",
-    "manchete": "Nova regra do SAC entra em vigor com exigência de atendimento humano e tempo limite de espera",
-    "url": "https://startupi.com.br/decreto-atendimento-humano-sac-regras-banco-central/",
-    "resumo": "Startupi Nova regra do SAC entra em vigor com exigência de atendimento humano e tempo limite de espera Decreto nº 13.135/2026 estabelece espera máxima de 20 segundos por telefone para 80% das chamadas e torna obrigatória a opção de contato com operador em canais digitais.",
-    "fonte": "Startupi",
-    "data": "2026-11-03T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9f5c80e5959d64f7",
-    "manchete": "A Era do CEO imperial: fundadores de IA blindam seu poder &#8211; e os investidores agradecem",
-    "url": "https://startupi.com.br/a-era-do-ceo-imperial-fundadores-de-ia-blindam-seu-poder-e-os-investidores-agradecem/",
-    "resumo": "Startupi A Era do CEO imperial: fundadores de IA blindam seu poder &#8211; e os investidores agradecem Anthropic, SpaceX e Meta consolidam estruturas que concentram controle nas mãos de seus criadores, enquanto Wall Street assiste sem resistir",
-    "fonte": "Startupi",
-    "data": "2026-11-03T07:10:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "020f9287f8f7204c",
-    "manchete": "E-commerce de venda incentivada: por que esse modelo cresce no Brasil e o que empresas ainda erram nele",
-    "url": "https://startupi.com.br/e-commerce-de-venda-incentivada-por-que-esse-modelo-cresce-no-brasil-e-o-que-empresas-ainda-erram-nele/",
-    "resumo": "Startupi E-commerce de venda incentivada: por que esse modelo cresce no Brasil e o que empresas ainda erram nele Por Rafael Melo, COO da Idea Maker, fintech especializada em soluções para e-commerce de produtos com venda incentivada, pagamentos e gestão de dados.",
-    "fonte": "Startupi",
-    "data": "2026-11-03T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "83cebdac4eb90a07",
-    "manchete": "Bloquo capta mais de R$ 20 milhões em rodada Seed para expandir infraestrutura de stablecoins",
-    "url": "https://startupi.com.br/bloquo-capta-20-milhoes-seed-infraestrutura-stablecoins/",
-    "resumo": "Startupi Bloquo capta mais de R$ 20 milhões em rodada Seed para expandir infraestrutura de stablecoins Com aporte co-liderado por Crescera Capital e Triaxis Capital, a fintech pretende acelerar seu processo regulatório junto ao Banco Central e ampliar a oferta de pagamentos transfronteiriços.",
-    "fonte": "Startupi",
-    "data": "2026-11-03T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3499c0e9aebbd853",
-    "manchete": "Startup do Paraná testa sistema de venda de ingressos integrado ao WhatsApp",
-    "url": "https://startupi.com.br/tickzap-venda-ingressos-whatsapp-startup-parana/",
-    "resumo": "Startupi Startup do Paraná testa sistema de venda de ingressos integrado ao WhatsApp Plataforma simplifica a jornada de compra eliminando cadastros prévios e já acumula mais de 1,6 mil ingressos comercializados em fase de testes.",
-    "fonte": "Startupi",
-    "data": "2026-11-03T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a20adadb493757eb",
-    "manchete": "A próxima fronteira do live commerce não está nas redes sociais",
-    "url": "https://startupi.com.br/a-proxima-fronteira-do-live-commerce-nao-esta-nas-redes-sociais/",
-    "resumo": "Startupi A próxima fronteira do live commerce não está nas redes sociais Por Daniel Arcoverde, CEO da Netshow.me",
-    "fonte": "Startupi",
-    "data": "2026-11-03T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ca742509e0154efe",
-    "manchete": "Omni faz rodada para dobrar seu seguro de medicamentos",
-    "url": "https://braziljournal.com/omni-faz-rodada-para-dobrar-seu-seguro-de-medicamentos",
-    "resumo": "A Omni – que criou um seguro de medicamentos que já é usado pela Azul, Light, MetLife e Spoleto – acaba de fechar uma rodada que vai financiar um plano agressivo de expansão: dobrar sua base de vidas até o final do ano que vem, chegando a uma receita de R$ 50 milhões. A captação foi liderada pela ACNext, uma gestora…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-03T03:27:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Fundraising"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ec948d8249ff7f52",
-    "manchete": "A Bolsa não dorme mais? Como a negociação de ações fora do pregão está mudando Wall Street",
-    "url": "https://neofeed.com.br/wealth-management/a-bolsa-nao-dorme-mais-como-a-negociacao-de-acoes-fora-do-pregao-esta-mudando-wall-street/",
-    "resumo": "Na bolsa 24x7, investidores asiáticos puxam a demanda, com negociações de madrugada disparando 359% nos EUA",
-    "fonte": "NeoFeed",
-    "data": "2026-11-03T02:53:18.560Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
