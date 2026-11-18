@@ -1,5 +1,476 @@
 [
   {
+    "id": "eb4d34d9581302fe",
+    "manchete": "Apetite da China demanda mais que quintuplicar exportações brasileiras de DDG, avalia UNEM",
+    "url": "https://agfeed.com.br/negocios/apetite-da-china-demanda-mais-que-quintuplicar-exportacoes-brasileiras-de-ddg-avalia-unem",
+    "resumo": "Após receber os primeiros embarques de DDG em março, a China já é o principal destino do coproduto com 50,3% do volume exportado pelo Brasil.",
+    "fonte": "AgFeed",
+    "data": "2026-11-18T18:52:22.648Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4ae79130d9c67f43",
+    "manchete": "PIC prevê lançamento global do primeiro suíno comercial editado por CRISPR até 2028 PIC prevê lançamento global do primeiro suíno comercial editado por CRISPR até 2028",
+    "url": "https://agfeed.com.br/negocios/pic-preve-lancamento-global-do-primeiro-suino-comercial-editado-por-crispr-ate-2028",
+    "resumo": "A PIC prepara o lançamento global dos primeiros animais editados geneticamente pela tecnologia CRISPR destinados à produção comercial.",
+    "fonte": "AgFeed",
+    "data": "2026-11-18T18:52:22.646Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "15abb519a98e7b16",
+    "manchete": "AgLíderes: Ourofino Saúde Animal tem plano para dobrar de tamanho (de novo) em 5 anos, segundo o CEO AgLíderes: Ourofino Saúde Animal tem plano para dobrar de tamanho (de novo) em 5 anos, segundo o CEO",
+    "url": "https://agfeed.com.br/videos/aglideres/aglideres-ourofino-saude-animal-tem-plano-para-dobrar-de-tamanho-de-novo-em-5-anos-segundo-o-ceo",
+    "resumo": "Kleber Gomes, que lidera a Ourofino Saúde Animal, diz não temer as barreiras aos antimicrobianos e projeta crescimento acelerado",
+    "fonte": "AgFeed",
+    "data": "2026-11-18T18:52:22.646Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "30567ee4209e8b1d",
+    "manchete": "Agro tem 2ª maior alta no lucro, mas 3ª pior queda operacional entre 17 setores na B3, aponta XP",
+    "url": "https://agfeed.com.br/financas/agro-tem-2a-maior-alta-no-lucro-mas-3a-pior-queda-operacional-entre-17-setores-na-b3-aponta-xp",
+    "resumo": "O agronegócio registrou a 2º maior alta do lucro líquido entre os 17 setores na B3 no terceiro trimestre de 2026 segundo o XP Research.",
+    "fonte": "AgFeed",
+    "data": "2026-11-18T18:52:22.645Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0031b936d6e5cb38",
+    "manchete": "Eurasia aposta em ajuste fiscal em duas fases e vê popularidade de Lula sob pressão",
+    "url": "https://neofeed.com.br/economia/eurasia-aposta-em-ajuste-fiscal-em-duas-fases-e-ve-popularidade-de-lula-sob-pressao/",
+    "resumo": "Christopher Garman, diretor da consultoria, diz que o Plano Moretti deve ser consolidado com PEC até o início de 2027",
+    "fonte": "NeoFeed",
+    "data": "2026-11-18T18:52:18.574Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d70cf9358290c15b",
+    "manchete": "Rede D’Or vende gestora da SulAmérica para a BlackRock por R$ 850 milhões",
+    "url": "https://neofeed.com.br/negocios/rede-dor-vende-gestora-da-sulamerica-para-a-blackrock-por-r-850-milhoes/",
+    "resumo": "Operação prevê pagamento de R$ 700 milhões à vista e até R$ 150 milhões em parcelas futuras, condicionadas ao cumprimento de metas",
+    "fonte": "NeoFeed",
+    "data": "2026-11-18T18:52:18.574Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3cc5bc55d20de8c1",
+    "manchete": "Duas rodovias \"estressadas\" voltam ao mercado e recolocam mais de R$ 18 bilhões em disputa",
+    "url": "https://neofeed.com.br/economia/duas-rodovias-estressadas-voltam-ao-mercado-e-recolocam-mais-de-r-18-bilhoes-em-disputa/",
+    "resumo": "Agenda de renegociação de concessões será fechada com duas disputas em dezembro. O NeoFeed apurou que nove grupos estão interessados nos projetos. Com isso, um total de oito repactuações somando R$ 68 bi em investimentos",
+    "fonte": "NeoFeed",
+    "data": "2026-11-18T18:52:18.574Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "38fd9232a324767e",
+    "manchete": "Quem são os grandes (e pouco conhecidos) vencedores do IPO bilionário da Anthropic",
+    "url": "https://neofeed.com.br/startups/quem-sao-os-grandes-e-pouco-conhecidos-vencedores-do-ipo-bilionario-da-anthropic/",
+    "resumo": "Com avaliação estimada em US$ 1,4 trilhão, desenvolvedora do Claude promete retornos extraordinários a fundos com pouco renome",
+    "fonte": "NeoFeed",
+    "data": "2026-11-18T18:52:18.574Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6813e280038ce67",
+    "manchete": "A \"fábrica\" de cheiros da floresta: o laboratório de Votorantim e IFF para rentabilizar a Mata Atlântica",
+    "url": "https://neofeed.com.br/negocios/a-fabrica-de-cheiros-da-floresta-o-laboratorio-de-votorantim-e-iff-para-rentabilizar-a-mata-atlantica/",
+    "resumo": "Instalada no Legado das Águas (SP), parceria entre Reservas Votorantim e IFF vai mapear ativos da biodiversidade para perfumaria e cosméticos",
+    "fonte": "NeoFeed",
+    "data": "2026-11-18T18:52:18.574Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "116dc1446ad10b42",
+    "manchete": "Presidente do México chega na China após viajar 21 horas em classe econômica",
+    "url": "https://www.infomoney.com.br/mundo/presidente-do-mexico-china-classe-economica/",
+    "resumo": "Claudia Sheinbaum viajou em voo comercial para a cúpula da APEC, seguindo a política de austeridade do governo mexicano",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:45:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "841d929e6845896a",
+    "manchete": "Dólar rompe os R$ 5,84 hoje: até onde a moeda ainda pode subir?",
+    "url": "https://www.moneytimes.com.br/dolar-rompe-os-r-584-hoje-ate-onde-a-moeda-ainda-pode-subir-davs/",
+    "resumo": "Não é apenas o cenário doméstico que impulsiona o dólar, mas sim uma combinação de fatores internos e externos.",
+    "fonte": "Money Times",
+    "data": "2026-11-18T18:33:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "431d79d2644cca14",
+    "manchete": "Miami investe US$ 3,9 milhões para surfar no sucesso de GTA 6, mas violência do jogo divide autoridades",
+    "url": "https://www.moneytimes.com.br/miami-investe-us-39-milhoes-para-surfar-no-sucesso-de-gta-6-mas-violencia-do-jogo-divide-autoridades-sama/",
+    "resumo": "Valor inclui acordos comerciais e publicidade em equipamentos públicos; iniciativa divide autoridades sobre os possíveis benefícios econômicos e os riscos para a imagem de Miami",
+    "fonte": "Money Times",
+    "data": "2026-11-18T18:32:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8474215e03874390",
+    "manchete": "Klabin (KLBN11) suspende operações em unidade de SC após incidente; 10 funcionários são hospitalizados",
+    "url": "https://www.moneytimes.com.br/klabin-klbn11-suspende-operacoes-em-unidade-de-sc-apos-incidente-10-funcionarios-sao-hospitalizados-pads/",
+    "resumo": "A Klabin (KLBN11) informou nesta quarta-feira (18) que registrou uma ocorrência envolvendo a caldeira de recuperação da unidade de Otacílio Costa (SC), levando à suspensão imediata das operações no local. Em fato relevante enviado ao mercado, a companhia afirmou que a área foi isolada logo após o incidente e que os…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T18:27:05.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ab7ef52ed92325f9",
+    "manchete": "GTA 6 já vale US$ 1,65 bilhão para a Take-Two antes mesmo de ser lançado no Brasil; ações saltam",
+    "url": "https://www.moneytimes.com.br/gta-6-ja-vale-us-165-bilhao-para-a-take-two-antes-mesmo-de-ser-lancado-no-brasil-acoes-saltam-mlem/",
+    "resumo": "Depois de quase treze anos de espera, o Grand Theft Auto VI, mais conhecido como GTA 6, finalmente será lançado nesta quinta-feira (19). Segundo a companhia Sensor Tower, especializada em inteligência de mercado, o GTA VI já gerou mais de US$ 1,65 bilhão apenas durante sua pré-venda. Do montante, cerca de 75% das…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T18:18:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "34df62f78324b3d5",
+    "manchete": "Lula avalia pedidos do Centrão para formação do governo e fará novas conversas",
+    "url": "https://www.infomoney.com.br/politica/lula-avalia-pedidos-do-centrao-para-formacao-do-governo-e-fara-novas-conversas/",
+    "resumo": "Presidente quer formar um grande bloco de apoio parlamentar para enfrentar a oposição na Câmara e no Senado",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:17:59.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6f57bcca9ef2e15",
+    "manchete": "Dólar hoje sobe 1%, a R$ 5,84, com foco em pacote fiscal e ata do Fed",
+    "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
+    "resumo": "BC realizou dois leilões de linha (venda de dólares com compromisso de recompra) no valor total de US$1 bilhão",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:15:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "667d03607f33f1ae",
+    "manchete": "Ibovespa Hoje Ao Vivo: Bolsa recua com impasse em pacote fiscal; dólar sobe a R$ 5,8",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/",
+    "resumo": "Índices nos EUA operam mistos, mesmo com balanço forte de Nvidia",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:15:35.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4bc0059735d73f57",
+    "manchete": "LCIs e LCAs na mira? Eurasia vê possibilidade de Lula retomar tributação de investimentos isentos",
+    "url": "https://www.moneytimes.com.br/lcis-e-lcas-na-mira-eurasia-ve-possibilidade-de-lula-retomar-tributacao-de-investimentos-isentos-jcav/",
+    "resumo": "A tributação de investimentos atualmente isentos de Imposto de Renda, como as Letras de Crédito Imobiliário (LCIs) e do Agronegócio (LCAs), pode voltar ao radar do governo de Luiz Inácio Lula da Silva (PT) no quarto mandato. A avaliação é de Christopher Garman, diretor-executivo para as Américas da Eurasia Group,…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T18:09:00.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "719ce88cfaeb497c",
+    "manchete": "Área técnica do TCU vê indícios de irregularidades em pronunciamento de Lula na TV",
+    "url": "https://www.infomoney.com.br/politica/area-tecnica-do-tcu-ve-indicios-de-irregularidades-em-pronunciamento-de-lula-na-tv/",
+    "resumo": "Pronunciamento foi ao ar no dia 8, após a vitória do petista na disputa pela reeleição",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:05:41.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "cc6d178d8573abd3",
+    "manchete": "Nome de Alckmin para Fazenda é elogiado por economistas e analistas em evento",
+    "url": "https://www.infomoney.com.br/politica/nome-de-alckmin-para-fazenda-e-elogiado-por-economistas-e-analistas-em-evento/",
+    "resumo": "Avaliação dos presentes é que vice-presidente pode ajudar a melhorar expectativa do mercado sobre o quarto governo Lula",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:01:18.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3893dfdb7106d8da",
+    "manchete": "O que vale mais: R$ 12 mil PJ ou R$ 9 mil CLT? A resposta pode surpreender",
+    "url": "https://www.infomoney.com.br/carreira/o-que-vale-mais-r-12-mil-pj-ou-r-9-mil-clt-a-resposta-pode-surpreender/",
+    "resumo": "Uma comparação feita com a Calculadora CLT x PJ do InfoMoney mostrou que o resultado final pode ser bastante diferente daquele que aparece no salário mensal",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7ce10eac29bfdcd0",
+    "manchete": "Deterioração no crédito afeta grandes bancos no 3º tri; BB tem pior resultado",
+    "url": "https://www.infomoney.com.br/mercados/deterioracao-no-credito-afeta-grandes-bancos-no-3o-tri-bb-tem-pior-resultado/",
+    "resumo": "Embora a piora do ciclo de crédito tenha afetado todos os grandes bancos, Itaú, Bradesco e Santander conseguiram manter seus resultados relativamente resilientes",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T18:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "88debfbde0fef9cc",
+    "manchete": "Área técnica do TCU vê indícios de irregularidades em pronunciamento de Lula na TV",
+    "url": "https://www.moneytimes.com.br/area-tecnica-do-tcu-ve-indicios-de-irregularidades-em-pronunciamento-de-lula-na-tv/",
+    "resumo": "Um parecer da área técnica do Tribunal de Contas da União (TCU) identificou indícios de irregularidades em pronunciamento do presidente Luiz Inácio Lula da Silva que foi ao ar em rede nacional de rádio e TV no último dia 8. A auditoria apontou uso de imagens da campanha, símbolos do PT e exaltação à virada [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-11-18T17:58:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1ca27a673f4f122e",
+    "manchete": "Sheinbaum diz que reunião com Trump foi 'muito boa' e negociações estão avançadas",
+    "url": "https://www.infomoney.com.br/mundo/sheinbaum-diz-que-reuniao-com-trump-foi-muito-boa-e-negociacoes-estao-avancadas/",
+    "resumo": "México e Estados Unidos discutem meios para reduzir tensões comerciais",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T17:55:37.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "90cfb44c25ac72dc",
+    "manchete": "Democratas indicam Hakeem Jeffries para a presidência da Câmara dos Deputados dos EUA",
+    "url": "https://www.moneytimes.com.br/democratas-indicam-hakeem-jeffries-para-a-presidencia-da-camara-dos-deputados-dos-eua/",
+    "resumo": "Os democratas eleitos neste mês para a Câmara dos Deputados dos EUA indicaram nesta quarta-feira Hakeem Jeffries para liderá-los no próximo Congresso, colocando-o à beira de se tornar o primeiro presidente negro da Câmara do país. A futura bancada democrata da Câmara indicou Jeffries em uma votação a portas fechadas e…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T17:52:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "03cfa0127c7970d6",
+    "manchete": "CVM multa em R$ 170 mil ex-diretora financeira da Reag por atraso em balanços",
+    "url": "https://www.moneytimes.com.br/cvm-multa-em-r-170-mil-ex-diretora-financeira-da-reag-por-atraso-em-balancos-mlem/",
+    "resumo": "O Colegiado da Comissão de Valores Mobiliários (CVM) multou em R$ 170 mil a ex-diretora da Reag Investimentos Fabiana Franco por deixar de elaborar, no prazo, as demonstrações financeiras de 2024 e os formulários de informações trimestrais (ITRs) do primeiro e segundo trimestres de 2025, meses antes de eclodir o…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T17:50:15.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5216ff039257c886",
+    "manchete": "Rede D'Or (RDOR3) sobe após anunciar a venda da SulAmérica Investimentos",
+    "url": "https://www.infomoney.com.br/mercados/rede-dor-rdor3-sobe-apos-anunciar-a-venda-da-sulamerica-investimentos/",
+    "resumo": "Transação foi avaliada por R$ 850 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-11-18T17:42:20.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "12a9991bda46a25d",
+    "manchete": "Bolsas da Europa caem com alta do dólar e de olho no Fed",
+    "url": "https://www.moneytimes.com.br/bolsas-da-europa-caem-com-alta-do-dolar-e-de-olho-no-fed-davs/",
+    "resumo": "As bolsas europeias fecharam em queda nesta quarta-feira (18), pressionadas pela força do dólar. O recuo das ações das mineradoras, diante do recuo do ouro e do cobre, também puxaram o desempenho dos principais índices da região. O impulso inicial dado às empresas de tecnologia pelo balanço da Nvidia perdeu força em…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T17:16:09.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f0b710d416c07ab3",
+    "manchete": "CVM multa em R$ 1,5 mi envolvidos em irregularidades em registros contábeis da Blue Tech",
+    "url": "https://www.moneytimes.com.br/cvm-multa-em-r-15-mi-envolvidos-em-irregularidades-em-registros-contabeis-da-blue-tech-mlem/",
+    "resumo": "O Colegiado da Comissão de Valores Mobiliários (CVM) aplicou multas que ultrapassam R$ 1,5 milhão em processo sobre irregularidades relacionadas aos registros contábeis da Blue Tech Solutions EQI S.A. entre 2019 e 2021 e à atuação de seus administradores no período. As multas somaram R$ 1,532 milhão: R$ 517,25 mil…",
+    "fonte": "Money Times",
+    "data": "2026-11-18T17:15:50.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3cd32eb720967f36",
+    "manchete": "inovabra muda de endereço em São Paulo e adota modelo de atuação por créditos",
+    "url": "https://startupi.com.br/inovabra-muda-de-endereco-em-sao-paulo-e-adota-modelo-de-atuacao-por-creditos/",
+    "resumo": "Startupi inovabra muda de endereço em São Paulo e adota modelo de atuação por créditos Ecossistema de inovação passará a operar com CNPJ próprio na Avenida Rebouças a partir de 2027, substituindo posições fixas de coworking por pacotes flexíveis de serviços e programas semestrais de negócios",
+    "fonte": "Startupi",
+    "data": "2026-11-18T08:05:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e565f83f898a7100",
+    "manchete": "Legaltech brasileira supera um milhão de consultas mensais integrando decisões judiciais ao ChatGPT e Claude",
+    "url": "https://startupi.com.br/legaltech-brasileira-supera-um-milhao-de-consultas-mensais-integrando-decisoes-judiciais-ao-chatgpt-e-claude/",
+    "resumo": "Startupi Legaltech brasileira supera um milhão de consultas mensais integrando decisões judiciais ao ChatGPT e Claude Com base de 50 milhões de julgados verificáveis e equipe de oito pessoas, a Jusratio utiliza protocolo aberto para conectar bases oficiais dos tribunais diretamente aos assistentes de inteligência…",
+    "fonte": "Startupi",
+    "data": "2026-11-18T08:01:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fd2f87a0fa1b6f54",
+    "manchete": "Após processar R$ 130 milhões em atendimentos, healthtech Skedia abre primeira rodada de investimento",
+    "url": "https://startupi.com.br/apos-processar-r-130-milhoes-em-atendimentos-healthtech-skedia-abre-primeira-rodada-de-investimento/",
+    "resumo": "Startupi Após processar R$ 130 milhões em atendimentos, healthtech Skedia abre primeira rodada de investimento Com projeção de atingir R$ 3,5 milhões em faturamento anual, empresa de infraestrutura financeira para clínicas médicas busca capital externo para escalar soluções de inteligência artificial",
+    "fonte": "Startupi",
+    "data": "2026-11-18T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e7437cb8cc75bf83",
+    "manchete": "Brasil desafia retração global e vê venture capital em startups saltar 56%",
+    "url": "https://startupi.com.br/venture-capital-startups-brasileiras-cresce-56/",
+    "resumo": "Startupi Brasil desafia retração global e vê venture capital em startups saltar 56% Aportes chegam a US$ 609 milhões entre julho e setembro, impulsionados por fintechs e por uma nova tese de investimento: inteligência artificial embarcada em softwares corporativos",
+    "fonte": "Startupi",
+    "data": "2026-11-18T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital",
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7fab24dde9b2b628",
+    "manchete": "Gamificação que move KPIs ou gamificação que entretém?",
+    "url": "https://startupi.com.br/gamificacao-que-move-kpis-ou-gamificacao-que-entretem-2/",
+    "resumo": "Startupi Gamificação que move KPIs ou gamificação que entretém? Por Nara Iachan, cofundadora e CMO da Loyalme, startup especializada em tecnologia para fidelização e engajamento corporativo.",
+    "fonte": "Startupi",
+    "data": "2026-11-18T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e9c31a5eb5754318",
+    "manchete": "O que aprendi em um ano construindo uma empresa de agentes de IA",
+    "url": "https://startupi.com.br/o-que-aprendi-em-um-ano-construindo-uma-empresa-de-agentes-de-ia/",
+    "resumo": "Startupi O que aprendi em um ano construindo uma empresa de agentes de IA Por Edmee Moreira, cofundador e CEO da Runflow",
+    "fonte": "Startupi",
+    "data": "2026-11-18T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "81620ecc9e66caf6",
+    "manchete": "Nova ferramenta usa IA para integrar conversas e áudios do WhatsApp aos sistemas de gestão das empresas",
+    "url": "https://startupi.com.br/nova-ferramenta-usa-ia-para-integrar-conversas-e-audios-do-whatsapp-aos-sistemas-de-gestao-das-empresas/",
+    "resumo": "Startupi Nova ferramenta usa IA para integrar conversas e áudios do WhatsApp aos sistemas de gestão das empresas Com foco em vendas consultivas e atendimento de alto volume, solução desenvolvida pela startup Plati AI extrai dados de mensagens e grupos para alimentar CRMs e plataformas externas",
+    "fonte": "Startupi",
+    "data": "2026-11-18T07:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5d747650271c3dff",
+    "manchete": "Especial: A velha economia foi ao Web Summit aprender com as Startups",
+    "url": "https://startupi.com.br/especial-a-velha-economia-foi-ao-web-summit-aprender-com-as-startups/",
+    "resumo": "Startupi Especial: A velha economia foi ao Web Summit aprender com as Startups Por João Kepler, escritor, empresário e investidor da Nova Economia, direto do Web Summit 2026",
+    "fonte": "Startupi",
+    "data": "2026-11-18T07:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "f2c617dcf0b577e9",
     "manchete": "Bunge e GDM criam joint venture para desenvolver oleaginosas alternativas para biocombustíveis",
     "url": "https://agfeed.com.br/negocios/bunge-e-gdm-criam-joint-venture-para-desenvolver-oleaginosas-alternativas-para-biocombustiveis",
@@ -5316,30 +5787,6 @@
     "importancia": 3
   },
   {
-    "id": "096ace8ee2291c2c",
-    "manchete": "Com mercado em baixa e pressão financeira, Minerva abre programa de recompra de ações Com mercado em baixa e pressão financeira, Minerva abre programa de recompra de ações",
-    "url": "https://agfeed.com.br/negocios/com-mercado-em-baixa-e-pressao-financeira-minerva-abre-programa-de-recompra-de-acoes",
-    "resumo": "Minerva anuncia recompra de R$ 100 milhões em ações após prejuízo de R$ 717,3 milhões e pressão de custos financeiros no trimestre",
-    "fonte": "AgFeed",
-    "data": "2026-11-12T02:14:06.747Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c1200ca73578b17b",
-    "manchete": "Caramuru cresce em volume e exportação, mas câmbio e biodiesel comprimem resultado Caramuru cresce em volume e exportação, mas câmbio e biodiesel comprimem resultado",
-    "url": "https://agfeed.com.br/negocios/caramuru-cresce-em-volume-e-exportacao-mas-cambio-e-biodiesel-comprimem-resultado",
-    "resumo": "Caramuru Alimentos amplia vendas e exportações em 2026, mas câmbio, biodiesel e custos reduzem lucro e Ebitda",
-    "fonte": "AgFeed",
-    "data": "2026-11-12T02:14:06.747Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "d78b2d5725c9e686",
     "manchete": "Circuit Breaker: como bancos digitais e influenciadores revolucionaram os investimentos no Brasil",
     "url": "https://neofeed.com.br/videos/circuit-breaker/circuit-breaker-como-bancos-digitais-e-influenciadores-revolucionaram-os-investimentos-no-brasil/",
@@ -5695,32 +6142,6 @@
     "resumo": "Num trimestre marcado pelo aumento dos preços dos voos e o impacto negativo da Copa do Mundo e das eleições, a CVC conseguiu crescer suas reservas e reverter o prejuízo que vinha acumulando nos últimos tris – num resultado que o CEO Fabio Mader chamou de “um ponto de inflexão”. A maior agência de viagens do Brasil…",
     "fonte": "Brazil Journal",
     "data": "2026-11-11T22:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9642cda23c2b341f",
-    "manchete": "A inadimplência, os juros e a segurança alimentar",
-    "url": "https://agfeed.com.br/campo-das-ideias/direto-da-fazenda/a-inadimplencia-os-juros-e-a-seguranca-alimentar",
-    "resumo": "Se o número de produtores em dificuldades financeiras seguir caindo vai ser bom porque eles vão poder voltar de alguma maneira a produzir",
-    "fonte": "AgFeed",
-    "data": "2026-11-11T17:54:45.669Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1651228a44ab8511",
-    "manchete": "Bayer melhora projeção para 2026, apesar de tombo em Crop Science no 3º trimestre",
-    "url": "https://agfeed.com.br/negocios/bayer-melhora-projecao-para-2026-apesar-de-tombo-em-crop-science-no-3o-trimestre",
-    "resumo": "A Bayer elevou a projeção para 2026 após registrar crescimento no Ebitda do 3º trimestre, com alta divisão farmacêutica e queda na agrícola.",
-    "fonte": "AgFeed",
-    "data": "2026-11-11T17:54:45.669Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
@@ -9666,424 +10087,6 @@
     "fonte": "InfoMoney",
     "data": "2026-11-05T23:17:54.000Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7be7dfb23f9efb21",
-    "manchete": "Novo decreto do governo divide minerais críticos em três níveis de prioridade",
-    "url": "https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/",
-    "resumo": "Presidente Lula assina regulamentação e participa da primeira reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE)",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T23:12:39.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "545a5555eb86c960",
-    "manchete": "Dasa (DASA3) lucra R$ 173 mi no 3º tri, alta de 79%",
-    "url": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-terceiro-trimestre-2026/",
-    "resumo": "A receita bruta consolidada somou R$2,6 bilhões no trimestre, queda de 9% na comparação anual",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T22:57:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b960b3e36077cd0f",
-    "manchete": "Four Seasons chega a São Paulo após Iguatemi (IGTI11) fechar parceria com marca de luxo",
-    "url": "https://www.moneytimes.com.br/four-seasons-chega-a-sao-paulo-iguatemi-fecha-parceria-com-marca-de-luxo-e-investira-r300-milhoes-em-empreendimento-davs/",
-    "resumo": "A marca de hotéis e resorts de luxo Four Seasons chegará à cidade de São Paulo em meio a uma parceria com o Iguatemi (IGTI11). A companhia comunicou nesta quinta-feira (5) que participará do desenvolvimento de um empreendimento com hotel e residências sob a marca, na região da avenida Faria Lima. A Iguatemi entrará…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T22:49:32.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c044e5dffad5dee4",
-    "manchete": "Localiza lucra R$ 1,1 bi no 3º tri, alta de 29%, em resultado dentro das expectativas",
-    "url": "https://www.infomoney.com.br/mercados/localiza-rent3-resultados-terceiro-trimeste-2026/",
-    "resumo": "A receita líquida consolidada chegou a R$ 12,28 bilhões, alta de 14,4%",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T22:46:54.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f547e9ed677e20a6",
-    "manchete": "Sabesp (SBSP3) pagará R$ 2,6 bilhões em juros sobre capital próprio; veja como aproveitar",
-    "url": "https://www.moneytimes.com.br/sabesp-sbsp3-pagara-r-26-bilhoes-em-juros-sobre-capital-proprio-veja-como-aproveitar-rnda/",
-    "resumo": "A Sabesp (SBSP3) aprovou R$ 2,6 bilhões em juros sobre o capital próprio, mostra documento enviado ao mercado nesta quinta-feira (5). Segundo o comunicado, o valor por ação será de R$ 0,75. Quem quiser aproveitar a bolada, terá até o dia 10 de dezembro para comprar o papel. A partir de 11 de dezembro a [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-11-05T22:46:46.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a7822653a7c037c5",
-    "manchete": "BrasilAgro (AGRO3) vê novo ciclo de compras de terras e muda perfil de aquisições, mas exige retorno de 7% a 8%",
-    "url": "https://www.moneytimes.com.br/brasilagro-agro3-ve-novo-ciclo-de-compras-de-terras-e-muda-perfil-de-aquisicoes-mas-exige-retorno-de-7-a-8-pads/",
-    "resumo": "A BrasilAgro (AGRO3) começa a enxergar espaço para um novo ciclo de aquisições de terras no Brasil, mas não pretende acelerar as compras a qualquer custo. Em meio à pressão financeira sobre os produtores rurais e à perspectiva de novas oportunidades no mercado, a companhia mantém uma postura seletiva e exige taxas de…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T22:36:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b3e2cd26f634887d",
-    "manchete": "Suzano (SUZB3) reporta lucro líquido de R$ 2,1 bilhões no 3T26, avanço de 6%",
-    "url": "https://www.moneytimes.com.br/suzano-suzb3-reporta-lucro-liquido-de-r-21-bilhoes-no-3t26-avanco-de-6-pads/",
-    "resumo": "A Suzano (SUZB3) registrou lucro líquido de R$ 2,1 bilhões no terceiro trimestre de 2026 (3T26), alta de 6% em relação ao mesmo período do ano passado. O resultado operacional, medido pelo Ebitda ajustado, somou R$ 5,7 bilhões, crescimento de 9% na comparação anual. O número ficou praticamente em linha com as…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T22:35:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a7599f61627ec741",
-    "manchete": "Lucro do Assaí (ASAI3) avança 55%, a R$ 248 milhões, e CEO espera 'Natal mais gordo' sem bets",
-    "url": "https://www.moneytimes.com.br/assai-asai3-reduz-alavancagem-e-apresenta-lucro-liquido-contabil-de-r-427-milhoes-mlem/",
-    "resumo": "O Assaí (ASAI3) apresentou lucro líquido recorrente de R$ 248 milhões no terceiro trimestre de 2026 (3T26), avanço de 55,2% em relação ao mesmo período de 2025. O resultado veio abaixo do consenso de mercado da Bloomberg, que era de R$ 287 milhões. Já o lucro líquido contábil chegou a R$ 427 milhões no trimestre,…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T22:14:45.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "27fd8ae6df64c9cb",
-    "manchete": "Renner (LREN3) vê lucro cair e 'joga toalha' para algumas projeções; veja números do 3T26",
-    "url": "https://www.moneytimes.com.br/renner-lren3-ve-lucro-cair-e-joga-toalha-para-projecoes-veja-numeros-do-3t26/",
-    "resumo": "A Lojas Renner (LREN3) registrou lucro líquido de R$ 246,4 milhões no terceiro trimestre de 2026, queda de 11,8% ante igual período do ano passado. O resultado reflete um cenário de consumo mais fraco para o varejo de moda, com pressão sobre as vendas e piora do desempenho da operação de serviços financeiros.…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T22:06:05.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3450228a3fe21621",
-    "manchete": "O recado de Lula ao mercado: 'ninguém quer fazer investimento em economia desordenada'",
-    "url": "https://www.moneytimes.com.br/o-recado-de-lula-ao-mercado-ninguem-quer-fazer-investimento-em-economia-desordenada/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva aproveitou a primeira reunião do novo Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (Cimce), nesta quinta-feira, para destacar a importância da responsabilidade fiscal e jurídica para atrair investidores para o Brasil. Lula lembrou em discurso aos…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T21:50:38.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5edb284e6cc96a93",
-    "manchete": "Ibovespa perde os 167 mil pontos e fecha em queda com riscos fiscais e cautela de Wall Street",
-    "url": "https://www.moneytimes.com.br/ibovespa-05-11-2026-davs/",
-    "resumo": "O Ibovespa (IBOV) acompanhou a piora de apetite a risco em Wall Street e fechou o pregão desta quinta-feira (5) em queda de 0,82%, a 166.191,45 pontos. Já o dólar à vista encerrou o dia a R$ 5,4518, com queda de 0,65%. Além do cenário externo, o principal índice da B3 foi pressionado pelas preocupações [&#8230;]",
-    "fonte": "Money Times",
-    "data": "2026-11-05T21:38:26.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "26da38d11d4dcce4",
-    "manchete": "Bmg (BMGB4) tem lucro líquido de R$ 141 milhões no 3T26; rentabilidade encolhe",
-    "url": "https://www.moneytimes.com.br/bmg-bmgb4-tem-lucro-liquido-de-r-141-milhoes-no-3t26-rentabilidade-encolhe/",
-    "resumo": "O banco Bmg (BMGB4) registrou lucro líquido de R$ 141 milhões no terceiro trimestre, queda de 4,7% em relação ao mesmo período do ano passado, segundo o balanço divulgado nesta quinta-feira, em trimestre marcado por piora na rentabilidade, mas expansão da margem financeira. O retorno sobre o patrimônio líquido médio…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T21:36:18.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2f9f3d63ec50cc34",
-    "manchete": "Lucro líquido da Sabesp (SBSP3) cai 35,7% no terceiro trimestre, para R$ 1,39 bilhão",
-    "url": "https://www.moneytimes.com.br/lucro-liquido-da-sabesp-cai-357-no-terceiro-trimestre-para-r-139-bilhao-bdap/",
-    "resumo": "O lucro líquido consolidado da Sabesp (SBSP3) recuou 35,7% no terceiro trimestre de 2026 (3T26), para R$ 1,388 bilhão. No resultado ajustado, que exclui efeitos não recorrentes e outros itens, a queda foi de 13,8%, para R$ 1,107 bilhão. A empresa atribuiu a retração principalmente às maiores despesas com juros, em…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T21:28:38.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a83d4c04f47b6d12",
-    "manchete": "‘O Master do Paraguai’ explodiu, derrubando o Presidente",
-    "url": "https://braziljournal.com/o-master-do-paraguai-explodiu-derrubando-o-presidente",
-    "resumo": "Era uma espécie de Banco Master – mas este derrubou um Presidente. Santiago Peña, o presidente do Paraguai festejado pelos investidores internacionais e que vinha comandando um ciclo de rápido crescimento no país, renunciou hoje ao cargo.",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-05T20:31:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6f445f2a4cd25c93",
-    "manchete": "Oferta de Nelson Peltz para comprar a Wendy’s \"volta para a cozinha\"",
-    "url": "https://neofeed.com.br/negocios/oferta-de-nelson-peltz-para-comprar-a-wendys-volta-para-a-cozinha/",
-    "resumo": "A rede americana Wendy's rejeitou oferta de US$ 1,4 bilhão do investidor ativista Nelson Peltz para fechar capital e adotou mecanismo que dificulta uma aquisição hostil",
-    "fonte": "NeoFeed",
-    "data": "2026-11-05T18:04:13.787Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8e4a3b162a33db32",
-    "manchete": "Side Capital capta R$ 280 milhões e vai atrás de imóveis ícones",
-    "url": "https://neofeed.com.br/negocios/side-capital-capta-r-280-milhoes-e-vai-atras-de-imoveis-icones/",
-    "resumo": "Side Capital capta R$ 280 milhões em quatro meses com modelo que conecta investidores a empreendimentos residenciais de alto padrão desde a fase de aquisição do terreno, com participação na valorização dos projetos",
-    "fonte": "NeoFeed",
-    "data": "2026-11-05T18:04:13.787Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e9112ded26787117",
-    "manchete": "Os estrangeiros já arremataram R$ 24 bi em infraestrutura. O \"superdezembro\" testa esse apetite",
-    "url": "https://neofeed.com.br/economia/os-estrangeiros-ja-arremataram-r-24-bi-em-infraestrutura-o-superdezembro-testa-esse-apetite/",
-    "resumo": "Gigantes como Aena, Zurich, Asur e Inframerica medem forças no lote de R$ 50 bilhões que encerra a agenda deste ano",
-    "fonte": "NeoFeed",
-    "data": "2026-11-05T18:04:13.787Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9bdb7d226b986d39",
-    "manchete": "A nova tentativa da Marisa para estancar a crise: menos lojas e foco na “prateleira do meio”",
-    "url": "https://neofeed.com.br/negocios/a-nova-tentativa-da-marisa-para-estancar-a-crise-menos-lojas-e-foco-na-prateleira-do-meio/",
-    "resumo": "Varejista de moda tenta reconquistar espaço ao calibrar preços, reduzir custos e fechar lojas que não eram rentáveis. O CEO Edson Garcia explica o caminho de recuperação, que ainda pode demorar dois anos",
-    "fonte": "NeoFeed",
-    "data": "2026-11-05T18:04:13.786Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4c0d0b105c1fdd74",
-    "manchete": "Renda previsível: as 6 ações de dividendos mais indicadas após as eleições",
-    "url": "https://www.infomoney.com.br/onde-investir/acoes-dividendos-recomendadas-novembro-2026/",
-    "resumo": "Com juros altos por mais tempo, bancos e corretoras reforçam empresas com caixa robusto e consistente",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T18:00:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cbc45ab8a8400c87",
-    "manchete": "Quem é Santiago Peña, presidente do Paraguai que renunciou nesta quinta-feira (5)",
-    "url": "https://www.infomoney.com.br/mundo/quem-e-santiago-pena-presidente-do-paraguai-que-renunciou-nesta-quinta-feira-5/",
-    "resumo": "Presidente paraguaio enfrentava uma crise política após problemas com um dos maiores bancos digitais do país",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:51:02.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bbab658386422cc9",
-    "manchete": "Neymar tem triplex em São Paulo com sala de cinema, cabeleireiro e mais; veja fotos",
-    "url": "https://www.infomoney.com.br/consumo/neymar-triplex-sao-paulo-sala-cinema-cabeleireiro/",
-    "resumo": "A antiga proprietária, Luciana Gimenez, recebeu cerca de R$ 70 milhões na compra",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:45:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ffd7bb4e53e0fefa",
-    "manchete": "Base Exchange mira lançamento em 2027 em desafio à B3 no mercado de ações",
-    "url": "https://www.infomoney.com.br/mercados/base-exchange-mira-lancamento-em-2027-em-desafio-a-b3-no-mercado-de-acoes/",
-    "resumo": "O lançamento também marcará o retorno da negociação de ações no Rio de Janeiro, mais de 25 anos depois que a bolsa de valores da cidade se fundiu com a B3, sediada em São Paulo",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:31:06.000Z",
-    "tags_tema": [
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f1d8ea0b9e782928",
-    "manchete": "Flávio Bolsonaro discursa em Mar-a-Lago ao lado de ator de 'Dark Horse'",
-    "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-discursa-em-mar-a-lago-ao-lado-de-ator-de-dark-horse/",
-    "resumo": "Candidato derrotado participa de jantar da Conferência da Ação Política Conservadora (CEPAC)",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:27:42.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d51b1469309f0f59",
-    "manchete": "Crise no Ueno Bank: entenda como o banco digital do Paraguai foi à lona",
-    "url": "https://www.infomoney.com.br/mundo/crise-no-ueno-bank-entenda-como-o-banco-digital-do-paraguai-foi-a-lona/",
-    "resumo": "Venda simulada de créditos inadimplentes está na origem do problema, segundo imprensa paraguaia",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:22:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a672a011f7b7ae3e",
-    "manchete": "FII TRBL11 reforça carteira com galpão da Amazon e investe R$ 456 mi em dois imóveis",
-    "url": "https://www.infomoney.com.br/onde-investir/fii-trbl11-reforca-carteira-com-galpao-da-amazon-e-investe-r-456-mi-em-dois-imoveis/",
-    "resumo": "O fundo imobiliário Tellus Rio Bravo (TRBL11) prepara uma mudança no perfil de sua carteira",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:18:34.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "15bdf89b25df860f",
-    "manchete": "PF prende mulher que chefiava rede de prostituição de brasileiras em Israel",
-    "url": "https://www.infomoney.com.br/politica/pf-prende-mulher-que-chefiava-rede-de-prostituicao-de-brasileiras-em-israel/",
-    "resumo": "A líder da organização usava redes sociais e aplicativos para recrutar mulheres interessadas em viajar ao exterior",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:16:08.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e0c1b3686e8e5ace",
-    "manchete": "Vitória democrata nas “midterms” traz de volta debate sobre teto da dívida nos EUA",
-    "url": "https://www.infomoney.com.br/economia/vitoria-democrata-nas-midterms-traz-de-volta-debate-sobre-teto-da-divida-nos-eua/",
-    "resumo": "Conflitos anteriores sobre o teto da dívida levaram a confrontos de última hora, já que os parlamentares usam o limite máximo de endividamento do governo dos EUA como moeda de troca na política fiscal",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:03:30.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "80bcf08b0da797d8",
-    "manchete": "O ‘choque de desânimo’ que o mercado está precificando",
-    "url": "https://braziljournal.com/o-choque-de-desanimo-que-o-mercado-esta-precificando",
-    "resumo": "Os gestores passaram os últimos dias ajustando as carteiras para um cenário em que o governo Lula não faz um ajuste fiscal capaz de estabilizar a dívida – misturado ao risco de partir para medidas heterodoxas quando a economia começar a patinar. Ainda que faltem evidências para projetar o médio prazo – o País sequer…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-05T17:02:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "00c9a6a5289d0c73",
-    "manchete": "Viagens corporativas encarecem: passagens aéreas sobem 110% com pressão do QAV",
-    "url": "https://www.infomoney.com.br/business/viagens-corporativas-encarecem-passagens-aereas-sobem-110-com-pressao-do-qav/",
-    "resumo": "Voos descolam de hospedagem e alimentação como maiores custos para as empresas em deslocamentos a trabalho",
-    "fonte": "InfoMoney",
-    "data": "2026-11-05T17:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bd464ef2915fba85",
-    "manchete": "OPINIÃO. Por que o dinheiro do clima pode mudar de endereço?",
-    "url": "https://braziljournal.com/opiniao-por-que-o-dinheiro-do-clima-pode-mudar-de-endereco",
-    "resumo": "No ano passado, o investimento climático global somou cerca de US$ 2,1 trilhões, segundo estimativas da Climate Policy Initiative. Trata-se de um volume comparável aos gastos globais com defesa (US$ 2,9 trilhões) e com inteligência artificial (US$ 2,7 trilhões), o que coloca o clima entre os principais temas da…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-05T16:52:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d44cb5a128fa990e",
-    "manchete": "Sob ameaça de impeachment, presidente do Paraguai renuncia em meio a crise desatada pelo colapso do Ueno Bank",
-    "url": "https://www.moneytimes.com.br/sob-ameaca-de-impeachment-presidente-do-paraguai-renuncia-em-meio-a-crise-desatada-pelo-colapso-do-ueno-bank/",
-    "resumo": "O presidente do Paraguai, Santiago Peña, anunciou no início da tarde desta quinta-feira (5) sua renúncia ao cargo. A decisão ocorre depois de o Partido Colorado, de situação, ter decidido apoiar a abertura de um processo de impeachment movido pela oposição ao governo. Diante da renúncia, quem assume a presidência é o…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T16:48:30.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "78077cd02afbcc19",
-    "manchete": "Ações caem 9%: Méliuz (CASH3) sente fraqueza do e-commerce e efeito Casas Bahia no 3T26; é hora de comprar?",
-    "url": "https://www.moneytimes.com.br/acoes-caem-9-meliuz-cash3-sente-fraqueza-do-e-commerce-e-efeito-casas-bahia-no-3t26-e-hora-de-comprar-rens/",
-    "resumo": "O Méliuz (CASH3) reportou um terceiro trimestre (3T26) marcado por desaceleração operacional, pressionado por um ambiente mais difícil para o varejo online, pela recuperação judicial da Casas Bahia (BHIA3), entre outras questões organizacionais. Por isso, as ações da empresa de tecnologia financeira chegaram a cair…",
-    "fonte": "Money Times",
-    "data": "2026-11-05T16:48:22.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8d4eee0b5a0e16cc",
-    "manchete": "Por que a Berkshire já tem 37% da SiriusXM",
-    "url": "https://braziljournal.com/por-que-a-berkshire-ja-tem-37-da-siriusxm",
-    "resumo": "A Berkshire Hathaway revelou ontem que comprou mais 1 milhão de ações da SiriusXM, a plataforma de rádio por satélite e streaming com mais de 30 milhões de assinantes nos EUA. A companhia comandada por Greg Abel agora tem 37% da empresa, uma posição que vale US$ 4 bilhões.",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-05T16:48:00.000Z",
-    "tags_tema": [
-      "M&A"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
