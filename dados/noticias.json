@@ -1,5 +1,327 @@
 [
   {
+    "id": "fbda33389f16b859",
+    "manchete": "John Deere faz reorganização industrial e vai tornar Catalão seu centro mundial de colhedoras de cana",
+    "url": "https://agfeed.com.br/negocios/john-deere-faz-reorganizacao-industrial-e-vai-tornar-catalao-seu-centro-mundial-de-colhedoras-de-cana",
+    "resumo": "John Deere investe US$ 40 milhões em Catalão (GO) para concentrar a produção global de colhedoras de cana a partir de 2029",
+    "fonte": "AgFeed",
+    "data": "2026-11-20T18:37:40.917Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "17feee4f0be491a0",
+    "manchete": "“Mel de soja” e prêmio internacional: as ousadias das mulheres do agro vão para o cinema",
+    "url": "https://agfeed.com.br/esg/mel-de-soja-e-premio-internacional-as-ousadias-das-mulheres-do-agro-vao-para-o-cinema",
+    "resumo": "Com direção e roteiro da cineasta Patrícia Travassos, foi lançado esta semana o documentário “Polinizadoras”, com foco nas mulheres do agro",
+    "fonte": "AgFeed",
+    "data": "2026-11-20T18:37:40.912Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b750b43d80e31b2b",
+    "manchete": "Stefan Doktor, o atleta de luge que comanda a melhor vinícola do mundo",
+    "url": "https://neofeed.com.br/finde/stefan-doktor-o-atleta-de-luge-que-comanda-a-melhor-vinicola-do-mundo/",
+    "resumo": "Em entrevista ao NeoFeed, o eslovaco conta como a disciplina das competições o ajuda a gerir a alemã Schloss Johannisberg, líder do ranking de enoturismo The 50 Best Vineyards de 2026",
+    "fonte": "NeoFeed",
+    "data": "2026-11-20T18:37:37.894Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "2f8aa1d6ba6a7743",
+    "manchete": "O que um vestido manchado de azeite ensina sobre a filosofia de gestão de Danny Meyer",
+    "url": "https://neofeed.com.br/finde/o-que-um-vestido-manchado-de-azeite-ensina-sobre-a-filosofia-de-gestao-de-danny-meyer/",
+    "resumo": "Em novo livro, Danny Meyer, o restaurateur mais influente de Nova York revisita crises, fechamentos e decisões difíceis, com uma convicção: cuidar da equipe é o primeiro passo para conquistar o cliente",
+    "fonte": "NeoFeed",
+    "data": "2026-11-20T18:37:37.894Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5429948ea63176c4",
+    "manchete": "Fuvest antecipa divulgação de aprovados para 2ª fase e locais de provas do vestibular 2027",
+    "url": "https://www.moneytimes.com.br/fuvest-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas-do-vestibular-2027/",
+    "resumo": "A Fundação Universitária para o Vestibular (Fuvest) divulgou nesta sexta-feira, 20, a lista de candidatos convocados para a 2ª fase do Vestibular 2027, juntamente com os locais de prova. A publicação estava prevista para a próxima segunda-feira, 23, e foi antecipada em três dias, segundo informou em seu site oficial.…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T18:33:19.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d33a9e530350c11f",
+    "manchete": "Ações de emergentes ficam próximas a \"bear market\" com expansão da crise de IA",
+    "url": "https://www.infomoney.com.br/mercados/acoes-de-emergentes-ficam-proximas-a-bear-market-com-expansao-da-crise-de-ia/",
+    "resumo": "A Ásia, com forte presença do setor de tecnologia, foi a mais afetada pelas vendas nos mercados emergentes",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T18:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "508e921b5b310fc7",
+    "manchete": "Casos de sarampo nos EUA se aproximam da marca de 6.000 à medida que surto se agrava",
+    "url": "https://www.moneytimes.com.br/casos-de-sarampo-nos-eua-se-aproximam-da-marca-de-6-000-a-medida-que-surto-se-agrava-pads/",
+    "resumo": "Os Centros de Controle e Prevenção de Doenças (CDC) dos EUA informaram nesta sexta-feira que havia 5.838 casos de sarampo até 19 de novembro, conforme o país enfrenta o pior surto dessa infecção viral em décadas. Os casos de sarampo nos EUA ultrapassaram a marca de 5.000 pela primeira vez desde 1991. Nesta semana, os…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T18:29:55.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d6fb597aad1b6165",
+    "manchete": "Morre Lance Broadway, ator de 'Invasão à Casa Branca' e 'Agentes da S.H.I.E.L.D.'",
+    "url": "https://www.infomoney.com.br/mundo/morre-lance-broadway-ator-de-invasao-a-casa-branca-e-agentes-da-s-h-i-e-l-d/",
+    "resumo": "Ator e ex-atleta do beisebol tinha apenas 43 anos",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T18:25:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63a2e24b28e08c7a",
+    "manchete": "'Não temos esse luxo', diz diretora do Fed sobre esperar mais para combater inflação",
+    "url": "https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/",
+    "resumo": "A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com impactos sobre…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T18:18:15.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b9644b8d7cd0ceb3",
+    "manchete": "Funcionário da Anthropic diz que solucionou problema mais famoso da matemática",
+    "url": "https://www.infomoney.com.br/mundo/funcionario-da-anthropic-diz-que-solucionou-problema-mais-famoso-da-matematica/",
+    "resumo": "Se comprovada a solução da Hipótese de Riemann, toda a matemática terá repercussões",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T18:12:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "96922c8ff79826e2",
+    "manchete": "Trump e Xi concordaram que decisões sobre IA militar devem envolver humanos, diz Bessent",
+    "url": "https://www.moneytimes.com.br/trump-e-xi-concordaram-que-decisoes-sobre-ia-militar-devem-envolver-humanos-diz-bessent/",
+    "resumo": "O presidente dos EUA, Donald Trump, e o presidente chinês, Xi Jinping, concordaram que os seres humanos devem sempre estar envolvidos em quaisquer decisões militares que usem tecnologias de inteligência artificial, mesmo enquanto os dois países competem pela supremacia em IA, afirmou o secretário do Tesouro, Scott…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T18:09:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "032e5f61da8faf94",
+    "manchete": "Trump diz que não permitirá que empresas construam data centers fora dos EUA",
+    "url": "https://www.infomoney.com.br/mundo/trump-diz-que-nao-permitira-que-empresas-construam-data-centers-fora-dos-eua/",
+    "resumo": "Ele prometeu aplicar um “imposto altíssimo” às empresas que construírem data centers no exterior",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T18:05:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "97305ef271192048",
+    "manchete": "Crescem casos de mosca-da-bicheira nos EUA, mantendo pecuaristas em alerta",
+    "url": "https://www.moneytimes.com.br/crescem-casos-de-mosca-da-bicheira-nos-eua-mantendo-pecuaristas-em-alerta-pads/",
+    "resumo": "Os surtos nos Estados Unidos da mosca-da-bicheira do Novo Mundo &#8212; parasita que devora animais de sangue quente vivos e ameaça o rebanho bovino &#8212; aumentaram drasticamente devido ao clima excepcionalmente úmido e quente no sudoeste do país, informaram o Departamento de Agricultura dos EUA (USDA) e…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T18:00:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f8c0ae821668282f",
+    "manchete": "Houthis atacam prédio mais alto da Arábia Saudita; não houve feridos",
+    "url": "https://www.infomoney.com.br/mundo/houthis-atacam-predio-mais-alto-da-arabia-saudita-nao-houve-feridos/",
+    "resumo": "Os houthis não divulgaram nenhuma declaração imediata sobre o ataque",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T17:51:47.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c867eb2ee5e600ea",
+    "manchete": "Decisão sobre genocídio em Mianmar pode fortalecer processo contra Israel sobre Gaza",
+    "url": "https://www.infomoney.com.br/mundo/decisao-sobre-genocidio-em-mianmar-pode-fortalecer-processo-contra-israel-sobre-gaza/",
+    "resumo": "Na quinta-feira, tribunal concluiu que Mianmar violou a convenção por diversos motivos decorrentes dos maus-tratos infligidos à minoria muçulmana rohingya pelas Forças Armadas",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T17:51:07.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "1f8bb50ffa4a305b",
+    "manchete": "Xi Jinping projeta a influência global da China após receber Trump e Putin na APEC",
+    "url": "https://www.infomoney.com.br/mundo/xi-jinping-projeta-a-influencia-global-da-china-apos-receber-trump-e-putin-na-apec/",
+    "resumo": "Como anfitrião da cúpula anual da Cooperação Econômica Ásia-Pacífico (APEC), na quarta e quinta-feira, Xi recebeu os líderes de 21 economias que representam cerca de 60% da atividade econômica global",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T17:48:53.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "68f8fba4eb150432",
+    "manchete": "Bessent diz que ataques com base em IA vêm de modelos chineses e são 'perigosos'",
+    "url": "https://www.infomoney.com.br/mundo/bessent-diz-que-ataques-com-base-em-ia-vem-de-modelos-chineses-e-sao-perigosos/",
+    "resumo": "Secretário do Tesouro dos Estados Unidos negou, porém, que a disputa por IA impeça entendimentos com Pequim",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T17:45:55.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b2c0aa714c105f3b",
+    "manchete": "Xi Jinping projeta a influência global da China após receber Trump e Putin na APEC",
+    "url": "https://www.moneytimes.com.br/xi-jinping-projeta-a-influencia-global-da-china-apos-receber-trump-e-putin-na-apec-pads/",
+    "resumo": "As reuniões de alto nível desta semana no polo tecnológico da China deram ao presidente Xi Jinping uma vitória, reforçando sua imagem como figura central na diplomacia global e demonstrando o status de superpotência do país. Ele também convocou o primeiro encontro formal das três maiores potências nucleares: Estados…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T17:45:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "956e886f094dcaec",
+    "manchete": "Bolsas da Europa fecham em queda firme com 'selloff tech' mesmo após estreia da Anthropic em NY",
+    "url": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-queda-firme-com-selloff-tech-mesmo-apos-estreia-da-anthropic-em-ny-pads/",
+    "resumo": "As bolsas europeias fecharam em queda mais firme nesta sexta-feira, 20, pressionadas pela venda de ações de tecnologia e de empresas ligadas à infraestrutura de inteligência artificial (IA). A estreia recorde da Anthropic na Nasdaq não dissipou os temores com restrições à exportação de chips e custos crescentes para…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T17:42:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7663cd2b17326e61",
+    "manchete": "Negociações COP31 são prorrogadas enquanto países debatem sobre combustíveis fósseis",
+    "url": "https://www.infomoney.com.br/mundo/negociacoes-cop31-sao-prorrogadas-enquanto-paises-debatem-sobre-combustiveis-fosseis/",
+    "resumo": "Grupos ambientalistas ‌que acompanhavam a conferência de duas semanas exerceram forte pressão",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T17:28:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fee932041de03520",
+    "manchete": "TikTok lança recurso que permite denunciar deepfakes de políticos",
+    "url": "https://www.infomoney.com.br/business/tiktok-lanca-recurso-que-permite-denunciar-deepfakes-de-politicos/",
+    "resumo": "Ferramenta ajuda a identificar imagens gerados por inteligência artificial de figuras públicas sem consentimento; plataforma busca combater desinformação antes das eleições europeias de 2027",
+    "fonte": "InfoMoney",
+    "data": "2026-11-20T17:13:01.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b273a111479a01db",
+    "manchete": "Os 3 principais testes do agronegócio em 2027, segundo o BTG Pactual",
+    "url": "https://www.moneytimes.com.br/os-3-principais-testes-do-agronegocio-em-2027-segundo-o-btg-pactual-pads/",
+    "resumo": "Depois de dois anos marcados por recuperação de produtividade em algumas regiões e presão financeira em outras, o agronegócio brasileiro entra em 2027 diante de três grandes desafios. Na avaliação do BTG Pactual, o desempenho do setor dependerá menos da direção dos preços das commodities e mais da capacidade dos…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T17:07:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d0dd7a945d097fe4",
+    "manchete": "Boeing deixa em aberto possibilidade de mais demissões em meio a planos de produção paralisados",
+    "url": "https://www.moneytimes.com.br/boeing-deixa-em-aberto-possibilidade-de-mais-demissoes-em-meio-a-planos-de-producao-paralisados-pads/",
+    "resumo": "Quando pressionada por um de seus maiores sindicatos, a direção da Boeing se recusou a informar na quinta-feira (20) se a empresa planeja mais demissões em massa após a próxima rodada, prevista para o mês que vem. “Perguntamos se 9 de dezembro era a única data para (notificações de demissão) e nos disseram que a…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T17:04:24.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "46e3546cb60a70b4",
+    "manchete": "Queda das ações da Nvidia faz com que empresa fique atrás da Alphabet em termos de valor de mercado",
+    "url": "https://www.moneytimes.com.br/queda-das-acoes-da-nvidia-faz-com-que-empresa-fique-atras-da-alphabet-em-termos-de-valor-de-mercado-pads/",
+    "resumo": "A Nvidia, uma das principais empresas do setor de inteligência artificial em Wall Street, ficou atrás da Alphabet — controladora do Google — e passou a ser a quarta empresa mais valiosa dos EUA nesta sexta-feira, à medida que uma queda prolongada das ações da fabricante de chips reorganizou o topo do ranking de valor…",
+    "fonte": "Money Times",
+    "data": "2026-11-20T16:45:51.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "a1d8b5261740f6d0",
+    "manchete": "Mês da Consciência Negra: As Tecnologias de Permanência como novo pilar da governança ESG",
+    "url": "https://startupi.com.br/mes-da-consciencia-negra-as-tecnologias-de-permanencia-como-novo-pilar-da-governanca-esg/",
+    "resumo": "Startupi Mês da Consciência Negra: As Tecnologias de Permanência como novo pilar da governança ESG Por Guibson Trindade, especialista em ESG Racial, pesquisador e professor na Fundação Dom Cabral (FDC).",
+    "fonte": "Startupi",
+    "data": "2026-11-20T08:00:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "85b16f8a5fcda519",
+    "manchete": "Consciência Negra também se mede na nota fiscal",
+    "url": "https://startupi.com.br/consciencia-negra-tambem-se-mede-na-nota-fiscal/",
+    "resumo": "Startupi Consciência Negra também se mede na nota fiscal Por Mônica Schimenes, Diretora-Presidente do Integrare Hub de Compras Inclusivas e Fundadora da MCM Brand Experience",
+    "fonte": "Startupi",
+    "data": "2026-11-20T07:59:00.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "d95bae5728964616",
     "manchete": "Boa Safra tem recorde de pedidos para um terceiro trimestre, com diversificação",
     "url": "https://agfeed.com.br/negocios/boa-safra-tem-recorde-de-pedidos-para-um-terceiro-trimestre-com-diversificacao",
@@ -6011,34 +6333,6 @@
     "importancia": 3
   },
   {
-    "id": "7b3b6db4c73b6e24",
-    "manchete": "Cooperativa Lar vai investir mais de R$ 500 milhões em complexo de produção de leitões no Paraná Cooperativa Lar vai investir mais de R$ 500 milhões em complexo de produção de leitões no Paraná",
-    "url": "https://agfeed.com.br/negocios/cooperativa-lar-vai-investir-mais-de-r-500-milhoes-em-complexo-de-producao-de-leitoes-no-parana",
-    "resumo": "Com capacidade para produzir mais de 900 mil leitões por ano, empreendimento em Laranjeiras do Sul será instalado em área adquirida com recursos públicos",
-    "fonte": "AgFeed",
-    "data": "2026-11-13T01:47:24.621Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "505bd9e059e39b03",
-    "manchete": "\"Produtor rural não é caloteiro\": setor reage em bloco à acusação de presidente do BB",
-    "url": "https://agfeed.com.br/economia/produtor-rural-nao-e-caloteiro-setor-reage-em-bloco-a-acusacao-de-presidente-do-bb",
-    "resumo": "Aprosoja, Famato e Farsul reagem a declarações da presidente do Banco do Brasil sobre inadimplência de produtores rurais",
-    "fonte": "AgFeed",
-    "data": "2026-11-13T01:47:24.620Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "74b1eef27d56a0f9",
     "manchete": "Com Ferrogrão adiada, Rota Arco Norte tem desconto simbólico",
     "url": "https://neofeed.com.br/economia/com-ferrograo-adiada-rota-arco-norte-tem-desconto-simbolico/",
@@ -9825,302 +10119,6 @@
     "resumo": "Pesquisa Quaest divulgada neste domingo (8) aponta que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, contra 44% que reprovam a gestão. São 8% os que não sabem ou não responderam. No dia 24 de outubro, na véspera do primeiro turno das eleições, eram 48% os que aprovavam e 45% [&#8230;]",
     "fonte": "Money Times",
     "data": "2026-11-08T14:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ebd26af8e064f4c4",
-    "manchete": "Para reduzir dívida, CSN (CSNA3) acerta venda da CSN Cimentos à chinesa Huaxin por R$ 12,7 bilhões",
-    "url": "https://www.moneytimes.com.br/para-reduzir-divida-csn-csna3-acerta-venda-da-csn-cimentos-a-chinesa-huaxin-por-r-127-bilhoes-igdl/",
-    "resumo": "A CSN (CSNA3) celebrou o contrato para vender ações de sua subsidiária CSN Cimentos à chinesa Huaxin Building Materials Group, mostra fato relevante divulgado neste domingo (8). De acordo com o documento, o valor da empresa (enterprise value) para a transação foi acordado em R$ 12,7 bilhões, considerando tanto os…",
-    "fonte": "Money Times",
-    "data": "2026-11-08T13:27:29.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9aa9e280967685b0",
-    "manchete": "Berkshire Hathaway: lucro cai 28% no 3T26 após ganhos menores com ações",
-    "url": "https://www.moneytimes.com.br/berkshire-hathaway-lucro-cai-28-no-3o-trimestre-pressionado-por-ganhos-menores-com-acoes-igdl/",
-    "resumo": "O lucro líquido atribuível aos acionistas da Berkshire Hathaway foi de US$ 22,11 bilhões no terceiro trimestre, ante US$ 30,79 bilhões um ano antes, queda de 28,2%. O recuo refletiu principalmente resultados mais fracos na divisão de seguros e a menor contribuição dos ganhos com investimentos, que somaram US$ 9,40…",
-    "fonte": "Money Times",
-    "data": "2026-11-08T13:20:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "77fac74cf2dde882",
-    "manchete": "‘Caso Master do Paraguai’: BC do país diz que devolveu dinheiro a 64% das contas com saldo no Ueno Bank",
-    "url": "https://www.moneytimes.com.br/banco-central-do-paraguai-diz-que-devolveu-dinheiro-a-64-das-contas-com-saldo-no-ueno-bank-igdl/",
-    "resumo": "O Banco Central do Paraguai (BCP) informou no sábado (7) que já devolveu dinheiro a 64% das 1,87 milhão de contas com saldo no Ueno Bank, banco digital sob intervenção desde terça-feira (3). Outras 669.336 contas ainda aguardam a restituição. A partir de segunda-feira (9), o BC do país pretende pagar também clientes…",
-    "fonte": "Money Times",
-    "data": "2026-11-08T12:52:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a6de5c7aba49d5e5",
-    "manchete": "A \"invasão dos chineses\" que preocupa o presidente da Unem",
-    "url": "https://www.moneytimes.com.br/a-invasao-dos-chineses-que-preocupa-o-presidente-da-unem-pads/",
-    "resumo": "O avanço dos carros elétricos chineses no Brasil se tornou uma das principais preocupações da indústria nacional de biocombustíveis. Para Amaury Pekelman, presidente da União Nacional do Etanol de Milho (Unem), o tema já entrou definitivamente no radar do setor, que vê riscos para o futuro da demanda por etanol.…",
-    "fonte": "Money Times",
-    "data": "2026-11-08T12:45:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "feac895dc8c38017",
-    "manchete": "CFO da Binance deixa o cargo dias após ataque hacker de US$ 6,3 bilhões",
-    "url": "https://www.moneytimes.com.br/cfo-da-binance-kaiser-ng-deixa-o-cargo-justin-yek-e-nomeado-em-seu-lugar-igdl/",
-    "resumo": "O diretor financeiro da Binance, Kaiser Ng, deixou a empresa para se dedicar a um novo empreendimento, informou a maior corretora de criptomoedas do mundo, dias depois de hackers terem roubado US$ 6,3 bilhões da plataforma. “Kaiser Ng decidiu seguir um novo caminho após mais de cinco anos na Binance, com um plano de…",
-    "fonte": "Money Times",
-    "data": "2026-11-08T12:38:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "84507fd366076fc1",
-    "manchete": "A saúde do futuro já existe, mas ela funciona para todo mundo?",
-    "url": "https://startupi.com.br/a-saude-do-futuro-ja-existe-mas-ela-funciona-para-todo-mundo/",
-    "resumo": "Startupi A saúde do futuro já existe, mas ela funciona para todo mundo? Inteligência artificial, hospitais digitais, novas regras, custos crescentes e pacientes cada vez mais exigentes. O HIMSS Executive Summit Brasil 2026 chega a São Paulo para discutir uma pergunta que o setor não pode mais adiar: como transformar…",
-    "fonte": "Startupi",
-    "data": "2026-11-08T09:57:38.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "54e4286396214b55",
-    "manchete": "Rogério Marinho, um revolucionário",
-    "url": "https://braziljournal.com/rogerio-marinho-um-revolucionario",
-    "resumo": "O discurso que o Senador Rogério Marinho fez esta semana a seus pares do PL se destaca como uma peça de oratória que vale a pena ser lida – e lembrada. Num País em que a Política se deteriorou continuamente ao longo de décadas e em que o debate de ideias foi substituído por lacrações de influencers dos dois lados, são…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-08T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6b1d7db53e50811c",
-    "manchete": "A vida são ciclos – e não este mito da linha reta",
-    "url": "https://braziljournal.com/a-vida-sao-ciclos-e-nao-este-mito-da-linha-reta",
-    "resumo": "Vivemos convencidos de que a vida avança em linha reta. Nascemos, crescemos, construímos e envelhecemos – como se a existência fosse uma sequência contínua de acontecimentos. Mas basta observar a Natureza para encontrar outra lógica. A Terra completa uma volta ao redor do Sol a cada ano, a Lua atravessa suas fases, as…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-08T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "20bf3a1ac189160d",
-    "manchete": "As quatro sortes de Demis Hassabis",
-    "url": "https://braziljournal.com/as-quatro-sortes-de-demis-hassabis",
-    "resumo": "Em geral invisto meu tempo em biografias cuja relevância já foi comprovada pela posteridade, como as de Leonardo Da Vinci ou Benjamin Franklin. Mas The Infinity Machine: Demis Hassabis, DeepMind and the Quest for Superintelligence foi uma prazerosa exceção. (Compre aqui)",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-08T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "51889cda2b699518",
-    "manchete": "Não se fazem mais homens como de Gaulle",
-    "url": "https://braziljournal.com/nao-se-fazem-mais-homens-como-de-gaulle",
-    "resumo": "Junho de 1940. A França desmorona em poucas semanas sob a blitzkrieg alemã. O governo capitula, o armistício é assinado, e o país parece afundar definitivamente no desespero e na desonra. É nesse cenário de colapso absoluto que um general quase desconhecido do público, recém-nomeado subsecretário de Estado, toma um…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-08T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7fa95779485ea1ce",
-    "manchete": "Ética: as delicadas escolhas do nosso dia a dia",
-    "url": "https://braziljournal.com/etica-as-delicadas-escolhas-do-nosso-dia-a-dia",
-    "resumo": "Os fins justificam os meios? É possível mesmo distinguir entre o bem e o mal, entre o bom e o mau comportamento, definir o que é certo e errado, sem recorrer ao direito? Como resolver um dilema entre dois valores em conflito se ambos são igualmente respeitáveis, como o do paciente adulto e lúcido que deseja abreviar…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-08T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a1d78b250d5eaaef",
-    "manchete": "New York Times perto de comprar o Letterboxd, a rede social dos cinéfilos",
-    "url": "https://braziljournal.com/new-york-times-perto-de-comprar-o-letterboxd-a-a-rede-social-dos-cinefilos",
-    "resumo": "O New York Times está perto de fechar a compra do Letterboxd, uma rede social dedicada ao cinema, por cerca de US$ 330 milhões. A notícia saiu no próprio jornal, que citou fontes próximas às negociações.",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-08T01:39:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fee4771b90ea4f9e",
-    "manchete": "Itaipu aciona MP do Paraguai para recuperar US$ 182 milhões depositados no Ueno",
-    "url": "https://www.infomoney.com.br/brasil/itaipu-aciona-mp-do-paraguai-para-recuperar-us-182-milhoes-depositados-no-ueno/",
-    "resumo": "Administração informou neste sábado que iniciou medidas legais e que acompanha os procedimentos do Banco Central do Paraguai",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T22:36:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bb185f7d8ffe5963",
-    "manchete": "Reação contra a IA se espalha pela Europa com protestos contra data centers",
-    "url": "https://www.infomoney.com.br/mercados/reacao-contra-a-ia-se-espalha-pela-europa-com-protestos-contra-data-centers/",
-    "resumo": "Cerca de 2 mil pessoas marcharam em Dublin, outras 1,2 mil em Helsinque",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T22:23:05.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e304fa49e1bc8544",
-    "manchete": "Veja o grid de largada do GP de SP: Norris na pole, Câmara em 11º e Bortoleto em 19º",
-    "url": "https://www.infomoney.com.br/esportes/veja-o-grid-de-largada-do-gp-de-sp-norris-na-pole-camara-em-11o-e-bortoleto-em-19o/",
-    "resumo": "Piloto da McLaren dominou o fim de semana do Grande Prêmio de São Paulo de Fórmula 1",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T21:38:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2f8c12bc13074b48",
-    "manchete": "Relações Exteriores do Paraguai diz que país \"sai fortalecido\" de crise do Ueno Bank",
-    "url": "https://www.infomoney.com.br/mundo/relacoes-exteriores-do-paraguai-diz-que-pais-sai-fortalecido-de-crise-do-ueno-bank/",
-    "resumo": "Manifestação ocorre enquanto governos estrangeiros começam a se pronunciar sobre a mudança na Presidência",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T21:24:26.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9ec20455ca3a3bc0",
-    "manchete": "Trump diz que ordenou investigação contra democratas e os acusa de extorsão",
-    "url": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
-    "resumo": "Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T20:30:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d5d02a5f1bcd2159",
-    "manchete": "Anvisa selecionará até 8 IFAs fabricados no Brasil para certificação",
-    "url": "https://www.infomoney.com.br/brasil/anvisa-selecionara-ate-8-ifas-fabricados-no-brasil-para-certificacao/",
-    "resumo": "Agência abriu chamamento público para seleção dos Insumos Farmacêuticos Ativos",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T20:15:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e53891d2c7f58f46",
-    "manchete": "Lula pede 'prontidão' ao 'Exército' de Janones e confirma live na Turquia",
-    "url": "https://www.infomoney.com.br/politica/lula-exercito-janones-prontidao-live-turquia/",
-    "resumo": "Presidente viajará para a COP31 com o deputado e quer manter mobilizado canal de WhatsApp que reúne mais de 10 milhões de integrantes",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T20:11:48.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c5c544eab4e14251",
-    "manchete": "Trump convida CEO do UFC para secretário de imprensa e Amanda Nunes para assistente",
-    "url": "https://www.infomoney.com.br/mundo/trump-convida-ceo-do-ufc-para-secretario-de-imprensa-e-amanda-nunes-para-assistente/",
-    "resumo": "Em publicação nas redes sociais, presidente dos EUA sugere equipe formada por lutadores e ex-lutadores",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T19:53:55.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4b8e85e08c84cc1a",
-    "manchete": "Polônia: Sobe para 6 número de mortos em ataque a tiros na Cracóvia",
-    "url": "https://www.infomoney.com.br/mundo/polonia-sobe-para-6-numero-de-mortos-em-ataque-a-tiros-na-cracovia/",
-    "resumo": "Atirador foi baleado durante um confronto com policiais e levado ao hospital para uma cirurgia",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T19:34:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9966d5b73d52a5ae",
-    "manchete": "Ueno Bank: BC já devolveu US$ 158 milhões, mas 669 mil contas aguardam",
-    "url": "https://www.infomoney.com.br/mercados/ueno-bank-669-mil-contas-devolucao-dinheiro-paraguai/",
-    "resumo": "Banco Central do Paraguai afirma ter restituído valores a 64% das contas com saldo; nova etapa de pagamentos começa na segunda-feira (9)",
-    "fonte": "InfoMoney",
-    "data": "2026-11-07T19:16:09.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3d5cef4364fb6b4f",
-    "manchete": "Elizabeth Holmes, da Theranos, troca o figurino, mas mantém o roteiro",
-    "url": "https://neofeed.com.br/finde/elizabeth-holmes-da-theranos-troca-o-figurino-mas-mantem-o-roteiro/",
-    "resumo": "O documentário Tudo Pode Ser Visto mostra a fundadora da Theranos, condenada a 11 anos e três meses de prisão, tenta sustentar sua inocência",
-    "fonte": "NeoFeed",
-    "data": "2026-11-07T16:28:56.442Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "042a92e2283ff0b2",
-    "manchete": "A brasileira que criou um sorvete vegano considerado um dos melhores da França",
-    "url": "https://neofeed.com.br/finde/a-brasileira-que-criou-um-sorvete-vegano-considerado-um-dos-melhores-da-franca/",
-    "resumo": "A mineira Roberta Costa uniu arte e ingredientes sustentáveis para transformar a La Crèma no novo hotspot do Quartier Latin",
-    "fonte": "NeoFeed",
-    "data": "2026-11-07T16:28:56.442Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
