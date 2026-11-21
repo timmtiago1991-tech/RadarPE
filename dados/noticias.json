@@ -1,5 +1,309 @@
 [
   {
+    "id": "c5cfac30257d5dfa",
+    "manchete": "Na Fertilizantes Heringer, a crise não dá trégua: vendas desabam quase 70% e prejuízo continua Na Fertilizantes Heringer, a crise não dá trégua: vendas desabam quase 70% e prejuízo continua",
+    "url": "https://agfeed.com.br/negocios/na-fertilizantes-heringer-a-crise-nao-da-tregua-vendas-desabam-quase-70-e-prejuizo-continua",
+    "resumo": "Controlada pela EuroChem, companhia registrou queda de 68,2% na receita e de 69,2% nas entregas de fertilizantes entre julho e setembro",
+    "fonte": "AgFeed",
+    "data": "2026-11-21T17:36:13.154Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9306cb5a4464ca7b",
+    "manchete": "UPL enfrenta Lavoro na Justiça",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/upl-enfrenta-lavoro-na-justica",
+    "resumo": "Por que a fabricante de defensivos pediu à Justiça o afastamento dos administradores da distribuidora em recuperação judicial",
+    "fonte": "AgFeed",
+    "data": "2026-11-21T17:36:13.142Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0ff11f30815fac41",
+    "manchete": "A fazenda alemã que produz leite há 291 anos, mas evita soja brasileira - por bônus e filosofia",
+    "url": "https://agfeed.com.br/negocios/a-fazenda-alema-que-produz-leite-ha-291-anos-mas-evita-soja-brasileira-por-bonus-e-filosofia",
+    "resumo": "A fazenda alemã Hof Decker faz a tradição da produção de leite atravessar gerações. Já são 291 anos de ordenha na Baixa Saxônia, Alemanha.",
+    "fonte": "AgFeed",
+    "data": "2026-11-21T17:36:13.139Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "734e7236e1da13f9",
+    "manchete": "Entre a catástrofe e a maravilha: o mergulho artístico do Vaticano em seu acervo histórico",
+    "url": "https://neofeed.com.br/finde/entre-a-catastrofe-e-a-maravilha-o-mergulho-artistico-do-vaticano-em-seu-acervo-historico/",
+    "resumo": "O artista francês JR, o tipógrafo americano Bill Moran e o chef italiano Fulvio Pierangelini contam ao NeoFeed como seus trabalhos para a exposição AQVA exploram a água como fonte de vida e força de destruição",
+    "fonte": "NeoFeed",
+    "data": "2026-11-21T17:36:09.056Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "7ab028a58b460bf5",
+    "manchete": "A manteiga é o novo souvenir de Paris",
+    "url": "https://neofeed.com.br/finde/a-manteiga-e-o-novo-souvenir-de-paris/",
+    "resumo": "Base da gastronomia francesa, a mantiega passa a dividir espaço na mala dos turistas com os queijos e os vinhos. Em uma loja dedicada a ela em Paris, a fila passa de uma hora",
+    "fonte": "NeoFeed",
+    "data": "2026-11-21T17:36:09.055Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "470ed149f4a1df53",
+    "manchete": "STF libera retomada de auxílio a mais de 51 mil atingidos por tragédia em Brumadinho",
+    "url": "https://www.infomoney.com.br/brasil/stf-libera-retomada-de-auxilio-a-mais-de-51-mil-atingidos-por-tragedia-em-brumadinho/",
+    "resumo": "Fachin derrubou bloqueio determinado pelo STJ e permitiu a liberação de recursos para famílias afetadas pelo rompimento da barragem da Vale em 2019",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T17:34:18.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "50a67dc65f521808",
+    "manchete": "Governador do RS amplia ajuda à cidade de Tupanciretã, atingida por tempestade",
+    "url": "https://www.infomoney.com.br/brasil/governador-do-rs-amplia-ajuda-a-cidade-de-tupancireta-atingida-por-tempestade/",
+    "resumo": "Eduardo Leite Leite anunciou R$ 5 milhões extras de ajuda na noite de ontem, após uma liberação emergencial de R$ 2 milhões feita pela manhã; recursos vão servir para custear necessidades emergenciais, como maquinário e equipamentos",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T17:34:17.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "182b30a222bde5f6",
+    "manchete": "Especialista analisa em livro impacto de reformas previdenciárias no Brasil",
+    "url": "https://www.infomoney.com.br/economia/especialista-analisa-em-livro-impacto-de-reformas-previdenciarias-no-brasil/",
+    "resumo": "Autor diz que é preciso reconhecer os problemas estruturais do sistema e formular alternativas que conciliem ampliação da cobertura, sustentabilidade financeira e proteção social",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T17:16:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "856e45267bf867ba",
+    "manchete": "Infantino recebe apoio da Confederação Africana para reeleição à presidência da Fifa",
+    "url": "https://www.infomoney.com.br/esportes/infantino-recebe-apoio-da-confederacao-africana-para-reeleicao-a-presidencia-da-fifa/",
+    "resumo": "Anúncio acontece um dia após o apoio oficial da Conmebol a Infantino; em outubro a Confederação Asiática de Futebol também aprovou a continuidade do presidente da Fifa",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T17:01:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f0ceb88c53e4c775",
+    "manchete": "TCU aponta falhas do governo para enfrentar secas e enchentes no Brasil",
+    "url": "https://www.infomoney.com.br/brasil/tcu-aponta-falhas-do-governo-para-enfrentar-secas-e-enchentes-no-brasil/",
+    "resumo": "Auditoria identifica atrasos na revisão de planos, falta de coordenação entre ministérios e risco de desperdício de recursos em obras de segurança hídrica",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T16:55:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d44c365209be5f61",
+    "manchete": "Palmeiras x Flamengo: Veja onde assistir e horário",
+    "url": "https://www.infomoney.com.br/esportes/palmeiras-flamengo-onde-assistir-brasileirao/",
+    "resumo": "Os líderes do Campeonato Brasileiro entram em campo em mais uma disputa apertada",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T16:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f64856bd5bb17ecb",
+    "manchete": "Moraes autoriza visita de filhos a Bolsonaro durante internação hospitalar",
+    "url": "https://www.infomoney.com.br/politica/moraes-autoriza-visita-de-filhos-a-bolsonaro-durante-internacao-hospitalar/",
+    "resumo": "Ex-presidente está internado desde sexta-feira (20), em Brasília, com obstrução intestinal; médicos avaliam necessidade de cirurgia",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T16:23:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "71c7402f06fa9a33",
+    "manchete": "Lula defende pacote fiscal: sistema financeiro não me ensinará a dirigir o País",
+    "url": "https://www.infomoney.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/",
+    "resumo": "O plano tem recebido críticas do mercado, que vê um corte pequeno de gastos, e de parte do campo progressista, que fala em risco de queda de gastos sociais",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T15:51:29.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dbbd370ef10a4e44",
+    "manchete": "Lula: falei para Putin, Trump e Xi para se reunirem; por coincidência, se reuniram",
+    "url": "https://www.infomoney.com.br/politica/lula-falei-para-putin-trump-e-xi-para-se-reunirem-por-coincidencia-se-reuniram/",
+    "resumo": "Lula disse que realizou ligações para os mandatários em 26 de julho e nos dias 4 e 21 de agosto",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T15:49:40.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c7f02b805adbc621",
+    "manchete": "São Paulo sedia neste final de semana a 3ª edição do festival Orgulho Nerd SP",
+    "url": "https://www.infomoney.com.br/mercados/sao-paulo-sedia-neste-final-de-semana-a-3a-edicao-do-festival-orgulho-nerd-sp/",
+    "resumo": "Festival celebra a cultura pop em todas as suas vertentes, dos quadrinhos ao cosplay, passando pelo cinema, o k-pop e a literatura",
+    "fonte": "InfoMoney",
+    "data": "2026-11-21T15:38:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "977f176dd5233b4e",
+    "manchete": "Funcionário da Anthropic diz que IA ajudou a resolver problema matemático de 167 anos",
+    "url": "https://www.moneytimes.com.br/funcionario-da-anthropic-diz-que-ia-ajudou-a-resolver-problema-matematico-de-167-anos/",
+    "resumo": "Um matemático da Anthropic afirma ter usado o modelo de inteligência artificial Claude para desenvolver uma prova da hipótese de Riemann, um dos problemas mais famosos e antigos da matemática. A demonstração ainda precisa ser analisada por especialistas independentes, mas pesquisadores ouvidos pela IBM demonstraram…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T15:30:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "95c8beecd00a6a82",
+    "manchete": "Ajuste fiscal: Lula defende Moretti e critica 'gritaria' de parte da esquerda e de 'yuppies da Faria Lima'",
+    "url": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T15:11:04.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "87ba1a468a34e02a",
+    "manchete": "Tarcísio, mudança no Ibovespa e BB rebaixado: o que bombou na semana no Money Times",
+    "url": "https://www.moneytimes.com.br/tarcisio-mudanca-no-ibovespa-e-bb-rebaixado-o-que-bombou-na-semana-no-money-times/",
+    "resumo": "Em semana mais curta por conta do feriado da Consciência Negra na sexta-feira (20), o Money Times teve entre os seus destaques de leitura duas notícias sobre falas do governador de São Paulo, Tarcísio de Freitas, em evento do BTG Pactual sobre o agronegócio. A primeira foi sobre a possível taxação de investimentos…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T14:20:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "35adcdb62d820b41",
+    "manchete": "Tudo o que você não soube",
+    "url": "https://www.moneytimes.com.br/tudo-o-que-voce-nao-soube/",
+    "resumo": "O título dessa coluna eu roubei de um livro escrito em 2007 pela já falecida (e genial) Fernanda Young. Nesse livro, a protagonista está no leito de morte do pai contando a ele tudo o que ele não soube ao longo da vida: suas peripécias, seus rancores, suas mágoas e dores. Num mote parecido está [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-11-21T14:00:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e5c9f72034251864",
+    "manchete": "Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi",
+    "url": "https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/",
+    "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua vez, continuou no…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T13:36:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "31fc7f580d040067",
+    "manchete": "Banco do Brasil (BBAS3): Equipe econômica discute com Lula nomes para substituir Tarciana, diz jornal",
+    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-equipe-economica-discute-com-lula-nomes-para-substituir-tarciana-diz-jornal/",
+    "resumo": "Integrantes da equipe econômica do governo Lula começaram a discutir nomes para substituir Tarciana Medeiros na presidência do Banco do Brasil (BBAS3), em meio à deterioração dos resultados financeiros da instituição e à forte desvalorização de suas ações. Segundo informações da Folha de S.Paulo publicadas neste…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T13:11:48.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4a8867501601c387",
+    "manchete": "Juiz dos EUA aprova acordo de US$ 7,25 bi da Bayer sobre herbicida suspeito de causar câncer",
+    "url": "https://www.moneytimes.com.br/juiz-dos-eua-aprova-acordo-de-us-725-bi-da-bayer-sobre-herbicida-suspeito-de-causar-cancer/",
+    "resumo": "Um juiz do Missouri aprovou o acordo de US$ 7,25 bilhões da Bayer para resolver processos que acusam o herbicida Roundup de causar câncer. A decisão pode encerrar quase uma década de litígios que pesam sobre a companhia alemã. O juiz Timothy Boyer, de um tribunal estadual em St. Louis, considerou o acordo “justo,…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T13:02:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6cce7ff93978798b",
+    "manchete": "XP: Temporada de balanços do 3T26 é fraca, e cenário macro ofusca resultados",
+    "url": "https://www.moneytimes.com.br/xp-temporada-de-balancos-do-3t26-e-fraca-e-cenario-macro-ofusca-resultados/",
+    "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi fraca, embora os resultados agregados tenham ficado próximos das estimativas, avalia a XP. O principal sinal de alerta veio do Ebitda: apenas 19% das empresas acompanhadas pela corretora superaram as projeções, menor proporção desde o início da série histórica,…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T12:49:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "0422801a1164d583",
+    "manchete": "Hapvida (HAPV3) diz que não há decisão concreta sobre venda de ativos após questionamento da CVM",
+    "url": "https://www.moneytimes.com.br/hapvida-hapv3-diz-que-nao-ha-decisao-concreta-sobre-venda-de-ativos-apos-questionamento-da-cvm/",
+    "resumo": "A Hapvida (HAPV3) confirmou que está reavaliando seu portfólio de ativos, mas afirmou que não há decisão concreta nem documento vinculante sobre uma eventual venda de negócios mencionados em notícia da imprensa. Em comunicado divulgado na quinta-feira (19), a companhia respondeu a um questionamento da Comissão de…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T11:37:50.000Z",
+    "tags_tema": [
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "af8925dd6d070e2a",
+    "manchete": "Banco Master: Presidente do Supremo mantém prisão de Daniel Vorcaro",
+    "url": "https://www.moneytimes.com.br/banco-master-presidente-do-supremo-mantem-prisao-de-daniel-vorcaro/",
+    "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, decidiu nesta sexta-feira (20) manter a prisão do ex-banqueiro Daniel Vorcaro. Fachin rejeitou pedido de soltura protocolado pela defesa do ex-banqueiro, que está preso desde março deste ano no presídio da Papudinha, no Distrito Federal. O ministro entendeu…",
+    "fonte": "Money Times",
+    "data": "2026-11-21T11:28:25.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "7b3b6db4c73b6e24",
     "manchete": "Cooperativa Lar vai investir mais de R$ 500 milhões em complexo de produção de leitões no Paraná",
     "url": "https://agfeed.com.br/negocios/cooperativa-lar-vai-investir-mais-de-r-500-milhoes-em-complexo-de-producao-de-leitoes-no-parana",
@@ -6543,44 +6847,6 @@
     "importancia": 3
   },
   {
-    "id": "29bb52d677692b92",
-    "manchete": "Raízen antecipa fim da recuperação extrajudicial para dezembro, com capitalização de até R$ 35 bi",
-    "url": "https://agfeed.com.br/negocios/raizen-antecipa-fim-da-recuperacao-extrajudicial-para-dezembro-com-capitalizacao-de-ate-r-35-bi",
-    "resumo": "Raízen prevê encerrar recuperação extrajudicial em dezembro, com capitalização de até R$ 35 bilhões e conversão de dívidas em ações",
-    "fonte": "AgFeed",
-    "data": "2026-11-13T01:47:24.622Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8c53c76c066e5dee",
-    "manchete": "Lucro da 3tentos cresce com usina de etanol de milho, mas margens seguem menores Lucro da 3tentos cresce com usina de etanol de milho, mas margens seguem menores",
-    "url": "https://agfeed.com.br/negocios/lucro-da-3tentos-cresce-com-usina-de-etanol-de-milho-mas-margens-seguem-menores",
-    "resumo": "Com nova indústria já em operação, companhia gaúcha registrou lucro de R$ 208,1 milhões e receita de R$ 5,8 bilhões no terceiro trimestre",
-    "fonte": "AgFeed",
-    "data": "2026-11-13T01:47:24.621Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f7af01ff32b36759",
-    "manchete": "MBRF mais que dobra lucro no terceiro trimestre, com maior foco no mercado externo MBRF mais que dobra lucro no terceiro trimestre, com maior foco no mercado externo",
-    "url": "https://agfeed.com.br/negocios/mbrf-mais-que-dobra-lucro-no-terceiro-trimestre-com-maior-foco-no-mercado-externo",
-    "resumo": "MBRF mais que dobra o lucro no terceiro trimestre de 2026, impulsionada pelo crescimento das exportações de carnes e proteínas",
-    "fonte": "AgFeed",
-    "data": "2026-11-13T01:47:24.621Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "74b1eef27d56a0f9",
     "manchete": "Com Ferrogrão adiada, Rota Arco Norte tem desconto simbólico",
     "url": "https://neofeed.com.br/economia/com-ferrograo-adiada-rota-arco-norte-tem-desconto-simbolico/",
@@ -9831,297 +10097,6 @@
     "tags_tema": [
       "Venture Capital",
       "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1cb078c28550a7b9",
-    "manchete": "Por que a Southern Copper vale o triplo da Vale – faturando só um terço",
-    "url": "https://braziljournal.com/por-que-a-southern-copper-vale-o-triplo-da-vale-faturando-so-um-terco",
-    "resumo": "Para a economia do século XXI, o cobre é o novo petróleo – e as mineradoras bem posicionadas na produção do metal são um ímã para os investidores. Caso emblemático: a Southern Copper Corporation, controlada pelo Grupo México.",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-09T09:50:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5427c26c90e00b84",
-    "manchete": "Quanto vale um gasoduto? A pergunta que opõe ANP, operadores e indústria",
-    "url": "https://braziljournal.com/quanto-vale-um-gasoduto-a-pergunta-que-opoe-anp-operadores-e-industria",
-    "resumo": "As operadoras de gasodutos estão subindo o tom contra a Agência Nacional de Petróleo (ANP) à medida que o regulador se prepara para colocar em debate a revisão tarifária dos serviços de transporte de gás, pautada para uma reunião de diretoria nesta segunda-feira. As duas maiores empresas do setor, a Nova…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-09T09:50:00.000Z",
-    "tags_tema": [
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "dacedc6b2be26b10",
-    "manchete": "Endeavor retoma programa Scale-Up com foco em empresas de IA e projeta R$ 200 milhões em receita para turma selecionada",
-    "url": "https://startupi.com.br/endeavor-retoma-programa-scale-up-com-foco-em-empresas-de-ia-e-projeta-r-200-milhoes-em-receita-para-turma-selecionada/",
-    "resumo": "Startupi Endeavor retoma programa Scale-Up com foco em empresas de IA e projeta R$ 200 milhões em receita para turma selecionada Primeira edição do novo formato reúne 17 startups que utilizam IA na arquitetura central do negócio; organização prevê três novas turmas temáticas em 2027",
-    "fonte": "Startupi",
-    "data": "2026-11-09T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f6c0df90f8d29e24",
-    "manchete": "Startups na rota da eletrificação: o novo mapa de oportunidades do Brasil",
-    "url": "https://startupi.com.br/startups-na-rota-da-eletrificacao-o-novo-mapa-de-oportunidades-do-brasil/",
-    "resumo": "Startupi Startups na rota da eletrificação: o novo mapa de oportunidades do Brasil Com a criação da Estratégia Nacional de Eletromobilidade, empresas de recarga, energia, software, logística e serviços urbanos podem capturar uma fatia de um mercado que já supera 1 milhão de veículos eletrificados vendidos",
-    "fonte": "Startupi",
-    "data": "2026-11-09T08:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5c5f9d32b412c427",
-    "manchete": "Janguiê Diniz lança \"O Código Empresarial\" com foco em finanças e gestão estratégica para lideranças corporativas",
-    "url": "https://startupi.com.br/o-codigo-empresarial-janguie-diniz-livro-gestao/",
-    "resumo": "Startupi Janguiê Diniz lança \"O Código Empresarial\" com foco em finanças e gestão estratégica para lideranças corporativas Obra reúne centenas de conceitos técnicos e indicadores de negócios em formato de guia de consulta; evento de lançamento ocorre no dia 24 de novembro em São Paulo",
-    "fonte": "Startupi",
-    "data": "2026-11-09T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "7fab4be492a0295c",
-    "manchete": "Solução de crédito para tecnologia não está só na Selic",
-    "url": "https://startupi.com.br/solucao-de-credito-para-tecnologia-nao-esta-so-na-selic/",
-    "resumo": "Startupi Solução de crédito para tecnologia não está só na Selic Mesmo com corte para 13,75% na taxa de juros, startups continuam enfrentando a falta de garantias físicas e linhas inadequadas ao modelo de negócio no Brasil",
-    "fonte": "Startupi",
-    "data": "2026-11-09T07:00:00.000Z",
-    "tags_tema": [
-      "Venture Capital",
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3973fdac377868d7",
-    "manchete": "Startup gaúcha lança plataforma de IA para otimização de busca e conversão no e-commerce",
-    "url": "https://startupi.com.br/busca-para-e-commerce-com-ia-rocket-search/",
-    "resumo": "Startupi Startup gaúcha lança plataforma de IA para otimização de busca e conversão no e-commerce Tecnologia desenvolvida pela Rocket Search combina algoritmos de recomendação, testes A/B e análise de dados para reduzir desistências de compra em lojas virtuais",
-    "fonte": "Startupi",
-    "data": "2026-11-09T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "06882bd47a813f36",
-    "manchete": "CASE26 terá palco dedicado a inteligência artificial, tokenização e ativos digitais na FEA-USP",
-    "url": "https://startupi.com.br/case26-abstartups-tokennation-ia-tokenizacao/",
-    "resumo": "Startupi CASE26 terá palco dedicado a inteligência artificial, tokenização e ativos digitais na FEA-USP Parceria entre ABStartups e TokenNation integrará tecnologias emergentes à programação da 13ª edição da Conferência Anual de Startups e Empreendedorismo",
-    "fonte": "Startupi",
-    "data": "2026-11-09T06:59:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "08c2acc3324ca140",
-    "manchete": "Mackenzie Alphaville aproxima startups e investidores-anjo no 2º Fórum Mack Angels",
-    "url": "https://startupi.com.br/forum-de-investimentos-mack-angels-mackenzie-alphaville/",
-    "resumo": "Startupi Mackenzie Alphaville aproxima startups e investidores-anjo no 2º Fórum Mack Angels Encontro reúne empresas emergentes e projetos de tecnologia desenvolvidos por alunos em bancas de apresentação de negócios e networking",
-    "fonte": "Startupi",
-    "data": "2026-11-09T06:58:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3a828bf1c9f9266f",
-    "manchete": "Conexão Floripa-Lisboa, startups miram expansão no Web Summit 2026",
-    "url": "https://startupi.com.br/web-summit-lisboa-2026-startups-catarinenses-expansao-global/",
-    "resumo": "Startupi Conexão Floripa-Lisboa, startups miram expansão no Web Summit 2026 Integrantes da delegação apoiada pela ACATE dos setores de agtech, moda, educação corporativa e biotecnologia buscam consolidar parcerias comerciais e atração de capital na Europa",
-    "fonte": "Startupi",
-    "data": "2026-11-09T06:57:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cb7f60576d5fdaf1",
-    "manchete": "Itaipu Parquetec integra ranking das 80 melhores empresas de tecnologia para trabalhar no Brasil",
-    "url": "https://startupi.com.br/itaipu-parquetec-ranking-gptw-ti-2026/",
-    "resumo": "Startupi Itaipu Parquetec integra ranking das 80 melhores empresas de tecnologia para trabalhar no Brasil Instituição alcança a 69ª colocação na categoria de médias empresas da premiação GPTW TI 2026, impulsionada por políticas de equidade e reestruturação interna",
-    "fonte": "Startupi",
-    "data": "2026-11-09T06:57:00.000Z",
-    "tags_tema": [
-      "Venture Capital"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e3343f5403e96223",
-    "manchete": "Maple Bear \"volta para casa\" e adquire escola no Canadá",
-    "url": "https://neofeed.com.br/negocios/maple-bear-volta-para-casa-e-adquire-escola-no-canada/",
-    "resumo": "A rede de ensino do Seb Education conclui M&A para ter a primeira escola no Canadá, país em que a metodologia foi criada",
-    "fonte": "NeoFeed",
-    "data": "2026-11-09T00:49:01.142Z",
-    "tags_tema": [
-      "M&A"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "acb87aea320c4161",
-    "manchete": "ARTIGO: Na cultura de uma organização, é preciso cuidar daquilo que nos faz humanos",
-    "url": "https://neofeed.com.br/insiders/artigo-na-cultura-de-uma-organizacao-e-preciso-cuidar-daquilo-que-nos-faz-humanos/",
-    "resumo": "O comprometimento de alguém com o trabalho não deve ser medido pela sua disposição em abrir mão daquilo que mais ama. É em situações como essa que o cuidado deixa de ser uma intenção e se torna uma decisão de liderança",
-    "fonte": "NeoFeed",
-    "data": "2026-11-09T00:49:01.142Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "959e129468d00402",
-    "manchete": "Lula reafirma compromisso fiscal, mas evita detalhar medidas para reduzir juros",
-    "url": "https://www.infomoney.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-evita-detalhar-medidas-para-reduzir-juros/",
-    "resumo": "Presidente afirmou que a atuação do governo terá foco no crescimento e que um dos principais objetivos ⁠será ‌elevar a taxa de investimento para mais de ⁠20% do PIB",
-    "fonte": "InfoMoney",
-    "data": "2026-11-09T00:22:25.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "1c7d431a3aae8db9",
-    "manchete": "Reforma do Judiciário, isenção da cesta básica e dívida pública: leia a íntegra do pronunciamento de Lula",
-    "url": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) fez, na noite deste domingo (8), seu primeiro pronunciamento em rede nacional após a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro. Na fala, o chefe do Poder Executivo abordou temas como responsabilidade fiscal, dívida pública, juros, segurança…",
-    "fonte": "Money Times",
-    "data": "2026-11-09T00:05:31.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9115f54bd80c6783",
-    "manchete": "Em pronunciamento, Lula reconhece 'preocupação' com dívida pública e juros altos, mas não apresenta medidas de ajuste fiscal",
-    "url": "https://www.moneytimes.com.br/em-pronunciamento-lula-reconhece-preocupacao-com-divida-publica-e-juros-altos-mas-nao-apresenta-medidas-de-ajuste-fiscal-igdl/",
-    "resumo": "Em seu primeiro pronunciamento em rede nacional desde a vitória sobre o senador Flávio Bolsonaro (PL) nas eleições de outubro, o presidente Luiz Inácio Lula da Silva (PT) reconheceu que a trajetória da dívida pública e os juros elevados são motivo de \"preocupação\". O chefe do Poder Executivo reafirmou o compromisso do…",
-    "fonte": "Money Times",
-    "data": "2026-11-08T23:42:53.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a2cece609bcd09d5",
-    "manchete": "Mercados asiáticos podem sofrer pressão após investigação sobre a Nvidia",
-    "url": "https://www.infomoney.com.br/mercados/mercados-asiaticos-podem-sofrer-pressao-apos-investigacao-sobre-a-nvidia/",
-    "resumo": "A surpreendente revelação ocorre após uma série de reportagens apontar que o executivo da Nvidia foi alvo de Alice Huang, ex-executiva da Megaspeed International",
-    "fonte": "InfoMoney",
-    "data": "2026-11-08T23:19:09.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fee7b271112158cd",
-    "manchete": "Palmeiras bate Vasco e decide Copa do Brasil contra Grêmio; veja quanto vale o título",
-    "url": "https://www.infomoney.com.br/esportes/palmeiras-bate-vasco-e-decide-copa-do-brasil-contra-gremio-veja-quanto-vale-o-titulo/",
-    "resumo": "Neste ano, a decisão será disputada em jogo único, no Mané Garrincha, marcado para o dia 6 de dezembro",
-    "fonte": "InfoMoney",
-    "data": "2026-11-08T22:49:50.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "94c8faae524baf1d",
-    "manchete": "Sob pressão do clima, setor financeiro vai à COP31 para avançar em transição verde",
-    "url": "https://www.infomoney.com.br/mundo/sob-pressao-do-clima-setor-financeiro-vai-a-cop31-para-avancar-em-transicao-verde/",
-    "resumo": "Bancos e seguradoras levam propostas para financiar projetos de baixo carbono, ampliar o seguro rural e incorporar riscos climáticos às operações de crédito, em meio à pressão crescente dos eventos extremos",
-    "fonte": "InfoMoney",
-    "data": "2026-11-08T22:24:07.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e6b486f5beff6757",
-    "manchete": "F-1: GP de São Paulo de 2026 quebra novo recorde de público em Interlagos",
-    "url": "https://www.infomoney.com.br/esportes/f-1-gp-de-sao-paulo-de-2026-quebra-novo-recorde-de-publico-em-interlagos/",
-    "resumo": "Para a corrida deste ano, a organização teve como uma das principais novidades uma arquibancada fixa no S do Senna",
-    "fonte": "InfoMoney",
-    "data": "2026-11-08T21:35:58.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "bb865d7520aededd",
-    "manchete": "Câmara lamenta resultado no GP de SP de F-1: 'Não estou satisfeito'",
-    "url": "https://www.infomoney.com.br/esportes/camara-lamenta-resultado-no-gp-de-sp-de-f-1-nao-estou-satisfeito/",
-    "resumo": "O brasileiro perdeu posições durante a corrida e saiu da pista em três ocasiões, chegando em 20º",
-    "fonte": "InfoMoney",
-    "data": "2026-11-08T21:23:47.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e84a13707fd27a38",
-    "manchete": "Kassab espera corte nas contas públicas para balizar apoio do PSD a Lula 4",
-    "url": "https://www.infomoney.com.br/politica/kassab-espera-corte-nas-contas-publicas-para-balizar-apoio-do-psd-a-lula-4/",
-    "resumo": "Kassab quer manter participação de seus correligionários na administração federal e acredita na legitimidade de Lula para entregar os programas sociais, mas quer compromisso com os cortes de gastos",
-    "fonte": "InfoMoney",
-    "data": "2026-11-08T20:49:30.000Z",
-    "tags_tema": [
-      "Private Equity"
     ],
     "tags_empresa": [],
     "relevante": true,
