@@ -1,5 +1,346 @@
 [
   {
+    "id": "8ccd520cefa8429d",
+    "manchete": "“Com a inflação, o têxtil é o primeiro a ser prejudicado”",
+    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/com-a-inflacao-o-textil-e-o-primeiro-a-ser-prejudicado",
+    "resumo": "Diretor de algodão da ADM, Alex Kurre alerta para o risco de a inflação causada pela alta do petróleo impactar a demanda pelo algodão",
+    "fonte": "AgFeed",
+    "data": "2026-11-25T04:08:11.542Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9ec778ec43244d61",
+    "manchete": "“Temos a meta de dobrar em 5 anos, então precisamos acelerar”",
+    "url": "https://agfeed.com.br/videos/speedcast/congresso-do-algodao-2026/temos-a-meta-de-dobrar-em-5-anos-entao-precisamos-acelerar",
+    "resumo": "CEO da Globachem, Koen Quaghebeur detalha a estratégia da empresa belga, que fatura US$ 350 milhões e espera chegar a US$ 1 bi em dez anos",
+    "fonte": "AgFeed",
+    "data": "2026-11-25T04:08:11.541Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b480d21f91320634",
+    "manchete": "Os projetos da Petrobras para os fertilizantes no plano de R$ 720 bilhões",
+    "url": "https://agfeed.com.br/negocios/os-projetos-da-petrobras-para-os-fertilizantes-no-plano-de-r-720-bilhoes",
+    "resumo": "Plano de Negócios da Petrobras prevê grandes investimentos até 2031 e uma rubrica mais modesta para o setor de fertilizantes.",
+    "fonte": "AgFeed",
+    "data": "2026-11-25T04:08:11.537Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "df71f85dfb54daeb",
+    "manchete": "Fatura da \"revolução\" das baterias pode chegar pela conta de luz",
+    "url": "https://neofeed.com.br/economia/fatura-da-revolucao-das-baterias-pode-chegar-pela-conta-de-luz/",
+    "resumo": "Setor elétrico aposta nas baterias para dar flexibilidade às fontes renováveis, mas conta de R$ 6,2 bilhões de leilão pode ir para os consumidores",
+    "fonte": "NeoFeed",
+    "data": "2026-11-25T04:08:11.029Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f7458f8dd39fc683",
+    "manchete": "Novo ajuste fiscal? Pode ficar para depois das eleições no Congresso",
+    "url": "https://neofeed.com.br/poder/novo-ajuste-fiscal-pode-ficar-para-depois-das-eleicoes-no-congresso/",
+    "resumo": "Após aprovar pacote fiscal, governo Lula avalia adiar novas medidas para 2027, priorizando pautas urgentes e buscando apoio político",
+    "fonte": "NeoFeed",
+    "data": "2026-11-25T04:08:11.029Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fc00402ea52db0f1",
+    "manchete": "Dia de Sorte: confira o resultado do concurso 1355 sorteado nesta terça-feira (24)",
+    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1355-sorteado-nesta-terca-feira-24/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 2,6 milhão",
+    "fonte": "InfoMoney",
+    "data": "2026-11-25T00:14:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "73cc0193711ed829",
+    "manchete": "Lotofácil hoje, concurso 3837: confira o resultado sorteado nesta terça (24)",
+    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3837-confira-o-resultado-sorteado-nesta-terca-24/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 5 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-11-25T00:09:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bdc67ec13ba427c8",
+    "manchete": "Mega-Sena hoje, concurso 3090: confira o resultado sorteado nesta terça (24)",
+    "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3090-confira-o-resultado-sorteado-nesta-terca-24/",
+    "resumo": "O prêmio estimado era de R$ 65.900.069,66",
+    "fonte": "InfoMoney",
+    "data": "2026-11-25T00:05:22.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c6f5e7a5cc8034f9",
+    "manchete": "Banco do Brasil (BBAS3) nega decisão sobre IPOs de empresas do grupo após questionamento da CVM",
+    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-nega-decisao-sobre-ipos-de-empresas-do-grupo-apos-questionamento-da-cvm-rnda/",
+    "resumo": "O Banco do Brasil (BBAS3) informou nesta terça-feira (24) que não há, até o momento, qualquer decisão de seus órgãos de governança sobre a realização de ofertas públicas iniciais de ações (IPOs) de empresas do conglomerado. O esclarecimento foi divulgado em resposta a um questionamento da Comissão de Valores…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T23:09:08.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais",
+      "Regulação"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e068af28e54d3c0c",
+    "manchete": "Itaú entra no MCMV e avança sobre mercado dominado pela Caixa",
+    "url": "https://www.infomoney.com.br/business/itau-entra-no-mcmv-e-avanca-sobre-mercado-dominado-pela-caixa/",
+    "resumo": "Banco informou que a oferta será destinada a clientes elegíveis à Faixa 3, com renda mensal entre R$ 5 mil e R$ 9,6 mil",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T22:51:03.000Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d9ed095b23e7dcdc",
+    "manchete": "Por que um dos sais mais caros do mundo virou motivo de polêmica",
+    "url": "https://www.infomoney.com.br/business/global/por-que-um-dos-sais-mais-caros-do-mundo-virou-motivo-de-polemica/",
+    "resumo": "Investigação levantou dúvidas sobre a produção do Maldon, marca que construiu fama com seu apelo artesanal e preço premium",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T22:31:28.000Z",
+    "tags_tema": [
+      "Fundraising"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "51c3d247a0d72ccb",
+    "manchete": "Potência fiscal: Governo prepara PEC 'turbinada' com revisão de pisos; veja o que está na mesa",
+    "url": "https://www.moneytimes.com.br/potencia-fiscal-governo-prepara-pec-turbinada-com-revisao-de-pisos-veja-o-que-esta-na-mesa/",
+    "resumo": "Após aprovar o pacote fiscal que promete gerar uma economia de até R$ 56 bilhões até 2027, o governo Luiz Inácio Lula da Silva prepara uma nova ofensiva para reforçar o ajuste das contas públicas. Segundo apuração de veículos como Veja e Estadão, a equipe econômica trabalha em uma Proposta de Emenda à Constituição…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T22:23:06.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8c148802676404d1",
+    "manchete": "Black Friday de viagens: CVC e Accor oferecem até 60% de desconto em pacotes e hotéis",
+    "url": "https://www.infomoney.com.br/consumo/black-friday-de-viagens-cvc-e-accor-oferecem-ate-60-de-desconto-em-pacotes-e-hoteis/",
+    "resumo": "Promoções incluem hospedagens, pacotes nacionais e internacionais, resorts, cruzeiros e benefícios em programas de fidelidade; ofertas seguem até o início de dezembro",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T22:18:30.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "dd87bcc12ca4afd9",
+    "manchete": "A lista de credores da Safira, a mais nova RJ do setor elétrico",
+    "url": "https://braziljournal.com/a-lista-de-credores-da-safira-a-mais-nova-rj-do-setor-eletrico",
+    "resumo": "O grupo de comercialização de energia Safira entrou ontem com um pedido de recuperação judicial após fracassar em uma tentativa de mediação com seus credores. A empresa se soma a uma crescente lista de tradings do setor em crise. Só neste ano, empresas como Elétron Energy, IBS Energy, Electra e a Tradener – esta…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-24T22:17:00.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "aefbdc43e9ce4e5b",
+    "manchete": "Inter corta até 5% do quadro. Efeito da AI?",
+    "url": "https://braziljournal.com/inter-corta-ate-5-do-quadro-efeito-da-ai",
+    "resumo": "O Inter demitiu cerca de 200 pessoas nos últimos dias – o equivalente a 5% de seu quadro total. O número é uma estimativa do Sindicato dos Bancários de Belo Horizonte. Postagens em redes sociais como o LinkedIn e Reddit dizem que o número pode ser ainda maior.",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-24T22:12:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "d077e86cdb82a0e7",
+    "manchete": "Senado dos EUA investiga papel de JD Vance em contrato de petróleo da Venezuela",
+    "url": "https://www.infomoney.com.br/mundo/senado-dos-eua-investiga-papel-de-jd-vance-em-contrato-de-petroleo-da-venezuela/",
+    "resumo": "Senadora democrata questiona a atuação do vice-presidente na escolha da Vitol para comercializar petróleo venezuelano após a queda de Nicolás Maduro",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T22:09:05.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "356b55ce8d77cefb",
+    "manchete": "BC anuncia leilões de linha no total de até US$ 2 bilhões para quarta-feira",
+    "url": "https://www.infomoney.com.br/mercados/bc-anuncia-leiloes-de-linha-no-total-de-ate-us-2-bilhoes-para-quarta-feira/",
+    "resumo": "As operações de ​venda do BC serão liquidadas em 30 de novembro",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T22:08:28.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "da9786ec0312307b",
+    "manchete": "Brasil reage a adiamento da UE sobre compra de frango e mel: “Indignação”",
+    "url": "https://www.infomoney.com.br/politica/ficamos-indignados-com-adiamento-pela-ue-da-reinclusao-do-brasil-diz-ministro/",
+    "resumo": "Ministro da Agricultura afirma que relatório europeu validou controles sanitários brasileiros e cobra explicações do bloco",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T22:05:06.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "92aed40ff157f130",
+    "manchete": "Compass troca CFO para focar em M&As e novos negócios",
+    "url": "https://braziljournal.com/compass-troca-cfo-para-focar-em-m-and-as-e-novos-negocios",
+    "resumo": "A Compass acaba de anunciar que o atual CEO da Edge, Demétrio Magalhães, assumirá a vice-presidência de finanças e estratégia num momento em que a holding de gás natural da Cosan se prepara para buscar novas oportunidades de crescimento. A posição – que está sendo criada agora – terá um escopo turbinado, englobando…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-24T21:59:00.000Z",
+    "tags_tema": [
+      "M&A"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b2deb61ad7eaae1b",
+    "manchete": "Temu e Mastercard preparam caminho para compras por inteligência artificial",
+    "url": "https://startupi.com.br/temu-e-mastercard-preparam-caminho-para-compras-por-inteligencia-artificial/",
+    "resumo": "Startupi Temu e Mastercard preparam caminho para compras por inteligência artificial Parceria global prevê avaliar pagamentos simplificados, prevenção a fraudes e ferramentas financeiras para vendedores locais; iniciativas ainda não têm calendário de implantação",
+    "fonte": "Startupi",
+    "data": "2026-11-24T21:58:06.000Z",
+    "tags_tema": [
+      "Venture Capital"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3e4e5e5387aad58c",
+    "manchete": "Por que o Ibovespa fechou em queda após subir 1,7% com notícia sobre PEC?",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-expectativa-de-novas-medidas-de-contencao-de-gastos/",
+    "resumo": "Após início positivo, índice virou e fechou em queda, pressionado pelas ações de commodities",
+    "fonte": "InfoMoney",
+    "data": "2026-11-24T21:48:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5a3fc591ebcd0bfa",
+    "manchete": "'Não dá para aceitar esse tratamento', diz ministro sobre adiamento da UE ao retorno de frango e mel brasileiros",
+    "url": "https://www.moneytimes.com.br/nao-da-para-aceitar-esse-tratamento-diz-ministro-sobre-adiamento-da-ue-ao-retorno-de-frango-e-mel-brasileiros/",
+    "resumo": "O ministro da Agricultura, André de Paula, afirmou que recebeu com indignação a decisão da União Europeia (UE) de adiar a decisão sobre a reinclusão do Brasil no fornecimento de carne de aves e mel aos países europeus. \"Nós ficamos muito frustrados com a reunião. Eu diria que, no meu caso, ficamos indignados com o…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T21:48:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ff9f554f5819d0f6",
+    "manchete": "Bolsas de NY fecham sem direção única com pressão do setor de tecnologia",
+    "url": "https://www.moneytimes.com.br/bolsas-de-ny-fecham-sem-direcao-unica-com-pressao-do-setor-de-tecnologia-davs/",
+    "resumo": "As bolsas de Nova York fecharam sem direção única nesta terça-feira (24), em correção após os fortes ganhos da véspera. As ações ligadas à tecnologia e à inteligência artificial (IA) voltaram a penalizar os índices, mesmo após o retorno de Jensen Huang à Nvidia. O Dow Jones subiu 0,85%, aos 50.018,70 pontos. O S&#38;P…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T21:42:54.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "562a870f70a550a3",
+    "manchete": "“Petrobras não é mais apenas uma petroleira”: a declaração da CEO da estatal que virou o jogo para as ações na bolsa hoje",
+    "url": "https://www.moneytimes.com.br/petrobras-nao-e-mais-apenas-uma-petroleira-a-declaracao-da-ceo-da-estatal-que-virou-o-jogo-para-as-acoes-na-bolsa-hoje-bdap/",
+    "resumo": "Não é de hoje que a CEO da Petrobras (PETR4), Magda Chambriard, destaca o papel social da petroleira e o objetivo de fazer da empresa uma protagonista na transição energética do país. No entanto, sempre que o mercado vê qualquer passo nessa direção, o temor toma conta. Uma das principais questões é se a companhia…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T21:31:11.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3fee1ed23e50dc4e",
+    "manchete": "Ibovespa fecha no vermelho após presidente da Petrobras não garantir dividendos extraordinários",
+    "url": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-apos-presidente-da-petrobras-nao-garantir-dividendos-extraordinarios-davs/",
+    "resumo": "A bolsa brasileira passou boa parte do pregão desta terça-feira (24) no campo positivo, chegando a recuperar os 165 mil pontos. Porém o bom humor não resistiu às declarações da presidente da Petrobras, Magda Chambriard, e o Ibovespa (IBOV) fechou em queda de 0,43%, aos 164.089,81 mil pontos. Os investidores também…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T21:27:10.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "e6b645343df41117",
+    "manchete": "Para CNI, governo transfere conta do ajuste fiscal ao setor produtivo e ameaça novos investimentos",
+    "url": "https://www.moneytimes.com.br/para-cni-governo-transfere-conta-do-ajuste-fiscal-ao-setor-produtivo-e-ameaca-novos-investimentos-pads/",
+    "resumo": "A Confederação Nacional da Indústria (CNI) avaliou negativamente o ajuste fiscal aprovado pelo Congresso Nacional e já sancionado pelo presidente da República. Segundo a entidade, a lei complementar deverá atingir o setor produtivo e comprometer a economia brasileira e a competitividade da indústria, pois deverá…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T20:53:36.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9faeb11cd784bb4f",
+    "manchete": "A 'pedalada' de Lula 4: o ajuste de caixa aprovado pressionará ainda mais os preços e os custos para quem produz",
+    "url": "https://www.moneytimes.com.br/a-pedalada-de-lula-4-o-ajuste-de-caixa-aprovado-pressionara-ainda-mais-os-precos-e-os-custos-para-quem-produz-pads/",
+    "resumo": "O Projeto de Lei Complementar (PLP) nº 299/26, chamado de “Plano Moretti”, foi aprovado ontem à noite na Câmara dos Deputados, incólume, intocado, com o “bônus” da reeleição do presidente da República para mais um mandato de quatro anos. A votação foi expressiva, e o tal “ajuste fiscal” do governo federal passou com…",
+    "fonte": "Money Times",
+    "data": "2026-11-24T20:42:08.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "570f6c305a6b8925",
     "manchete": "ARTIGO - O agro conhece a própria tecnologia. Mas conhece quem compra?",
     "url": "https://agfeed.com.br/campo-das-ideias/artigo-o-agro-conhece-a-propria-tecnologia-mas-conhece-quem-compra",
@@ -6421,30 +6762,6 @@
     "importancia": 3
   },
   {
-    "id": "00fd74ded1e6141f",
-    "manchete": "Tração na exportação de sorgo pode redesenhar dinâmica de grãos, diz Ricardo Faria",
-    "url": "https://agfeed.com.br/economia/tracao-da-exportacao-de-sorgo-pode-redesenhar-dinamica-de-graos-diz-ricardo-faria-no-btg-agroforum",
-    "resumo": "O avanço na exportação de sorgo começa a mudar a dinâmica do mercado de grãos, segundo Ricardo Faria, controlador da Insolo e da Global Eggs.",
-    "fonte": "AgFeed",
-    "data": "2026-11-16T20:31:05.532Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ca0e250a99fa6070",
-    "manchete": "FMC fecha hiato de dois meses e nomeia Nivaldo Grando para liderar operação brasileira FMC fecha hiato de dois meses e nomeia Nivaldo Grando para liderar operação brasileira",
-    "url": "https://agfeed.com.br/negocios/fmc-fecha-hiato-de-dois-meses-e-nomeia-nivaldo-grando-para-liderar-operacao-brasileira",
-    "resumo": "FMC nomeia Nivaldo Grando para liderar operação no Brasil em meio à crise financeira e aposta em herbicida para retomar cresscimento",
-    "fonte": "AgFeed",
-    "data": "2026-11-16T20:31:05.532Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "84f1ae77ed9a8d6a",
     "manchete": "A conta da IA: big techs emitem US$ 207 bilhões em bonds e acendem alerta no mercado de crédito",
     "url": "https://neofeed.com.br/negocios/a-conta-da-ia-big-techs-emitem-us-207-bilhoes-em-bonds-e-acendem-alerta-no-mercado-de-credito/",
@@ -7456,30 +7773,6 @@
     "importancia": 3
   },
   {
-    "id": "a5311e29a3b3d034",
-    "manchete": "CNH vende controle da divisão de construção e fecha o foco no agro",
-    "url": "https://agfeed.com.br/negocios/cnh-vende-controle-da-divisao-de-construcao-e-fecha-o-foco-no-agro",
-    "resumo": "CNH vende 70% da divisão de construção à Kobelco por US$ 700 milhões e concentra estratégia em máquinas agrícolas",
-    "fonte": "AgFeed",
-    "data": "2026-11-15T00:59:37.150Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0f8350fd5fa07fa8",
-    "manchete": "IA, reforma tributária e aquisições turbinam Aliare para faturar R$ 500 milhões até 2030",
-    "url": "https://agfeed.com.br/negocios/ia-reforma-tributaria-e-aquisicoes-turbinam-aliare-para-faturar-r-500-milhoes-ate-2030",
-    "resumo": "A Aliare estabeleceu a meta de alcançar R$ 500 milhões em receita bruta anual até 2030, 150% mais que a atual, de R$ 200 milhões.",
-    "fonte": "AgFeed",
-    "data": "2026-11-15T00:59:37.150Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "00e3ba82da2ff13a",
     "manchete": "Cézanne, o incompreendido que mudou a pintura, ainda inspira gerações",
     "url": "https://neofeed.com.br/finde/cezanne-o-incompreendido-que-mudou-a-pintura-ainda-inspira-geracoes/",
@@ -7652,20 +7945,6 @@
     "fonte": "InfoMoney",
     "data": "2026-11-14T19:50:00.000Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a36b183376b9edea",
-    "manchete": "Um novo acionista na Kepler Weber",
-    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/um-novo-acionista-na-kepler-weber",
-    "resumo": "A TMSA, fabricante de equipamentos para movimentação de granéis sólidos, adquiriu 11,64% do capital da empresa",
-    "fonte": "AgFeed",
-    "data": "2026-11-14T16:37:23.724Z",
-    "tags_tema": [
-      "M&A"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
@@ -9814,282 +10093,6 @@
     "fonte": "InfoMoney",
     "data": "2026-11-12T00:36:28.000Z",
     "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "81d9ceb0752be3b2",
-    "manchete": "Quina hoje, concurso 7165: confira o resultado sorteado nesta quarta-feira (11)",
-    "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7165-confira-o-resultado-sorteado-nesta-quarta-feira-11/",
-    "resumo": "O prêmio deste concurso era estipulado em R$ 8,7 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-11-12T00:14:25.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c2c69b4633b01982",
-    "manchete": "Lotofácil hoje, concurso 3827: confira o resultado sorteado nesta quarta-feira (11)",
-    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3827-confira-o-resultado-sorteado-nesta-quarta-feira-11/",
-    "resumo": "O prêmio estimado para este concurso era de R$ 2 milhões",
-    "fonte": "InfoMoney",
-    "data": "2026-11-12T00:11:57.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6c6d3e514810222b",
-    "manchete": "BBAS3: \"Uma parte do agro não quer pagar o Banco do Brasil\", diz CFO após balanço",
-    "url": "https://www.infomoney.com.br/mercados/bbas3-uma-parte-do-agro-nao-quer-pagar-o-banco-do-brasil-diz-cfo-apos-balanco/",
-    "resumo": "O executivo citou outras métricas positivas do banco, como crescimento de margem financeira bruta, como prova de que há capacidade do BB em gerar receita",
-    "fonte": "InfoMoney",
-    "data": "2026-11-12T00:06:37.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "cdbbbe8d93055e46",
-    "manchete": "Americanas (AMER3) reverte lucro e registra prejuízo de R$ 352 milhões no 3º tri",
-    "url": "https://www.infomoney.com.br/mercados/americanas-amer3-resultados-terceiro-trimestre-2026/",
-    "resumo": "A empresa, que no processo de recuperação vendeu ativos e fechou lojas no país, teve receita líquida de R$2,97 bilhões no período, alta de 10%",
-    "fonte": "InfoMoney",
-    "data": "2026-11-11T23:55:24.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d05a43d373da4bcf",
-    "manchete": "Hapvida: lucro líquido ajustado soma R$ 107 milhões no 3º tri, queda de 68%",
-    "url": "https://www.infomoney.com.br/mercados/hapvida-hapv3-resultados-terceiro-trimestre-2026/",
-    "resumo": "No terceiro trimestre, a receita líquida somou R$ 8,08 bilhões, alta de 3,9% em relação aos R$ 7,77 bilhões apurados um ano antes",
-    "fonte": "InfoMoney",
-    "data": "2026-11-11T23:46:40.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "e35e915a598ff310",
-    "manchete": "“Uma parte do agro não quer pagar o Banco do Brasil”: CFO explica crise que derrubou o lucro do 3T26",
-    "url": "https://www.moneytimes.com.br/uma-parte-do-agro-nao-quer-pagar-o-banco-do-brasil-cfo-explica-crise-que-derrubou-o-lucro-do-3t26-miql/",
-    "resumo": "O Banco do Brasil (BBAS3) enfrenta uma deterioração da carteira de agronegócio que, nas palavras do próprio diretor financeiro, já não pode ser explicada apenas pelas dificuldades econômicas do setor. Para Marco Geovanne Tobias, CFO e vice-presidente de Gestão Financeira e Relações com Investidores, há também um…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T23:43:51.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "4dfee77b14a9707a",
-    "manchete": "Taesa não participará do leilão de baterias por incertezas regulatórias, diz diretora",
-    "url": "https://www.infomoney.com.br/mercados/taesa-nao-participara-do-leilao-de-baterias-por-incertezas-regulatorias-diz-diretora/",
-    "resumo": "Segundo Catia Pereira, a decisão foi tomada ‌devido à falta de clareza regulatória para a participação das transmissoras no certame",
-    "fonte": "InfoMoney",
-    "data": "2026-11-11T23:38:09.000Z",
-    "tags_tema": [
-      "Private Equity",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d39320b24651dd5e",
-    "manchete": "Azzas 2154 tem lucro líquido recorrente de R$ 190,6 mi no 3T, queda anual de 5,3%",
-    "url": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-resultados-terceiro-trimestre-2026/",
-    "resumo": "Apesar da queda das vendas, a companhia melhorou a rentabilidade beneficiada pela redução dos descontos e pela maior participação das vendas diretas ao consumidor",
-    "fonte": "InfoMoney",
-    "data": "2026-11-11T23:35:03.000Z",
-    "tags_tema": [
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b22c743ca0ad0745",
-    "manchete": "Eucatex (EUCA4) lucra R$ 82 milhões no 3T26, mas vê margens encolherem; ‘foi um período desafiador’, diz VP",
-    "url": "https://www.moneytimes.com.br/eucatex-euca4-lucra-r-82-milhoes-no-3t26-queda-anual-de-25-custos-e-demanda-pesam-diz-vp-igdl/",
-    "resumo": "A Eucatex (EUCA4), uma das principais fabricantes de pisos, portas, tintas e painéis do país, registrou lucro líquido recorrente de R$ 82,1 milhões no terceiro trimestre de 2026 (3T26), queda de 2,5% em relação a igual período de 2025, mostra balanço divulgado nesta quarta-feira (11). No acumulado dos nove primeiros…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T23:30:47.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "48f3b6581017dc96",
-    "manchete": "CVC (CVCB3) tem lucro líquido ajustado de R$ 3,7 mi no 3º trimestre, queda de 94,1%",
-    "url": "https://www.infomoney.com.br/mercados/cvc-cvcb3-resultados-terceiro-trimestre-2026/",
-    "resumo": "O resultado mostra, no entanto, melhora frente ao prejuízo de R$ 51,3 milhões reportado no segundo trimestre",
-    "fonte": "InfoMoney",
-    "data": "2026-11-11T23:29:39.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "a1bd9ee3535010c9",
-    "manchete": "Alckmin é favorito para Fazenda de Lula, mas Eurasia vê outro ministério como peça-chave para 2027",
-    "url": "https://www.moneytimes.com.br/alckmin-e-favorito-para-fazenda-de-lula-mas-eurasia-ve-outro-ministerio-como-peca-chave-para-2027-jcav/",
-    "resumo": "O vice-presidente Geraldo Alckmin desponta como favorito para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A avaliação é de Christopher Garman, da Eurasia Group, que considera a escolha do próximo ministro da Casa Civil ainda mais importante para a condução da…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T23:29:13.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fa3ddd977895d069",
-    "manchete": "Banco do Brasil (BBAS3) corta projeção de lucro pela metade e acende alerta com custo do crédito; veja o que aconteceu",
-    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-corta-projecao-de-lucro-pela-metade-e-acende-alerta-com-custo-do-credito-veja-o-que-aconteceu-miql/",
-    "resumo": "Após um resultado aquém das expectativas no terceiro trimestre, o Banco do Brasil (BBAS3) reduziu novamente suas projeções (guidance) para 2026. Agora, a instituição espera um lucro líquido ajustado de R$ 9 bilhões a R$ 11 bilhões — praticamente metade do piso anterior das estimativas, que iam de R$ 18 bilhões a R$ 22…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T23:07:49.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "961781af915a4a1a",
-    "manchete": "B3 compra 40% da IDEX, uma aposta no crédito privado",
-    "url": "https://braziljournal.com/b3-compra-40-da-idex-uma-aposta-no-credito-privado",
-    "resumo": "A B3 está comprando até 40% da IDEX Analytics, uma empresa especializada em índices de renda fixa que está criando uma plataforma de informações sobre o mercado de crédito privado. A B3 e a Leto Asset Management – a antiga JGP Crédito e controladora da IDEX – vão fazer um aporte primário conjunto de R$ 40 milhões na…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-11T23:06:00.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "Fundraising",
-      "IPO/Mercado de Capitais"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "178e241734d08bc8",
-    "manchete": "Banco do Brasil (BBAS3) deixa acionistas sem dividendos no trimestre e derruba lucro distribuído para mínimo obrigatório",
-    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-deixa-acionistas-sem-dividendos-no-trimestre-e-derruba-lucro-distribuido-para-minimo-obrigatorio/",
-    "resumo": "O investidor do Banco do Brasil (BBAS3) terá de se acostumar a uma remuneração mais magra em 2027. Em meio à deterioração dos resultados e à pressão sobre o capital, o banco decidiu reduzir seu payout, percentual do lucro distribuído aos investidores, de 30% para 25%, passando a pagar apenas o dividendo mínimo…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T22:54:43.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "29eeebeb24c22280",
-    "manchete": "Banco do Brasil (BBAS3): lucro tomba 66,5% e vai a R$ 1,3 bilhão no 3T26, bem abaixo das expectativas",
-    "url": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-lucro-no-3t26-expectativas-rentabilidade-inadimplencia-ainda-preocupa-miql/",
-    "resumo": "O Banco do Brasil (BBAS3) encerrou o terceiro trimestre de 2026 (3T26) com lucro líquido recorrente de R$ 1,3 bilhão, tombo de 66,5% em relação ao mesmo período de 2025 e de 67,5% na comparação com o trimestre imediatamente anterior. O resultado veio muito abaixo das expectativas do mercado, que projetava lucro de…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T22:34:30.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6411185b77fe4a13",
-    "manchete": "Espaçolaser (ESPA3) enxuga dívidas e reverte prejuízo; 'o que tenho em caixa é mais do que estou valendo em bolsa', diz CEO",
-    "url": "https://www.moneytimes.com.br/espacolaser-espa3-enxuga-dividas-e-reverte-prejuizo-o-que-tenho-em-caixa-e-mais-do-que-estou-valendo-em-bolsa-diz-ceo/",
-    "resumo": "A Espaçolaser (ESPA3) passou os últimos cinco anos promovendo uma reestruturação pesada para reduzir sua alavancagem. E, ao que tudo indica, a força-tarefa deu resultado. A companhia encerrou o terceiro trimestre com uma dívida líquida de R$ 490 milhões, abaixo da marca de R$ 500 milhões pela primeira vez desde 2021,…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T22:29:28.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "95c806b8b4d7f1eb",
-    "manchete": "Ultrapar (UGPA3) pagará R$ 1 por ação em dividendo; veja detalhes",
-    "url": "https://www.moneytimes.com.br/ultrapar-ugpa3-pagara-r-1-por-acao-em-dividendo-veja-detalhes/",
-    "resumo": "A Ultrapar (UGPA3) anunciou nesta quarta-feira (11) a distribuição de R$ 1,085 bilhão em dividendos aos acionistas, conforme deliberação aprovada pelo conselho de administração da companhia. O valor corresponde a R$ 1 por ação ordinária e será pago a partir de 3 de dezembro de 2026, sem correção monetária ou…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T22:21:59.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "12245e4306fc7ba6",
-    "manchete": "Wall Street fecha em alta com impulso do setor de tecnologia após balanço da CoreWeave",
-    "url": "https://www.moneytimes.com.br/wall-street-fecha-em-alta-com-impulso-do-setor-de-tecnologia-apos-balanco-da-coreweave-davs/",
-    "resumo": "As bolsas de Nova York fecharam em alta nesta quarta-feira (11) com novo impulso das ações de tecnologia após bons resultados trimestrais da CoreWeave, do plano de investimento da TSMC e da recuperação de parte das perdas recentes da Nvidia. O Dow Jones subiu 0,49%, aos 52.486,49 pontos. O S&#38;P 500 avançou 1,31%, a…",
-    "fonte": "Money Times",
-    "data": "2026-11-11T22:04:24.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46c26709ba3d6476",
-    "manchete": "CVC cresce vendas e dá primeiro lucro do ano; CEO fala em “ponto de inflexão”",
-    "url": "https://braziljournal.com/cvc-cresce-vendas-e-da-primeiro-lucro-do-ano-ceo-fala-em-ponto-de-inflexao",
-    "resumo": "Num trimestre marcado pelo aumento dos preços dos voos e o impacto negativo da Copa do Mundo e das eleições, a CVC conseguiu crescer suas reservas e reverter o prejuízo que vinha acumulando nos últimos tris – num resultado que o CEO Fabio Mader chamou de “um ponto de inflexão”. A maior agência de viagens do Brasil…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-11T22:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "ff085cded60876ca",
-    "manchete": "O “efeito Ueno Bank”: crise freia interesse de empresas brasileiras pelo Paraguai",
-    "url": "https://neofeed.com.br/negocios/o-efeito-ueno-bank-crise-freia-interesse-de-empresas-brasileiras-pelo-paraguai/",
-    "resumo": "Após escândalo bancário que causou renúncia do presidente Santiago Peña, companhias colocam pé no freio e adotam prudência em investimentos",
-    "fonte": "NeoFeed",
-    "data": "2026-11-11T17:54:41.974Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5a098fdc138f8e35",
-    "manchete": "Atech, da Embraer, usa IA para preparar o céu brasileiro para drones e carros voadores",
-    "url": "https://neofeed.com.br/videos/revolucao-ia/atech-da-embraer-usa-ia-para-preparar-o-ceu-brasileiro-para-drones-e-carros-voadores/",
-    "resumo": "Atech, empresa da Embraer, desenvolve sistemas com inteligência artificial para organizar o tráfego de drones e carros voadores no céu brasileiro.",
-    "fonte": "NeoFeed",
-    "data": "2026-11-11T17:54:41.974Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "46422df17a92ba78",
-    "manchete": "El Niño pode \"esquentar\" a inflação para até 6% e travar a Selic",
-    "url": "https://neofeed.com.br/negocios/el-nino-pode-esquentar-a-inflacao-para-ate-6-e-travar-a-selic/",
-    "resumo": "Economistas estimam que a alta dos alimentos provocada por fenômeno acrescente entre 0,2 e 0,7 ponto percentual ao IPCA de 2027",
-    "fonte": "NeoFeed",
-    "data": "2026-11-11T17:54:41.973Z",
-    "tags_tema": [
-      "Curva de Juros",
-      "Economia Real"
-    ],
     "tags_empresa": [],
     "relevante": true,
     "importancia": 3
