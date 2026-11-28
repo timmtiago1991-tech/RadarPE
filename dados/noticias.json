@@ -1,5 +1,330 @@
 [
   {
+    "id": "bd193813363b3069",
+    "manchete": "Etanol ganha impulso bilionário em Roraima",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/etanol-ganha-impulso-bilionario-em-roraima",
+    "resumo": "O estado de Roraima terá uma usina de etanol de R$ 2 bilhões em um novo ciclo de investimentos no agronegócio",
+    "fonte": "AgFeed",
+    "data": "2026-11-28T03:16:21.387Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "63e683a54697af4d",
+    "manchete": "A nova rota de exportação do Complexo Soja",
+    "url": "https://agfeed.com.br/videos/agfeed-cnn-money/a-nova-rota-de-exportacao-do-complexo-soja",
+    "resumo": "A Abiove projeta queda de 1% nas exportações brasileiras de soja em grão e crescimento de 3,3% nos embarques de farelo de soja em 2027",
+    "fonte": "AgFeed",
+    "data": "2026-11-28T03:16:21.387Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "93f0d03124fcb222",
+    "manchete": "Baldan propõe corte de jornada e salário para segurar empregos, mas trabalhadores rejeitam",
+    "url": "https://agfeed.com.br/negocios/baldan-propoe-corte-de-jornada-e-salario-para-segurar-empregos-mas-trabalhadores-rejeitam",
+    "resumo": "Baldan enfrenta rejeição dos funcionários a corte de 16% nos salários e jornada em meio à queda nas vendas de máquinas agrícolas",
+    "fonte": "AgFeed",
+    "data": "2026-11-28T03:16:21.382Z",
+    "tags_tema": [
+      "Economia Real"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "b1f8cf423f9ffc50",
+    "manchete": "Trabuco tem o atual Congresso a favor, mas há dúvida sobre o próximo e a sua autonomia",
+    "url": "https://neofeed.com.br/poder/trabuco-tem-o-atual-congresso-a-favor-mas-ha-duvida-sobre-o-proximo-e-a-sua-autonomia/",
+    "resumo": "Luiz Carlos Trabuco é visto como crucial para articular apoio no Congresso e aprovar ajustes fiscais no governo Lula, mas enfrenta algum ceticismo dentro do PT, da esquerda e em alas da oposição",
+    "fonte": "NeoFeed",
+    "data": "2026-11-28T03:16:18.227Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c827245217d74c35",
+    "manchete": "Mubadala anuncia OPA para chegar a 45% da Kepler Weber",
+    "url": "https://braziljournal.com/breaking-mubadala-anuncia-opa-para-chegar-a-45-da-kepler-weber",
+    "resumo": "O Mubadala Capital acaba de anunciar uma oferta pública para comprar até 35% do capital da Kepler Weber, a maior fabricante de equipamentos para armazenagem de grãos da América Latina. A gestora de ativos alternativos do fundo soberano de Abu Dhabi está oferecendo R$ 7,50 por ação – um prêmio de 0,9% em relação ao…",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-28T03:16:00.000Z",
+    "tags_tema": [
+      "Private Equity",
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "95572aec8d230a29",
+    "manchete": "Dia de Sorte: confira o resultado do concurso 1358 sorteado nesta sexta-feira (27)",
+    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1358-sorteado-nesta-sexta-feira-27/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 300 mil",
+    "fonte": "InfoMoney",
+    "data": "2026-11-28T00:31:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "fbdc7d2b0b3a3f7a",
+    "manchete": "Lotofácil hoje, concurso 3840: confira o resultado sorteado nesta sexta-feira (27)",
+    "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3840-confira-o-resultado-sorteado-nesta-sexta-feira-27/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 8,5 milhões",
+    "fonte": "InfoMoney",
+    "data": "2026-11-28T00:14:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5a797f0b9a5e9c3f",
+    "manchete": "Lotomania: confira o resultado do concurso 3004 sorteado nesta sexta-feira (27)",
+    "url": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-3004-sorteado-nesta-sexta-feira-27/",
+    "resumo": "Veja as 20 dezenas sorteadas no concurso 3004 da Lotomania e confira o valor estimado do prêmio",
+    "fonte": "InfoMoney",
+    "data": "2026-11-28T00:11:33.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "9b537f8e42c87c5a",
+    "manchete": "Rede D'Or (RDOR3) antecipa pagamento de R$ 2,1 bilhões em dividendos; confira a data",
+    "url": "https://www.moneytimes.com.br/rede-dor-rdor3-antecipa-pagamento-de-r-21-bilhoes-em-dividendos-confira-a-data/",
+    "resumo": "A Rede D'Or São Luiz (RDOR3) antecipou o pagamento de dividendos intercalares, segundo comunicado divulgado nesta sexta-feira (27). O conselho de administração aprovou a mudança da data de pagamento de 30 de dezembro para 9 de dezembro de 2026. A companhia justificou a decisão pela disponibilidade de caixa. O valor…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T23:17:02.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "035604d817c2b1b3",
+    "manchete": "Bancada do PT na Câmara reafirma apoio a Lula e defende investimentos e redução dos juros",
+    "url": "https://www.moneytimes.com.br/bancada-do-pt-na-camara-reafirma-apoio-a-lula-e-defende-investimentos-e-reducao-dos-juros/",
+    "resumo": "A bancada do PT na Câmara dos Deputados divulgou nota nesta sexta-feira (27) em que defende a exclusão dos investimentos públicos dos limites do arcabouço fiscal, a redução das taxas de juros e a ampliação da tributação sobre os considerados \"super-ricos\". O comunicado foi elaborado após seminário da bancada sobre…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T23:01:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8de481772a1f3c4c",
+    "manchete": "Com bandeira tarifária verde, energia não terá custo extra em dezembro",
+    "url": "https://www.infomoney.com.br/brasil/com-bandeira-tarifaria-verde-energia-nao-tera-custo-extra-em-dezembro/",
+    "resumo": "Decisão da Aneel reflete condições favoráveis de geração no país",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T22:58:45.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bf2cb9ccac03fe9e",
+    "manchete": "B3 e grandes bancos entram na blockchain com a stablecoin Open BRL",
+    "url": "https://braziljournal.com/b3-e-grandes-bancos-entram-na-blockchain-com-a-stablecoin-open-brl",
+    "resumo": "É um marco da tecnologia cripto sendo abraçada pelas finanças tradicionais. A B3 e seis dos maiores bancos do País anunciaram hoje a criação da Open BRL – uma stablecoin atrelada ao real para explorar, em uma mesma infraestrutura compartilhada, os recursos e as aplicações do ativo tokenizado.",
+    "fonte": "Brazil Journal",
+    "data": "2026-11-27T22:39:00.000Z",
+    "tags_tema": [
+      "IPO/Mercado de Capitais"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "32ddea67c25baa82",
+    "manchete": "Herdeiros da Armani consideram comprar pequena participação na grife em operação de venda de ações, dizem fontes",
+    "url": "https://www.moneytimes.com.br/herdeiros-da-armani-consideram-comprar-pequena-participacao-na-grife-em-operacao-de-venda-de-acoes-dizem-fontes/",
+    "resumo": "Os herdeiros do falecido estilista Giorgio Armani estão considerando comprar uma pequena parcela da participação de 15% que está à venda, conforme estipulado no testamento do fundador, afirmaram duas pessoas a par do assunto. A L’Oréal, cuja licença para as fragrâncias, produtos para a pele e maquiagem da Armani é…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T22:30:00.000Z",
+    "tags_tema": [
+      "Private Equity"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "775a76e2681a4003",
+    "manchete": "Padilha deve continuar na Saúde no quarto mandato de Lula, diz Estadão",
+    "url": "https://www.moneytimes.com.br/padilha-deve-continuar-na-saude-no-quarto-mandato-de-lula-diz-estadao/",
+    "resumo": "O ministro da Saúde, Alexandre Padilha, será mantido no cargo no quarto mandato do presidente Luiz Inácio Lula da Silva (PT), segundo fontes ouvidas pelo Estadão. Padilha, filiado ao PT, assumiu o ministério em março do ano passado, no lugar de Nísia Trindade, eleita agora deputada federal. Antes disso, comandava a…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T22:10:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "06e06d9577c3cafd",
+    "manchete": "11 ações do Ibovespa subiram mais de 6% nesta sexta após anúncio de Trabuco",
+    "url": "https://www.infomoney.com.br/mercados/bbas3-rent3-8-acoes-sobem-mais-de-12-e-lideram-ganhos-nesta-sexta-apos-anuncio-de-trabuco/",
+    "resumo": "Ibovespa salta quase 4% e supera os 183 mil pontos após a confirmação de Luiz Carlos Trabuco para o Ministério da Fazenda",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T22:01:13.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "bc63334315cce055",
+    "manchete": "Por que Petrobras caiu mais de 2% e pressionou o Ibovespa nesta sexta?",
+    "url": "https://www.infomoney.com.br/mercados/por-que-petrobras-petr4-recua-em-dia-de-euforia-no-ibovespa/",
+    "resumo": "Os papéis da petroleira caem mais de 3% na sessão desta sexta-feira",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T21:52:46.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "520595bff6fb53af",
+    "manchete": "Petróleo registra primeiro ganho semanal em novembro em meio aos temores sobre oferta",
+    "url": "https://www.moneytimes.com.br/petroleo-registra-primeiro-ganho-semanal-em-novembro-por-temores-sobre-oferta-davs/",
+    "resumo": "O petróleo Brent registrou uma ligeira queda nesta sexta-feira (27), mas interrompeu uma sequência de três semanas de perdas para registrar seu primeiro ganho semanal em novembro. A commodity segue pressionada pelos ataques a petroleiros no Estreito de Ormuz e à infraestrutura energética saudita, que alimentaram…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T21:50:43.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "8ce783df7893e313",
+    "manchete": "Petrobras, Vale e Suzano: veja quais ações tiraram euforia do Ibovespa",
+    "url": "https://www.infomoney.com.br/mercados/acoes-ibovespa-quedas-trabuco-27112026/",
+    "resumo": "Os papéis em queda são majoritariamente de exportadoras, que reagem à ao recuo do dólar, que perde cerca de 3% na sessão",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T21:42:26.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "f2c1ba326732a09b",
+    "manchete": "Por que Ibovespa fechou em leve queda após saltar 7 mil pontos com \"efeito Trabuco\"?",
+    "url": "https://www.infomoney.com.br/mercados/ibovespa-salta-supera-183-mil-pontos-com-confirmacao-de-trabuco-na-fazenda/",
+    "resumo": "\"Compra no boato, vende no fato\": o mercado acionário brasileiro vinha desde a quarta-feira reagindo positivamente a especulações envolvendo a indicação de Trabuco para a pasta",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T21:36:39.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "570a4a17122f3516",
+    "manchete": "Ibovespa fecha em queda após euforia com Trabuco na Fazenda, mas acumula ganhos de mais de 6% na semana",
+    "url": "https://www.moneytimes.com.br/ibovespa-fecha-em-queda-apos-euforia-com-trabuco-na-fazenda-mas-acumula-ganhos-de-mais-de-6-na-semana-davs/",
+    "resumo": "A bolsa brasileira começou o pregão desta sexta-feira (27) em clima de festa e, nos primeiros minutos do pregão, o Ibovespa disparou 3,86% aos 183.623,17 pontos. A euforia dos investidores foi impulsionada pelo anúncio de que Luiz Carlos Trabuco ocuparia o cargo de ministro da Fazenda a partir de 2027. Porém, a festa…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T21:31:21.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "5a584cc17d740e20",
+    "manchete": "Padilha será mantido à frente da Saúde no quarto mandato de Lula",
+    "url": "https://www.infomoney.com.br/politica/padilha-sera-mantido-a-frente-da-saude-no-quarto-mandato-de-lula/",
+    "resumo": "Ministro ocupa o cargo desde a saída de Nisia Trindade",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T21:31:00.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "ff7d75e993b42717",
+    "manchete": "Petróleo registra primeiro ganho semanal em novembro por temores sobre oferta",
+    "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-27112026/",
+    "resumo": "O Brent registrou alta de cerca de 3% na semana, enquanto o WTI registrou queda de 0,9%",
+    "fonte": "InfoMoney",
+    "data": "2026-11-27T21:30:49.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "3cdb20ad7231d2c3",
+    "manchete": "Dino suspende emendas parlamentares de Flávio Bolsonaro",
+    "url": "https://www.moneytimes.com.br/dino-suspende-emendas-parlamentares-de-flavio-bolsonaro/",
+    "resumo": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino suspendeu a execução de emendas parlamentares apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Projeto de Lei Orçamentária Anual (Ploa) de 2027. São 14 emendas, totalizando R$ 79,3 milhões. “A fim de resguardar a higidez do devido processo orçamentário e…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T20:57:54.000Z",
+    "tags_tema": [
+      "RJ/EJ"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "6f5eae959a39c248",
+    "manchete": "Taxas dos DIs fecham com fortes baixas após governo Lula confirmar Trabuco na Fazenda",
+    "url": "https://www.moneytimes.com.br/taxas-dos-dis-fecham-com-fortes-baixas-apos-governo-lula-confirmar-trabuco-na-fazenda/",
+    "resumo": "As taxas dos DIs desabaram mais de 70 pontos-base em vários vencimentos nesta sexta-feira, após o governo Lula confirmar que o presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco, será o novo ministro da Fazenda. No fim da tarde a taxa do DI (Depósito Interfinanceiro) para janeiro de 2028 estava…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T20:17:51.000Z",
+    "tags_tema": [
+      "Curva de Juros"
+    ],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "4c21d7e7046a2207",
+    "manchete": "Dólar recua para os R$ 5,5156 com efeito Trabuco e acumula queda de 7% na semana",
+    "url": "https://www.moneytimes.com.br/dolar-recua-para-os-r-55156-com-efeito-trabuco-e-acumula-queda-de-7-na-semana-davs/",
+    "resumo": "O dólar puxou o freio nesta semana e acumulou queda de 7,07% ao registrar cinco pregões consecutivos de perdas. Nesta sexta-feira (27), a moeda recuou 3,97% frente ao real, encerrando a sessão a R$ R$ 5,5156. A queda da divisa foi na contramão do desempenho do dólar global. Por volta das 17h10, o índice DXY, [&#8230;]",
+    "fonte": "Money Times",
+    "data": "2026-11-27T20:12:14.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
+    "id": "c3428de621090010",
+    "manchete": "Gritos de guerra, meias coloridas e recorde de vendas: por dentro da Black Friday do Mercado Livre (MELI34)",
+    "url": "https://www.moneytimes.com.br/gritos-de-guerra-meias-coloridas-e-recorde-de-vendas-por-dentro-da-black-friday-do-mercado-livre-meli34-bdap/",
+    "resumo": "Na Black Friday, uma das datas mais importantes do ano para o Mercado Livre (MELI34), quem anda pelos corredores do imenso Centro de Distribuição (CD) da empresa, em Cajamar (SP), vê cenas inesperadas: funcionários com os rostos pintados em estilo de guerrilha, a dupla sertaneja Felipe e Rodrigo e outros cantores…",
+    "fonte": "Money Times",
+    "data": "2026-11-27T20:11:31.000Z",
+    "tags_tema": [],
+    "tags_empresa": [],
+    "relevante": true,
+    "importancia": 3
+  },
+  {
     "id": "4ae79130d9c67f43",
     "manchete": "PIC prevê lançamento global do primeiro suíno comercial editado por CRISPR até 2028",
     "url": "https://agfeed.com.br/negocios/pic-preve-lancamento-global-do-primeiro-suino-comercial-editado-por-crispr-ate-2028",
@@ -6582,80 +6907,6 @@
     "importancia": 3
   },
   {
-    "id": "f08fbc9d4fed4b27",
-    "manchete": "Sebo bovino aproxima frigoríficos do mercado de biodiesel no Brasil Entrada da JBS na APROBIO reforça integração entre proteína animal e biocombustíveis, com oportunidades de aproveitamento de matérias-primas e redução de custos operacionais",
-    "url": "https://www.cnnbrasil.com.br/agro/sebo-bovino-aproxima-frigorificos-do-mercado-de-biodiesel-no-brasil/",
-    "resumo": "Entrada da JBS na APROBIO reforça integração entre proteína animal e biocombustíveis, com oportunidades de aproveitamento de matérias-primas e redução de custos operacionais",
-    "fonte": "AgFeed",
-    "data": "2026-11-19T19:00:15.307Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "17c33dc2d3f03874",
-    "manchete": "Alfama investe 13,5 milhões de euros em fábrica de Portugal e mira expansão Com incentivo de € 6 milhões da União Europeia, companhia prevê iniciar vendas em 2028 e aposta em produção local e distribuição especializada para avançar no continente; operação poderá representar 30% da receita total no futuro",
-    "url": "https://www.cnnbrasil.com.br/agro/alfama-investe-135-milhoes-de-euros-em-fabrica-em-portugal-e-mira-expansao/",
-    "resumo": "Com incentivo de € 6 milhões da União Europeia, companhia prevê iniciar vendas em 2028 e aposta em produção local e distribuição especializada para avançar no continente; operação poderá representar 30% da receita total no futuro",
-    "fonte": "AgFeed",
-    "data": "2026-11-19T19:00:15.307Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c5bfebc821b6cfa4",
-    "manchete": "Com “inauguração secreta”, Cutrale inicia operação em fazenda-escudo de meio bilhão Com “inauguração secreta”, Cutrale inicia operação em fazenda-escudo de meio bilhão",
-    "url": "https://agfeed.com.br/negocios/com-inauguracao-secreta-cutrale-inicia-operacao-em-fazenda-escudo-de-meio-bilhao",
-    "resumo": "Cutrale inaugura fazenda de R$ 500 milhões em MS e acelera migração da citricultura paulista para novas áreas livres de greening",
-    "fonte": "AgFeed",
-    "data": "2026-11-19T19:00:15.304Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8795bb0fcd46433e",
-    "manchete": "UPL pede na Justiça afastamento dos gestores da Lavoro por operações suspeitas pré-RJ UPL pede na Justiça afastamento dos gestores da Lavoro por operações suspeitas pré-RJ",
-    "url": "https://agfeed.com.br/negocios/upl-pede-na-justica-afastamento-dos-gestores-da-lavoro-por-operacoes-suspeitas-pre-rj",
-    "resumo": "UPL pede à Justiça o afastamento dos gestores da Lavoro após apontar suspeitas em operações de R$ 222 milhões antes da recuperação judicial",
-    "fonte": "AgFeed",
-    "data": "2026-11-19T19:00:15.304Z",
-    "tags_tema": [
-      "RJ/EJ"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "70e1f915af9e8774",
-    "manchete": "Nem cana, nem beterraba: resultados fracos no Brasil e na Europa fazem Tereos cortar guidance para safra",
-    "url": "https://agfeed.com.br/negocios/nem-cana-nem-beterraba-resultados-fracos-no-brasil-e-na-europa-fazem-tereos-cortar-guidance-para-safra",
-    "resumo": "Tereos corta em até 27% a previsão de resultados para 2026/2027 após prejuízo semestral e queda nos preços de açúcar",
-    "fonte": "AgFeed",
-    "data": "2026-11-19T19:00:15.303Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "fe1a33f6b1a59f26",
-    "manchete": "Queda nas vendas de fertilizantes fosfatados ultrapassa 22% e tem sinais de alerta para 2027 Queda nas vendas de fertilizantes fosfatados ultrapassa 22% e tem sinais de alerta para 2027",
-    "url": "https://agfeed.com.br/economia/queda-nas-vendas-de-fertilizantes-fosfatados-ultrapassa-22-e-tem-sinais-de-alerta-para-2027",
-    "resumo": "Entregas de adubos podem recuar até 15% no ano, segundo a indústria, com impacto sobre a produtividade das lavouras",
-    "fonte": "AgFeed",
-    "data": "2026-11-19T19:00:15.303Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
     "id": "475f6dc2c0f42acd",
     "manchete": "Bancos faturam US$ 550 milhões com o IPO da Anthropic e superam estreia da SpaceX",
     "url": "https://neofeed.com.br/negocios/bancos-faturam-us-550-milhoes-com-o-ipo-da-anthropic-e-superam-estreia-da-spacex/",
@@ -9868,256 +10119,6 @@
     "resumo": "Após perder a maioria no Congresso nas eleições de meio de mandato, o presidente americano passa pelas Filipinas e vai à cúpula da Apec, onde verá Xi e Putin",
     "fonte": "InfoMoney",
     "data": "2026-11-15T16:31:33.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8985612c969c13a7",
-    "manchete": "Otan não fará cúpula de líderes em 2027; entenda por que a aliança reduziu encontros",
-    "url": "https://www.infomoney.com.br/mundo/otan-nao-fara-cupula-de-lideres-em-2027-entenda-por-que-a-alianca-reduziu-encontros/",
-    "resumo": "Em meio a tensões sobre gastos militares, Irã e guerra na Ucrânia, a aliança também cortou encontros de ministros; Mark Rutte diz que cúpulas ocorrem “quando houver necessidade”",
-    "fonte": "InfoMoney",
-    "data": "2026-11-15T16:28:45.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9d026e264a70fde7",
-    "manchete": "Após Asean e COP 31, Lula embarca para Madri para encontro com Pedro Sánchez",
-    "url": "https://www.infomoney.com.br/politica/apos-asean-e-cop-31-lula-embarca-para-madri-para-encontro-com-pedro-sanchez/",
-    "resumo": "O presidente participou da cúpula da Asean, em Manila, e da COP 31, na Turquia, e chega a Madri na noite deste domingo",
-    "fonte": "InfoMoney",
-    "data": "2026-11-15T16:26:36.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "2534dc39bfa725da",
-    "manchete": "Dia de Sorte acumula e prêmio principal do próximo sorteio vai a R$ 900 mil",
-    "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-acumula-e-premio-principal-do-proximo-sorteio-vai-a-r-900-mil/",
-    "resumo": "O próximo sorteio acontece na segunda-feira, 16 de novembro",
-    "fonte": "InfoMoney",
-    "data": "2026-11-15T15:55:41.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "5ce6fae983ce96f3",
-    "manchete": "EUA: Trump cobra Congresso por aprovação de verbas para modernizar sistema de tráfego aéreo",
-    "url": "https://www.moneytimes.com.br/eua-trump-cobra-congresso-por-aprovacao-de-verbas-para-modernizar-sistema-de-trafego-aereo-lmrs/",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, cobrou do Congresso norte-americano a aprovação de verbas para modernizar o sistema de aviação do país. Em postagem feita há pouco na rede social Truth Social, ele afirmou: \"Temos o conhecimento e o plano para o Sistema de Controle de Voo, precisamos que o Congresso…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T15:10:24.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "c875b276f5c06fc8",
-    "manchete": "Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk",
-    "url": "https://www.moneytimes.com.br/peticao-para-retorno-de-jensen-huang-a-nvidia-supera-100-mil-assinaturas-e-ganha-apoio-de-elon-musk-lmrs/",
-    "resumo": "Uma petição em favor de Jensen Huang já ultrapassou 100 mil assinaturas e reuniu alguns dos principais nomes da indústria de tecnologia. Criada por acionistas e funcionários atuais e antigos da Nvidia, a petição questiona a saída do executivo e pede que ele possa retornar ao comando da companhia enquanto uma…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T15:01:22.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "19616eedb8764049",
-    "manchete": "Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores",
-    "url": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/",
-    "resumo": "A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setembro, divulgado na…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T14:50:00.000Z",
-    "tags_tema": [
-      "Economia Real",
-      "Regulação"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "d3bf2b19443feda1",
-    "manchete": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
-    "url": "https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/",
-    "resumo": "A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalmente em caixa. O…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T13:31:08.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "b299871212adb33c",
-    "manchete": "Bitcoin recua neste domingo (15) e acumula perdas na semana; veja os preços das criptomoedas",
-    "url": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/",
-    "resumo": "As maiores criptomoedas do mundo operam majoritariamente no negativo neste domingo (15), com desempenho também negativo ao longo da semana. Por volta das 9h30 (horário de Brasília), o bitcoin (BTC) apresentava queda de 2,52% nas últimas 24 horas, a US$ 65,416.76. Na semana, a cripto registrava recuo de 13,78%. Já o…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T13:24:56.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "3924e9d261d5cba4",
-    "manchete": "Trump: investidores de todo o mundo odiaram ver o que aconteceu no dia da eleição",
-    "url": "https://www.moneytimes.com.br/trump-investidores-de-todo-o-mundo-odiaram-ver-o-que-aconteceu-no-dia-da-eleicao-lmrs/",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que investidores não gostaram do resultado das eleições de meio de mandato no país e que o mercado de ações perdeu U$ 3 trilhões. A votação terminou com uma mudança histórica no Congresso norte-americano: a vitória dos democratas impôs uma derrota ao presidente…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T13:09:46.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "020fc79489fb10ea",
-    "manchete": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
-    "url": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
-    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15), em declaração à imprensa, em Manila, nas Filipinas, a necessidade de o Brasil deixar de ser uma nação \"eternamente em desenvolvimento\" e passe a figurar entre os países desenvolvidos. Para isso, o petista destacou a importância de investimentos…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T12:51:47.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "8c8a213214940985",
-    "manchete": "ABC Brasil (ABCB3) fecha compra da Angá Asset; transação pode alcançar R$ 690 milhões",
-    "url": "https://www.moneytimes.com.br/abc-brasil-abcb3-fecha-compra-da-anga-asset-transacao-pode-alcancar-r-690-milhoes-lmrs/",
-    "resumo": "O Banco ABC Brasil (ABCB3) assinou contrato de compra e venda de quotas para a aquisição de participação na Angá Controle Holding, que consolida os investimentos da Angá Asset Management, gestora independente com aproximadamente R$ 24 bilhões sob gestão, mostra fato relevante divulgado na noite de sábado (14). De…",
-    "fonte": "Money Times",
-    "data": "2026-11-15T12:03:14.000Z",
-    "tags_tema": [
-      "M&A",
-      "Private Equity"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "270a5a43ad26c7c7",
-    "manchete": "OPINIÃO. Ao vencedor, as alíquotas. Ao contribuinte, a inflação",
-    "url": "https://braziljournal.com/opiniao-ao-vencedor-as-aliquotas-ao-contribuinte-a-inflacao",
-    "resumo": "“Ao vencedor, as batatas”, ensinava Quincas Borba. Passado o furor da virada eleitoral, é chegado aquele momento inconveniente em que o novo governo terá de lidar com uma herança que dificilmente vai designar como maldita, mas já reconhece como complicada. Boa parte do estoque de batatas que precisarão ser descascadas…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-15T03:10:00.000Z",
-    "tags_tema": [
-      "Economia Real"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "06f78bbda1e9b738",
-    "manchete": "Mais gente neste País deveria estar no xadrez",
-    "url": "https://braziljournal.com/mais-gente-neste-pais-deveria-estar-no-xadrez",
-    "resumo": "Mais atual do que nunca, o xadrez vai ganhar uma celebração anual em São Paulo, começando no próximo sábado. Idealizado pelo Instituto Giovanni Vescovi – a organização filantrópica que leva o nome de um dos grandes enxadristas brasileiros e é liderada pelo próprio – o primeiro Festival IGV ocorre no Museu do…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-15T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f472d7cfbe23d1e8",
-    "manchete": "OPINIÃO. Um Governo negacionista exige um Senado independente",
-    "url": "https://braziljournal.com/opiniao-um-governo-negacionista-exige-um-senado-independente",
-    "resumo": "Dilma está de volta. As péssimas ideias econômicas da Presidente destituída – que levaram o País à maior crise desde a década de 1930 – estão voltando agora com o Governo Lula.",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-15T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "6e69f54d51cfded6",
-    "manchete": "Thiago Chagas, o comediante salvo por Fernanda Montenegro",
-    "url": "https://braziljournal.com/thiago-chagas-o-comediante-salvo-por-fernanda-montenegro",
-    "resumo": "Raras são as imitações feitas por humoristas que escapam da crítica excessiva ou de um deboche duvidoso. A personagem Dona Fernandona, criada pelo ator carioca Thiago Chagas em homenagem à atriz Fernanda Montenegro, é uma exceção.",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-15T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "0684fb7cf3c2879a",
-    "manchete": "Londres-Paris? O Eurostar vai ganhar concorrência",
-    "url": "https://braziljournal.com/londres-paris-o-eurostar-vai-ganhar-concorrencia",
-    "resumo": "O Eurostar – o único serviço ferroviário que opera trens de passageiros entre Londres e a Europa continental desde a inauguração do Eurotúnel, em 1994 – está prestes a perder seu monopólio. A britânica Virgin e a italiana FS Group se preparam para começar a colocar seus próprios trens no túnel até o fim da década, num…",
-    "fonte": "Brazil Journal",
-    "data": "2026-11-15T03:10:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "00e3ba82da2ff13a",
-    "manchete": "Cézanne, o incompreendido que mudou a pintura, ainda inspira gerações",
-    "url": "https://neofeed.com.br/finde/cezanne-o-incompreendido-que-mudou-a-pintura-ainda-inspira-geracoes/",
-    "resumo": "Com 69 trabalhos do francês e 105 de outros artistas, exposição no Grand Palais traça diálogos entre o pintor e nomes como Picasso e Matisse",
-    "fonte": "NeoFeed",
-    "data": "2026-11-15T00:59:36.565Z",
-    "tags_tema": [
-      "Curva de Juros"
-    ],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "61a14cda88925c1f",
-    "manchete": "Da máquina de costura à IA, as invenções de Renzo Rosso, o “senhor do luxo alternativo”",
-    "url": "https://neofeed.com.br/finde/da-maquina-de-costura-a-ia-as-invencoes-de-renzo-rosso-o-senhor-do-luxo-alternativo/",
-    "resumo": "Autobiografia e documentário 100% realizado com inteligência artificial revisitam a história de Renzo Rosso, cofundador da Diesel",
-    "fonte": "NeoFeed",
-    "data": "2026-11-15T00:59:36.564Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "f34f9868968788ef",
-    "manchete": "Goldie: copo raro da Starbucks vira destaque de nova coleção de Natal; entenda",
-    "url": "https://www.infomoney.com.br/consumo/goldie-copo-raro-da-starbucks-vira-destaque-de-nova-colecao-de-natal-entenda/",
-    "resumo": "Batizada de Bearista Glass Cold Cup – Surprise Box Edition, a coleção conta com cinco personagens diferentes",
-    "fonte": "InfoMoney",
-    "data": "2026-11-14T23:00:00.000Z",
-    "tags_tema": [],
-    "tags_empresa": [],
-    "relevante": true,
-    "importancia": 3
-  },
-  {
-    "id": "9602a02c9ce18c5e",
-    "manchete": "SpaceX avança em \"foguete reutilizável\" com primeira captura da Starship; entenda",
-    "url": "https://www.infomoney.com.br/mundo/spacex-avanca-em-foguete-reutilizavel-com-primeira-captura-da-starship-entenda/",
-    "resumo": "Nave retornou à base no Texas após 22 horas no espaço e foi presa pelos braços mecânicos da torre; tentativa de recuperar também o propulsor Super Heavy fracassou",
-    "fonte": "InfoMoney",
-    "data": "2026-11-14T22:25:00.000Z",
     "tags_tema": [],
     "tags_empresa": [],
     "relevante": true,
